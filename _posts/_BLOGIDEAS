@@ -13,3 +13,4 @@ Update site layout
 	Remove underline/hover from footer images
 	Add post date to index page/top of post
 	Try to make footnotes work more like Marco's
+	Nav and header link color - make sure they're staying dark and not being styled by a:visited
