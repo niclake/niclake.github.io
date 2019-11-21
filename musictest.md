@@ -29,7 +29,7 @@ PARAGRAPH_GOES_HERE
 **Links:** [Spotify][a10Spotify] // [YouTube][a10YT] // [Bandcamp][a10Bandcamp] // [Apple Music][a10Apple]
 
 
-[aart]: https://f4.bcbits.com/img/a3558358609_10.jpg
+[a10art]: https://f4.bcbits.com/img/a3558358609_10.jpg
 [a10Spotify]: http://google.com
 [a10YT]: http://google.com
 [a10Bandcamp]: http://google.com
