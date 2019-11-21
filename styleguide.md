@@ -6,7 +6,18 @@ permalink: /styleguide/
 
 This is a style guide for NicLake.me.
 
-Here is some standard text. *This is some emphasized text.* **Here is some bold text.** ***Here is some bolded & emphasized text.***
+<!-- Here is the block for creating a fold for blog posts -->
+<!-- more -->
+
+## Basic Text Things
+
+Here is some standard text.
+*This is some emphasized text.*
+**Here is some bold text.**
+***Here is some bolded & emphasized text.***
+Here is some text with a footnote[^1].
+
+[^1]: Here is the content of the footnote.
 
 # This is an example of a H1 header.
 

@@ -19,11 +19,12 @@ This is a test for setting up the template for all of my Album of the Year conte
 
 PARAGRAPH_GOES_HERE
 
-<div align="center">
+<!-- Use this block for embedding a link to YT/Spotify/whatever -->
+<!-- <div align="center">
 	<div style="width:600px">
 		<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 	</div>
-</div>
+</div> -->
 
 **Notable tracks:** TRACK_1, TRACK_2
 
@@ -34,5 +35,7 @@ PARAGRAPH_GOES_HERE
 [a10YT]: http://google.com
 [a10Bandcamp]: http://google.com
 [a10Apple]: http://google.com
+
+---
 
 Can I do more beyond this too?
