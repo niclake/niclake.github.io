@@ -12,12 +12,14 @@ This is a test for setting up the template for all of my Album of the Year conte
 	<h2 style="font-size: 1.5em">
 		<strong>Artist - <em>Album</em></strong>
 	</h2>
-	<img src="https://f4.bcbits.com/img/a3558358609_10.jpg" style="width:200px" />
+	<img src="https://f4.bcbits.com/img/a3558358609_10.jpg" style="width:300px" />
 </div>
 
 **Genre** - ListOfGenres
 
 PARAGRAPH_GOES_HERE
+
+<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 **Notable tracks:** TRACK_1, TRACK_2
 
