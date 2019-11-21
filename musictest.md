@@ -13,11 +13,8 @@ This is a test for setting up the template for all of my Album of the Year conte
 ![altText][a10Art]
 
 <div align="center">
-
-## #10: Artist - *Album*
-
-![altText][a10Art]
-
+	<span style="font-size: 36px"><strong>Artist - <em>Album</em></strong></span>
+	<img src="https://f4.cbcits.com/img/a3558358609_10.jpg" style="width:200px" />
 </div>
 
 **Genre** - ListOfGenres
