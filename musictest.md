@@ -8,10 +8,12 @@ This is a test for setting up the template for all of my Album of the Year conte
 
 <!-- more -->
 
+<p align="center">
 ## #10
 ## **Artist** - *Album*
 
 ![altText][a10Art]
+</p>
 
 **Genre** - ListOfGenres
 
