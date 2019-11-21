@@ -8,13 +8,11 @@ This is a test for setting up the template for all of my Album of the Year conte
 
 <!-- more -->
 
-## #10: Artist - *Album*
-
-![altText][a10Art]
-
 <div align="center">
-	<span style="font-size: 36px"><strong>Artist - <em>Album</em></strong></span>
-	<img src="https://f4.cbcits.com/img/a3558358609_10.jpg" style="width:200px" />
+	<h2 style="font-size: 1.5em">
+		<strong>Artist - <em>Album</em></strong>
+	</h2>
+	<img src="https://f4.bcbits.com/img/a3558358609_10.jpg" style="width:200px" />
 </div>
 
 **Genre** - ListOfGenres
@@ -26,7 +24,6 @@ PARAGRAPH_GOES_HERE
 **Links:** [Spotify][a10Spotify] // [YouTube][a10YT] // [Bandcamp][a10Bandcamp] // [Apple Music][a10Apple]
 
 
-[a10art]: https://f4.bcbits.com/img/a3558358609_10.jpg
 [a10Spotify]: http://google.com
 [a10YT]: http://google.com
 [a10Bandcamp]: http://google.com
