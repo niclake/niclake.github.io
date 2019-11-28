@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="https://imgur.com/5HzYjig.jpg" style="float: left; width: 300px;" />
+<img src="https://imgur.com/5HzYjig.jpg" style="float: left; width: 250px; margin: 10px;" />
 
 This is the website & blog of Nic Lake, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, home brewer & craft beer snob, husband, and cat dad living in Des Moines, IA.
 
