@@ -23,11 +23,6 @@ body {
   color: $p7;
 }
 
-.spaceWrap {
-  min-height: 100%;
-  margin-bottom: 84px;
-}
-
 .container {
   margin: 0 auto;
   max-width: 1200px;
@@ -361,11 +356,6 @@ footer {
       background-color: inherit;
     }
   }
-}
-
-.footer,
-.push {
-  height: 84px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
