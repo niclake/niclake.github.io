@@ -21,16 +21,11 @@ body {
 	background: url(http://niclake.me/images/bg.png) repeat;
   font-family: $openSans;
   color: $p7;
-  display: flex;
-  flex-direction: column;
 }
 
-html, body {
-  height: 100%;
-}
-
-article {
-  flex: 1 0 auto;
+.spaceWrap {
+  min-height: 100%;
+  margin-bottom: 84px;
 }
 
 .container {
@@ -339,7 +334,6 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   background-color: $p5;
-  flex-shrink: 0;
 }
 
 table, th, td {
@@ -367,6 +361,11 @@ footer {
       background-color: inherit;
     }
   }
+}
+
+.footer,
+.push {
+  height: 84px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
