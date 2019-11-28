@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 0 0 15px;
   padding: 0;
 
   @include mobile {
@@ -211,7 +211,7 @@ img + em {
 }
 
 .wrapper-masthead {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .masthead {
