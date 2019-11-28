@@ -5,7 +5,6 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="date">
@@ -19,23 +18,21 @@ layout: default
             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>|
           {%- endfor -%}
         {%- endcapture -%}
-        Written on {{ post.date | date: "%B %e, %Y" }} | Posted under{{ category_list | split: "|" | join: ", " }}
+        Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
 
       <div class="entry">
         {{ post.excerpt }}
         {% capture content_words %} 
-	      {{ post.content | number_of_words }} 
-	    {% endcapture %} 
-	    {% capture excerpt_words %} 
-	      {{ post.excerpt | number_of_words }} 
-	    {% endcapture %} 
-	    {% if excerpt_words != content_words %}
-	    <a href="{{ site.baseurl }}{{ post.url }}/#read-more" class="read-more">Read More <i class="fa fa-arrow-circle-right"></i></a>
-	    {% endif %}
+  	      {{ post.content | number_of_words }} 
+  	    {% endcapture %} 
+  	    {% capture excerpt_words %} 
+  	      {{ post.excerpt | number_of_words }} 
+  	    {% endcapture %} 
+  	    {% if excerpt_words != content_words %}
+    	    <a href="{{ site.baseurl }}{{ post.url }}/#read-more" class="read-more">Read More <i class="fa fa-arrow-circle-right"></i></a>
+  	    {% endif %}
       </div>
-
-      
     </article>
   {% endfor %}
   <div class="pagination">
