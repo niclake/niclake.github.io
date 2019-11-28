@@ -7,24 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 1846,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 2621,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -33,42 +15,39 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 74.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"remove",
 				"Package Control: Remove Package"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"markdown",
-				"Set Syntax: MultiMarkdown"
-			],
-			[
-				"mark",
-				"Set Syntax: Markdown (Github) (Naomi)"
-			],
-			[
-				"package",
+				"remo",
 				"Package Control: Remove Package"
 			],
 			[
-				"packageresou",
-				"PackageResourceViewer: Open Resource"
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
 			]
 		],
-		"width": 447.0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 143.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -82,37 +61,51 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/niclake/Documents/GitHub/niclake.github.io",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_includes",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_layouts",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_sass"
+		"/Users/niclake/Documents/GitHub/niclake.github.io"
 	],
 	"file_history":
 	[
+		"/Users/niclake/Documents/GitHub/niclake.github.io/style.scss",
 		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-12-23-2019-goals.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/about.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-8-24-minit.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-8-23-breath-of-the-wild.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-8-18-portal-portal-2.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-11-24-shadow-of-the-colossus.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-11-17-we-bought-a-house.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-8-15-Hello-World.md",
-		"/Users/niclake/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_layouts/default.html",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_config.yml",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_layouts/post.html",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_category/gaming.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_category/random.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-08-16-Test-Post.md",
-		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2018-08-15-Hello-World.md",
-		"/Users/niclake/Desktop/signature.html",
-		"/Users/niclake/Dropbox/ShineChiro/Signature/signature.html",
-		"/Users/niclake/.rvm/gems/ruby-2.4.1/gems/t-3.1.0/lib/t/cli.rb",
-		"/Users/niclake/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/niclake/Downloads/cookie.xml",
-		"/Users/niclake/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/niclake/Desktop/Wedding Music.txt"
+		"/C/Program Files/Rainmeter/Defaults/Skins/illustro/Disk/2 Disks.ini",
+		"/N/Libraries/Downloads/newfonts/css/pokemon.css",
+		"/N/Libraries/Desktop/ryme.json",
+		"/Users/niclake/Documents/GitHub/niclake.github.io/_posts/2019-2-27-apex-legends.md",
+		"/N/Libraries/Downloads/BigBagKbdTrixPKL-master/EPKL_Settings.ini",
+		"/N/Libraries/Downloads/gmk-ryme-v0-1 (2).json",
+		"/N/Libraries/Downloads/gmk-ryme-v0-1.json",
+		"/N/Libraries/Downloads/poke/css/pokemon.css",
+		"/N/Libraries/Desktop/phptest.html",
+		"/N/Libraries/Documents/Rainmeter/Skins/illustro/Disk/4 Disks.ini",
+		"/C/Users/nicla/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/I/Games/Steam/steamapps/common/Dark Souls Prepare to Die Edition/DATA/DSfix.ini",
+		"/C/Users/nicla/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/N/Libraries/Dropbox/front-end-exercise-master/package.json",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_config.yml",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_sass/_highlights.scss",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_sass/_variables.scss",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/about.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-23-breath-of-the-wild.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-18-portal-portal-2.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-11-24-shadow-of-the-colossus.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-24-minit.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/style.scss",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_sass/_reset.scss",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_layouts/default.html",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/index.html",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_layouts/post.html",
+		"/N/Libraries/Dropbox/Web Site/blog.niclake.com/wp-content/themes/niclake/style.css",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/categories.html",
+		"/L/VSTs/Dexed/Cartridges/NicPatches.syx",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_includes/meta.html",
+		"/N/Libraries/Dropbox/Web Site/blog.niclake.com/wp-content/themes/niclake/header.php",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/GAMEREVIEWTEMPLATE.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-15-Hello-World.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_includes/svg-icons.html",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/token.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-18-Portal-and-Portal-2.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/_posts/2018-8-16-Test-Post-Please-Ignore.md",
+		"/N/Libraries/Documents/GitHub/niclake.github.io/.gitignore"
 	],
 	"find":
 	{
@@ -120,12 +113,13 @@
 	},
 	"find_in_files":
 	{
-		"height": 91.0,
+		"height": 94.0,
 		"where_history":
 		[
-			"/Users/niclake/Documents/GitHub/niclake.github.io",
-			"/Users/niclake/Documents/GitHub",
-			"<open folders>"
+			"<current file>",
+			"N:\\Libraries\\Documents\\GitHub\\niclake.github.io",
+			"<current file>",
+			"N:\\Libraries\\Documents\\GitHub\\niclake.github.io"
 		]
 	},
 	"find_state":
@@ -133,12 +127,32 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"style.",
-			"style.scss",
+			"\"Shift\"",
+			"SA",
+			"393b3b",
+			"\"bc251e",
+			"d9dae0",
+			"b81b24",
+			"171718",
+			"SA ",
+			"B81B24",
+			"d31929",
+			"2d3238",
+			"212224",
+			"e5e4df",
+			"ba1312",
+			"start",
+			"table",
 			"avatar",
-			"default",
-			"page",
-			"page.html"
+			"W-L",
+			">\n",
+			"for post in paginator.posts",
+			"excerpt",
+			"READ MORE",
+			"footer",
+			"$hel",
+			"li ",
+			"footnote"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -146,6 +160,19 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"⇧\"",
+			"171718",
+			"\"",
+			"c5c7ca",
+			"bc251e",
+			"393b3b",
+			"b81b24",
+			"B81B24",
+			"2b2c2e",
+			"2d3238",
+			"d9dae0",
+			"d31929",
+			"0-0"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -156,70 +183,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								292,
-								292
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2621,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								313,
-								313
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -229,7 +194,7 @@
 	},
 	"input":
 	{
-		"height": 33.0
+		"height": 37.0
 	},
 	"layout":
 	{
@@ -254,6 +219,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -285,12 +254,12 @@
 	},
 	"select_symbol":
 	{
-		"height": 53.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 560.0
+		"width": 0.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -300,7 +269,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 213.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
