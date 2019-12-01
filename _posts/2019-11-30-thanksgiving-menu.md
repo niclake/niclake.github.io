@@ -14,7 +14,7 @@ Every year around mid-November, I find myself pouring over blogs, articles, and 
 
 I've been making Thanksgiving dinner for my family for about 4 or 5 years now, back when my wife and I were dating/engaged. It's routinely us, her parents, and my dad at the dinner table, though one year it also included my wife's sister, her husband, and their three children. Some of us are somewhat adventurous eaters, but I distinctly remember my mother-in-law telling me one year "I just want a plain turkey with salt and pepper. Don't do anything fancy." So I've known that whatever I make not only has to be great, but it has to appeal to the masses.
 
-(One quick tip before we begin: are you someone that panics and wonders "oh no, when is <thing> supposed to go into the oven?" [Use a spreadsheet and plan it all out like I did](https://docs.google.com/spreadsheets/d/1tOnjFqRslKc0zlwz6tiAm7sNs9W1X1px-kT4Gqrs5b8/edit?usp=sharing).)
+(One quick tip before we begin: are you someone that panics and wonders "oh no, when is {thing} supposed to go into the oven?" [Use a spreadsheet and plan it all out like I did](https://docs.google.com/spreadsheets/d/1tOnjFqRslKc0zlwz6tiAm7sNs9W1X1px-kT4Gqrs5b8/edit?usp=sharing).)
 
 So, without further ado, here are the recipes that I made this year (plus some commentary, because what's a blog without commentary):
 
