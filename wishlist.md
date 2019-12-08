@@ -11,8 +11,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ### Family List
 
 - [Arapahoe Euro Top Mattress (Queen, mattress set)](https://denvermattress.furniturerow.com/pd/Denver-Mattress/Arapahoe-reg-Euro-Top-Mattress/prod1040077?_requestid=659536)
-- [KitchenAid Stand Mixer (Empire Red)](https://amzn.to/2KdCqO4)
-- [Instant Pot DUO60](https://amzn.to/36XOhK6)
 
 ### Becca's List
 
@@ -21,10 +19,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Gift certificate or plants from Art Terrarium](https://artterrarium.com/)
 - Coach: [Long Wallet (in green)](https://www.coachoutlet.com/coach-long-wallet/F73156IMVIR.html) or [Penny Crossbody (in red)](https://www.coachoutlet.com/coach-penny-crossbody/F87768.html)
   - Will need to sign up for their member access to see prices
+- Various books on this [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ### Nic's List
 
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (prefer paperback)
 - [Music Band shirt (Heather, medium)](https://www.teepublic.com/t-shirt/910986-music-band-steve-buscemi)
 - Sweatpants, size medium (UNI, Iowa, Red Sox, Celtics, or Patriots)
 - [Goddamned Delight t-shirt](https://www.effinbirds.com/collections/new-mens-shirts-beta/products/i-am-a-goddamned-delight-t-shirt?variant=19528734408760)
