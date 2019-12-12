@@ -125,6 +125,11 @@ em, i {
 }
 
 strong, b {
+  font-weight: bold;
+}
+
+.entry p strong,
+.entry p b {
   font-weight: 800;
 }
 
