@@ -40,4 +40,153 @@ PARAGRAPH_GOES_HERE
 
 ---
 
-Can I do more beyond this too?
+# Singles of 2019
+
+I wanted to start with my favorite EPs and singles of 2019, which are not ranked and just exist as individual bright spots on the year. All of these hit me at a certain point in time that made me go "whoa" for various reasons, and I wanted to share them with you (some with commentary, and some without).
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Killswitch Engage - <em>The Signal Fire</em></strong>
+  </h2>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/Killswitch_Engage_-_Atonement.png" style="width:300px" />
+</div>
+
+**Genre** - Metal, Metalcore
+
+I've been listening to Killswitch Engage since I was in high school, and fell in love with the band when Howard Jones became their singer after Jesse Leach's departure in 2002. Jones himself had to depart from the band in 2012 while dealing with type 2 diabetes, and the band eventually brought Leach back to be their vocalist.
+
+For 7 years, I had been crossing my fingers that the band would bring Howard back to split vocal duties on a tour, or even a show. Instead, I got a song and a music video! The magic moment starts at 0:51 below.
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/2N0ShfOOEq4" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Pomplamoose - <em>Lisztomania (Phoenix cover)</em></strong>
+  </h2>
+  <img src="https://yt3.ggpht.com/a/AGF-l78m1hI-5PuWG35BXbTmOwnkxCx1zPrWxjtuHg=s900-c-k-c0xffffffff-no-rj-mo" style="width:300px" />
+</div>
+
+**Genre** - Indie
+
+Pomplamoose is another band that's been with me for years. I remember listening to their covers of [the Angry Birds theme song](https://www.youtube.com/watch?v=7UCm6uyzNE8) or [Michael Jackson's 'Beat It'](https://www.youtube.com/watch?v=meT2eqgDjiM) in college. Over the past year & change, Nataly and Jack have been recording a ton of unique mashups, covers, and originals with the help of some of their friends, and they have all been killer. I encourage you to check out their full video catalog if you enjoy this video.
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/HqxcJb5ydDw" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Bad Snacks - <em>Oh, Shoot</em></strong>
+  </h2>
+  <img src="https://i1.sndcdn.com/avatars-000494627736-2019ms-t500x500.jpg" style="width:300px" />
+</div>
+
+**Genre** - Hip-hop, DJ
+
+At some point earlier this year, I stumbled across **Andrew Huang's** ["Flip the Sample" challenge](https://www.youtube.com/watch?v=zvKY_DnM1PA), and I was blown away by the creativity of all of the participants and the concept of these videos in general. Watching Snacks transform the simple piano line into a beautiful chill-hop beat was one of my favorite musical discoveries of 2019. (Honorable mention to Virtual Riot's flip in the video.)
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed">
+      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/566680191&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+    </div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Jakub Zytecki - <em>Sunflower</em></strong>
+  </h2>
+  <img src="https://f4.bcbits.com/img/a2786547792_10.jpg" style="width:300px" />
+</div>
+
+**Genre** - Prog rock, Instrumental
+
+Just a gorgeous track from Jakub, making me wish I could write music and guitar lines even 10% as good as he can.
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/5RFipLyZC60" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>The 1975 - <em>People</em></strong>
+  </h2>
+  <img src="https://www.readdork.com/images/article/Artist-Images/1-9/The-1975/7ffe4c81634c472f7f5176a6660dde4b.1000x1000x1.png" style="width:300px" />
+</div>
+
+**Genre** - Indie rock
+
+I'm constantly impressed with The 1975's ability to completely transform their sound from album to album, or even track to track. The punk aesthetic of this song grabbed hold of me the day this track dropped, and actually inspired this entire category to be created.
+
+### Warning: do not watch this video if you suffer from epilepsy
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/EKdPxXWm7Jg" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Voyager - <em>Colours</em></strong>
+  </h2>
+  <img src="https://f4.bcbits.com/img/a3894579404_10.jpg" style="width:300px" />
+</div>
+
+**Genre** - Progressive metal
+
+This song grabbed me with its blend of metal and synthwave, a genre I took a deep dive into earlier this year.
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/reFRCJzHN8I" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="font-size: 1.5em">
+    <strong>Opeth - <em>Lovelorn Crime</em></strong>
+  </h2>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6d/Opeth_-_In_Cauda_Venenum.png" style="width:300px" />
+</div>
+
+**Genre** - Progressive rock
+
+This album will be making its return on my Albums of the Year lists, but I wanted to specifically call it out here as well. The guitar player was talking about this song in an interview, and stated "[Lovelorn Crime] started off in the demo stage of the album, Mikael [vocalist] had this beautiful ballad. He asked me, 'I want you to do a long solo. I want this to be the solo that people will remember you for when you die'. I thought, 'Okay, thank you for the pressure, mate.'" Sit back in your favorite chair and give this track a listen.
+
+<div align="center">
+  <div style="width:600px">
+    <div class="embed"><iframe src="https://www.youtube.com/embed/b1vJTzhxm7g" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </div>
+</div>
+
+---
+
+That's it for the singles. Stay tuned in the coming days for my favorite albums!
+
+*What do you think? Great tracks? Terrible songs? Did you have any particular favorites in 2019? You should [hit me up on Twitter][twitter] and let me know!*
+
+
+[^1]: First just a text list in Notes, then a full Google spreadsheet, and finally a Trello board so I could drag & drop the albums in order.
+[^2]: Music is art, and art is subjective. That's why all of these are going to be labeled as my favorites, and not "best of", because what I enjoy here in December 2019 is drastically different than it was in January 2019, or what I'll enjoy down the road.
