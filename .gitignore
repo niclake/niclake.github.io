@@ -3,6 +3,7 @@ _site
 .jekyll
 .jekyll-metadata
 .bundle
+.idea
 .sass-cache
 .sublime-project
 .sublime-workspace
@@ -11,3 +12,4 @@ Gemfile.lock
 node_modules
 package.json
 token.md
+Blog.sublime-workspace
