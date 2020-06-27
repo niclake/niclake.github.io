@@ -39,6 +39,9 @@ The former, I'm removing so I stop wasting so much time. The latter, so I can ha
 
 I have no idea how it's going to go. This isn't the first time I've done a prune before. But especially with everything going on right now, I think it's vital to have peace of mind wherever we spend time, and this is how I'm going to attempt to give myself some.
 
+*Did this help you? Do you have your own suggestions for how to keep your digital garden pruned? [Hit me up on Twitter][twitter] and let me know!*
+
 [headerImg]: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pruning-garden-1521648761.jpg
 [patrick]: https://twitter.com/patrickrhone/status/1276588576042516481
 [tokimeki]: https://tokimeki-unfollow.glitch.me/
+[twitter]: http://twitter.com/niclake
