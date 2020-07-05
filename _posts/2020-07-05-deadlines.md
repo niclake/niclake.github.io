@@ -34,6 +34,6 @@ The additional benefit? I now have deadlines to hit.
 
 *Do you enjoy writing or playing D&D? Do you have any tips or tricks on how to keep your worlds organized? [Hit me up on Twitter][twitter] and let me know!*
 
-[headerImg]: 
+[headerImg]: https://media.distractify.com/brand-img/2VmOVEEJn/2160x1131/is-will-gay-stranger-things-1562352049791.jpg
 [macgasm]: https://www.macgasm.net/author/niclake/
 [twitter]: http://twitter.com/niclake
