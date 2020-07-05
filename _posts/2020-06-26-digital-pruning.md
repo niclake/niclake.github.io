@@ -26,7 +26,7 @@ As I went along, I made up a few guidelines for myself:
 
 So... following the people that were part of a podcast is more important than following the podcast itself. Similarly, following the people working for a company or publication is more important than following the company itself. In both cases, I can expect that the important content from the parent company will filter through via RTs.
 
-Additionally, I cut out a bunch of people who did nothing but RT without substance. A friend (I believe it was Patrick) imparted some wisdom to me years ago; instead of a blind retweet, they were more interested in actually knowing what the person thought about the content they were sharing (often done via quote tweets). Thoughts over mindlessness. Signal over noise.
+Additionally, I cut out a bunch of people who did nothing but RT without substance. A friend (I believe it was Patrick (EDIT: [I was right](https://patrickrhone.com/2016/06/30/twitter-zen-and-the-art-of-retweet-maintenance/))) imparted some wisdom to me years ago; instead of a blind retweet, they were more interested in actually knowing what the person thought about the content they were sharing (often done via quote tweets). Thoughts over mindlessness. Signal over noise.
 
 I'm not saying I won't add these kinds of accounts back; on the contrary, if I find myself missing the kinds of things that they posted, I'll absolutely follow them again. I'm just trying to do a hard reset for my feed, and for my mental well-being.
 
