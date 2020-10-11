@@ -8,7 +8,7 @@ Hello! If you're reading this, you've apparently tracked down the Lake Family Ho
 
 If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [About page](http://niclake.me/about/).
 
-### Family List
+### Family List/House Upgrades
 
 - Money towards a new deck
 - Money towards new kitchen appliances
