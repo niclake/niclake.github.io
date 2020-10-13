@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $p1;
+	background: $p0;
   font-family: $roboto;
   color: $p7;
 }
@@ -103,7 +103,7 @@ a {
   }
 
   a {
-    background-color: $p2;
+    background-color: $p1;
     
     &:hover {
       background-color: $p6;
