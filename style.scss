@@ -71,7 +71,7 @@ p {
 
 a {
   color: $p5;
-  text-decoration: underline;
+  text-decoration: none;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
   -o-transition: all ease 0.3s;
@@ -87,6 +87,11 @@ a {
 }
 
 .entry {
+  p {
+    strong, b {
+      font-weight: 800;
+    }
+  }
   a {
     background-color: $p1;
     &:hover {
@@ -129,11 +134,6 @@ em, i {
 
 strong, b {
   font-weight: bold;
-}
-
-.entry p strong,
-.entry p b {
-  font-weight: 800;
 }
 
 img {
