@@ -70,15 +70,15 @@ p {
 }
 
 a {
-  color: $p4;
-  text-decoration: none;
+  color: $p5;
+  text-decoration: underline;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
   -o-transition: all ease 0.3s;
   transition: all ease 0.3s;
   cursor: pointer;
   &:visited, &:active {
-    color: $p4;
+    color: $p5;
   }
   &:hover {
     color: $p2;
@@ -86,10 +86,12 @@ a {
   };
 }
 
-.entry p a {
-  background-color: $p1;
-  &:hover {
-    background-color: $p6;
+.entry {
+  a {
+    background-color: $p1;
+    &:hover {
+      background-color: $p6;
+    }
   }
 }
 
