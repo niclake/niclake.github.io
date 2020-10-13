@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="https://imgur.com/5HzYjig.jpg" style="float: left; width: 250px; margin: 0 10px 10px 0;" />
 
-This is the website & blog of **Nic Lake**, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, home brewer & craft beer snob, husband, and cat dad living in Des Moines, IA.
+This is the website & blog of **Nic Lake**, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, craft beer connoisseur, spreadsheet enthusiast, husband, and cat dad living in the Des Moines, IA area.
 
 I spend my days working as a full-stack web developer & project manager for a development shop, working mostly with Ruby on Rails. Previously, I've also worked as business analyst on an AR/VR team for a major manufacturing company, and as a software developer for industry leaders in health care, non-profit fund-raising, insurance, banking, and public transportation.
 

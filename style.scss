@@ -166,6 +166,10 @@ img + em {
 .date {
   font-style: italic;
   color: $gray;
+
+  a {
+    background-color: $p1;
+  }
 }
 
 // Specify the color of the selection
