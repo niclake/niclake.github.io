@@ -70,7 +70,7 @@ p {
 }
 
 a {
-  color: $p5;
+  color: $p4;
   text-decoration: none;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
@@ -78,7 +78,7 @@ a {
   transition: all ease 0.3s;
   cursor: pointer;
   &:visited, &:active {
-    color: $p5;
+    color: $p4;
   }
   &:hover {
     color: $p2;
@@ -92,8 +92,9 @@ a {
       font-weight: 800;
     }
   }
+
   a {
-    background-color: $p1;
+    background-color: $p3;
     &:hover {
       background-color: $p6;
     }
