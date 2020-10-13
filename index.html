@@ -8,6 +8,9 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+        <br />
+        <br />
         {%- capture category_list -%}
           {%- if post -%}
             {%- assign categories = post.categories -%}
@@ -18,7 +21,7 @@ layout: default
             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>|
           {%- endfor -%}
         {%- endcapture -%}
-        Written on {{ post.date | date: "%B %e, %Y" }}
+        Posted under {{ category_list | split: "|" | join: ", " }}
       </div>
 
       <div class="entry">
