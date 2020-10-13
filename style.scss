@@ -311,6 +311,7 @@ nav {
 .posts {
   .post {
     padding-bottom: 3em;
+    margin-bottom: 1em;
     border-bottom: 1px solid $p2;
 
     blockquote {
@@ -334,7 +335,8 @@ nav {
 
     &:last-child {
       padding-bottom: 1em;
-      border-bottom: none;
+      margin-bottom: none;
+      border-bottom: 0px solid $p2;
     }
   }
 }
