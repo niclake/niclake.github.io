@@ -10,7 +10,6 @@ layout: default
       <div class="date">
         Written on {{ post.date | date: "%B %e, %Y" }}
         <br />
-        <br />
         {%- capture category_list -%}
           {%- if post -%}
             {%- assign categories = post.categories -%}
