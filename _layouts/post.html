@@ -6,14 +6,7 @@ layout: default
   <h1 class="postTitle">{{ page.title }}</h1>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  <div class="entry">
-    {{ content | replace: '<!-- more -->', '<a class="anchor" id="read-more"></a>' }}
-  </div>
-
-  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}<br />
     {%- capture category_list -%}
       {%- if post -%}
         {%- assign categories = post.categories -%}
@@ -25,6 +18,10 @@ layout: default
       {%- endfor -%}
     {%- endcapture -%}
     Posted under {{ category_list | split: "|" | join: ", " }}
+  </div>
+
+  <div class="entry">
+    {{ content | replace: '<!-- more -->', '<a class="anchor" id="read-more"></a>' }}
   </div>
 
   {% include disqus.html %}
