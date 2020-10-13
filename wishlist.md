@@ -20,7 +20,8 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
 - [Gift certificate or plants from Art Terrarium](https://artterrarium.com/)
-- Various books on this [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
+- [Bonavita Connoisseur 8-Cup Coffee Maker](https://amzn.to/311HfTg)
+- Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ### Nic's List
 
@@ -57,8 +58,10 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 #### Other Things
 
+- [Drop + OLKB Preonic Keyboard](https://drop.com/buy/preonic-mechanical-keyboard) (purple or orange case + Acute Keycap Set) (account + login required)
+- [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
 - [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
-- [Panasonic Rechargable Batery Pack](https://amzn.to/30QYuGI)
+- [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
 - [Output Platform desk (or $$ towards)](https://output.com/products/platform)
 - Gift certificates to:
 	- [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
