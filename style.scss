@@ -70,7 +70,7 @@ p {
 }
 
 a {
-  color: $p4;
+  color: $p5;
   text-decoration: none;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
@@ -86,7 +86,7 @@ a {
   }
 
   &:visited, &:active {
-    color: $p4;
+    color: $p5;
   }
 
   &:hover {
@@ -103,7 +103,7 @@ a {
   }
 
   a {
-    background-color: $p3;
+    background-color: $p2;
     
     &:hover {
       background-color: $p6;
