@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url(http://niclake.me/images/bg.png) repeat;
+	background: $p1;
   font-family: $roboto;
   color: $p7;
 }
@@ -212,7 +212,7 @@ img + em {
 
 .masthead {
   padding: 30px 0 10px;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $p5;
 
   @include mobile {
     text-align: center;
