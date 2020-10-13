@@ -6,7 +6,9 @@ layout: default
   <h1 class="postTitle">{{ page.title }}</h1>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}<br />
+    Written on {{ page.date | date: "%B %e, %Y" }}
+    <br />
+    <br />
     {%- capture category_list -%}
       {%- if post -%}
         {%- assign categories = post.categories -%}
