@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="https://i.imgur.com/cpCOxpe.jpg" style="float: left; width: 250px; margin: 0 10px 10px 0;" />
+<img class="about-me-photo" src="https://i.imgur.com/cpCOxpe.jpg" style="float: left; width: 250px; margin: 0 10px 10px 0;" />
 
 This is the website & blog of **Nic Lake**, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, craft beer connoisseur, spreadsheet enthusiast, husband, and cat dad living in the Des Moines, IA area.
 
@@ -14,8 +14,12 @@ I spend my nights and weekends partaking in a variety of hobbies. Video games ar
 
 This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/).
 
+<div class="contact-me">
+
 ### Contact Me
 
 - [Email me](mailto:niclake13@gmail.com)
 - [Tweet at me](http://twitter.com/niclake)
 - [Look at my pretty photos](http://instagram.com/niclake)
+
+</div>

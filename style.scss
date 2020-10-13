@@ -308,6 +308,20 @@ nav {
   }
 }
 
+.about-me-photo {
+  float: left;
+  width: 300px;
+  margin: 0 10px 10px 0;
+
+  @include mobile {
+    width: 100%;
+  }
+}
+
+.contact-me {
+  clear: both;
+}
+
 .posts {
   .post {
     padding-bottom: 3em;
