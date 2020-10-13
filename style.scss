@@ -333,7 +333,7 @@ nav {
       float: right;
     }
 
-    &:last-child {
+    &:last-of-type {
       padding-bottom: 1em;
       margin-bottom: none;
       border-bottom: 0px solid $p2;
