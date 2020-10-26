@@ -39,22 +39,41 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [NutriChef Vacuum Sealer](https://amzn.to/3jPhWv9)
 - [Benriner Mandoline Slicer](https://amzn.to/30UCbA4)
 
-### Cookbooks (physical)
+### Cookbooks (physical, hardcover pref.)
 
+- [The Food Lab](https://amzn.to/3dU1aJ4)
+- [The Flavor Bible](https://amzn.to/3oqcUYq)
+- [Just a French Guy Cooking](https://amzn.to/34MpSqv)
+- [Salt, Fat, Acid, Heat](https://amzn.to/3e8wuUF)
+- [The Joy of Cooking](https://amzn.to/3jv9Syo)
+- [Miraval's Sweet & Savory Cooking](https://amzn.to/37GyNNt)
+- [Modernist Cuisine at Home](https://amzn.to/3jrm3w7)
+- [Ad Hoc at Home](https://amzn.to/37GAk6b)
+- [Mission Street Food](https://amzn.to/3jnVYOE)
+- [On Food & Cooking](https://amzn.to/2FYXclT)
+- [Mastering the Art of French Cooking](https://amzn.to/2HzQsve)
+- [Les Halles Cookbook](https://amzn.to/3mmhkh9)
+- [Vegetable Simple](https://amzn.to/34rm1QD) (preorder)
+- [Cook This Book](https://amzn.to/31JqVH1) (preorder)
 - [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
+- [Momofuku](https://amzn.to/2FpGaNy)
 - [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
 - [Binging with Babish](https://amzn.to/3lA1yil)
-- [Just a French Guy Cooking](https://amzn.to/34MpSqv)
 - [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
 - [Truly Mexican](https://amzn.to/3nD7Rnh)
-- [Momofuku](https://amzn.to/2FpGaNy)
 - [Alton Brown - Everyday Cook](https://amzn.to/36U6LO4)
+- [Escoffier](https://amzn.to/3oryAUk)
+- [The French Laundry Cookbook](https://amzn.to/3kv4v3L)
+- [Modernist Cuisine: The Art & Science of Cooking](https://amzn.to/2HxA12n)
+- [Modernist Bread](https://amzn.to/3oo2Y1D)
+- [Sauces](https://amzn.to/2TmfuR2)
 
 ### Books
 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
 	- In Progress/Priority tab, Unowned + Priority
 	- Prefer paperback, but Kindle is ok too
+  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 ### Other Things
 
@@ -63,6 +82,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
 - [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
 - [Output Platform desk (or $$ towards)](https://output.com/products/platform)
+- ["Ramen" t-shirt](https://store.dftba.com/collections/alex-french-guy-cooking/products/ramen-shirt) (size medium)
 - Gift certificates to:
 	- [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 	- [Converse](https://www.converse.com/c/gift-cards)
