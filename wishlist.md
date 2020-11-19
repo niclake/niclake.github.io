@@ -39,6 +39,19 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [NutriChef Vacuum Sealer](https://amzn.to/3jPhWv9)
 - [Benriner Mandoline Slicer](https://amzn.to/30UCbA4)
 
+### T-Shirts from Cotton Bureau (Men standard tee in medium)
+
+- [Beergredients](https://cottonbureau.com/products/beergredients#/6547751/tee-men-standard-tee-indigo-tri-blend-s) in Indigo Tri-Blend
+- [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
+- [No Internet = Go Running](https://cottonbureau.com/products/no-internet-go-running-white-edition#/1523854/tee-men-standard-tee-vintage-royal-tri-blend-s) in Vintage Royal Tri-Blend
+- [Mando](https://cottonbureau.com/products/mando-2#/6476595/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
+- [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
+- [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
+- [Coffee Cat](https://cottonbureau.com/products/coffee-cat#/4230439/tee-men-standard-tee-vintage-turquoise-tri-blend-s) in Vintage Turquoise Tri-Blend
+- [Falcon & the X-Wing](https://cottonbureau.com/products/falcon-the-x-wing#/1448665/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
+- [New Old NASA](https://cottonbureau.com/products/new-old-nasa#/5587877/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
+- [Mando's Bodyguard Services](https://cottonbureau.com/products/mandos-bodyguard-services#/5868683/tee-men-standard-tee-vintage-black-tri-blend-s) in Machiato Tri-Blend
+
 ### Cookbooks (physical, hardcover pref.)
 
 - [The Food Lab](https://amzn.to/3dU1aJ4)
@@ -51,8 +64,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Ad Hoc at Home](https://amzn.to/37GAk6b)
 - [Mission Street Food](https://amzn.to/3jnVYOE)
 - [On Food & Cooking](https://amzn.to/2FYXclT)
-- [Mastering the Art of French Cooking](https://amzn.to/2HzQsve)
-- [Les Halles Cookbook](https://amzn.to/3mmhkh9)
 - [Vegetable Simple](https://amzn.to/34rm1QD) (preorder)
 - [Cook This Book](https://amzn.to/31JqVH1) (preorder)
 - [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
@@ -61,7 +72,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Binging with Babish](https://amzn.to/3lA1yil)
 - [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
 - [Truly Mexican](https://amzn.to/3nD7Rnh)
-- [Alton Brown - Everyday Cook](https://amzn.to/36U6LO4)
 - [Escoffier](https://amzn.to/3oryAUk)
 - [The French Laundry Cookbook](https://amzn.to/3kv4v3L)
 - [Modernist Cuisine: The Art & Science of Cooking](https://amzn.to/2HxA12n)
@@ -71,7 +81,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ### Books
 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
-	- In Progress/Priority tab, Unowned + Priority
+	- In Progress/Priority tab, Unowned + Priority would be main
 	- Prefer paperback, but Kindle is ok too
   - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
