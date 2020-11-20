@@ -91,6 +91,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
 - [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
 - [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
+- [Ridge Wallet](https://www.ridgewallet.com/collections/all-wallets)
 - [Output Platform desk (or $$ towards)](https://output.com/products/platform)
 - ["Ramen" t-shirt](https://store.dftba.com/collections/alex-french-guy-cooking/products/ramen-shirt) (size medium)
 - Gift certificates to:
