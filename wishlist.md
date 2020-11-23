@@ -17,6 +17,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Becca's List
 
+- [Kavu Pretty Poncho](https://kavu.com/products/pretty-poncho?variant=13544633630791)
+- [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
+- [Mend Body Spirit Tea Light Holder](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
 - [Bonavita Connoisseur 8-Cup Coffee Maker](https://amzn.to/311HfTg)
