@@ -19,7 +19,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
-- [Gift certificate or plants from Art Terrarium](https://artterrarium.com/)
 - [Bonavita Connoisseur 8-Cup Coffee Maker](https://amzn.to/311HfTg)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
