@@ -17,14 +17,10 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Becca's List
 
-- [Kavu Pretty Poncho](https://kavu.com/products/pretty-poncho?variant=13544633630791)
 - [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
 - [Pink Himalayan Bath Salt Crystals - Large - 8oz - Unscented Allergy Safe Detox Bath - Self Care](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
 - [Mend Body Spirit Tea Light Holder](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
-- [Wax Buffalo Single Wick Candle](https://kindsm.com/products/wax-buffalo-9-oz-candle)
-- [Wax Buffalo Sweet Tobacco Roller](https://kindsm.com/products/wax-buffalo-sweet-tobacco-roller)
 - [Crystal Wall Hanging](https://kindsm.com/products/crystal-wall-hanging)
-- [Paddywax Bottle Matches](https://kindsm.com/products/paddywax-bottle-matches)
 - [Sorel Boots Size 7 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
