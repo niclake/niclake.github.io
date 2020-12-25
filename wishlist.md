@@ -17,10 +17,12 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Becca's List
 
+- [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
+- [Pink Himalayan Bath Salt Crystals - Large - 8oz - Unscented Allergy Safe Detox Bath - Self Care](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
+- [Mend Body Spirit Tea Light Holder](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
+- [Sorel Boots Size 7 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
-- [Gift certificate or plants from Art Terrarium](https://artterrarium.com/)
-- [Bonavita Connoisseur 8-Cup Coffee Maker](https://amzn.to/311HfTg)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ## Nic's List
@@ -37,7 +39,16 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Vitamix Blender](https://amzn.to/33PKnTY)
 - [Anova Sous Vide Cooker](https://amzn.to/36QjMIp)
 - [NutriChef Vacuum Sealer](https://amzn.to/3jPhWv9)
-- [Benriner Mandoline Slicer](https://amzn.to/30UCbA4)
+
+### T-Shirts from Cotton Bureau (Men standard tee in medium)
+
+- [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
+- [Mando](https://cottonbureau.com/products/mando-2#/6476595/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
+- [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
+- [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
+- [Coffee Cat](https://cottonbureau.com/products/coffee-cat#/4230439/tee-men-standard-tee-vintage-turquoise-tri-blend-s) in Vintage Turquoise Tri-Blend
+- [Falcon & the X-Wing](https://cottonbureau.com/products/falcon-the-x-wing#/1448665/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
+- [New Old NASA](https://cottonbureau.com/products/new-old-nasa#/5587877/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
 
 ### T-Shirts from Cotton Bureau (Men standard tee in medium)
 
@@ -69,7 +80,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
 - [Momofuku](https://amzn.to/2FpGaNy)
 - [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
-- [Binging with Babish](https://amzn.to/3lA1yil)
 - [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
 - [Truly Mexican](https://amzn.to/3nD7Rnh)
 - [Escoffier](https://amzn.to/3oryAUk)
@@ -91,7 +101,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
 - [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
 - [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
-- [Output Platform desk (or $$ towards)](https://output.com/products/platform)
 - ["Ramen" t-shirt](https://store.dftba.com/collections/alex-french-guy-cooking/products/ramen-shirt) (size medium)
 - Gift certificates to:
 	- [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
