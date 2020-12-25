@@ -20,11 +20,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
 - [Pink Himalayan Bath Salt Crystals - Large - 8oz - Unscented Allergy Safe Detox Bath - Self Care](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
 - [Mend Body Spirit Tea Light Holder](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
-- [Crystal Wall Hanging](https://kindsm.com/products/crystal-wall-hanging)
 - [Sorel Boots Size 7 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - [Smartwool socks](https://amzn.to/2qK54Q8)
-- [Bonavita Connoisseur 8-Cup Coffee Maker](https://amzn.to/311HfTg)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ## Nic's List
@@ -90,8 +88,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
 - [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
 - [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
-- [Ridge Wallet](https://www.ridgewallet.com/collections/all-wallets)
-- [Output Platform desk (or $$ towards)](https://output.com/products/platform)
 - ["Ramen" t-shirt](https://store.dftba.com/collections/alex-french-guy-cooking/products/ramen-shirt) (size medium)
 - Gift certificates to:
 	- [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
