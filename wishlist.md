@@ -42,26 +42,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### T-Shirts from Cotton Bureau (Men standard tee in medium)
 
-- [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Mando](https://cottonbureau.com/products/mando-2#/6476595/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
-- [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
-- [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Coffee Cat](https://cottonbureau.com/products/coffee-cat#/4230439/tee-men-standard-tee-vintage-turquoise-tri-blend-s) in Vintage Turquoise Tri-Blend
-- [Falcon & the X-Wing](https://cottonbureau.com/products/falcon-the-x-wing#/1448665/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
-- [New Old NASA](https://cottonbureau.com/products/new-old-nasa#/5587877/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
-
-### T-Shirts from Cotton Bureau (Men standard tee in medium)
-
 - [Beergredients](https://cottonbureau.com/products/beergredients#/6547751/tee-men-standard-tee-indigo-tri-blend-s) in Indigo Tri-Blend
 - [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [No Internet = Go Running](https://cottonbureau.com/products/no-internet-go-running-white-edition#/1523854/tee-men-standard-tee-vintage-royal-tri-blend-s) in Vintage Royal Tri-Blend
 - [Mando](https://cottonbureau.com/products/mando-2#/6476595/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Coffee Cat](https://cottonbureau.com/products/coffee-cat#/4230439/tee-men-standard-tee-vintage-turquoise-tri-blend-s) in Vintage Turquoise Tri-Blend
 - [Falcon & the X-Wing](https://cottonbureau.com/products/falcon-the-x-wing#/1448665/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
 - [New Old NASA](https://cottonbureau.com/products/new-old-nasa#/5587877/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
-- [Mando's Bodyguard Services](https://cottonbureau.com/products/mandos-bodyguard-services#/5868683/tee-men-standard-tee-vintage-black-tri-blend-s) in Machiato Tri-Blend
 
 ### Cookbooks (physical, hardcover pref.)
 
@@ -82,11 +69,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
 - [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
 - [Truly Mexican](https://amzn.to/3nD7Rnh)
-- [Escoffier](https://amzn.to/3oryAUk)
-- [The French Laundry Cookbook](https://amzn.to/3kv4v3L)
-- [Modernist Cuisine: The Art & Science of Cooking](https://amzn.to/2HxA12n)
 - [Modernist Bread](https://amzn.to/3oo2Y1D)
-- [Sauces](https://amzn.to/2TmfuR2)
 
 ### Books
 
