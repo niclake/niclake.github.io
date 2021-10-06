@@ -15,7 +15,7 @@ Asking for money is weird. We get it. So here's the things that we'd be spending
 - A new deck
 - Finishing the basement
 - Home humidifier
-- Everything baby related in 2022
+- Everything baby related in 2022 ([see our registry here](https://www.amazon.com/baby-reg/babylake-lake-february-2022-johnston/16U960SXGPCBD))
 
 ## Becca's List
 
