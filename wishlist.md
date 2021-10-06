@@ -14,6 +14,7 @@ Asking for money is weird. We get it. So here's the things that we'd be spending
 
 - A new deck
 - Finishing the basement
+- Home humidifier
 - Everything baby related in 2022
 
 ## Becca's List
