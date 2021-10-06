@@ -77,6 +77,11 @@ Asking for money is weird. We get it. So here's the things that we'd be spending
 
 ### Other Things
 
+- Ikea Skadis shelving system
+	- 2x [White Pegboards](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
+	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
+	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
+	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - [Drop + OLKB Preonic Keyboard](https://drop.com/buy/preonic-mechanical-keyboard) (purple or orange case + Acute Keycap Set) (account + login required)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
 - Gift certificates to:
