@@ -10,10 +10,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Family List/House Upgrades
 
-- Money towards a new deck
-- Money towards new kitchen appliances
-- Money towards interior paint
-- Money towards downstairs flooring
+Asking for money is weird. We get it. So here's the things that we'd be spending money on:
+
+- A new deck
+- Finishing the basement
+- Everything baby related in 2022
 
 ## Becca's List
 
@@ -30,13 +31,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ### Coffee Supplies
 
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
-- [Hario V60 Coffee Decanter, 700mL](https://amzn.to/3nHwu1U)
 - [Hario V60 Drip Coffee Scale + Timer](https://amzn.to/3jKxgZM)
 - [Bottomless Coffee subscription/gift](https://www.bottomless.com/gifts)
 
 ### Kitchen Supplies
 
-- [Vitamix Blender](https://amzn.to/33PKnTY)
 - [Anova Sous Vide Cooker](https://amzn.to/36QjMIp)
 - [NutriChef Vacuum Sealer](https://amzn.to/3jPhWv9)
 
@@ -44,7 +43,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - [Beergredients](https://cottonbureau.com/products/beergredients#/6547751/tee-men-standard-tee-indigo-tri-blend-s) in Indigo Tri-Blend
 - [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Mando](https://cottonbureau.com/products/mando-2#/6476595/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
 - [Falcon & the X-Wing](https://cottonbureau.com/products/falcon-the-x-wing#/1448665/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
@@ -62,8 +60,8 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Ad Hoc at Home](https://amzn.to/37GAk6b)
 - [Mission Street Food](https://amzn.to/3jnVYOE)
 - [On Food & Cooking](https://amzn.to/2FYXclT)
-- [Vegetable Simple](https://amzn.to/34rm1QD) (preorder)
-- [Cook This Book](https://amzn.to/31JqVH1) (preorder)
+- [Vegetable Simple](https://amzn.to/34rm1QD)
+- [Cook This Book](https://amzn.to/31JqVH1)
 - [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
 - [Momofuku](https://amzn.to/2FpGaNy)
 - [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
@@ -74,19 +72,17 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ### Books
 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
-	- In Progress/Priority tab, Unowned + Priority would be main
-	- Prefer paperback, but Kindle is ok too
+	- Physical Books I Want tab
   - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 ### Other Things
 
 - [Drop + OLKB Preonic Keyboard](https://drop.com/buy/preonic-mechanical-keyboard) (purple or orange case + Acute Keycap Set) (account + login required)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set) (account + login required)
-- [Vastar Soldering Iron Station](https://amzn.to/34JEoPL)
-- [Panasonic Rechargable Battery Pack](https://amzn.to/30QYuGI)
-- ["Ramen" t-shirt](https://store.dftba.com/collections/alex-french-guy-cooking/products/ramen-shirt) (size medium)
 - Gift certificates to:
 	- [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 	- [Converse](https://www.converse.com/c/gift-cards)
 	- [Nintendo](https://www.nintendo.com/giftcards)
-	- Steam (Hy-Vee, Walmart, Target will have these)
+	- Steam (grocery stores, Walmart, Target, GameStop will have these)
+	- PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
+		- No need for PlayStation Now cards
