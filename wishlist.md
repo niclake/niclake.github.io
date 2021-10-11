@@ -19,12 +19,7 @@ Asking for money is weird. We get it. So here's the things that we'd be spending
 
 ## Becca's List
 
-- [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
-- [Pink Himalayan Bath Salt Crystals - Large - 8oz - Unscented Allergy Safe Detox Bath - Self Care](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
-- [Mend Body Spirit Tea Light Holder](https://www.etsy.com/listing/769833249/pink-himalayan-salt-tea-light-holder?ref=shop_home_active_11&pro=1)
 - [Sorel Boots Size 7 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
-- [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
-- [Smartwool socks](https://amzn.to/2qK54Q8)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ## Nic's List
