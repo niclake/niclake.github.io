@@ -19,7 +19,9 @@ Asking for money is weird. We get it. So here's the things that we'd be spending
 
 ## Becca's List
 
+- [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
 - [Sorel Boots Size 7 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
+- [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
 ## Nic's List
