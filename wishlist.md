@@ -13,13 +13,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 Asking for money is weird. We get it. But for the most part, rather than "stuff", we'd prefer to make some changes to our house before Baby Lake joins us. So, here's the things that we'd be spending money on, if picking out gifts is difficult:
 
 - A new deck (since ours is broken)
-- Finishing the basement for Nic's office (& freeing up nursrey upstairs)
+- Finishing the basement for Nic's office (& freeing up a room for the nursrey upstairs)
 - Home humidifier
 - Lighting updates to living room, kitchen, front room, & bedroom
 
 ## Baby Lake's List
 
-- [See our Amazon baby registry here](https://www.amazon.com/baby-reg/babylake-lake-february-2022-johnston/16U960SXGPCBD))
+- [See Baby's Amazon registry here](https://www.amazon.com/baby-reg/babylake-lake-february-2022-johnston/16U960SXGPCBD)!
 
 ## Becca's List
 
