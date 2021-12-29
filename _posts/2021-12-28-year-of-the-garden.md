@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Year of Habits"
+title: "Year of the Garden"
 categories: Personal
 ---
 
@@ -8,7 +8,7 @@ categories: Personal
 
 So I really wanted to do [a theme](https://www.themesystem.com/) this year. Thought it'd be a nice thing to do instead of "goals" or "resolutions" or anything like that. However! Life is gonna get a little complicated with a newborn arriving in February, and I knew that was going to throw everything into whack.
 
-With that said, my theme is: **The Year of Habits**.
+With that said, my theme is: **Year of the Garden**.
 
 <!-- more -->
 

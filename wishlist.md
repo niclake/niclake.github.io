@@ -82,7 +82,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 #### Expensive Things (mostly for my own reference)
 
-- [Focusrite Scareltt 18i20 (3rd Gen)](https://amzn.to/3CWUzcD)
 - [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo)
 
 <!-- 
