@@ -10,6 +10,8 @@ So I really wanted to do [a theme](https://www.themesystem.com/) this year. Thou
 
 With that said, my theme is: **The Year of Habits**.
 
+<!-- more -->
+
 I want to work on all of the small things in my life, thinking of it like a garden that I need to tend to in order to have success this year, and be ready for future years as well.
 
 With that said, here are my 4 main categories:
