@@ -16,7 +16,7 @@ I want to work on all of the small things in my life, thinking of it like a gard
 
 With that said, here are my 4 main categories:
 
-## Harvest - continue with established habits
+### Harvest - continue with established habits
 
 - Read at least 1 book/month (far less than my goal of 50 that I had for 2021, but hey - a baby is incoming)
 - Brew coffee daily vs. buying sugary mochas
