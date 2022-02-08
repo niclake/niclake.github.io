@@ -32,9 +32,7 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 #### Coffee Supplies
 
-- [Coffee subscription from Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
-- [Hario V60 Drip Coffee Scale + Timer](https://amzn.to/3jKxgZM)
 
 #### T-Shirts from Cotton Bureau (Men standard tee in medium)
 
