@@ -13,9 +13,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 Asking for money is weird. We get it. But for the most part, rather than "stuff", we'd prefer to make some changes to our house before Baby Lake joins us. So, here's the things that we'd be spending money on, if picking out gifts is difficult:
 
 - A new deck (since ours is broken)
-- Finishing the basement for Nic's office (& freeing up a room for the nursrey upstairs)
-- Home humidifier
-- Lighting updates to living room, kitchen, front room, & bedroom
+- New siding for the house
 
 ## Baby Lake's List
 
@@ -23,8 +21,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 ## Becca's List
 
-- [Hip Mountain Mama Sun & Moon Hoodie](https://www.hipmountainmama.com/sun-moon-hoodie/)
-- [Sorel Boots Size 7.5 Black](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 
@@ -45,17 +41,16 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
-	- [Two-Tone 59FIFTY Fitted - Gray/Black](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-two-tone-59fifty-fitted-hat-gray/black/o-3443+t-92998519+p-03889790399+z-9-1393627179)
-	- [Splatter 9FIFTY Snapback](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-splatter-9fifty-snapback-hat-navy/o-7887+t-70553086+p-4813896704+z-8-4163742342)
-	- [59FIFTY Basic Fitted - Black](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-primary-logo-basic-59fifty-fitted-hat-black/o-2310+t-36665242+p-35210706023+z-9-3240627461)
+	- [Citty Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
+	- [59FIFTY Basic Fitted - Black](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-primary-logo-basic-59fifty-fitted-hat-black/o-2310+t-36665242+p-35210706023+z-9-3240627461?sku=10202888)
+	- [Mother's Day 2022 59FIFTY](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267)
+	- [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?variant=42646045229283)
+	- [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
+	- [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
 	<!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
 
 - Celtics
-	<!-- - [Team Color 59FIFTY Fitted - Black](https://www.lids.com/nba-boston-celtics/boston-celtics-new-era-official-team-color-59fifty-fitted-hat-black/o-2470+t-36819431+p-13385167523+z-9-204212307) -->
-	<!-- - [Team Color 2Tone 59FIFTY Fitted - Green](https://www.lids.com/nba-boston-celtics/boston-celtics-new-era-official-team-color-2tone-59fifty-fitted-hat-green/black/o-2481+t-69587286+p-68629226377+z-9-2578832520) -->
-	<!-- - [Two-Tone 59FIFTY Fitted - Grey/Black](https://www.lids.com/nba-boston-celtics/boston-celtics-new-era-two-tone-59fifty-fitted-hat-gray/black/o-3558+t-92587219+p-6088414025+z-8-226790346) -->
-	- [Draft Edition 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-CELTICS-NBA-DRAFT-EDITION-59FIFTY-FITTED/p/60143995)
-	- [Cursive 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-CELTICS-CURSIVE-59FIFTY-FITTED/p/60179495)
+	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
 
 
 #### Random Items
@@ -68,6 +63,12 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
 	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2L1VNDOBG6TTJ?ref_=wl_share)
+
+### Books
+
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
+	- Physical Books I Want tab
+  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 #### Gift Certificates
 
@@ -103,10 +104,4 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 - [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
 - [Truly Mexican](https://amzn.to/3nD7Rnh)
 - [Modernist Bread](https://amzn.to/3oo2Y1D)
-
-### Books
-
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
-	- Physical Books I Want tab
-  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 -->
