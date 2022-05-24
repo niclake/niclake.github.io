@@ -23,6 +23,12 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
+- [Heaven's Wild Bear tank](https://cottonbureau.com/products/heavens-wild-bear#/8047773/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
+- [Less Worry (Protest Pals) tank (charcoal triblend)](https://cottonbureau.com/products/less-worry-protest-pals#/14353613/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
+- [savage reign tank](https://cottonbureau.com/products/savage-reign#/9482286/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
+- [simple nature tank (aqua)](https://cottonbureau.com/products/simple-nature#/8170618/tank-unisex-tank-top-aqua-triblend-tri-blend-s)
+- [Mornings are for Coffee and Contemplation mug](https://smile.amazon.com/Mornings-Are-Coffee-Contemplation-oz/dp/B077Y113LJ/ref=pd_aw_lpo_1?pd_rd_i=B077Y113LJ&th=1)
+- [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwhLKUBhDiARIsAMaTLnGhR3xV54z0pnzJzWAJIP5Zjox12sQQIkhFbzj7GQ_JnpdgoQM_lhkaAky_EALw_wcB)
 
 ## Nic's List
 
