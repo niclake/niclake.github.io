@@ -68,6 +68,7 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - [Drop + OLKB Preonic Keyboard](https://drop.com/buy/preonic-mechanical-keyboard) (purple or orange case + Acute Keycap Set)
+	- Would prefer to have the Planck first
 - Ikea Skadis shelving system
 	- 2x [White Pegboards](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
 	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
@@ -75,6 +76,22 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2L1VNDOBG6TTJ?ref_=wl_share)
 - [Apollo Mug](https://cottonbureau.com/products/apollo-mug#/4809227/royal-blue-ceramic-3.5in)
+- Order of the Stick books (PDFs from Gumroad):
+	- Main Books
+		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf) <!-- 1 to 121 -->
+		- [No Cure for the Paladin Blues](https://richburlew.gumroad.com/l/ootsncfpb) <!-- 122 to 301 -->
+		- [War and XPs](https://richburlew.gumroad.com/l/ootswaxp) <!-- 302 to 484 -->
+		- [Don't Split the Party](https://richburlew.gumroad.com/l/ootsdstp) <!-- 485 to 672 -->
+		- [Blood Runs in the Family](https://richburlew.gumroad.com/l/ootsbritf) <!-- 673 to 946 -->
+		- [Utterly Dwarfed](https://richburlew.gumroad.com/l/ootsud) <!-- 947 to 1189 -->
+	- Side Stories
+		- [On the Origin of PCs](https://richburlew.gumroad.com/l/ootsotoopcs) <!-- Prequel, after DCF -->
+		- [Start of Darkness](https://richburlew.gumroad.com/l/ootssod) <!-- Villain prequel, after NCftPB -->
+		<!-- - [Snips, Snails and Dragon Tails]() Alternate Reality Short Stories, after DStP --> 
+		- [Good Deeds Gone Unpunished](https://richburlew.gumroad.com/l/ootsgdgu) <!-- Azure City prequel, after BRitF -->
+		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) <!-- Belkar origin story -->
+		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) <!-- Haley and Elan fun story -->
+
 
 ### Books
 
