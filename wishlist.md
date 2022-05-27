@@ -63,6 +63,11 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 - Celtics
 	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
 
+- Other
+	- [Worcester Red Sox](https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted)
+	- [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
+	- [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
+
 
 #### Random Items
 
