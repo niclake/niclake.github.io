@@ -62,6 +62,7 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 - Celtics
 	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
+	- [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
 
 - Other
 	- [Iowa Cubs](https://www.neweracap.com/products/iowa-cubs-theme-night-59fifty-fitted?_pos=1&_fid=704ba548f&_ss=c)
