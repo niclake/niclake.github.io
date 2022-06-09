@@ -52,13 +52,13 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
+	- [Father's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-fathers-day-2022-59fifty-fitted?variant=42775925031139)
 	- [Citty Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
-	- [59FIFTY Basic Fitted - Black](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-primary-logo-basic-59fifty-fitted-hat-black/o-2310+t-36665242+p-35210706023+z-9-3240627461?sku=10202888)
-	- [Mother's Day 2022 59FIFTY](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267)
-	- [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?variant=42646045229283)
+	- [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267)
 	- [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
 	- [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
 	<!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
+	<!-- - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?variant=42646045229283) -->
 
 - Celtics
 	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
