@@ -65,7 +65,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 	- [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
 
 - Other
-	- [Iowa Cubs](https://www.neweracap.com/products/iowa-cubs-theme-night-59fifty-fitted?_pos=1&_fid=704ba548f&_ss=c)
 	- [Worcester Red Sox](https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted)
 	- [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
 	- [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
