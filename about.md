@@ -21,6 +21,6 @@ This website was created using [Jekyll](https://jekyllrb.com/), and is hosting o
     <li><a href="http://twitter.com/niclake">Tweet at me</a></li>
     <li><a href="http://instagram.com/niclake">Look at my pretty photos</a></li>
     <li><a href="https://github.com/niclake">Stare at my code</a></li>
-    <li><a href="https://github.com/niclake">Check out my resume</a></li>
+    <li><a href="https://docs.google.com/document/d/1KZT-nR_7WVi1ZtnnAwM9OpL2VZmrTSmT9eAHdupwZrk/edit?usp=sharing">Check out my resume</a></li>
   </ul>
 </div>
