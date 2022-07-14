@@ -309,9 +309,9 @@ nav {
 }
 
 .about-me-photo {
-  float: left;
-  width: 300px;
-  margin: 0 10px 10px 0;
+  float: right;
+  width: 250px;
+  margin: 0 0 10px 10px;
 
   @include mobile {
     width: 100% !important;
