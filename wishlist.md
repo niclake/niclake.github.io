@@ -29,6 +29,7 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 - [simple nature tank (aqua)](https://cottonbureau.com/products/simple-nature#/8170618/tank-unisex-tank-top-aqua-triblend-tri-blend-s)
 - [Mornings are for Coffee and Contemplation mug](https://smile.amazon.com/Mornings-Are-Coffee-Contemplation-oz/dp/B077Y113LJ/ref=pd_aw_lpo_1?pd_rd_i=B077Y113LJ&th=1)
 - [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwhLKUBhDiARIsAMaTLnGhR3xV54z0pnzJzWAJIP5Zjox12sQQIkhFbzj7GQ_JnpdgoQM_lhkaAky_EALw_wcB)
+- [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
 
 ## Nic's List
 
@@ -52,8 +53,7 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
-	- [Father's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-fathers-day-2022-59fifty-fitted?variant=42775925031139)
-	- [Citty Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
+	- [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
 	- [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267)
 	- [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
 	- [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
@@ -73,8 +73,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 #### Random Items
 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
-- [Drop + OLKB Preonic Keyboard](https://drop.com/buy/preonic-mechanical-keyboard) (purple or orange case + Acute Keycap Set)
-	- Would prefer to have the Planck first
 - Ikea Skadis shelving system
 	- 2x [White Pegboards](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
 	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
