@@ -112,6 +112,8 @@ a {
 
   a {
     background-color: $p1;
+    border-radius: 8px;
+    padding: 0 5px;
     
     &:hover {
       background-color: $p6;
