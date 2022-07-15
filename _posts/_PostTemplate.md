@@ -12,7 +12,7 @@ categories: Personal
 
 
 
-*Did you enjoy this post? Did something I say really resonate with you? Am I just flat-out wrong? [Hit me up on Twitter][twitter] and let's chat about it.*
+*Did you enjoy this post? Did something I say really resonate with you? Am I just flat-out wrong? [Check out my Hello page][hello] to find a way to contact me, and let's chat about it.*
 
-[headerImg]: IMAGEURL "altText"
-[twitter]: http://twitter.com/niclake
+[headerImg]: URL "altText"
+[hello]: http://niclake.me/hello
