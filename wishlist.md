@@ -80,6 +80,12 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2L1VNDOBG6TTJ?ref_=wl_share)
 - [Apollo Mug](https://cottonbureau.com/products/apollo-mug#/4809227/royal-blue-ceramic-3.5in)
+
+### Books
+
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
+	- Physical Books I Want tab
+  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 - Order of the Stick books (PDFs from Gumroad):
 	- Main Books
 		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf) <!-- 1 to 121 -->
@@ -95,13 +101,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 		- [Good Deeds Gone Unpunished](https://richburlew.gumroad.com/l/ootsgdgu) <!-- Azure City prequel, after BRitF -->
 		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) <!-- Belkar origin story -->
 		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) <!-- Haley and Elan fun story -->
-
-
-### Books
-
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
-	- Physical Books I Want tab
-  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 #### Gift Certificates
 
