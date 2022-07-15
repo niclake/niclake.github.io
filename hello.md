@@ -6,7 +6,7 @@ permalink: /hello/
 
 <img class="about-me-photo" src="https://i.imgur.com/cpCOxpe.jpg" />
 
-Hello. I'm Nic Lake.
+Hello. I'm Nic Lake. My pronouns are he/him.
 
 - Resident of Des Moines, IA
 - Software developer, working primarially with Ruby on Rails
