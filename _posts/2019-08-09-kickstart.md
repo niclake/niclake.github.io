@@ -63,5 +63,5 @@ So yeah. The Kickstarter is live, and will run until August 23rd. I'm so excited
 [midImg]: https://imgur.com/A1PGBvT.jpg "The Music Plays You - Holophrase"
 [kickstarter]: https://www.kickstarter.com/projects/themusicplaysyou/holophrase
 [kickstart]: https://youtu.be/CmXWkMlKFkI?t=28
-[rerouting]: http://niclake.me/rerouting/
+[rerouting]: https://niclake.me/rerouting/
 [foundation]: https://soundcloud.com/themusicplaysyou/anchor-yourself-foundation-demo-2

@@ -46,6 +46,6 @@ So there it is; my 4 month update. Some goals are going great, some not so great
 
 *How are your goals going? Do you need some motivation? Do you have any motivation for me? Use the hashtag #GoalsUpdate when you [message me on Twitter][twitter] and let's chat!*
 
-[goals]: http://niclake.me/2019-goals/
+[goals]: https://niclake.me/2019-goals/
 [leagueTweet]: https://twitter.com/niclake/status/1123390103211118592
 [twitter]: http://twitter.com/niclake

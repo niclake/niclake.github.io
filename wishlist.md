@@ -6,7 +6,7 @@ permalink: /wishlist/
 
 Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic or Becca for the holiday season!
 
-If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [About page](http://niclake.me/about/).
+If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [About page](https://niclake.me/about/).
 
 ## Family List/House Upgrades
 

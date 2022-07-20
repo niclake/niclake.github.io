@@ -44,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://niclake.me
+url: https://niclake.me
 
 # Establish pagination
 paginate: 10

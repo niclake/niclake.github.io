@@ -18,7 +18,7 @@ Here is how I prefer to keep in touch, and why:
 - I converse with most people on [Twitter](http://twitter.com/niclake)
 - You are welcome to [email me](mailto:niclake13@gmail.com) if you have anything specific you'd like to discuss
 - I share photos with friends and family on [Instagram](http://instagram.com/niclake)
-- I blog very infrequently on [my website](http://niclake.me)
+- I blog very infrequently on [my website](https://niclake.me)
 - I don't care for [LinkedIn](https://www.linkedin.com/in/niclake/), but I'm happy to connect with you there
 - I despise Facebook.
 

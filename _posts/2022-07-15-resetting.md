@@ -50,6 +50,6 @@ Those are the high points of what's been going on with me as of late. I'm hoping
 *Did you enjoy this post? Did something I say really resonate with you? Am I just flat-out wrong? [Check out my Hello page][hello] to find a way to contact me, and let's chat about it.*
 
 [headerImg]: https://www.tomferry.com/wp-content/uploads/2017/10/resetting-relationships-1200x628-compressor-1.jpg "Reset! Reset!"
-[garden]: http://niclake.me/year-of-the-garden/
+[garden]: https://niclake.me/year-of-the-garden/
 [relay]: https://www.relay.fm/membership
-[hello]: http://niclake.me/hello
+[hello]: https://niclake.me/hello

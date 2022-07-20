@@ -71,4 +71,4 @@ Note: if you would like to have the frame span the width of the post, remove the
 
 
 [orglink]: yahoo.com
-[imgLink]: http://niclake.me/favicon.ico
+[imgLink]: https://niclake.me/favicon.ico

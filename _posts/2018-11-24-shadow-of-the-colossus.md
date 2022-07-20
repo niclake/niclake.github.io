@@ -50,5 +50,5 @@ Overall, Shadow of the Colossus is just *fine* in 2018. Nothing more, nothing le
 [boss1]: https://imgur.com/Tqr3J9D.jpg "Really Big Monsters"
 [boss2]: https://imgur.com/NXEKy47.jpg "Fighting a colossus"
 [gameList]: https://docs.google.com/spreadsheets/d/1zg-SOYI8DlH-ibSNslfPtq0xJB4sEMb_7OHKbq2qclk/edit?usp=sharing
-[breath]: http://niclake.me/breath-of-the-wild/
+[breath]: https://niclake.me/breath-of-the-wild/
 [twitter]: http://twitter.com/niclake
