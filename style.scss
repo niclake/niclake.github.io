@@ -472,31 +472,29 @@ footer {
     }
   }
 
-  .posts {
-    .post {
-      border-bottom-color: $p5;
+  .post {
+    border-bottom-color: $p5;
 
+    a {
+      &:hover {
+        background-color: $p1;
+      }
+    }
+
+    .date {
       a {
-        &:hover {
-          background-color: $p1;
-        }
+        background-color: $p5;
+      }
+    }
+
+    .entry {
+      a {
+        background-color: $p5;
       }
 
-      .date {
-        a {
-          background-color: $p5;
-        }
-      }
-
-      .entry {
-        a {
-          background-color: $p5;
-        }
-
-        blockquote {
-          color: $lightGray;
-          border-left-color: $lightGray;
-        }
+      blockquote {
+        color: $lightGray;
+        border-left-color: $lightGray;
       }
     }
   }
