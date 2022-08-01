@@ -465,10 +465,11 @@ footer {
 
       a {
         color: $p1;
-        background-color: $p6;
+        background-color: transparent;
 
-        @include mobile {
-          color: $p2;
+        &:hover {
+          color: $p5;
+          background-color: $p1;
         }
       }
     }
@@ -486,6 +487,10 @@ footer {
     .date {
       a {
         background-color: $p5;
+
+        &:hover {
+          background-color: $p1;
+        }
       }
     }
 
