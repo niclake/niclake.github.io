@@ -235,6 +235,12 @@ img + em {
   border-bottom: 1px solid;
   border-bottom-color: $p5;
 
+  a {
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 0 5px;
+  }
+
   @include mobile {
     text-align: center;
   }
@@ -303,9 +309,6 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    background-color: $p1;
-    border-radius: 8px;
-    padding: 0 5px;
 
     @include mobile {
       margin: 0 10px;
@@ -472,6 +475,7 @@ footer {
   nav {
     a {
       color: $p1;
+      background-color: $p6;
 
       @include mobile {
         color: $p2;
