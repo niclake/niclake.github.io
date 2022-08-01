@@ -303,6 +303,9 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    background-color: $p1;
+    border-radius: 8px;
+    padding: 0 5px;
 
     @include mobile {
       margin: 0 10px;
@@ -412,10 +415,6 @@ footer {
 
   h1, h2, h3, h4, h5, h6 {
     color: $p1;
-
-    a {
-      color: $p3 !important;
-    }
   }
 
   h4 {
@@ -423,10 +422,10 @@ footer {
   }
 
   a {
-    color: $p4;
+    color: $p3;
 
     &:visited, &:active {
-      color: $p4;
+      color: $p3;
     }
 
     &:hover {
