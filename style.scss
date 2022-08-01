@@ -328,7 +328,8 @@ nav {
   .post {
     padding-bottom: 3em;
     margin-bottom: 1em;
-    border-bottom: 1px solid $p2;
+    border-bottom: 1px solid;
+    border-bottom-color: $p2;
 
     blockquote {
       margin: 1.8em .8em;
@@ -392,6 +393,73 @@ footer {
   a {
     &:hover {
       background-color: inherit;
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: $p6;
+    color: $p2;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $p1;
+  }
+
+  a {
+    color: $p4;
+
+    &:visited, &:active {
+      color: $p4;
+    }
+
+    &:hover {
+      color: $p5;
+      background-color: $p1;
+    }
+  }
+
+  .entry {
+    a {
+      background-color: $p5;
+
+      &:hover {
+        background-color: $p1;
+      }
+    }
+  }
+
+  .date {
+    color: $lightGray;
+
+    a {
+      background-color: $p5;
+    }
+  }
+
+  ::-moz-selection {
+    color: $p0;
+    background: $p5;
+  }
+  ::selection {
+    color: $p0;
+    background: $p5;
+  }
+
+  nav {
+    a {
+      color: $p1;
+
+      @include mobile {
+        color: $p2;
+      }
+    }
+  }
+
+  .posts {
+    .post {
+      border-bottom-color: 
     }
   }
 }
