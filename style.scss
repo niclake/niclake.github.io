@@ -56,6 +56,9 @@ h1 {
 
   a {
     color: inherit;
+    border-radius: 5px;
+    padding: 0 5px;
+    background-color: transparent;
   }
 }
 
@@ -172,7 +175,7 @@ img + em {
   a {
     background-color: $p1;
     border-radius: 8px;
-    padding: 0 5px;
+    padding: 0 10px;
   }
 }
 
@@ -479,6 +482,12 @@ footer {
         }
       }
 
+      .date {
+        a {
+          background-color: $p5;
+        }
+      }
+
       .entry {
         a {
           background-color: $p5;
@@ -490,10 +499,6 @@ footer {
         }
       }
     }
-  }
-
-  .wrapper-footer {
-    background-color: $p4;
   }
 
   table, th, td {
