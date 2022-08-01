@@ -232,7 +232,8 @@ img + em {
 
 .masthead {
   padding: 10px 0;
-  border-bottom: 1px solid $p5;
+  border-bottom: 1px solid;
+  border-bottom-color: $p5;
 
   @include mobile {
     text-align: center;
@@ -333,7 +334,8 @@ nav {
 
     blockquote {
       margin: 1.8em .8em;
-      border-left: 2px solid $gray;
+      border-left: 2px solid;
+      border-left-color: $gray;
       padding: 0.1em 1em;
       color: $gray;
       font-size: 22px;
@@ -369,7 +371,8 @@ nav {
 }
 
 table, th, td {
-  border: 1px solid $p7;
+  border: 1px solid;
+  border-color: $p7;
   min-width: 25%;
   padding: 5px;
   margin-bottom: 25px;
@@ -403,8 +406,16 @@ footer {
     color: $p2;
   }
 
+  img {
+    filter: brightness(.8) contrast(1.2);
+  }
+
   h1, h2, h3, h4, h5, h6 {
     color: $p1;
+  }
+
+  h4 {
+    // color: $darkGray; // leaving this
   }
 
   a {
@@ -439,12 +450,20 @@ footer {
   }
 
   ::-moz-selection {
-    color: $p0;
+    color: $p2;
     background: $p5;
   }
   ::selection {
-    color: $p0;
+    color: $p2;
     background: $p5;
+  }
+
+  .masthead {
+    border-bottom-color: $p4;
+  }
+
+  .site-description {
+    color: $lightGray;
   }
 
   nav {
@@ -459,8 +478,30 @@ footer {
 
   .posts {
     .post {
-      border-bottom-color: 
+      border-bottom-color: $p5;
+
+      blockquote {
+        color: $lightGray;
+        border-left-color: $lightGray;
+      }
     }
+  }
+
+  .wrapper-footer {
+    background-color: $p4;
+  }
+
+  table, th, td {
+    border-color: $p2;
+  }
+
+  th {
+    background-color: $p4;
+    color: $gray;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: $p5;
   }
 }
 
