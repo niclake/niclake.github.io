@@ -442,15 +442,13 @@ footer {
     }
   }
 
-
-
   ::-moz-selection {
     color: $p2;
-    background: $p5;
+    background: $p4;
   }
   ::selection {
     color: $p2;
-    background: $p5;
+    background: $p4;
   }
 
   .masthead {
@@ -461,6 +459,10 @@ footer {
     }
 
     nav {
+      h1 {
+        color: $p1;
+      }
+
       a {
         color: $p1;
         background-color: $p6;
@@ -490,6 +492,10 @@ footer {
     .entry {
       a {
         background-color: $p5;
+
+        &:hover {
+          background-color: $p1;
+        }
       }
 
       blockquote {
