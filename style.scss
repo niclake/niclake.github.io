@@ -437,7 +437,7 @@ footer {
     }
   }
 
-  .entry {
+  .post {
     a {
       background-color: $p5;
 
@@ -445,15 +445,11 @@ footer {
         background-color: $p1;
       }
     }
-  }
-
-  .date {
-    color: $lightGray;
-
-    a {
-      background-color: $p5;
+    .date {
+      color: $lightGray;
     }
   }
+
 
   ::-moz-selection {
     color: $p2;
