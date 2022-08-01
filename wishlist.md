@@ -4,20 +4,9 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic or Becca for the holiday season!
+Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic or Becca for the holiday season (or any time, if you're feeling generous)!
 
-If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [About page](https://niclake.me/about/).
-
-## Family List/House Upgrades
-
-Asking for money is weird. We get it. But for the most part, rather than "stuff", we'd prefer to make some changes to our house before Baby Lake joins us. So, here's the things that we'd be spending money on, if picking out gifts is difficult:
-
-- A new deck (since ours is broken)
-- New siding for the house
-
-## Baby Lake's List
-
-- [See Baby's Amazon registry here](https://www.amazon.com/baby-reg/babylake-lake-february-2022-johnston/16U960SXGPCBD)!
+If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](https://niclake.me/hello/).
 
 ## Becca's List
 
@@ -36,14 +25,18 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 #### Coffee Supplies
 
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
+- [Ember mug (14oz black)](https://ember.com/products/ember-mug-2?variant=30843977760853)
+- Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 
-#### T-Shirts from Cotton Bureau (Men standard tee in medium)
+#### T-Shirts from Cotton Bureau (size medium)
 
+- [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
+- [Classic Stripes](https://cottonbureau.com/p/SEC5NG/shirt/classic-stripes#/14964159/tee-men-standard-tee-machiato-tri-blend-m) in Machiato Tri-Blend
 - [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
 - [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s)
-- [Six Color Commander](https://cottonbureau.com/products/six-color-commander#/14399321/tee-men-standard-tee-vintage-black-tri-blend-s)
+- [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
+- [Six Color Commander](https://cottonbureau.com/products/six-color-commander#/14399321/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [hello.](https://cottonbureau.com/products/hello-14#/13684735/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [Hoptopus](https://cottonbureau.com/products/hoptopus#/9969833/tee-men-standard-tee-envy-tri-blend-s) in Envy Tri-Blend
 - [Pixel Coffee](https://cottonbureau.com/products/pixel-coffee#/2004544/tee-men-standard-tee-indigo-tri-blend-s) in Indigo Tri-Blend
@@ -54,11 +47,11 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 
 - Red Sox
 	- [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
-	- [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267)
-	- [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
-	- [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
+	<!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
+	- [Authentic 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
+	- [Authentic Logo 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
 	<!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
-	<!-- - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?variant=42646045229283) -->
+	- [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
 
 - Celtics
 	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
@@ -79,7 +72,6 @@ Asking for money is weird. We get it. But for the most part, rather than "stuff"
 	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
 	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2L1VNDOBG6TTJ?ref_=wl_share)
-- [Apollo Mug](https://cottonbureau.com/products/apollo-mug#/4809227/royal-blue-ceramic-3.5in)
 
 ### Books
 
