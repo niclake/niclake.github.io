@@ -171,6 +171,8 @@ img + em {
 
   a {
     background-color: $p1;
+    border-radius: 8px;
+    padding: 0 5px;
   }
 }
 
@@ -437,18 +439,6 @@ footer {
     }
   }
 
-  .post {
-    a {
-      background-color: $p5;
-
-      &:hover {
-        background-color: $p1;
-      }
-    }
-    .date {
-      color: $lightGray;
-    }
-  }
 
 
   ::-moz-selection {
@@ -462,19 +452,19 @@ footer {
 
   .masthead {
     border-bottom-color: $p4;
-  }
 
-  .site-description {
-    color: $lightGray;
-  }
+    .site-description {
+      color: $lightGray;
+    }
 
-  nav {
-    a {
-      color: $p1;
-      background-color: $p6;
+    nav {
+      a {
+        color: $p1;
+        background-color: $p6;
 
-      @include mobile {
-        color: $p2;
+        @include mobile {
+          color: $p2;
+        }
       }
     }
   }
@@ -483,9 +473,21 @@ footer {
     .post {
       border-bottom-color: $p5;
 
-      blockquote {
-        color: $lightGray;
-        border-left-color: $lightGray;
+      a {
+        &:hover {
+          background-color: $p1;
+        }
+      }
+
+      .entry {
+        a {
+          background-color: $p5;
+        }
+
+        blockquote {
+          color: $lightGray;
+          border-left-color: $lightGray;
+        }
       }
     }
   }
