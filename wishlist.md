@@ -17,7 +17,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [savage reign tank](https://cottonbureau.com/products/savage-reign#/9482286/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
 - [simple nature tank (aqua)](https://cottonbureau.com/products/simple-nature#/8170618/tank-unisex-tank-top-aqua-triblend-tri-blend-s)
 - [Mornings are for Coffee and Contemplation mug](https://smile.amazon.com/Mornings-Are-Coffee-Contemplation-oz/dp/B077Y113LJ/ref=pd_aw_lpo_1?pd_rd_i=B077Y113LJ&th=1)
-- [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwhLKUBhDiARIsAMaTLnGhR3xV54z0pnzJzWAJIP5Zjox12sQQIkhFbzj7GQ_JnpdgoQM_lhkaAky_EALw_wcB)
+- [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
 
 ## Nic's List
@@ -25,7 +25,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 #### Coffee Supplies
 
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
-- [Ember mug (14oz black)](https://ember.com/products/ember-mug-2?variant=30843977760853)
+- [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 
 #### T-Shirts from Cotton Bureau (size medium)
@@ -41,18 +41,18 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Hoptopus](https://cottonbureau.com/products/hoptopus#/9969833/tee-men-standard-tee-envy-tri-blend-s) in Envy Tri-Blend
 - [Pixel Coffee](https://cottonbureau.com/products/pixel-coffee#/2004544/tee-men-standard-tee-indigo-tri-blend-s) in Indigo Tri-Blend
 
-#### Hats
+### Hats
 
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
 	- [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
-	<!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
+  <!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
 	- [Authentic 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
 	- [Authentic Logo 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
-	<!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
-	- [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
-
+  <!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
+    - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
+  
 - Celtics
 	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
 	- [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
@@ -67,32 +67,27 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
-	- 2x [White Pegboards](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
+	- 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
 	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
 	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
 	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
-- Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2L1VNDOBG6TTJ?ref_=wl_share)
-
-### Books
-
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)
-	- Physical Books I Want tab
-  - If unsure what to get, [an Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
-- Order of the Stick books (PDFs from Gumroad):
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
+	- [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+<!-- - Order of the Stick books (PDFs from Gumroad):
 	- Main Books
-		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf) <!-- 1 to 121 -->
-		- [No Cure for the Paladin Blues](https://richburlew.gumroad.com/l/ootsncfpb) <!-- 122 to 301 -->
-		- [War and XPs](https://richburlew.gumroad.com/l/ootswaxp) <!-- 302 to 484 -->
-		- [Don't Split the Party](https://richburlew.gumroad.com/l/ootsdstp) <!-- 485 to 672 -->
-		- [Blood Runs in the Family](https://richburlew.gumroad.com/l/ootsbritf) <!-- 673 to 946 -->
-		- [Utterly Dwarfed](https://richburlew.gumroad.com/l/ootsud) <!-- 947 to 1189 -->
+		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf)
+		- [No Cure for the Paladin Blues](https://richburlew.gumroad.com/l/ootsncfpb)
+		- [War and XPs](https://richburlew.gumroad.com/l/ootswaxp)
+		- [Don't Split the Party](https://richburlew.gumroad.com/l/ootsdstp)
+		- [Blood Runs in the Family](https://richburlew.gumroad.com/l/ootsbritf)
+		- [Utterly Dwarfed](https://richburlew.gumroad.com/l/ootsud)
 	- Side Stories
-		- [On the Origin of PCs](https://richburlew.gumroad.com/l/ootsotoopcs) <!-- Prequel, after DCF -->
-		- [Start of Darkness](https://richburlew.gumroad.com/l/ootssod) <!-- Villain prequel, after NCftPB -->
-		<!-- - [Snips, Snails and Dragon Tails]() Alternate Reality Short Stories, after DStP --> 
-		- [Good Deeds Gone Unpunished](https://richburlew.gumroad.com/l/ootsgdgu) <!-- Azure City prequel, after BRitF -->
-		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) <!-- Belkar origin story -->
-		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) <!-- Haley and Elan fun story -->
+		- [On the Origin of PCs](https://richburlew.gumroad.com/l/ootsotoopcs) 
+		- [Start of Darkness](https://richburlew.gumroad.com/l/ootssod) 
+		- [Snips, Snails and Dragon Tails]() Alternate Reality Short Stories, after DStP 
+		- [Good Deeds Gone Unpunished](https://richburlew.gumroad.com/l/ootsgdgu) 
+		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) 
+		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) -->
 
 #### Gift Certificates
 
