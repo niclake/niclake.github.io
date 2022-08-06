@@ -85,7 +85,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) 
 		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) -->
 
-### Gift Certificates
+#### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Converse](https://www.converse.com/c/gift-cards)
@@ -93,12 +93,12 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Steam (grocery stores, Walmart, Target, GameStop will have these)
 - PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
 	- No need for PlayStation Now cards
-<!-- 
-### Expensive Things (mostly for my own reference)
 
-- [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo) -->
+<!--
+#### Expensive Things (mostly for my own reference)
 
-<!-- 
+- [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo)
+
 ### Cookbooks (physical, hardcover pref.)
 
 - [The Food Lab](https://amzn.to/3dU1aJ4)
