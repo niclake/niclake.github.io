@@ -22,13 +22,20 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Nic's List
 
-#### Coffee Supplies
-
+- [Kindle Paperwhite](https://amzn.to/3JyyqFk)
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
+- [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
+- Ikea Skadis shelving system
+	- 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
+	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
+	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
+	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
+	- [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
-#### T-Shirts from Cotton Bureau (size medium)
+### T-Shirts from Cotton Bureau (size medium)
 
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
 - [Classic Stripes](https://cottonbureau.com/p/SEC5NG/shirt/classic-stripes#/14964159/tee-men-standard-tee-machiato-tri-blend-m) in Machiato Tri-Blend
@@ -62,17 +69,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 	- [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
 	- [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
 
-
-#### Random Items
-
-- [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
-- Ikea Skadis shelving system
-	- 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
-	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
-	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
-	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
-	- [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 <!-- - Order of the Stick books (PDFs from Gumroad):
 	- Main Books
 		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf)
@@ -89,7 +85,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) 
 		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) -->
 
-#### Gift Certificates
+### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Converse](https://www.converse.com/c/gift-cards)
@@ -97,10 +93,10 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Steam (grocery stores, Walmart, Target, GameStop will have these)
 - PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
 	- No need for PlayStation Now cards
+<!-- 
+### Expensive Things (mostly for my own reference)
 
-#### Expensive Things (mostly for my own reference)
-
-- [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo)
+- [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo) -->
 
 <!-- 
 ### Cookbooks (physical, hardcover pref.)
