@@ -14,6 +14,10 @@ I spend my nights and weekends partaking in a variety of hobbies. Video games ar
 
 This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/).
 
+| Test table | Test Table 2 |
+| ---------- | ------------ |
+| Table testing | Ok does this work? |
+
 <div class="contact-me">
   <h3>Contact Me</h3>
   <ul>
