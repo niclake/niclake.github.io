@@ -94,6 +94,7 @@ a {
     position: relative;
     top: -99px;
     visibility: hidden;
+    background-color: transparent !important;
   }
 
   &:visited, &:active {
