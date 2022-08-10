@@ -23,6 +23,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ## Nic's List
 
 - [Kindle Paperwhite](https://amzn.to/3JyyqFk)
+- [Steam Deck](https://store.steampowered.com/steamdeck) (ideally the 512gb version)
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
