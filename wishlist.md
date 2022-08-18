@@ -29,12 +29,15 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
-	- 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
-	- 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
-	- 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
-	- 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
+    - 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
+    - 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
+    - 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
+    - 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
+- [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
+- [Harry's Toiletry Bag](https://www.harrys.com/en/us/products/toiletry-bag)
+- [100W USB GaN charger](https://amzn.to/3prSEY7) (wouldn't mind up to 4 of these)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
-	- [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+    - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 ### T-Shirts from Cotton Bureau (size medium)
 
