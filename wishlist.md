@@ -22,10 +22,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Nic's List
 
+### Uncategorized Things
+
 - [Kindle Paperwhite](https://amzn.to/3JyyqFk)
 - [Steam Deck](https://store.steampowered.com/steamdeck) (ideally the 512gb version)
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
+- [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
@@ -36,6 +39,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
 - [Harry's Toiletry Bag](https://www.harrys.com/en/us/products/toiletry-bag)
 - [100W USB GaN charger](https://amzn.to/3prSEY7) (wouldn't mind up to 4 of these)
+- [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
     - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
@@ -73,22 +77,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 	- [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
 	- [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
 
-<!-- - Order of the Stick books (PDFs from Gumroad):
-	- Main Books
-		- [Dungeon Crawlin' Fools](https://richburlew.gumroad.com/l/ootsdcf)
-		- [No Cure for the Paladin Blues](https://richburlew.gumroad.com/l/ootsncfpb)
-		- [War and XPs](https://richburlew.gumroad.com/l/ootswaxp)
-		- [Don't Split the Party](https://richburlew.gumroad.com/l/ootsdstp)
-		- [Blood Runs in the Family](https://richburlew.gumroad.com/l/ootsbritf)
-		- [Utterly Dwarfed](https://richburlew.gumroad.com/l/ootsud)
-	- Side Stories
-		- [On the Origin of PCs](https://richburlew.gumroad.com/l/ootsotoopcs) 
-		- [Start of Darkness](https://richburlew.gumroad.com/l/ootssod) 
-		- [Snips, Snails and Dragon Tails]() Alternate Reality Short Stories, after DStP 
-		- [Good Deeds Gone Unpunished](https://richburlew.gumroad.com/l/ootsgdgu) 
-		- [Uncivil Servant](https://richburlew.gumroad.com/l/ootsuncivil) 
-		- [Haleo and Julelan](https://richburlew.gumroad.com/l/ootshandj) -->
-
 #### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
@@ -97,30 +85,3 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Steam (grocery stores, Walmart, Target, GameStop will have these)
 - PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
 	- No need for PlayStation Now cards
-
-<!--
-#### Expensive Things (mostly for my own reference)
-
-- [Elgato Game Capture 4K60 Pro](https://amzn.to/3bPjDGo)
-
-### Cookbooks (physical, hardcover pref.)
-
-- [The Food Lab](https://amzn.to/3dU1aJ4)
-- [The Flavor Bible](https://amzn.to/3oqcUYq)
-- [Just a French Guy Cooking](https://amzn.to/34MpSqv)
-- [Salt, Fat, Acid, Heat](https://amzn.to/3e8wuUF)
-- [The Joy of Cooking](https://amzn.to/3jv9Syo)
-- [Miraval's Sweet & Savory Cooking](https://amzn.to/37GyNNt)
-- [Modernist Cuisine at Home](https://amzn.to/3jrm3w7)
-- [Ad Hoc at Home](https://amzn.to/37GAk6b)
-- [Mission Street Food](https://amzn.to/3jnVYOE)
-- [On Food & Cooking](https://amzn.to/2FYXclT)
-- [Vegetable Simple](https://amzn.to/34rm1QD)
-- [Cook This Book](https://amzn.to/31JqVH1)
-- [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
-- [Momofuku](https://amzn.to/2FpGaNy)
-- [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
-- [Vegan Thai Kitchen](https://amzn.to/2GSJSzu)
-- [Truly Mexican](https://amzn.to/3nD7Rnh)
-- [Modernist Bread](https://amzn.to/3oo2Y1D)
--->
