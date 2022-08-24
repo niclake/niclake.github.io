@@ -43,6 +43,12 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
     - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
+### Bags
+
+- [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
+- [Peak Design Everyday Backpack (20L)](https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420) (Ash or Charcoal)
+- [Peak Design Everyday Sling (6L)](https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685) (Ash)
+
 ### T-Shirts from Cotton Bureau (size medium)
 
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
