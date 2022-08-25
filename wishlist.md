@@ -32,16 +32,16 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
-    - 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
-    - 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
-    - 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
-    - 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
+  - 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
+  - 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
+  - 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
+  - 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
 - [Harry's Toiletry Bag](https://www.harrys.com/en/us/products/toiletry-bag)
 - [100W USB GaN charger](https://amzn.to/3prSEY7) (wouldn't mind up to 4 of these)
 - [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
-    - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+  - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 ### Bags
 
@@ -67,21 +67,21 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
-	- [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
+  - [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
   <!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
-	- [Authentic 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
-	- [Authentic Logo 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
+  - [Authentic 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
+  - [Authentic Logo 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   <!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
-    - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
+  - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
   
 - Celtics
-	- [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
-	- [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
+  - [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
+  - [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
 
 - Other
-	- [Worcester Red Sox](https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted)
-	- [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
-	- [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
+  - [Worcester Red Sox](https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted)
+  - [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
+  - [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
 
 #### Gift Certificates
 
@@ -90,4 +90,4 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Nintendo](https://www.nintendo.com/giftcards)
 - Steam (grocery stores, Walmart, Target, GameStop will have these)
 - PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
-	- No need for PlayStation Now cards
+  - No need for PlayStation Now cards
