@@ -17,6 +17,7 @@ I have so many random creative projects in flight. An incomplete list:
 - A new EP (which may be on hold - [see my last post](do) if you're curious0
 - A D&D campaign I'd like to get back to running, which is a prelude to...
 - A D&D campaign I'd like to actually get written so I can run it at some point
+- Learning Swift, so I can make a couple iOS apps
 - Learning how to draw
 - Learning how to crochet
 
