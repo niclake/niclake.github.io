@@ -24,8 +24,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Uncategorized Things
 
-- [Kindle Paperwhite](https://amzn.to/3JyyqFk)
-- [Steam Deck](https://store.steampowered.com/steamdeck) (ideally the 512gb version)
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
@@ -43,11 +41,14 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
   - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
-### Bags
+[//]: # (### Bags)
 
-- [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
-- [Peak Design Everyday Backpack (20L)](https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420) (Ash or Charcoal)
-- [Peak Design Everyday Sling (6L)](https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685) (Ash)
+[//]: # ()
+[//]: # (- [Peak Design Everyday Backpack &#40;20L&#41;]&#40;https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420&#41; &#40;Ash or Charcoal&#41;)
+
+[//]: # (- [Peak Design Everyday Sling &#40;6L&#41;]&#40;https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685&#41; &#40;Ash&#41;)
+
+[//]: # (- [Peak Design Tech Pouch]&#40;https://www.peakdesign.com/products/tech-pouch/&#41; &#40;any color&#41;)
 
 ### T-Shirts from Cotton Bureau (size medium)
 
@@ -76,12 +77,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   
 - Celtics
   - [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531)
-  - [Sweep 59FIFTY](https://www.neweracap.com/products/boston-celtics-sweep-9fifty-snapback)
+  - [Team Color Black 59FIFTY](https://www.neweracap.com/products/boston-celtics-team-color-black-59fifty-fitted?variant=42671043313891)
+  - [Stone Pack 59FIFTY](https://www.neweracap.com/products/boston-celtics-stone-pack-59fifty-fitted?variant=43209671606499)
 
-- Other
-  - [Worcester Red Sox](https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted)
-  - [Ashville Tourists](https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted)
-  - [Hillsboro Hops](https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted)
+[//]: # (- Other)
+[//]: # (  - [Worcester Red Sox]&#40;https://www.neweracap.com/products/worcester-red-sox-theme-nights-59fifty-fitted&#41;)
+[//]: # (  - [Ashville Tourists]&#40;https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted&#41;)
+[//]: # (  - [Hillsboro Hops]&#40;https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted&#41;)
 
 #### Gift Certificates
 
