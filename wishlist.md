@@ -43,10 +43,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 [//]: # (### Bags)
-
-[//]: # ()
 [//]: # (- [Peak Design Everyday Backpack &#40;20L&#41;]&#40;https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420&#41; &#40;Ash or Charcoal&#41;)
-
 [//]: # (- [Peak Design Everyday Sling &#40;6L&#41;]&#40;https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685&#41; &#40;Ash&#41;)
 
 
@@ -68,10 +65,10 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
-  - [City Connect 59FIFTY Fitted](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
+  - [City Connect 59FIFTY](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
   <!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
-  - [Authentic 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
-  - [Authentic Logo 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
+  - [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
+  - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   <!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
   
