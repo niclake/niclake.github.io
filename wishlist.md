@@ -27,6 +27,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
+- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
@@ -35,10 +36,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - 2x [white shelves](https://www.ikea.com/us/en/p/skadis-shelf-white-00320799/)
   - 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
-- [Harry's Toiletry Bag](https://www.harrys.com/en/us/products/toiletry-bag)
 - [100W USB GaN charger](https://amzn.to/3prSEY7) (wouldn't mind up to 4 of these)
 - [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand)
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing) (Physical Books I Want tab)
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
   - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
 [//]: # (### Bags)
@@ -48,7 +48,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 [//]: # (- [Peak Design Everyday Sling &#40;6L&#41;]&#40;https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685&#41; &#40;Ash&#41;)
 
-[//]: # (- [Peak Design Tech Pouch]&#40;https://www.peakdesign.com/products/tech-pouch/&#41; &#40;any color&#41;)
 
 ### T-Shirts from Cotton Bureau (size medium)
 
