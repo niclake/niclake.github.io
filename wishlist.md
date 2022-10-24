@@ -22,13 +22,14 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Nic's List
 
-### Uncategorized Things
+### Things and Stuff
 
 - [COSORI Electric Gooseneck Kettle](https://amzn.to/3lBphik)
 - [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
 - [Aer Day Sling 3 Max](https://www.aersf.com/day-sling-3-max-gray) (grey or black)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
+- [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k/128gb) (WiFi + Ethernet)
 - [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
 - Ikea Skadis shelving system
   - 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
