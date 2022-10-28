@@ -16,6 +16,7 @@ Hello. I'm Nic Lake. My pronouns are he/him.
 Here is how I prefer to keep in touch, and why:
 
 - I converse with most people on [Twitter](http://twitter.com/niclake)
+- I am also over on [Cohost](https://cohost.org/niclake), in case The Great Migration™ actually occurs
 - You are welcome to [email me](mailto:niclake13@gmail.com) if you have anything specific you'd like to discuss
 - I share photos with friends and family on [Instagram](http://instagram.com/niclake)
 - I blog very infrequently on [my website](https://niclake.me)
