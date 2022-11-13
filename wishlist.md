@@ -31,7 +31,8 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k/128gb) (WiFi + Ethernet)
-- [Drop + OLKB Planck Keyboard](https://drop.com/buy/planck-mechanical-keyboard) (high-pro green case + Acute Keycap Set)
+- [Thursday boots President (size 9.5, color Black Coffee)](https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066)
+- Converse All Stars (size 10, standard width, in [Black](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9166.html?dwvar_M9166_color=black&styleNo=M9166&cgid=mens-classic-chuck-shoes), [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-seasonal-color-unisex-low-top-shoe/172688MP.html?pid=172688MP&dwvar_172688MP_color=snorkel%20blue&dwvar_172688MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=A00790F))
 - Ikea Skadis shelving system
   - 1-2x [White Pegboards (30x22")](https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/)
   - 1x [set of white containers](https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/)
@@ -42,6 +43,8 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
   - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+
+[//]: # (- [Drop + OLKB Planck Keyboard]&#40;https://drop.com/buy/planck-mechanical-keyboard&#41; &#40;high-pro green case + Acute Keycap Set&#41;)
 
 [//]: # (### Bags)
 [//]: # (- [Peak Design Everyday Backpack &#40;20L&#41;]&#40;https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420&#41; &#40;Ash or Charcoal&#41;)
