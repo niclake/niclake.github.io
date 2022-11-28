@@ -4,7 +4,7 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic or Becca for the holiday season (or any time, if you're feeling generous)!
+Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, Becca, or Violet for the holiday season (or any time, if you're feeling generous)!
 
 If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](https://niclake.me/hello/).
 
