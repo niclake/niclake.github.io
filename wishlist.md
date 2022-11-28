@@ -56,7 +56,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ### T-Shirts from Cotton Bureau (size medium)
 
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
-- [Classic Stripes](https://cottonbureau.com/p/SEC5NG/shirt/classic-stripes#/14964159/tee-men-standard-tee-machiato-tri-blend-m) in Machiato Tri-Blend
+- [Classic Stripes](https://cottonbureau.com/p/MCTF4T/shirt/classic-stripes#/14964159/tee-men-standard-tee-machiato-tri-blend-m) in Machiato Tri-Blend
 - [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
 - [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
