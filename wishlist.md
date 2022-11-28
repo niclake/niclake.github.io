@@ -8,10 +8,14 @@ Hello! If you're reading this, you've apparently tracked down the Lake Family Ho
 
 If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](https://niclake.me/hello/).
 
+## Violet's List
+
+- Things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
+
 ## Becca's List
 
+- Things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 - [Gift certificate, crystals, or jewelry from KIN](https://kindsm.com/)
-- Various things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 - [Heaven's Wild Bear tank](https://cottonbureau.com/products/heavens-wild-bear#/8047773/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
 - [Less Worry (Protest Pals) tank (charcoal triblend)](https://cottonbureau.com/products/less-worry-protest-pals#/14353613/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
 - [savage reign tank](https://cottonbureau.com/products/savage-reign#/9482286/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
