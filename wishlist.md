@@ -21,6 +21,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [simple nature tank (aqua)](https://cottonbureau.com/products/simple-nature#/8170618/tank-unisex-tank-top-aqua-triblend-tri-blend-s)
 - [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
+- [Sorel Boots](https://www.backcountry.com/sorel-joan-of-arctic-wedge-ii-chelsea-boot-womens) (Size 7, black)
+- [Happiness Runs crop tank](https://www.freepeople.com/fpmovement/shop/happiness-runs-crop-tank/?color=099&gbraid=0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ,0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ&gclid=CjwKCAjwp7eUBhBeEiwAZbHwkUWNpNhdH-EPUvWoD8maLKWh1wuyb08l78rw3il7mXihmPvLHybP9xoCzXAQAvD_BwE&gclsrc=aw.ds&size=M%2FL&utm_kxconfid=vx6ro62gj&type=REGULAR&quantity=1) (Size M/L, any color)
+- [Vans Checkerboard Classic Slip-On Mule Shoe](https://www.vans.com/en-us/shoes-c00081/checkerboard-classic-slip-on-mule-shoe-pvn0a4p3u5gu) (size Women's 7)
+- [Nike Women DBreak](https://nike.app.link/4ejyweJ6jqb) (black, size 7)
+- [Rifle Paper Co. Garden Party Blue iPhone 13 Pro Max case](https://case-mate.com/products/rifle-paper-co-garden-party-blue-iphone-13-pro-max)
 
 ## Nic's List
 
