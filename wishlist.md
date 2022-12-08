@@ -26,6 +26,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Vans Checkerboard Classic Slip-On Mule Shoe](https://www.vans.com/en-us/shoes-c00081/checkerboard-classic-slip-on-mule-shoe-pvn0a4p3u5gu) (size Women's 7)
 - [Nike Women DBreak](https://nike.app.link/4ejyweJ6jqb) (black, size 7)
 - [Rifle Paper Co. Garden Party Blue iPhone 13 Pro Max case](https://case-mate.com/products/rifle-paper-co-garden-party-blue-iphone-13-pro-max)
+- [Kindred Row Gypsy Starburst Dome band](https://kindredrow.com/collections/rings/products/gypsy-stardust-dome-ring?variant=39637822898255) (aquamarine sides, sapphire center, size 7)
 
 ## Nic's List
 
