@@ -15,9 +15,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ## Becca's List
 
 - Things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
-- [Heaven's Wild Bear tank](https://cottonbureau.com/products/heavens-wild-bear#/8047773/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
-- [Less Worry (Protest Pals) tank (charcoal triblend)](https://cottonbureau.com/products/less-worry-protest-pals#/14353613/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
-- [savage reign tank](https://cottonbureau.com/products/savage-reign#/9482286/tank-unisex-tank-top-charcoal-black-triblend-tri-blend-s)
 - [simple nature tank (aqua)](https://cottonbureau.com/products/simple-nature#/8170618/tank-unisex-tank-top-aqua-triblend-tri-blend-s)
 - [Fowl Language Bird mug](https://alwaysfits.com/products/fowl-language-bird-coffee-mug?variant=22338257420336&currency=USD)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
@@ -26,7 +23,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Vans Checkerboard Classic Slip-On Mule Shoe](https://www.vans.com/en-us/shoes-c00081/checkerboard-classic-slip-on-mule-shoe-pvn0a4p3u5gu) (size Women's 7)
 - [Nike Women DBreak](https://nike.app.link/4ejyweJ6jqb) (black, size 7)
 - [Rifle Paper Co. Garden Party Blue iPhone 13 Pro Max case](https://case-mate.com/products/rifle-paper-co-garden-party-blue-iphone-13-pro-max)
-- [Midnight Flight iPhone case](https://cottonbureau.com/p/EPC49Q/phonecase/midnight-flight#/15501966/iphone-13-iphone-13-pro-max-tough-matte-magsafe-slate) (iPhone 13 Pro Max, Tough Matte Magsafe, Slate)
 - [Kindred Row Gypsy Starburst Dome band](https://kindredrow.com/collections/rings/products/gypsy-stardust-dome-ring?variant=39637822898255) (aquamarine sides, sapphire center, size 7)
 
 ## Nic's List
