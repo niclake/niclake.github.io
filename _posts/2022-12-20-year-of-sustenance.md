@@ -50,6 +50,7 @@ We've had a bit of a family health scare in the family at the end of this year. 
 
 - I've done pretty ok with cutting out soda + sugary drinks, and making healthy meals. I want to keep going on this train, as well as ensure that I'm drinking enough water to stay hydrates (especially as winter rolls in)
 - I *need* to exercise. Something, somehow. Whether that's just some light cardio in the home, or whether I end up going to a gym, I need to get my heart rate up and move my body. Ideally, I still am carrying around 35 lbs that I would love to dispose of somewhere. But ultimately, I just want to be able to keep up with my daughter as she zooms around the house, not feel like a loaf every time I go to pick her up, and be able to get on the floor to play with her without fearing that I can't get back up.
+- Continue to meal plan every week. My wife and I started doing this towards the end of the year as a way to keep us focused, make as few trips to the store as possible, and have fewer converstaions that start with me asking "so what do you want to eat tonight?"
 
 ### Personal
 
