@@ -29,8 +29,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Things and Stuff
 
-- [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
-- [Weird Coffee Person mug](https://us.tenshundredsthousands.com/collections/weird-coffee-person-brain/products/weird-coffee-person-brain-mug)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k/128gb) (WiFi + Ethernet)
