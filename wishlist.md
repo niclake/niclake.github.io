@@ -41,7 +41,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - 4x [sets of white hooks](https://www.ikea.com/us/en/p/skadis-hook-white-50335618/)
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
 - [100W USB GaN charger](https://amzn.to/3prSEY7) (wouldn't mind up to 4 of these)
-- [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand)
+- [TwelveSouth HiRise 3](https://www.twelvesouth.com/products/hirise-3-wireless-charging-stand) or [StudioNeat Material Dock Trio](https://www.studioneat.com/products/materialdock)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
   - [An Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 
