@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Helper Apps (or, 'Where the **** is this triggered from?')"
+title: "Mac Helper Apps, or Where The FUDGE Is This Triggered From?"
 categories: Personal
 ---
 

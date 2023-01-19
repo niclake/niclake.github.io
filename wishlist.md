@@ -51,7 +51,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 [//]: # (- [Peak Design Everyday Backpack &#40;20L&#41;]&#40;https://www.peakdesign.com/products/everyday-backpack?variant=29743300837420&#41; &#40;Ash or Charcoal&#41;)
 [//]: # (- [Peak Design Everyday Sling &#40;6L&#41;]&#40;https://www.peakdesign.com/collections/everyday-bags/products/everyday-sling?variant=31374291140685&#41; &#40;Ash&#41;)
 
-
 ### T-Shirts from Cotton Bureau (size medium)
 
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
