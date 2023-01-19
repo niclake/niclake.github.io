@@ -22,6 +22,8 @@ Ok, time to audit. Let's check a combo of my menubar and my apps folder to see w
 
 ![A shot of my menu bar][menuBar]
 
+*I'm just going to get ahead of this now: my menu bar is split thanks to Bartender. Top row left to right: iStat Menus (from weather thru the calendar icon), Bartender, & Control Center. Bottom row: Maestrel, Zoom, DisplayLink, 1Password, Music.app, Adobe CreativeCloud, Alfred, TextExpander, Rocket, Keyboard Maestro, MacMediaKeyForwarder, Spotlight, Karabiner-Elements, native Keyboard switcher, BetterTouchTool, Users, spacer, Magnet, Nightfall, Moom, Bluetooth, Wifi, spacer, Superpowered, Docker, Zscaler.*
+
 - [Alfred](http://alfredapp.com) (app launcher, various workflows, clipboard manager)
 - [BetterTouchTool](https://folivora.ai) (mouse & trackpad gestures)
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org) (custom key commands on my MacBook to match my mechanical keyboards)
