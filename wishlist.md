@@ -29,8 +29,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Things and Stuff
 
-- [Ember mug (10oz black)](https://ember.com/products/ember-mug-2?variant=30843977826389)
-- [Weird Coffee Person mug](https://us.tenshundredsthousands.com/collections/weird-coffee-person-brain/products/weird-coffee-person-brain-mug)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k/128gb) (WiFi + Ethernet)
@@ -58,9 +56,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
 - [Classic Stripes](https://cottonbureau.com/p/MCTF4T/shirt/classic-stripes#/14964159/tee-men-standard-tee-machiato-tri-blend-m) in Machiato Tri-Blend
-- [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [No Internet](https://cottonbureau.com/products/no-internet#/1911686/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
-- [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
+- [The Controller](https://cottonbureau.com/products/the-controller#/1959058/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-- [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
 - [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
 - [Six Color Commander](https://cottonbureau.com/products/six-color-commander#/14399321/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 - [hello.](https://cottonbureau.com/products/hello-14#/13684735/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
