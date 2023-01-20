@@ -8,7 +8,7 @@ categories: Personal
 
 Over at the [Relay.FM member's Discord](https://www.relay.fm/membership), a lot of different conversations take place about a variety of topics. I spend a lot of time in our ***#apple*** channel, talking about everything Apple news related, along with discussions about hardware & software. One of the conversations that [Rosemary Orchard](https://rosemaryorchard.com) started in prepping for a future episode of the [Automators podcast](https://www.relay.fm/automators) actually gave me a great idea for 2 blog posts - this is the first one of those.
 
-One of the best part about using a Mac is the sheer abundence of apps and utilities to help you be productive. Clipboard managers, app launchers, ways to dump snippets of text on demand, controlling audio... that's just scratching the surface.
+One of the best parts about using a Mac is the sheer abundence of apps and utilities to help you be productive. Clipboard managers, app launchers, ways to dump snippets of text on demand, controlling audio... that's just scratching the surface.
 
 <!-- more -->
 
