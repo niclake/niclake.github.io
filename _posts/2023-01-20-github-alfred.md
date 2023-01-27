@@ -2,6 +2,7 @@
 layout: post
 title: "GitHub Repository Helper - an Alfred Workflow"
 categories: Personal Project
+projectInfo: An Alfred workflow GitHub repository helper. Allows you to open the chosen repository in your browser, copy its URL to your clipboard, or navigate directly to the pull requests, issues, or projects page for that repo.
 ---
 
 ![alt text][headerImg]
