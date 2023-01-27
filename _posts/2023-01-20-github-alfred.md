@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Repository Helper - an Alfred Workflow"
-categories: Personal
+categories: Personal Project
 ---
 
 ![alt text][headerImg]
