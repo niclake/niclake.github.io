@@ -1,0 +1,41 @@
+---
+layout: page
+permalink: /projects/
+title: Projects
+---
+
+<p>Below is a list of the various projects that I have worked on and released over the years. These include music, various code projects, writings, and more.</p>
+
+<p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake" target="_blank">buy me a coffee</a>.</p>
+
+<div class="container">
+    {% for post in site.categories.project %}
+      {% assign remainder = forloop.index | modulo: 3 %}
+      {% if remainder == 0 or forloop.first %}
+        <div class="row">
+      {% endif %}
+
+          <div class="col-sm-4">
+            <div class="card" href="{{ site.baseurl }}{{ post.url }}">
+              <div class="m-2">
+                <h3>{{post.title}}</h3>
+                {% if post.image %}
+                  <img src="{{ post.image }}" />
+                {% endif %}
+                <p>{{post.projectInfo}}</p>
+                <div>
+                  {% if post.projectLink %}
+                    <a href="{{ post.projectLink }}">Project Link</a> | 
+                  {% endif %}
+                  <a href = "{{ post.url }}">Blog Post</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      {% if remainder == 2 or forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
