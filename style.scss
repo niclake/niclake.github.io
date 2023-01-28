@@ -401,6 +401,10 @@ tbody tr:nth-child(even) {
   background-color: $p1;
 }
 
+div[class^="col"], div[class*=" col-"] {
+  padding-bottom: 15px;
+}
+
 .card {
   background-color: $p1;
   border-radius: .75rem;
