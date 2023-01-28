@@ -10,16 +10,27 @@ title: Projects
 
 <div class="container">
     {% for post in site.categories.project %}
-      {% assign remainder = forloop.inder | modulo: 3 %}
-      {% if remainder == 0 %}
+      {% assign remainder = forloop.index | modulo: 3 %}
+      {% if remainder == 0 or forloop.first %}
         <div class="row">
       {% endif %}
 
           <div class="col-sm-4">
-            <a class="card" href="{{ site.baseurl }}{{ post.url }}">
-              <h2>{{post.title}}</h2>
-              <div>{{post.projectInfo}}</div>
-            </a>
+            <div class="card" href="{{ site.baseurl }}{{ post.url }}">
+              <div class="m-2">
+                <h3>{{post.title}}</h3>
+                {% if post.image %}
+                  <img src="{{ post.image }}" />
+                {% endif %}
+                <p>{{post.projectInfo}}</p>
+                <div>
+                  {% if post.projectLink %}
+                    <a href="{{ post.projectLink }}">Project Link</a> | 
+                  {% endif %}
+                  <a href = "{{ post.url }}">Blog Post</a>
+                </div>
+              </div>
+            </div>
           </div>
 
       {% if remainder == 2 or forloop.last %}

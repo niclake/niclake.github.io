@@ -401,6 +401,10 @@ tbody tr:nth-child(even) {
   background-color: $p1;
 }
 
+.card {
+  background-color: $p1;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
@@ -522,6 +526,10 @@ footer {
   }
 
   tbody tr:nth-child(even) {
+    background-color: $p5;
+  }
+
+  .card {
     background-color: $p5;
   }
 }
