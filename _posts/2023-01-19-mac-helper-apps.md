@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mac Helper Apps, or Where The FUDGE Is This Triggered From?"
-categories: Personal
+categories: personal
 ---
 
 ![alt text][headerImg]

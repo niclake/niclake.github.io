@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Perfect* Thanksgiving Dinner"
-categories: Personal
+categories: personal
 ---
 
 ![alt text][headerImg]

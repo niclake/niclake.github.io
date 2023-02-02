@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Game Review - The Legend of Zelda: Breath of the Wild"
-categories: Review Switch
+categories: review switch
 ---
 
 ![alt text][gameImg]

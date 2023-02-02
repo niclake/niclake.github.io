@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deadlines (or, On Writing)"
-categories: Personal
+categories: personal
 ---
 
 ![alt text][headerImg]

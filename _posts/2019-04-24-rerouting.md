@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rerouting"
-categories: Personal
+categories: personal
 ---
 
 ![alt text][gameImg]

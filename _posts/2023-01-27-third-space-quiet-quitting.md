@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Death of the Third Space + Quiet Quitting"
-categories: Personal
+categories: personal
 ---
 
 ![A very tired person with their head on their desk holding a sign that says "help".][headerImg]

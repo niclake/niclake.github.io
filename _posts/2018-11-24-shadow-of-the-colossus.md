@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Game Review - Shadow of the Colossus"
-categories: Review PS4
+categories: review ps4
 ---
 
 ![alt text][gameImg]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Year of the Garden"
-categories: Personal
+categories: personal
 ---
 
 ![alt text][headerImg]
