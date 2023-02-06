@@ -9,7 +9,8 @@ title: Projects
 <p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake" target="_blank">buy me a coffee</a>.</p>
 
 <div class="container">
-    {% for post in site.categories.project %}
+  {% for post in site.categories.project %}
+    {% if post.hidden != true %}
       {% assign remainder = forloop.index | modulo: 3 %}
       {% if remainder == 1 or forloop.first %}
         <div class="row">
@@ -36,6 +37,6 @@ title: Projects
       {% if remainder == 0 or forloop.last %}
         </div>
       {% endif %}
-    {% endfor %}
-  </div>
+    {% endif %}
+  {% endfor %}
 </div>
