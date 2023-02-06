@@ -11,7 +11,7 @@ title: Projects
 <div class="container">
     {% for post in site.categories.project %}
       {% assign remainder = forloop.index | modulo: 3 %}
-      {% if remainder == 0 or forloop.first %}
+      {% if remainder == 1 or forloop.first %}
         <div class="row">
       {% endif %}
 
@@ -33,7 +33,7 @@ title: Projects
             </div>
           </div>
 
-      {% if remainder == 2 or forloop.last %}
+      {% if remainder == 0 or forloop.last %}
         </div>
       {% endif %}
     {% endfor %}
