@@ -23,7 +23,7 @@ In years past, I'd be annoyed that it's always snowy and cold on my birthday. To
 
 None of this is to complain (ok I'm a little pissed about my arm, so that one might be). All of this is just change. Not good change or bad change. Just change. For years, I've been so resistant to change. I'm stubborn and selfish, and I was nervous about having a child because of it. But now? I wouldn't have it any other way.
 
-This is February 13, 2023. This is the 43rd day of the year. This is Monday. This is a day ending in "y". This is another day where my family is healthy, my daughter is happy, and the house is warm.
+This is February 13, 2023. This is the 44th day of the year. This is Monday. This is a day ending in "y". This is another day where my family is healthy, my daughter is happy, and the house is warm.
 
 This is thirty-six.
 
