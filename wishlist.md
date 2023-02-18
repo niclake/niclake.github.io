@@ -78,6 +78,23 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 [//]: # (  - [Ashville Tourists]&#40;https://www.neweracap.com/products/ashville-tourists-theme-night-59fifty-fitted&#41;)
 [//]: # (  - [Hillsboro Hops]&#40;https://www.neweracap.com/products/hillsboro-hops-authentic-collection-59fifty-fitted&#41;)
 
+### Red Sox Jerseys
+
+Note: size Medium for all of these
+
+- [Navy (David Ortiz, #34)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-david-ortiz-nike-navy-alternate-replica-player-jersey/t-25333097+p-0464684556805+z-9-2288905099?_ref=p-DLP:m-GRID:i-r4c0:po-12)
+- [Yellow (City Connect) (Rafael Devers, #11)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-rafael-devers-nike-gold/light-blue-city-connect-replica-player-jersey/t-14551831+p-2611492574760+z-9-46042063?_ref=p-DLP:m-GRID:i-r1c0:po-3&sku=14489799)
+
+Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
+
+- Varitek 33
+- Wakefield 49
+- Martinez 45
+- Sale 41
+- Ramirez 24
+- Lester 31
+- Betts 50
+
 #### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
