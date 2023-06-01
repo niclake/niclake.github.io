@@ -83,6 +83,23 @@ Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nik
 - Lester 31
 - Betts 50
 
+### Cookbooks (physical, hardcover pref.)
+
+- [The Food Lab](https://amzn.to/3dU1aJ4)
+- [Salt, Fat, Acid, Heat](https://amzn.to/3e8wuUF)
+- [The Flavor Bible](https://amzn.to/3oqcUYq)
+- [Cook This Book](https://amzn.to/31JqVH1)
+- [World of Warcraft: The Official Cookbook](https://amzn.to/3WIrmg4)
+- [The Elder Scrolls: The Official Cookbook](https://amzn.to/43BeJWl)
+- [Tartine Bread](https://amzn.to/3MFaLFr)
+- [The Joy of Cooking](https://amzn.to/3jv9Syo)
+- [Just a French Guy Cooking](https://amzn.to/34MpSqv)
+- [Momofuku](https://amzn.to/2FpGaNy)
+- [Jet Tila - 101 Asian Dishes You Need to Cook Before You Die](https://amzn.to/36Vx85Z)
+- [On Food & Cooking](https://amzn.to/2FYXclT)
+- [Vegetable Simple](https://amzn.to/34rm1QD)
+- [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
+
 #### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
