@@ -300,7 +300,7 @@ img + em {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-size: 18px;
 
   @include mobile {
@@ -324,10 +324,20 @@ nav {
   }
 }
 
-.about-me-photo {
+.photo-right {
   float: right;
   width: 250px;
   margin: 0 0 10px 10px;
+
+  @include mobile {
+    width: 100% !important;
+  }
+}
+
+.photo-left {
+  float: left;
+  width: 250px;
+  margin: 0 10px 10px 0;
 
   @include mobile {
     width: 100% !important;
@@ -436,9 +446,9 @@ footer {
     color: $p1;
   }
 
-  h4 {
+  // h4 {
     // color: $darkGray; // leaving this
-  }
+  // }
 
   a {
     color: $p3;
