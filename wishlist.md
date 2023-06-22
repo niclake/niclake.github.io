@@ -49,12 +49,16 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 (Note: all fitted hats should be size 7 1/2)
 
 - Red Sox
-  - [City Connect 59FIFTY](https://www.lids.com/mlb-boston-red-sox/boston-red-sox-new-era-2021-city-connect-59fifty-fitted-hat-light-blue/o-2321+t-36005264+p-26120037735+z-9-1074472122?_ref=p-DLP:m-GRID:i-r0c2:po-2&sku=14686188)
-  <!-- - [Mother's Day 2022 59FIFTY Fitted](https://www.neweracap.com/products/boston-red-sox-mothers-day-2022-59fifty-fitted?variant=42786710487267) -->
   - [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   <!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
+  - [Metallic Pop 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-pop-59fifty-fitted?variant=43600696180963)
+  - [St. Patrick's Day 2023 59FIFTY](https://www.neweracap.com/products/boston-red-sox-st-patricks-day-2023-59fifty-fitted?variant=43209938469091)
+  - [Metallic City 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-city-59fifty-fitted?_pos=31&_fid=f337f046c&_ss=c)
+  - [Tri-Tone Team 59FIFTY](https://www.neweracap.com/products/boston-red-sox-tri-tone-team-59fifty-fitted?variant=43600710369507)
+  - [Varsity Letter 59FIFTY](https://www.neweracap.com/products/boston-red-sox-varsity-letter-59fifty-fitted?variant=43600721314019)
+  - [Colorpack Black 59FIFTY](https://www.neweracap.com/products/boston-red-sox-colorpack-black-59fifty-fitted?variant=43209683894499)
   
 <!-- - Celtics -->
   <!-- - [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531) -->
