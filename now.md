@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 6 Feb 2023*
+*Last updated: 13 June 2023*
 
 These are the things currently occupying my time & attention, in no particular order.
 

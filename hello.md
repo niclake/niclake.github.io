@@ -8,7 +8,7 @@ permalink: /hello/
 
 Hello. I'm Nic Lake. My pronouns are he/him.
 
-- Resident of Des Moines, IA
+- Resident of Davenport, IA
 - Husband, father, and cat dad
 - Software developer, working primarily with Ruby on Rails, React, and SwiftUI
 - Tech enthusiast, gamer, bibliophile, Boston sports fan, spreadsheet enthusiast, and craft beer connoisseur
