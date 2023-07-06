@@ -17,7 +17,7 @@ Hello. I'm Nic Lake. My pronouns are he/him.
 
 Here is how I prefer to keep in touch:
 
-- I converse with people on [Mastodon](https://mastodon.social/@niclake)
+- I converse with people on [Bluesky](https://bsky.app/profile/niclake.bsky.social), and infrequently on [Mastodon](https://mastodon.social/@niclake)
 - You are welcome to [email me](mailto:niclake13@gmail.com) if you have anything specific you'd like to discuss
 - I share photos with friends and family on [Instagram](http://instagram.com/niclake)
 - I blog on [my website](https://niclake.me)
