@@ -4,7 +4,7 @@ title: "MLB Daily Schedule Shortcut"
 categories: project shortcuts
 image: https://niclake.me/images/mlb-schedule-shortcut.png
 projectInfo: "This shortcut will pull the daily MLB schedule from their public facing API, put it into a table, and send an email to the desired recipient. You can set it up as a daily automation to know the schedules for every day."
-projectLink: https://www.icloud.com/shortcuts/58fe1d653f3c441bb62fdcb95641d9bb
+projectLink: https://www.icloud.com/shortcuts/b3f8804bed9c4052babf78fa9fadcc77
 hidden: false
 ---
 
@@ -25,4 +25,4 @@ If you are interested in installing the shortcut for yourself, [here is a link f
 Give it a try, and let me know if you run into any problems, or if you have any suggestions on how to improve it. I already have plans for a version 2 that'll include the up-to-date standings as well.
 
 [headerImg]: https://niclake.me/images/mlb-schedule-shortcut.png "ClackTrack - Catalog your mechanical keyboard collection"
-[shortcut]: https://www.icloud.com/shortcuts/58fe1d653f3c441bb62fdcb95641d9bb
+[shortcut]: https://www.icloud.com/shortcuts/b3f8804bed9c4052babf78fa9fadcc77
