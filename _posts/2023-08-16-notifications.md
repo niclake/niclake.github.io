@@ -24,7 +24,7 @@ This is what I think is the bare minimum that anyone can do to help reclaim thei
 
 Something to note: for my particular limits, Twitter (I refuse to call it X) means both the base Twitter app, but *also* Twitter's website (at least, if you're using it through Safari - can't speak to how it behaves if you have a 3rd party browser), which is great because that means you don't have as many workarounds.
 
-<img class="photo photo-right" src="{{ site.baseurl }}/images/notifications/applimits.jpg" alt="A screenshot of the app limits settings screen" />
+<a href="{{ site.baseurl }}/images/notifications/applimits.jpg"><img class="photo photo-right" src="{{ site.baseurl }}/images/notifications/applimits.jpg" alt="A screenshot of the app limits settings screen" /></a>
 
 I know that there are a few studies out there that say that using App Limits actually causes you to use the apps more; anecdotally, I don't have that issue, but your mileage may vary.
 
@@ -47,7 +47,7 @@ Ultimately, I'm replacing a live refreshing feed that is constantly in need of m
 
 These next two are what I started doing a couple of weeks ago, and I must say, I'm VERY happy with how they've turned out.
 
-<img class="photo photo-left" src="{{ site.baseurl }}/images/notifications/focus.png" alt="A screenshot of my focus mode setup" />
+<a href="{{ site.baseurl }}/images/notifications/focus.png"><img class="photo photo-left bigger" src="{{ site.baseurl }}/images/notifications/focus.png" alt="A screenshot of my focus mode setup" /></a>
 
 Focus modes are one of those things that I think people know exist, but don't really grok all that well. I've got one that I've used for reading; whenever I'm in the Kindle app for longer than a minute, it switches me over to a focus mode that's a full Do Not Disturb, and gives me a new home screen that only has the Kindle app & my various music apps on it, to keep me from just hopping into some other app and not reading.
 
@@ -57,14 +57,14 @@ What I did for this experiment was to set up a Personal focus mode on a schedule
 
 ## 5: Set Up Notification Scheduled Summaries
 
-<img class="photo photo-right" src="{{ site.baseurl }}/images/notifications/summary.png" alt="A screenshot of my notification summary setup" />
+<a href="{{ site.baseurl }}/images/notifications/summary.png"><img class="photo photo-right bigger" src="{{ site.baseurl }}/images/notifications/summary.png" alt="A screenshot of my notification summary setup" /></a>
 
 The final thing I did was to set up a scheduled summary of notifications. I'm still trying to play around with whether or not having both this and a Focus mode enabled are really necessary, but this setup seems to be working ok for me, so I'm going to stick with it for right now and see how it goes.
 
+<a href="{{ site.baseurl }}/images/notifications/summary_lock.png"><img class="photo photo-left bigger" src="{{ site.baseurl }}/images/notifications/summary_lock.png" alt="A screenshot of my lock screen showing the results of my notification summary" /></a>
+
 Basically, I'm telling all of the notifications that aren't getting whitelisted in my Focus mode to get sucked up into a big summary every 60-90 minutes. Instead of being blasted with a ton of notifications every time I come up for air, it's all rolled up together in one nice-looking summary, with the best feature being *that I can dismiss all of them all at once*.
-
-<img class="photo photo-left" src="{{ site.baseurl }}/images/notifications/summary_lock.png" alt="A screenshot of my lock screen showing the results of my notification summary" />
-
+arst
 ESPN is one of those apps that I have a love/hate relationship with. I love staying up with all of the sports news that happens throughout the day; however, I've come to realize that I just do not need to have this all right in front of my face at all times. So the Focus mode keeps it all contained throughout the day, and then my scheduled summary rolls it all up together so I can speed through all of them at a pace more suited to what I want. Think like when Stranger Things drops - they give you all the episodes so you can binge them, instead of having to go one at a time, week by week.
 
 **Where to enable**: Settings > Notifications > Scheduled Summary
