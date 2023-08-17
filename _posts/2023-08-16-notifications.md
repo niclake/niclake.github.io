@@ -8,7 +8,9 @@ image: https://niclake.me/images/notifications/banner.jpg
 ![alt text][headerImg]
 <!-- ALSO PUT THIS IN THE image: PART OF THE POST HEAD -->
 
+As my daughter grows up, I'm realizing how much she values the attention my wife and I can give her, and how frustrated she becomes when she realizes that our attention is split. My wife just got a new Kindle yesterday, and we were sitting downstairs trying to get it set up before I left for the evening; my daughter climbed up the couch and attempted to snatch the Kindle away, trying to put herself between it and us.
 
+This is just a small story, but one that really drives home how attached I have become to my devices over the years, and how our daughter is making me a better person for recognizing that and trying to break the habits. But they're *really hard* habits to break! So, I've been attempting to use some of the iPhone's built in features, along with a couple modifications to my data consumption, in order to put more of an air gap between myself and my phone.
 
 <!-- more -->
 
