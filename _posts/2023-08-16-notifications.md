@@ -64,7 +64,7 @@ The final thing I did was to set up a scheduled summary of notifications. I'm st
 <a href="{{ site.baseurl }}/images/notifications/summary_lock.png"><img class="photo photo-left bigger" src="{{ site.baseurl }}/images/notifications/summary_lock.png" alt="A screenshot of my lock screen showing the results of my notification summary" /></a>
 
 Basically, I'm telling all of the notifications that aren't getting whitelisted in my Focus mode to get sucked up into a big summary every 60-90 minutes. Instead of being blasted with a ton of notifications every time I come up for air, it's all rolled up together in one nice-looking summary, with the best feature being *that I can dismiss all of them all at once*.
-arst
+
 ESPN is one of those apps that I have a love/hate relationship with. I love staying up with all of the sports news that happens throughout the day; however, I've come to realize that I just do not need to have this all right in front of my face at all times. So the Focus mode keeps it all contained throughout the day, and then my scheduled summary rolls it all up together so I can speed through all of them at a pace more suited to what I want. Think like when Stranger Things drops - they give you all the episodes so you can binge them, instead of having to go one at a time, week by week.
 
 **Where to enable**: Settings > Notifications > Scheduled Summary
