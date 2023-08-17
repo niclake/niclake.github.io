@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img class="photo-right" src="https://i.imgur.com/cpCOxpe.jpg" />
+<img class="photo photo-right" src="https://i.imgur.com/cpCOxpe.jpg" />
 
 This is the website & blog of **Nic Lake**, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, craft beer connoisseur, spreadsheet enthusiast, husband, and cat dad living in the Des Moines, IA area.
 

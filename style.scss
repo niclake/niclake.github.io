@@ -324,13 +324,22 @@ nav {
   }
 }
 
-.photo-right {
-  float: right;
+.photo {
+  margin-bottom: 10px;
   width: 250px;
-  margin: 0 0 10px 10px;
 
   @include mobile {
     width: 100% !important;
+  }
+
+  .photo-right {
+    float: right;
+    margin-left: 10px;
+  }
+
+  .photo-left {
+    float: left;
+    margin-right: 10px;
   }
 }
 

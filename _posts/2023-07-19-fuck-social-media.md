@@ -18,7 +18,7 @@ I should back up a bit.
 
 My online experience started with AOL Instant Messenger, or AIM. Everyone seemed to have it back in my junior high, and I remember racing home from school to hop online and chat with my friends that I'd spent all day being around. We all had the cryptic away messages, about info, and all that. I can't remember most of my screennames over the years, but I do remember my last one: **ihatelockers**. (I got in a very minor scuffle the final week of 9th grade, and my punishment was that I had to come back for 4 hours the day summer started and help clean out lockers. The other guy showed up an hour late, and had to stay all day + come back the next day. Sucker.)
 
-<img class="photo-right" src="{{ site.baseurl }}/images/espn.jpg" alt="Me at a UNI basketball game" />
+<img class="photo photo-right" src="{{ site.baseurl }}/images/espn.jpg" alt="Me at a UNI basketball game" />
 
 I lived through the LiveJournal, MySpace, Xanga, and Tumblr eras. I was a leader of the grassroots effort to keep Facebook from opening itself up to people without .edu email addresses back in 2006. I was on ESPN multiple times because I interacted with the various show hosts on Twitter (or because I stuck my face in front of a camera at my school's token appearance).
 
