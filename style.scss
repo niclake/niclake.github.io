@@ -124,10 +124,10 @@ a {
       background-color: $p6;
     }
 
-    &.photo {
-      background-color: transparent;
-      border-radius: 0;
-      padding: 0;
+    &.photo-link {
+      background-color: transparent !important;
+      border-radius: 0 !important;
+      padding: 0 !important;
     }
   }
 }
