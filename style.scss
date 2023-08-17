@@ -123,6 +123,12 @@ a {
     &:hover {
       background-color: $p6;
     }
+
+    .photo {
+      background-color: transparent;
+      border-radius: 0;
+      padding: 0;
+    }
   }
 }
 
