@@ -20,11 +20,11 @@ To wrangle my time and attention back, I implemented a handful of things:
 
 This is what I think is the bare minimum that anyone can do to help reclaim their time on their phone. It's so easy for us to pick it up and mindlessly scroll through a series of apps (mostly social media) - restricting your time you're allowed to spend on them can certainly help.
 
+<a class="photo-link" href="{{ site.baseurl }}/images/notifications/applimits.jpg"><img class="photo photo-right" src="{{ site.baseurl }}/images/notifications/applimits.jpg" alt="A screenshot of the app limits settings screen" /></a>
+
 **Where to enable**: Settings > Screen Time > App Limits
 
 Something to note: for my particular limits, Twitter (I refuse to call it X) means both the base Twitter app, but *also* Twitter's website (at least, if you're using it through Safari - can't speak to how it behaves if you have a 3rd party browser), which is great because that means you don't have as many workarounds.
-
-<a class="photo-link" href="{{ site.baseurl }}/images/notifications/applimits.jpg"><img class="photo photo-right" src="{{ site.baseurl }}/images/notifications/applimits.jpg" alt="A screenshot of the app limits settings screen" /></a>
 
 I know that there are a few studies out there that say that using App Limits actually causes you to use the apps more; anecdotally, I don't have that issue, but your mileage may vary.
 
