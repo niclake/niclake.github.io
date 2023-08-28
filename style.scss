@@ -331,6 +331,33 @@ nav {
   }
 }
 
+.st-jude {
+  padding: 15px;
+  margin: 0 10px;
+  background-color: $p6;
+  color: $p1;
+  text-align: center;
+  border-radius: 0 0 30px 30px;
+
+  h3 {
+    color: $p1;
+  }
+
+  a {
+    color: $p1;
+    text-decoration: underline;
+
+    &:visited {
+      color: $p1;
+    }
+
+    &:hover {
+      background-color: $p1;
+      color: $p6;
+    }
+  }
+}
+
 .photo {
   margin-bottom: 10px;
   width: 250px;
@@ -501,6 +528,28 @@ footer {
         &:hover {
           color: $p5;
           background-color: $p1;
+        }
+      }
+    }
+
+    .st-jude {
+      background-color: $p1;
+      color: $p6;
+
+      h3 {
+        color: $p6;
+      }
+
+      a {
+        color: $p6;
+
+        &:visited {
+          color: $p6;
+        }
+
+        &:hover {
+          background-color: $p6;
+          color: $p1;
         }
       }
     }
