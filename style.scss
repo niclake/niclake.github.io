@@ -531,26 +531,26 @@ footer {
         }
       }
     }
+  }
 
-    .st-jude {
-      background-color: $p1;
-      color: $p6;
+  .st-jude {
+    background-color: $p2;
+    color: $p6;
 
-      h3 {
+    h3 {
         color: $p6;
-      }
+    }
 
-      a {
+    a {
         color: $p6;
 
         &:visited {
-          color: $p6;
+            color: $p6;
         }
 
-        &:hover {
-          background-color: $p6;
-          color: $p1;
-        }
+      &:hover {
+	background-color: $p6;
+        color: $p1;
       }
     }
   }
