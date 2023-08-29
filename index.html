@@ -41,11 +41,15 @@ layout: default
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">
         Previous 
-      </a> |
+      </a>&nbsp;|
     {% endif %}
-    <span class="page_number"> Page {{ paginator.page }} of {{ paginator.total_pages }} </span>
+    <span class="page_number">
+      &nbsp;Page {{ paginator.page }} of {{ paginator.total_pages }}&nbsp;
+    </span>
     {% if paginator.next_page %}
-      | <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      |&nbsp;<a href="{{ paginator.next_page_path }}" class="next">
+        Next
+      </a>
     {% endif %}
   </div>
 </div>
