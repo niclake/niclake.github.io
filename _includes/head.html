@@ -6,6 +6,8 @@
   <meta name="author" content="Nic Lake" />
   <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="rgb(215, 219, 223)" />
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="rgb(10, 31, 43)" />
 
   {% if page.url != "/" and page.name != "archive.html" and page.name != "categories.html" %}
   <meta property="og:title" content="{{ page.title }}">
@@ -13,8 +15,7 @@
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="article">
-  <meta name="theme-color" media="(prefers-color-scheme: light)" content="rgb(215, 219, 223)" />
-  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="rgb(10, 31, 43)" />
+
   
   {% if page.image %}
   <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}">
