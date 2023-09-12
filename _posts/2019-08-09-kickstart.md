@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kickstart
-categories: personal
+categories: Personal
 ---
 
 ![altText][headerImg]

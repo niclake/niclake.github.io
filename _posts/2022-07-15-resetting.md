@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resetting"
-categories: personal
+categories: Personal
 ---
 
 ![alt text][headerImg]

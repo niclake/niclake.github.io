@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creativity"
-categories: personal
+categories: Personal
 ---
 
 ![alt text][headerImg]

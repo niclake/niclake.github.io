@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Game Review - Apex Legends"
-categories: review pc
+categories: Review PC
 ---
 
 ![alt text][gameImg]

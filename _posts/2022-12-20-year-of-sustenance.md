@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Year of Sustenance"
-categories: personal
+categories: Personal
 ---
 
 ![alt text][headerImg]

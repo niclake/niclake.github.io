@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "May Check In"
-categories: personal
+categories: Personal
 ---
 
 Well, I intended to do this quarterly, but I kinda dropped the ball on it, so I guess I'll be doing 3 updates this year on my [goals progress][goals]. Mostly for me, but also for you!

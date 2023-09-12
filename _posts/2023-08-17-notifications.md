@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curb Your Enthusiasm (for Notifications)"
-categories: personal
+categories: Personal
 image: https://niclake.me/images/notifications/banner.jpg
 ---
 

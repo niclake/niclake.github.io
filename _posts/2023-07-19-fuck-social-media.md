@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thank you Elon, Zuck, and Spez"
-categories: personal
+categories: Personal
 image: "https://www.vyprvpn.com/site/assets/files/1823/image.png"
 hidden: false
 ---

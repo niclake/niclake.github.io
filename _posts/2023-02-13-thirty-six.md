@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Is Thirty Six"
-categories: personal
+categories: Personal
 image: https://imgur.com/ZeuuS1K.jpg
 ---
 
