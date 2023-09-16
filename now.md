@@ -10,6 +10,8 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Personal Stuff
 
+- Planning out a few woodworking projects; various cutting board ideas, a chess set, some coasters, and more
+- Building a few mechanical keyboards
 - (Trying to) stay organized & focused with my [yearly theme](/year-of-sustenance)
 
 ### Projects
@@ -19,7 +21,7 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Reading Queue
 
-- Currently: **Horus Rising** by Dan Abnett
+- Next up: **Horus Rising** by Dan Abnett
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue

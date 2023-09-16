@@ -1,10 +1,10 @@
 // Colors
-$black: #282a36; // 139, 233, 253
+$black: #282a36; // 40, 42, 54
 $grey: #44475a; // 68,71,90
 $lightGrey: #6272a4; // 98, 114, 164
 $white: #f8f8f2; // 248, 248, 242
 $red: #ff5555; // 255, 85, 85
-$orange: #ffb86c; // 253, 151, 31
+$orange: #ffb86c; // 255, 184, 108
 $yellow: #f1fa8c; // 241, 250, 140
 $green: #50fa7b; // 80, 250, 123
 $cyan: #8be9fd; // 139, 233, 253
@@ -13,7 +13,7 @@ $pink: #ff79c6; // 255, 121, 198
 
 :root {
   --bs-primary-rgb: 98, 114, 164;
-  --bs-link-color: rgb(255, 121, 198);
+  --bs-link-color: rgb(255, 184, 108);
   --bs-link-hover-color: rgb(80, 250, 123);
   --bs-body-color: $black;
   --bs-code-color: $orange;
@@ -21,11 +21,9 @@ $pink: #ff79c6; // 255, 121, 198
 }
 
 // Font stacks
-$openSans: 'Open Sans', sans-serif;
-$roboto: 'Roboto', sans-serif;
-$helvetica: Helvetica, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, sans-serif;
-$georgia: Georgia, serif;
+$serif: Georgia, serif;
+$sansSerif: 'Open Sans', sans-serif;
+$headers: 'Orbitron', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
