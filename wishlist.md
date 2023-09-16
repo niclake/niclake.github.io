@@ -4,17 +4,17 @@ title: Wishlist
 permalink: /wishlist/
 ---
 
-Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, Becca, or Violet for the holiday season (or any time, if you're feeling generous)!
+Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, Rebecca, or Violet for the holiday season (or any time, if you're feeling generous)!
 
 If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](https://niclake.me/hello/).
 
 ## Violet's List
 
-- Things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
+- Things from [Violet's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
 
-## Becca's List
+## Rebecca's List
 
-- Things from [this Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
+- Things from [Rebecca's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
 - [Happiness Runs crop tank](https://www.freepeople.com/fpmovement/shop/happiness-runs-crop-tank/?color=099&gbraid=0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ,0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ&gclid=CjwKCAjwp7eUBhBeEiwAZbHwkUWNpNhdH-EPUvWoD8maLKWh1wuyb08l78rw3il7mXihmPvLHybP9xoCzXAQAvD_BwE&gclsrc=aw.ds&size=M%2FL&utm_kxconfid=vx6ro62gj&type=REGULAR&quantity=1) (Size XS/S, any color)
 - [Nike Women DBreak](https://nike.app.link/4ejyweJ6jqb) (black, size 7)
@@ -51,10 +51,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Red Sox
   - [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
-  <!-- - [Streakpop 59FIFTY Fitted](https://www.neweracap.com/Sports/BOSTON-RED-SOX-STREAKPOP-59FIFTY-FITTED/p/60185552) -->
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
-  - [Metallic Pop 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-pop-59fifty-fitted?variant=43600696180963)
-  - [St. Patrick's Day 2023 59FIFTY](https://www.neweracap.com/products/boston-red-sox-st-patricks-day-2023-59fifty-fitted?variant=43209938469091)
   - [Metallic City 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-city-59fifty-fitted?_pos=31&_fid=f337f046c&_ss=c)
   - [Tri-Tone Team 59FIFTY](https://www.neweracap.com/products/boston-red-sox-tri-tone-team-59fifty-fitted?variant=43600710369507)
   - [Varsity Letter 59FIFTY](https://www.neweracap.com/products/boston-red-sox-varsity-letter-59fifty-fitted?variant=43600721314019)
@@ -104,7 +101,7 @@ Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nik
 - [Vegetable Simple](https://amzn.to/34rm1QD)
 - [In Bibi's Kitchen](https://amzn.to/3iN0DcD)
 
-#### Gift Certificates
+### Gift Certificates
 
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Converse](https://www.converse.com/c/gift-cards)

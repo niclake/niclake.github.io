@@ -1,0 +1,871 @@
+---
+---
+
+// /*************/
+// /* VARIABLES */
+// /*************/
+
+// Colors
+$black: #282a36; // 40, 42, 54
+$grey: #44475a; // 68,71,90
+$lightGrey: #6272a4; // 98, 114, 164
+$white: #f8f8f2; // 248, 248, 242
+$red: #ff5555; // 255, 85, 85
+$orange: #ffb86c; // 255, 184, 108
+$yellow: #f1fa8c; // 241, 250, 140
+$green: #50fa7b; // 80, 250, 123
+$cyan: #8be9fd; // 139, 233, 253
+$purple: #bd93f9; // 189, 147, 249
+$pink: #ff79c6; // 255, 121, 198
+
+:root {
+  --bs-primary-rgb: 98, 114, 164;
+  --bs-link-color: rgb(255, 184, 108);
+  --bs-link-hover-color: rgb(80, 250, 123);
+  --bs-body-color: $black;
+  --bs-code-color: $orange;
+  --bs-font-sans-serif: Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+// Font stacks
+$serif: Georgia, serif;
+$sansSerif: 'Open Sans', sans-serif;
+$headers: 'Orbitron', sans-serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+// /**************/
+// /* BASE RULES */
+// /**************/
+
+html {
+  font-size: 100%;
+  height: 100%;
+}
+
+body {
+	background: $black;
+  background-image: linear-gradient($black, $grey);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  font-family: $sansSerif;
+  color: $white;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all ease 0.3s;
+  -moz-transition: all ease 0.3s;
+  -o-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+
+  &:hover, &:visited, &:active {
+    text-decoration: none;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+      max-width: 1000px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+      max-width: 1000px;
+  }
+}
+
+.nav-item {
+  font-family: $headers;
+}
+
+.navbar-brand, h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: $headers;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+}
+
+.post h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: $pink;
+}
+
+h2 {
+  color: $green;
+}
+
+h3 {
+  color: $yellow;
+
+  &.category-head {
+    
+  }
+}
+
+h4 {
+  color: $orange;
+}
+
+p {
+  margin: 0 0 1rem;
+  line-height: 1.6em;
+  
+  strong, b { 
+    font-weight: 800; 
+  } 
+
+  em, i { 
+    font-style: italic; 
+  }
+}
+
+dl, ol, ul {
+  margin: 0 0 1rem;
+
+  &.no-list-style {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  span {
+    float: right;
+
+    &.post-date {
+      color: $lightGrey;
+    }
+  }
+}
+
+ul, ol {
+  padding-left: 2rem;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+hr {
+  height: 3px;
+  opacity: 0.5;
+  background: linear-gradient(to right, $pink, $purple);
+  color: transparent;
+}
+
+pre {
+  padding: 1rem;
+  background-color: $black;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+code {
+  font-family:'Hack','Courier', monospace;
+  color: $cyan;
+  word-wrap: break-word;
+}
+
+blockquote {
+  border-left: 2px solid $pink;
+  padding-left: 30px;
+}
+
+// /******************/
+// /* SPECIFIC RULES */
+// /******************/
+
+.post {
+  &:not(.single-post) {
+    border-bottom: 1px solid transparent;
+    border-image: linear-gradient(to right, $pink, $purple);
+    border-image-slice: 1;
+  }
+}
+
+.post, .pagination, .page {
+  padding-bottom: 3rem;
+  margin-bottom: 3rem;
+}
+
+.pagination {
+  display:block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.page h2 {
+  margin-top: 2rem;
+}
+
+.page h3 {
+  padding: .5rem 0;
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(to right, $pink, $purple);
+  border-image-slice: 1;
+}
+
+.date {
+  color: $lightGrey;
+  margin-bottom: .5rem;
+}
+
+.entry {
+  a.photo-link {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    text-decoration: none;
+  }
+}
+
+.footer {
+  height: 5px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: $cyan;
+  background-image: linear-gradient(to right, $pink, $purple)
+  // background-image: linear-gradient(
+  //   to right, 
+  //   $red, 
+  //   $orange, 
+  //   $yellow, 
+  //   $green, 
+  //   $cyan, 
+  //   $purple, 
+  //   $pink
+  // )
+}
+
+img {
+  max-width: 100%;
+  border-radius: 15px;
+  display: block;
+  margin: 0 auto;
+
+  &.photo {
+    width: 250px;
+  }
+
+  &.photo-right {
+    float: right;
+    margin-left: 15px;
+  }
+
+  &.photo-left {
+    float: left;
+    margin-right: 15px;
+  }
+
+  &.bigger {
+    width: 400px !important;
+  }
+}
+
+.card {
+  background-color: $black;
+  border-radius: 15px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  h3 {
+    padding: 0 0 .5rem 0;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    margin-bottom: 1rem;
+  }
+}
+
+// Footnotes courtesy of littlefoot.js
+.littlefoot {
+  --button-background-color: #f55;
+  --button-text-color: #f8f8f2;
+  --button-active-text-color: #f8f8f2;
+  --button-active-background-color: #44475a;
+  --popover-background-color: #282a36;
+  --popover-text-color: #f8f8f2;
+  --popover-border: 2px solid #ff79c6;
+}
+
+// h1 {
+//   font-size: 30px;
+
+//   a {
+//     color: inherit;
+//     border-radius: 5px;
+//     background-color: transparent;
+//   }
+// }
+
+// h2 {
+//   font-size: 24px;
+// }
+
+// h3 {
+//   font-size: 20px;
+// }
+
+// h4 {
+//   font-size: 18px;
+//   color: $darkGray;
+// }
+
+// p {
+//   margin: 20px 0;
+//   line-height: 1.6em;
+// }
+
+// a {
+//   color: $p5;
+//   text-decoration: none;
+//   -webkit-transition: all ease 0.3s;
+//   -moz-transition: all ease 0.3s;
+//   -o-transition: all ease 0.3s;
+//   transition: all ease 0.3s;
+//   cursor: pointer;
+
+//   .anchor,
+//   #read-more {
+//     display: block;
+//     position: relative;
+//     top: -99px;
+//     visibility: hidden;
+//     background-color: transparent !important;
+//   }
+
+//   &:visited, &:active {
+//     color: $p5;
+//   }
+
+//   &:hover {
+//     color: $p2;
+//     background-color: $p6;
+//     text-decoration: none;
+//   }
+// }
+
+// .entry {
+//   p {
+//     strong, b {
+//       font-weight: 800;
+//     }
+//   }
+
+//   a {
+//     background-color: $p1;
+//     border-radius: 8px;
+//     padding: 0 5px;
+    
+//     &:hover {
+//       background-color: $p6;
+//     }
+
+//     &.photo-link {
+//       background-color: transparent !important;
+//       border-radius: 0 !important;
+//       padding: 0 !important;
+//       text-decoration: none;
+//     }
+//   }
+// }
+
+// ul, ol {
+//   margin: 15px 0;
+//   padding-left: 45px;
+// }
+
+// ul {
+//   list-style-type: disc;
+// }
+
+// ol {
+//   list-style-type: decimal;
+// }
+
+// ol ul, ul ol, ul ul, ol ol {
+//   margin: 0;
+// }
+
+// ul ul, ol ul {
+//   list-style-type: circle;
+// }
+
+// em, i {
+//   font-style: italic;
+// }
+
+// strong, b {
+//   font-weight: bold;
+// }
+
+// img {
+//   max-width: 100%;
+//   display: block;
+//   margin: 0 auto;
+// }
+
+// // Fixes images in popup boxes from Google Translate
+// .gmnoprint img {
+//   max-width: none;
+// }
+
+// .date {
+//   font-style: italic;
+//   color: $gray;
+
+//   a {
+//     background-color: $p1;
+//     border-radius: 8px;
+//     padding: 0 10px;
+//   }
+// }
+
+// // Specify the color of the selection
+// ::-moz-selection {
+//   color: $p7;
+//   background: $p2;
+// }
+// ::selection {
+//   color: $p7;
+//   background: $p2;
+// }
+
+// // Nicolas Gallagher's micro clearfix hack
+// // http://nicolasgallagher.com/micro-clearfix-hack/
+// .clearfix:before,
+// .clearfix:after {
+//     content: " ";
+//     display: table;
+// }
+
+// .clearfix:after {
+//     clear: both;
+// }
+
+// .footnote {
+//   vertical-align: super;
+//   font-size: 75%;
+// }
+
+// .embed {
+//   width:100%;
+//   height:0px;
+//   position:relative;
+//   padding-bottom:56.250%;
+// }
+
+// /*********************/
+// /* LAYOUT / SECTIONS */
+// /*********************/
+
+// //
+// // .masthead
+// //
+
+// .shadow {
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   z-index: 900;
+//   width: 100%;
+//   height: 30px;
+//   background: url(https://niclake.me/images/shadow.png) repeat-x;
+// }
+
+// .wrapper-masthead {
+//   margin-bottom: 15px;
+// }
+
+// .masthead {
+//   padding: 10px 0;
+//   border-bottom: 1px solid;
+//   border-bottom-color: $p5;
+
+//   a {
+//     background-color: transparent;
+//     border-radius: 8px;
+//     padding: 0 5px;
+//   }
+
+//   @include mobile {
+//     text-align: center;
+//   }
+// }
+
+// .site-avatar {
+//   float: left;
+//   width: 70px;
+//   height: 70px;
+//   margin-right: 15px;
+
+//   @include mobile {
+//     float: none;
+//     display: block;
+//     margin: 0 auto;
+//   }
+
+//   img {
+//     border-radius: 5px;
+//   }
+// }
+
+// .site-info {
+//   float: left;
+
+//   @include mobile {
+//     float: none;
+//     display: block;
+//     margin: 0 auto;
+//   }
+// }
+
+// .site-name {
+//   margin: 0;
+//   cursor: pointer;
+//   font-weight: 600;
+//   letter-spacing: 0.1em;
+//   font-size: 42px;
+// }
+
+// .site-description {
+//   margin: -5px 0 0 0;
+//   color: $gray;
+//   font-size: 16px;
+
+//   @include mobile {
+//     margin: 3px 0;
+//   }
+// }
+
+// nav {
+//   float: right;
+//   margin-top: 23px;
+//   font-size: 18px;
+
+//   @include mobile {
+//     float: none;
+//     margin-top: 9px;
+//     display: block;
+//     font-size: 16px;
+//   }
+
+//   a {
+//     margin-left: 20px;
+//     color: $p6;
+//     text-align: right;
+//     font-weight: 300;
+//     letter-spacing: 1px;
+
+//     @include mobile {
+//       margin: 0 10px;
+//       color: $p5;
+//     }
+//   }
+// }
+
+// .st-jude {
+//   padding: 15px;
+//   margin: -15px 10px 0;
+//   background-color: $p6;
+//   color: $p1;
+//   text-align: center;
+//   border-radius: 0 0 30px 30px;
+
+//   h3 {
+//     color: $p1;
+//   }
+
+//   a {
+//     color: $p1;
+//     text-decoration: underline;
+
+//     &:visited {
+//       color: $p1;
+//     }
+
+//     &:hover {
+//       background-color: $p1;
+//       color: $p6;
+//     }
+//   }
+// }
+
+// .photo {
+//   margin-bottom: 10px;
+//   width: 250px;
+
+//   @include mobile {
+//     width: 100% !important;
+//   }
+
+//   &.photo-right {
+//     float: right;
+//     margin-left: 10px;
+//   }
+
+//   &.photo-left {
+//     float: left;
+//     margin-right: 10px;
+//   }
+
+//   &.bigger {
+//     width: 400px !important;
+//   }
+// }
+
+// .contact-me {
+//   clear: both;
+// }
+
+// .posts {
+//   .post {
+//     padding-bottom: 3em;
+//     margin-bottom: 1em;
+//     border-bottom: 1px solid;
+//     border-bottom-color: $p2;
+
+//     blockquote {
+//       margin: 1.8em .8em;
+//       border-left: 2px solid;
+//       border-left-color: $gray;
+//       padding: 0.1em 1em;
+//       color: $gray;
+//       font-size: 22px;
+//       font-style: italic;
+//     }
+
+//     .comments {
+//       margin-top: 10px;
+//     }
+
+//     .read-more {
+//       text-transform: uppercase;
+//       font-size: 1.3em;
+//       float: right;
+//     }
+
+//     &:last-of-type {
+//       padding-bottom: 2em;
+//       border-bottom: 0px solid $p2;
+//     }
+//   }
+// }
+
+// .pagination {
+//   float: right;
+//   margin-top: 12px;
+//   font-size: 18px;
+// }
+
+// .wrapper-footer {
+//   margin-top: 50px;
+//   background-color: $p5;
+// }
+
+// table, th, td {
+//   border: 1px solid;
+//   border-color: $p7;
+//   min-width: 25%;
+//   padding: 5px;
+//   margin-bottom: 25px;
+// }
+
+// th {
+//   background-color: $p3;
+//   color: $lightGray;
+//   font-weight: 600;
+// }
+
+// tbody tr:nth-child(even) {
+//   background-color: $p1;
+// }
+
+// div[class^="col"], div[class*=" col-"] {
+//   padding-bottom: 15px;
+// }
+
+// .card {
+//   background-color: $p1;
+//   border-radius: .75rem;
+// }
+
+// footer {
+//   padding: 20px 0;
+//   text-align: center;
+//   height: 85px;
+
+//   a {
+//     &:hover {
+//       background-color: inherit;
+//     }
+//   }
+// }
+
+// @media (prefers-color-scheme: dark) {
+//   body {
+//     background: $p6;
+//     color: $p2;
+//   }
+
+//   img {
+//     filter: brightness(.8) contrast(1.2);
+//   }
+
+//   h1, h2, h3, h4, h5, h6 {
+//     color: $p1;
+//   }
+
+//   // h4 {
+//     // color: $darkGray; // leaving this
+//   // }
+
+//   a {
+//     color: $p3;
+
+//     &:visited, &:active {
+//       color: $p3;
+//     }
+
+//     &:hover {
+//       color: $p5;
+//       background-color: $p1;
+//     }
+//   }
+
+//   ::-moz-selection {
+//     color: $p2;
+//     background: $p4;
+//   }
+//   ::selection {
+//     color: $p2;
+//     background: $p4;
+//   }
+
+//   .masthead {
+//     border-bottom-color: $p4;
+
+//     .site-description {
+//       color: $lightGray;
+//     }
+
+//     nav {
+//       h1 {
+//         color: $p1;
+//       }
+
+//       a {
+//         color: $p1;
+//         background-color: transparent;
+
+//         &:hover {
+//           color: $p5;
+//           background-color: $p1;
+//         }
+//       }
+//     }
+//   }
+
+//   .st-jude {
+//     background-color: $p2;
+//     color: $p6;
+
+//     h3 {
+//         color: $p6;
+//     }
+
+//     a {
+//         color: $p6;
+
+//         &:visited {
+//             color: $p6;
+//         }
+
+//       &:hover {
+// 	background-color: $p6;
+//         color: $p1;
+//       }
+//     }
+//   }
+
+//   .post {
+//     border-bottom-color: $p5;
+
+//     a {
+//       &:hover {
+//         background-color: $p1;
+//       }
+//     }
+
+//     .date {
+//       a {
+//         background-color: $p5;
+
+//         &:hover {
+//           background-color: $p1;
+//         }
+//       }
+//     }
+
+//     .entry {
+//       a {
+//         background-color: $p5;
+
+//         &:hover {
+//           background-color: $p1;
+//         }
+//       }
+
+//       blockquote {
+//         color: $lightGray;
+//         border-left-color: $lightGray;
+//       }
+//     }
+//   }
+
+//   table, th, td {
+//     border-color: $p2;
+//   }
+
+//   th {
+//     background-color: $p4;
+//     color: $gray;
+//   }
+
+//   tbody tr:nth-child(even) {
+//     background-color: $p5;
+//   }
+
+//   .card {
+//     background-color: $p5;
+//   }
+// }
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";

@@ -12,9 +12,9 @@ title: Categories
     <div id="#{{ category_name | slugize }}"></div>    
       <h3 class="category-head">{{ category_name }}</h3>
 
-      <ul>
+      <ul class="no-list-style">
         {% for post in site.categories[category_name] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} ({{ post.date | date: "%B %e, %Y" }})</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} <span class="post-date">{{ post.date | date: "%e %B %Y" }}</span></a></li>
         {% endfor %}
       </ul>
   </div>

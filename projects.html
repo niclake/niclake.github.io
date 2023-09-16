@@ -9,16 +9,16 @@ title: Projects
 <p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake" target="_blank">buy me a coffee</a>.</p>
 
 <div class="container">
-  {% for post in site.categories.project %}
+  {% for post in site.categories.Project %}
     {% if post.hidden != true %}
       {% assign remainder = forloop.index | modulo: 3 %}
-      {% if remainder == 1 or forloop.first %}
+      <!-- {% if remainder == 1 or forloop.first %} -->
         <div class="row">
-      {% endif %}
+      <!-- {% endif %} -->
 
-          <div class="col-sm-4 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
             <div class="card" href="{{ site.baseurl }}{{ post.url }}">
-              <div class="m-2">
+              <div>
                 <h3>{{post.title}}</h3>
                 {% if post.image %}
                   <img src="{{ post.image }}" />
@@ -34,9 +34,9 @@ title: Projects
             </div>
           </div>
 
-      {% if remainder == 0 or forloop.last %}
+      <!-- {% if remainder == 0 or forloop.last %} -->
         </div>
-      {% endif %}
+      <!-- {% endif %} -->
     {% endif %}
   {% endfor %}
 </div>

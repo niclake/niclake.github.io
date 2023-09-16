@@ -8,8 +8,6 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }}
-        <br />
         {%- capture category_list -%}
           {%- if post -%}
             {%- assign categories = post.categories -%}
@@ -20,20 +18,21 @@ layout: default
             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>|
           {%- endfor -%}
         {%- endcapture -%}
-        Posted under {{ category_list | split: "|" | join: ", " }}
+        {{ post.date | date: "%e %B %Y" }} • {{ category_list | split: "|" | join: " • " }}
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
-        {% capture content_words %} 
-  	      {{ post.content | number_of_words }} 
+        <!-- {{ post.excerpt }}
+        {% capture content_words %}  -->
+  	      <!-- {{ post.content | number_of_words }} 
   	    {% endcapture %} 
   	    {% capture excerpt_words %} 
   	      {{ post.excerpt | number_of_words }} 
   	    {% endcapture %} 
   	    {% if excerpt_words != content_words %}
     	    <a href="{{ site.baseurl }}{{ post.url }}/#read-more" class="read-more">Read More <i class="fa-solid fa-circle-arrow-right"></i></a>
-  	    {% endif %}
+  	    {% endif %} -->
+        {{ post.content }}
       </div>
     </article>
   {% endfor %}

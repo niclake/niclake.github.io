@@ -10,7 +10,6 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Personal Stuff
 
-- Working on building my standing desk from scratch
 - (Trying to) stay organized & focused with my [yearly theme](/year-of-sustenance)
 
 ### Projects
@@ -20,16 +19,13 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Reading Queue
 
-- Currently: **The Last Watch** by J.S. Dewes
-- **The Stardust Thief** by Chelsea Abdullah
+- Currently: **Horus Rising** by Dan Abnett
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue
 
 - Currently: **Baldur's Gate 3** (PC)
-- Currently: **Sea of Stars** (PC)
-- Currently: **Starfield** (PC)
-- Currently: **Final Fantasy XVI** (PS5)
+- Next up: **Starfield** (PC)
 - [Full game backlog is here][games]
 
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing
