@@ -12,10 +12,7 @@ title: Projects
   {% for post in site.categories.Project %}
     {% if post.hidden != true %}
       {% assign remainder = forloop.index | modulo: 3 %}
-      <!-- {% if remainder == 1 or forloop.first %} -->
         <div class="row">
-      <!-- {% endif %} -->
-
           <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
             <div class="card" href="{{ site.baseurl }}{{ post.url }}">
               <div>
@@ -33,10 +30,7 @@ title: Projects
               </div>
             </div>
           </div>
-
-      <!-- {% if remainder == 0 or forloop.last %} -->
         </div>
-      <!-- {% endif %} -->
     {% endif %}
   {% endfor %}
 </div>
