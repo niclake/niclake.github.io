@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TITLE"
-categories: personal
+categories: Personal
 image: url.here
 projectInfo: "Blurb goes here"
 projectLink: url.here

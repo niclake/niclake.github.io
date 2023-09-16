@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-categories: personal
+categories: Personal
 ---
 
 Well, I did it. I created yet another blog.

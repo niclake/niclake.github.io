@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Curb Your Enthusiasm (for Notifications)"
-categories: personal
+categories: Personal
 image: https://niclake.me/images/notifications/banner.jpg
 ---
 
 ![alt text][headerImg]
-<!-- ALSO PUT THIS IN THE image: PART OF THE POST HEAD -->
 
 As my daughter grows up, I'm realizing how much she values the attention my wife and I can give her, and how frustrated she becomes when she realizes that our attention is split. My wife just got a new Kindle yesterday, and we were sitting downstairs trying to get it set up before I left for the evening; my daughter climbed up the couch and attempted to snatch the Kindle away, trying to put herself between it and us.
 
@@ -28,11 +27,11 @@ Something to note: for my particular limits, Twitter (I refuse to call it X) mea
 
 I know that there are a few studies out there that say that using App Limits actually causes you to use the apps more; anecdotally, I don't have that issue, but your mileage may vary.
 
-### 2: Deleted (most) Social Media Off my Phone
+## 2: Deleted (most) Social Media Off my Phone
 
 I'm not going to pretend that I'm holier than thou or anything here; everyone has their own reasons for using social media, and you don't need me preaching at you [any more than I already have](https://niclake.me/fuck-social-media/). That said, the only app that I have left on my phone is Instagram, mostly because a few friends and I use it to send various funny clips to one another. I barely post there anymore. Facebook, Twitter (RIP Tweetbot), Reddit (RIP Apollo), Mastodon, Bluesky, Threads - they're all long gone. It's freeing. You should try it. As mentioned above, App Limits will still keep you from logging in on the web and mindlessly scrolling, so these two together have been great.
 
-### 3: Reconfigure My News Sources
+## 3: Reconfigure My News Sources
 
 I kept Twitter and Reddit around for ages because I utilized them for getting news about various things, so if I was going to disconnect, I needed to find better sources. (Do we NEED to follow along & live-tweet when Trump gets indicted for the 17th time? Seriously - shit's unhealthy, y'all, and we need to stop.) I did this in two ways:
 

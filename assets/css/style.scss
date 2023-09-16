@@ -1,0 +1,273 @@
+---
+---
+
+@import "variables";
+
+// /**************/
+// /* BASE RULES */
+// /**************/
+
+html {
+  font-size: 100%;
+  height: 100%;
+}
+
+body {
+	background: $black;
+  background-image: linear-gradient($black, $grey);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  font-family: $sansSerif;
+  color: $white;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all ease 0.3s;
+  -moz-transition: all ease 0.3s;
+  -o-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+
+  &:hover, &:visited, &:active {
+    text-decoration: none;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+      max-width: 1000px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+      max-width: 1000px;
+  }
+}
+
+.nav-item {
+  font-family: $headers;
+}
+
+.navbar-brand, h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: $headers;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+}
+
+.post h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: $pink;
+}
+
+h2 {
+  color: $green;
+}
+
+h3 {
+  color: $yellow;
+
+  &.category-head {
+    
+  }
+}
+
+h4 {
+  color: $orange;
+}
+
+p {
+  margin: 0 0 1rem;
+  line-height: 1.6em;
+  
+  strong, b { 
+    font-weight: 800; 
+  } 
+
+  em, i { 
+    font-style: italic; 
+  }
+}
+
+dl, ol, ul {
+  margin: 0 0 1rem;
+
+  &.no-list-style {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  span {
+    float: right;
+
+    &.post-date {
+      color: $lightGrey;
+    }
+  }
+}
+
+ul, ol {
+  padding-left: 2rem;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+hr {
+  height: 3px;
+  opacity: 0.5;
+  background: linear-gradient(to right, $pink, $purple);
+  color: transparent;
+}
+
+pre {
+  padding: 1rem;
+  background-color: $black;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+code {
+  font-family:'Hack','Courier', monospace;
+  color: $cyan;
+  word-wrap: break-word;
+}
+
+blockquote {
+  border-left: 2px solid $pink;
+  padding-left: 30px;
+}
+
+// /******************/
+// /* SPECIFIC RULES */
+// /******************/
+
+.post {
+  &:not(.single-post) {
+    border-bottom: 1px solid transparent;
+    border-image: linear-gradient(to right, $pink, $purple);
+    border-image-slice: 1;
+  }
+}
+
+.post, .pagination, .page {
+  padding-bottom: 3rem;
+  margin-bottom: 3rem;
+}
+
+.pagination {
+  display:block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.page h2 {
+  margin-top: 2rem;
+}
+
+.page h3 {
+  padding: .5rem 0;
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(to right, $pink, $purple);
+  border-image-slice: 1;
+}
+
+.date {
+  color: $lightGrey;
+  margin-bottom: .5rem;
+}
+
+.entry {
+  a.photo-link {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    text-decoration: none;
+  }
+}
+
+.footer {
+  height: 5px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: $cyan;
+  background-image: linear-gradient(to right, $pink, $purple)
+}
+
+img {
+  max-width: 100%;
+  border-radius: 15px;
+  display: block;
+  margin: 0 auto;
+
+  &.photo {
+    width: 250px;
+  }
+
+  &.photo-right {
+    float: right;
+    margin-left: 15px;
+  }
+
+  &.photo-left {
+    float: left;
+    margin-right: 15px;
+  }
+
+  &.bigger {
+    width: 400px !important;
+  }
+}
+
+.card {
+  background-color: $black;
+  border-radius: 15px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  h3 {
+    padding: 0 0 .5rem 0;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    margin-bottom: 1rem;
+  }
+}
+
+// Footnotes courtesy of littlefoot.js
+.littlefoot {
+  --button-background-color: #f55;
+  --button-text-color: #f8f8f2;
+  --button-active-text-color: #f8f8f2;
+  --button-active-background-color: #44475a;
+  --popover-background-color: #282a36;
+  --popover-text-color: #f8f8f2;
+  --popover-border: 2px solid #ff79c6;
+  --popover-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";

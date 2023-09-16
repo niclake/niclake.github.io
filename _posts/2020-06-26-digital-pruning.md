@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Pruning"
-categories: personal
+categories: Personal
 ---
 
 ![alt text][headerImg]

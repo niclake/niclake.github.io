@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life"
-categories: personal
+categories: Personal
 ---
 
 <Insert the 30 Rock "What a year, huh?" "Lemon, it's June" graphic here, because right now, generating that meme is just too much effort>
