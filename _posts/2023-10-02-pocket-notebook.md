@@ -2,7 +2,7 @@
 layout: post
 title: "Pocket Notebook"
 categories: Personal
-image: https://niclake.me/images/IMG_0887
+image: https://niclake.me/images/IMG_0887.jpeg
 hidden: false
 ---
 
@@ -18,4 +18,4 @@ Having this kind of mission, of purpose, has led me to reach for it multiple tim
 
 Maybe my daughter will find these tucked in a box one day and flip through them. I hope so.
 
-[headerImg]: https://niclake.me/images/IMG_0887 "A photo of my notebook and pen"
+[headerImg]: https://niclake.me/images/IMG_0887.jpeg "A photo of my notebook and pen"
