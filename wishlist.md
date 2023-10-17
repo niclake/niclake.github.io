@@ -47,13 +47,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - All fitted hats size 7.5
 - Red Sox
-  - [Authentic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted?variant=42671042199779)
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
   - [Metallic City 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-city-59fifty-fitted?_pos=31&_fid=f337f046c&_ss=c)
   - [Tri-Tone Team 59FIFTY](https://www.neweracap.com/products/boston-red-sox-tri-tone-team-59fifty-fitted?variant=43600710369507)
   - [Varsity Letter 59FIFTY](https://www.neweracap.com/products/boston-red-sox-varsity-letter-59fifty-fitted?variant=43600721314019)
   - [Colorpack Black 59FIFTY](https://www.neweracap.com/products/boston-red-sox-colorpack-black-59fifty-fitted?variant=43209683894499)
+  - [Stone/Black Chrome 59FIFTY](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-new-era-stone/black-chrome-59fifty-fitted-hat/t-25995253+p-918899551214490+z-9-725604408?_ref=p-DLP:m-GRID:i-r3c0:po-9&sku=200027457)
   
 <!-- - Celtics -->
   <!-- - [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531) -->
