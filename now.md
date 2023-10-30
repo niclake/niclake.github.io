@@ -4,13 +4,17 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 23 Oct 2023*
+*Last updated: 30 Oct 2023*
 
 These are the things currently occupying my time & attention, in no particular order.
 
 ### Personal Stuff
 
 - Planning out a few woodworking projects; various cutting board ideas, a chess set, some coasters, and more
+- Researching pocket pens, 3D printers, and a Synology
+- Installing a whole home humidifier
+- Researching radiant heat for garage + driveway
+- Finishing general organization of my office
 - (Trying to) stay organized & focused with my [yearly theme](/year-of-sustenance)
 
 ### Projects
@@ -20,17 +24,16 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Reading Queue
 
-- Current: **The Exiled Fleet** by J. S. Dewes
-- Current: **Head On** by John Scalzi
-- Next up: **Horus Rising** by Dan Abnett
+- Current: **Horus Rising** by Dan Abnett
+- Next up: **Head On** by John Scalzi
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue
 
 - Currently: **Spider-Man 2** (PS5)
 - Currently: **Baldur's Gate 3** (PC)
-- Currently: **Starfield** (PC)
 - Currently: **Pokémon FireRed** (GameBoy Advance)
+- Next up: **Starfield** (PC)
 - Next up: **Cyberpunk 2077** (PC)
 - Next up: **Hollow Knight** (PC)
 - Next up: **Disco Elysium** (PC)
