@@ -29,10 +29,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - Converse All Stars (size 10, standard width, in [Black](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9166.html?dwvar_M9166_color=black&styleNo=M9166&cgid=mens-classic-chuck-shoes), [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false))
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
-- [The Folsom pocketknife](https://thejamesbrand.com/products/the-folsom?variant=40372563017798) (Orange + Stainless, straight blade)
-- [Studio Neat Totebooks](https://www.studioneat.com/products/totebook) (Large and/or Mini)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
-  - A [Bookshop](https://bookshop.org/gift_cards) or [Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+  - A [Bookshop gift card](https://bookshop.org/gift_cards), or an [Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
+- A combo drill/driver set (DeWalt? Milwaukee?) + comprehensive bit set
 
 ### T-Shirts from Cotton Bureau
 
@@ -68,10 +67,10 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
 
-- Varitek 33
 - Wakefield 49
-- Betts 50
+- Varitek 33
 - Martinez 45
+- Betts 50
 - Ramirez 24
 - Lester 31
 - Sale 41
@@ -99,5 +98,3 @@ Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nik
 - [Converse](https://www.converse.com/c/gift-cards)
 - [Nintendo](https://www.nintendo.com/giftcards)
 - Steam (Walmart, Target, GameStop, etc. will have these)
-- PlayStation Store or PlayStation Plus (grocery stores, Walmart, Target, GameStop will have these)
-  - No need for PlayStation Now cards
