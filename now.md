@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 30 Oct 2023*
+*Last updated: 8 Nov 2023*
 
 These are the things currently occupying my time & attention, in no particular order.
 
@@ -12,14 +12,12 @@ These are the things currently occupying my time & attention, in no particular o
 
 - Planning out a few woodworking projects; various cutting board ideas, a chess set, some coasters, and more
 - Researching pocket pens, 3D printers, and a Synology
-- Installing a whole home humidifier
 - Researching radiant heat for garage + driveway
-- Finishing general organization of my office
 - (Trying to) stay organized & focused with my [yearly theme](/year-of-sustenance)
 
 ### Projects
 
-- A somewhat secret iOS application for the mechanical keyboard community (SwiftUI)
+- [ON HOLD] A somewhat secret iOS application for the mechanical keyboard community (SwiftUIu)
 - [See all my released projects here](/projects)
 
 ### Reading Queue
@@ -30,7 +28,6 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Game Queue
 
-- Currently: **Spider-Man 2** (PS5)
 - Currently: **Baldur's Gate 3** (PC)
 - Currently: **Pokémon FireRed** (GameBoy Advance)
 - Next up: **Starfield** (PC)
