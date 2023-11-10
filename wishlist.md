@@ -16,8 +16,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - Things from [Rebecca's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
-- [Happiness Runs crop tank](https://www.freepeople.com/fpmovement/shop/happiness-runs-crop-tank/?color=099&gbraid=0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ,0AAAAADmlMfmx83nwM3iWWc3oZtOQX8IeZ&gclid=CjwKCAjwp7eUBhBeEiwAZbHwkUWNpNhdH-EPUvWoD8maLKWh1wuyb08l78rw3il7mXihmPvLHybP9xoCzXAQAvD_BwE&gclsrc=aw.ds&size=M%2FL&utm_kxconfid=vx6ro62gj&type=REGULAR&quantity=1) (Size XS/S, any color)
-- [Nike Women DBreak](https://nike.app.link/4ejyweJ6jqb) (black, size 7)
 
 ## Nic's List
 
@@ -63,9 +61,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - All jerseys size medium
 - [Navy (David Ortiz, #34)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-david-ortiz-nike-navy-alternate-replica-player-jersey/t-25333097+p-0464684556805+z-9-2288905099?_ref=p-DLP:m-GRID:i-r4c0:po-12)
-- [Yellow (City Connect) (Rafael Devers, #11)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-rafael-devers-nike-gold/light-blue-city-connect-replica-player-jersey/t-14551831+p-2611492574760+z-9-46042063?_ref=p-DLP:m-GRID:i-r1c0:po-3&sku=14489799)
-
-Then either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
+- Either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
 
 - Wakefield 49
 - Varitek 33
