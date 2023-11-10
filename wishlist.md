@@ -62,14 +62,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - All jerseys size medium
 - [Navy (David Ortiz, #34)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-david-ortiz-nike-navy-alternate-replica-player-jersey/t-25333097+p-0464684556805+z-9-2288905099?_ref=p-DLP:m-GRID:i-r4c0:po-12)
 - Either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
-
-- Wakefield 49
-- Varitek 33
-- Martinez 45
-- Betts 50
-- Ramirez 24
-- Lester 31
-- Sale 41
+  - Wakefield 49
+  - Varitek 33
+  - Martinez 45
+  - Betts 50
+  - Ramirez 24
+  - Lester 31
+  - Sale 41
 
 <!-- ### Cookbooks (physical, hardcover pref.)
 
