@@ -4,36 +4,35 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 8 Nov 2023*
+*Last updated: 21 Dec 2023*
 
 These are the things currently occupying my time & attention, in no particular order.
 
 ### Personal Stuff
 
-- Planning out a few woodworking projects; various cutting board ideas, a chess set, some coasters, and more
-- Researching pocket pens, 3D printers, and a Synology
-- Researching radiant heat for garage + driveway
-- (Trying to) stay organized & focused with my [yearly theme](/year-of-sustenance)
+- Midway through crafting a pair of cutting boards, and planning out a few other projects (clock, chess set, coasters, and more)
+- Researching 3D printers
+- Wrapping up my [2023 yearly theme](/year-of-sustenance), and planning out 2024
 
 ### Projects
 
-- [ON HOLD] A somewhat secret iOS application for the mechanical keyboard community (SwiftUIu)
+- Considering a handful of things for 2024
 - [See all my released projects here](/projects)
 
 ### Reading Queue
 
-- Current: **Horus Rising** by Dan Abnett
-- Next up: **Head On** by John Scalzi
+- Current: **Rubicon** by J. S. Dewes
+- Planning out my reading list for 2024
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue
 
-- Currently: **Baldur's Gate 3** (PC)
-- Currently: **Pokémon FireRed** (GameBoy Advance)
-- Next up: **Starfield** (PC)
+- On Hold: **Baldur's Gate 3** (PC)
+- On Hold: **Pokémon FireRed** (GameBoy Advance)
 - Next up: **Cyberpunk 2077** (PC)
 - Next up: **Hollow Knight** (PC)
 - Next up: **Disco Elysium** (PC)
+- Planning out my game log for 2024
 - [Full game backlog is here][games]
 
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing
