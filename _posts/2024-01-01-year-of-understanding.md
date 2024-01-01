@@ -70,4 +70,4 @@ I've set way too many arbitrary goals with no plan on how to get from A to B. In
 
 I'm super excited about this theme, and I think figuring out a way to make my analysis somewhat public or outward-facing could be a really fun exercise. We'll see how this goes.
 
-[headerImg]: https://niclake.me/images/understanding.jpeg "Understanding"
+[headerImg]: https://niclake.me/images/understanding.jpg "Understanding"
