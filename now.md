@@ -4,29 +4,29 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 21 Dec 2023*
+*Last updated: 2 Jan 2024*
 
 These are the things currently occupying my time & attention, in no particular order.
 
 ### Personal Stuff
 
 - Midway through crafting a pair of cutting boards, and planning out a few other projects (clock, chess set, coasters, and more)
-- Researching 3D printers
-- Wrapping up my [2023 yearly theme](/year-of-sustenance), and planning out 2024
+- Saving up money to buy a 3D printer
+- Focusing on my [2024 yearly theme](/year-of-understanding)
 
 ### Projects
 
-- Considering a handful of things for 2024
+- Considering a handful of things for 2024, but nothing set in stone yet
 - [See all my released projects here](/projects)
 
 ### Reading Queue
 
-- Current: **Rubicon** by J. S. Dewes
-- Planning out my reading list for 2024
+- Current: **Rhythm of War** by Brandon Sanderson
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue
 
+- Current/forever: **World of Warcraft** (PC)
 - On Hold: **Baldur's Gate 3** (PC)
 - On Hold: **Pokémon FireRed** (GameBoy Advance)
 - Next up: **Cyberpunk 2077** (PC)
