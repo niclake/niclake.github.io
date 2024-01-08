@@ -10,7 +10,7 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Personal Stuff
 
-- Midway through crafting a pair of cutting boards, and planning out a few other projects (clock, chess set, coasters, and more)
+- Planning out a few woodworking projects (clock, chess set, coasters, and more)
 - Saving up money to buy a 3D printer
 - Focusing on my [2024 yearly theme](/year-of-understanding)
 
