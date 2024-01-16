@@ -4,15 +4,15 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 2 Jan 2024*
+*Last updated: 15 Jan 2024*
 
 These are the things currently occupying my time & attention, in no particular order.
 
 ### Personal Stuff
 
+- Focusing on my [2024 yearly theme](/year-of-understanding), including planning out some blog posts
 - Planning out a few woodworking projects (clock, chess set, coasters, and more)
-- Saving up money to buy a 3D printer
-- Focusing on my [2024 yearly theme](/year-of-understanding)
+- Saving up money to buy a 3D printer, and planning some of my first prints
 
 ### Projects
 
