@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Year of Understanding"
-categories: Personal
+categories: Personal 2024-Theme
 ---
 
 ![alt text][headerImg]
@@ -32,7 +32,7 @@ As I'm contemplating all of this, I happened to be listening to the [most recent
 
 ## 2024 - Year of Understanding
 
-_Understanding. "A mental grasp; the capacity to apprehend general relations of particulars; a mutual agreement not formally entered into but in some degree binding on each side."_
+*Understanding. "A mental grasp; the capacity to apprehend general relations of particulars; a mutual agreement not formally entered into but in some degree binding on each side."*
 
 As 2023 wore on, I found myself doing a lot of analyzing of not just what I did or said or emoted, but *how* I did these things, and *why* I did them. Why do I gravitate to games that take up all my time? Why do I think that carrying a notebook with me will make me feel better? Why do I not want to touch my piano or make music anymore?
 
