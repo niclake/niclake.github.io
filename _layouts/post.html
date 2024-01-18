@@ -16,7 +16,7 @@ layout: default
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>|
       {%- endfor -%}
     {%- endcapture -%}
-    {{ page.date | date: "%e %B %Y" }} • {{ category_list | split: "|" | join: " • " }}
+    {{ page.date | date: "%e %B %Y" }} • {{ category_list | split: "|" | join: " • " | replace: "-", " " }}
   </div>
 
   <div class="entry">

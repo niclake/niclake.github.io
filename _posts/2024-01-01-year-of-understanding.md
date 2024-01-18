@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Year of Understanding"
-categories: Personal 2024-Theme
+categories: 2024-Theme
 ---
 
 ![alt text][headerImg]

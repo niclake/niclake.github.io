@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding: Notebooks"
-categories: Personal 2024-Theme
+categories: 2024-Theme
 ---
 
 ![alt text][headerImg]
