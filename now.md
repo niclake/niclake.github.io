@@ -4,35 +4,37 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 15 Jan 2024*
+*Last updated: 5 Feb 2024*
 
 These are the things currently occupying my time & attention, in no particular order.
 
 ### Personal Stuff
 
+- Heading out to the workshop this week to get a few things organized, before working on a couple of mechanical keyboard cases out of cherry and walnut
 - Focusing on my [2024 yearly theme](/year-of-understanding), including planning out some blog posts
-- Planning out a few woodworking projects (clock, chess set, coasters, and more)
 - Saving up money to buy a 3D printer, and planning some of my first prints
+- Investigating a little tool storage/work station in the basement
 
 ### Projects
 
-- Considering a handful of things for 2024, but nothing set in stone yet
+- Diving back into learning Python
 - [See all my released projects here](/projects)
 
 ### Reading Queue
 
-- Current: **Rhythm of War** by Brandon Sanderson
+- In Progress: **The Book of Accidents** by Chuck Wendig
+- Completed: **The Mysteries** by Bill Watterson
+- Completed: **The Martian** by Andy Weir
+- Completed: **Rhythm of War** by Brandon Sanderson
 - [Full book backlog is here][books] - please tell me any books I should add/prioritize!
 
 ### Game Queue
 
-- Current/forever: **World of Warcraft** (PC)
+- In Progress: **Cyberpunk 2077** (PC)
 - On Hold: **Baldur's Gate 3** (PC)
 - On Hold: **Pokémon FireRed** (GameBoy Advance)
-- Next up: **Cyberpunk 2077** (PC)
 - Next up: **Hollow Knight** (PC)
 - Next up: **Disco Elysium** (PC)
-- Planning out my game log for 2024
 - [Full game backlog is here][games]
 
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing
