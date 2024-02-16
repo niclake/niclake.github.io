@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 5 Feb 2024*
+*Last updated: 16 Feb 2024*
 
 These are the things currently occupying my time & attention, in no particular order.
 
@@ -31,7 +31,7 @@ These are the things currently occupying my time & attention, in no particular o
 ### Game Queue
 
 - In Progress: **Cyberpunk 2077** (PC)
-- On Hold: **Baldur's Gate 3** (PC)
+- Next Up: Finishing **Baldur's Gate 3** (PC)
 - On Hold: **Pokémon FireRed** (GameBoy Advance)
 - Next up: **Hollow Knight** (PC)
 - Next up: **Disco Elysium** (PC)

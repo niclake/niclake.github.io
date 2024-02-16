@@ -28,14 +28,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Studio Neat Material Dock Trio](https://www.studioneat.com/products/materialdock)
 - [Thursday boots President (size 9.5, color Black Coffee)](https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
-- Gift certificate to [Trade Coffee](https://www.drinktrade.com/gift-subscription/p/1858)
 - Converse All Stars (size 10, standard width, in [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false))
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
-  - A [Bookshop gift card](https://bookshop.org/gift_cards), or an [Amazon gift card](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011) earmarked for books is ok too
 - A combo drill/driver set (DeWalt) + comprehensive bit set
 - A router bit set
-- A corded random orbital sander
 
 ### T-Shirts from Cotton Bureau
 
@@ -52,16 +49,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Red Sox
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
-  - [Metallic City 59FIFTY](https://www.neweracap.com/products/boston-red-sox-metallic-city-59fifty-fitted?_pos=31&_fid=f337f046c&_ss=c)
-  - [Tri-Tone Team 59FIFTY](https://www.neweracap.com/products/boston-red-sox-tri-tone-team-59fifty-fitted?variant=43600710369507)
-  - [Varsity Letter 59FIFTY](https://www.neweracap.com/products/boston-red-sox-varsity-letter-59fifty-fitted?variant=43600721314019)
-  - [Colorpack Black 59FIFTY](https://www.neweracap.com/products/boston-red-sox-colorpack-black-59fifty-fitted?variant=43209683894499)
-  - [Stone/Black Chrome 59FIFTY](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-new-era-stone/black-chrome-59fifty-fitted-hat/t-25995253+p-918899551214490+z-9-725604408?_ref=p-DLP:m-GRID:i-r3c0:po-9&sku=200027457)
-  
-<!-- - Celtics -->
-  <!-- - [2TONE 59FIFTY](https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531) -->
-  <!-- - [Team Color Black 59FIFTY](https://www.neweracap.com/products/boston-celtics-team-color-black-59fifty-fitted?variant=42671043313891) -->
-  <!-- - [Stone Pack 59FIFTY](https://www.neweracap.com/products/boston-celtics-stone-pack-59fifty-fitted?variant=43209671606499) -->
 
 ### Red Sox Jerseys
 
@@ -70,11 +57,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
   - Wakefield 49
   - Varitek 33
-  - Martinez 45
   - Betts 50
-  - Ramirez 24
-  - Lester 31
-  - Sale 41
 
 <!-- ### Cookbooks (physical, hardcover pref.)
 
@@ -95,6 +78,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Gift Certificates
 
+- [Thursday Boots](https://thursdayboots.com/products/gift-cards)
+- [Trade Coffee](https://www.drinktrade.com/products/gift-coffee-subscription)
+- [Bookshop](https://bookshop.org/gift_cards)
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Converse](https://www.converse.com/c/gift-cards)
 - [Nintendo](https://www.nintendo.com/giftcards)
