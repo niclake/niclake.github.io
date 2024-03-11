@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 16 Feb 2024*
+*Last updated: 11 Mar 2024*
 
 These are the things currently occupying my time & attention, in no particular order.
 
@@ -12,7 +12,6 @@ These are the things currently occupying my time & attention, in no particular o
 
 - Heading out to the workshop this week to get a few things organized, before working on a couple of mechanical keyboard cases out of cherry and walnut
 - Focusing on my [2024 yearly theme](/year-of-understanding), including planning out some blog posts
-- Saving up money to buy a 3D printer, and planning some of my first prints
 - Investigating a little tool storage/work station in the basement
 
 ### Projects
@@ -22,7 +21,8 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Reading Queue
 
-- In Progress: **The Book of Accidents** by Chuck Wendig
+- In Progress: **System Collapse** by Martha Wells
+- Completed: **The Book of Accidents** by Chuck Wendig
 - Completed: **The Mysteries** by Bill Watterson
 - Completed: **The Martian** by Andy Weir
 - Completed: **Rhythm of War** by Brandon Sanderson
@@ -30,9 +30,9 @@ These are the things currently occupying my time & attention, in no particular o
 
 ### Game Queue
 
+- In Progress: **Pokémon LeafGreen** (GameBoy Advance)
 - In Progress: **Cyberpunk 2077** (PC)
 - Next Up: Finishing **Baldur's Gate 3** (PC)
-- On Hold: **Pokémon FireRed** (GameBoy Advance)
 - Next up: **Hollow Knight** (PC)
 - Next up: **Disco Elysium** (PC)
 - [Full game backlog is here][games]

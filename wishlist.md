@@ -33,6 +33,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
 - A combo drill/driver set (DeWalt) + comprehensive bit set
 - A router bit set
+- A Lochby [Pocket Journal](https://www.lochby.com/collections/notebooks/products/pocket-journal) or [Field Journal](https://www.lochby.com/collections/notebooks/products/field-journal)
 
 ### T-Shirts from Cotton Bureau
 
