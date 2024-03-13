@@ -42,7 +42,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
 - [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
 - [hello.](https://cottonbureau.com/products/hello-14#/13684735/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
-- [Hoptopus](https://cottonbureau.com/products/hoptopus#/9969833/tee-men-standard-tee-envy-tri-blend-s) in Envy Tri-Blend
 
 ### Hats
 
