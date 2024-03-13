@@ -93,7 +93,7 @@ Embedded videos can be put in like this:
 
 <!-- <div align="center">
 	<div style="width:600px">
-		<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+		<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" maxwidth="600px" allowfullscreen style="width:100%;height:100%;left:0px;top:0px;overflow:hidden;"></iframe></div>
 	</div>
 </div> -->
 
