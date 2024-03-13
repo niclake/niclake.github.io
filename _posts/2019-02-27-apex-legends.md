@@ -21,7 +21,7 @@ I've actively been uninstalling a lot of "time sink" games from my computer (**O
 
 (Below is a clip of a recent game I played with some of my friends. Excuse the swearing.)
 
-<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div class="embed"><iframe src="https://streamable.com/s/9lg6p/ioxcpn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 There are a few major reasons why I think the game is so successful:
 
@@ -35,7 +35,7 @@ There are a few major reasons why I think the game is so successful:
 
 (Another clip of a win from last night.)
 
-<div class="embed"><iframe src="https://streamable.com/s/q7tdi/ldbmka" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div class="embed"><iframe src="https://streamable.com/s/q7tdi/ldbmka" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 The biggest complaints I've seen about this game so far are somewhat dumb; that being "[all the paid content is too expensive!!!][kotakuApex]" Well, Dave, the game is COMPLETELY FREE. They need to recover the money from somewhere, yeah? Honestly, I don't think I'll ever make a single purchase with actual money in this game, but that's just me.
 
