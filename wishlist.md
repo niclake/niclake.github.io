@@ -92,9 +92,9 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Mets: Colón 40
 - Braves: Acuña 13, Smoltz 29, Glavine 47, Maddux 31
 - Marlins: Fernandez 16
-- Phillies: Harper 3, someone else
+- Phillies: Utley 26, Harper 3
 - Nationals: Harper 34, Strasburg 37
-- Expos: Guerrero 27 (Expos)
+- Expos: Guerrero 27
 
 - Pirates: McCutchen 22, Clemente 13
 - Cubs: Sosa 21
