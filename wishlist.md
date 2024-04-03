@@ -49,6 +49,17 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Red Sox
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
+- Worcester Red Sox
+  - [Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-red-heart-w-5950-hat?variant=32307600162852)
+  - [Los Wepas de Worcester Rocket](https://woosox.milbstore.com/collections/all-caps/products/ryl-wht-rocket-wepas-5950-hat-100620?variant=39370254057508)
+- Portland Sea Dogs
+  - [2-tone Retro Teal](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-2-tone-retro-fitted-cap?variant=40098657009742)
+  - [Sunday Red](https://seadogs.milbstore.com/collections/all-caps/products/official-on-field-sunday-players-hat-sluggers-face-design-1?variant=32604079620174)
+  - [State of Maine Navy/Red](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326)
+- Salem Red Sox
+  - [Diamond Era Navy/Red](https://salemsox.milbstore.com/collections/all-caps/products/new-era-59fifty-alternate-cap?variant=30871409721380)
+- Greenville Drive
+  - [Navy Batting Practice](https://drive.milbstore.com/collections/all-caps/products/copy-of-greenville-drive-new-era-navy-59fifty-lp-diamond-era-on-field-road-hat?variant=40546385100855)
 
 ### Red Sox Jerseys
 
@@ -58,6 +69,44 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - Wakefield 49
   - Varitek 33
   - Betts 50
+  - Martinez 45
+
+### Other Jerseys
+
+- Orioles: Rutschman 35, Ripken Jr. 8
+- Blue Jays: Halladay 32, Bautista 19, Guerrero Jr. 27
+- Rays: Boggs 12 (Devil Rays), Arozarena 56
+
+- Twins: Mauer 7, Puckett 34
+- Royals: Butler 16, Perez 13
+- Guardians: Ramirez 11
+- White Sox: Thomas 35
+- Tigers: Cabrera 24
+
+- Astros: Bagwell 5, Wagner 13
+- Rangers: Ivan Rodríguez 7, Beltré 29
+- Athletics: Eckersley 43, Braden 51
+- Angels: Trout 27
+- Mariners: Griffey Jr. 24
+
+- Mets: Colón 40
+- Braves: Acuña 13, Smoltz 29, Glavine 47, Maddux 31
+- Marlins: Fernandez 16
+- Phillies: Harper 3, someone else
+- Nationals: Harper 34, Strasburg 37
+- Expos: Guerrero 27 (Expos)
+
+- Pirates: McCutchen 22, Clemente 13
+- Cubs: Sosa 21
+- Cardinals: Pujols 5, Molina 4, McGwire 25, Rolen 27, Edmonds 15, Smith 1
+- Reds: De La Cruz 44
+- Brewers: Yelich 22? Fielder 28?
+
+- Dodgers: Ohtani 17, Robinson 42
+- Diamondbacks: Johnson 51
+- Padres: Tatis Jr. 23, Gwynn 19
+- Giants: Posey 28, Lincecum 55
+- Rockies: Story 27, Arenado 28, Helton 17
 
 <!-- ### Cookbooks (physical, hardcover pref.)
 

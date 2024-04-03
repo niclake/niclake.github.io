@@ -31,10 +31,10 @@ These are the things currently occupying my time & attention, in no particular o
 ### Game Queue
 
 - In Progress: **Pokémon LeafGreen** (GameBoy Advance)
-- In Progress: **Cyberpunk 2077** (PC)
+- In Progress: **Disco Elysium** (PC)
 - Next Up: Finishing **Baldur's Gate 3** (PC)
 - Next up: **Hollow Knight** (PC)
-- Next up: **Disco Elysium** (PC)
+- Completed: **Cyberpunk 2077** (PC)
 - [Full game backlog is here][games]
 
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing
