@@ -65,7 +65,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - All jerseys size medium
 - [Navy (David Ortiz, #34)](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-david-ortiz-nike-navy-alternate-replica-player-jersey/t-25333097+p-0464684556805+z-9-2288905099?_ref=p-DLP:m-GRID:i-r4c0:po-12)
-- Either [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
+- [Grey](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-gray-away-limited-custom-jersey/t-36223086+p-688844381144847+z-9-1821477672?_ref=p-DLP:m-GRID:i-r8c2:po-26), [red](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-red-alternate-replica-custom-jersey/t-36556353+p-4742455661610+z-9-1683049964) or [white](https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-white-home-replica-custom-jersey/t-25229620+p-1431453427610+z-9-1370853318?_ref=p-SFLP:m-GRID:i-r0c1:po-1) jerseys for (in order of preference):
   - Wakefield 49
   - Varitek 33
   - Betts 50
@@ -123,10 +123,11 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Gift Certificates
 
+- [Mode Keyboards](https://modedesigns.com/products/gift-card)
+- [Divinikey](https://divinikey.com/products/divinikey-gift-card)
 - [Thursday Boots](https://thursdayboots.com/products/gift-cards)
 - [Trade Coffee](https://www.drinktrade.com/products/gift-coffee-subscription)
 - [Bookshop](https://bookshop.org/gift_cards)
 - [Amazon](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Converse](https://www.converse.com/c/gift-cards)
-- [Nintendo](https://www.nintendo.com/giftcards)
 - Steam (Walmart, Target, GameStop, etc. will have these)
