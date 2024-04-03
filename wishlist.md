@@ -96,7 +96,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Nationals: Harper 34, Strasburg 37
 - Expos: Guerrero 27
 
-- Pirates: McCutchen 22, Clemente 13
+- Pirates: McCutchen 22, Clemente 21
 - Cubs: Sosa 21
 - Cardinals: Pujols 5, Molina 4, McGwire 25, Rolen 27, Edmonds 15, Smith 1
 - Reds: De La Cruz 44
