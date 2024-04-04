@@ -37,11 +37,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### T-Shirts from Cotton Bureau
 
-- All sized medium
+- All sized large
 - [Dark Roast of the Brew](https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew#/14999374/tee-men-standard-tee-vintage-black-tri-blend-m) in Vintage Black Tri-Blend
 - [Hawkins High](https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-s) in Premium Heather Tri-Blend
-- [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend
-- [hello.](https://cottonbureau.com/products/hello-14#/13684735/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
+- [Basic Apple Tee: Pocket](https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-s) in Vintage Navy Tri-Blend or [The Early Days](https://cottonbureau.com/p/8399R7/shirt/the-early-days#/16543847/tee-men-standard-tee-vintage-black-tri-blend-l) in Vintage Black Tri-Blend
+- [hello.](https://cottonbureau.com/products/hello-14#/13684735/tee-men-standard-tee-vintage-black-tri-blend-s) or [Pixelated Hello](https://cottonbureau.com/p/QQ49TF/shirt/pixellated-hello-tee#/13612362/tee-men-standard-tee-vintage-black-tri-blend-l) in Vintage Black Tri-Blend
+- [2023 Commander](https://cottonbureau.com/p/3QYPDB/shirt/2023-commander-color-edition#/16825656/tee-men-standard-tee-vintage-black-tri-blend-l) in Vintage Black Tri-Blend
+- [2024 Commander](https://cottonbureau.com/p/SZN6YS/shirt/commander-2024-edition#/20105910/tee-men-standard-tee-vintage-black-tri-blend-s) in Vintage Black Tri-Blend
 
 ### Hats
 
