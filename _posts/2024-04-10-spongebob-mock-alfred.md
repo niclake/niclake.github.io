@@ -16,6 +16,6 @@ I went online to see if an Alfred workflow existed for this. [It did... kinda.](
 
 23 lines of code later, my own version of the Spongebob Mocking Text workflow now exists.
 
-You can download the latest version of the workflow [on GitHub](https://github.com/niclake/alfred-spongebob-mocking-text/releases/latest/download/github-repo-helper.alfredworkflow), or [view the latest release](https://github.com/niclake/alfred-spongebob-mocking-text/releases/latest).
+You can download the latest version of the workflow [on GitHub](https://github.com/niclake/alfred-spongebob-mocking-text/releases/download/v1.0.0/Spongebob.Mocking.Text.alfredworkflow), or [view the latest release](https://github.com/niclake/alfred-spongebob-mocking-text/releases/latest).
 
 [headerImg]: https://github.com/niclake/alfred-spongebob-mocking-text/raw/main/preview.png
