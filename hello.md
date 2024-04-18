@@ -4,7 +4,7 @@ title: Hello
 permalink: /hello/
 ---
 
-<img class="photo photo-right" src="https://i.imgur.com/cpCOxpe.jpg" />
+<img class="photo photo-right" src="/images/its-me-hi.png" />
 
 Hello. I'm Nic Lake. My pronouns are he/him.
 
