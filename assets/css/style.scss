@@ -110,12 +110,9 @@ dl, ol, ul {
     padding-left: 0;
   }
 
-  span {
+  span.post-date {
     float: right;
-
-    &.post-date {
-      color: $lightGrey;
-    }
+    color: $lightGrey;
   }
 }
 
