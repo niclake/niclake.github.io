@@ -2,6 +2,7 @@
 layout: post
 title: "Sunday Ritual"
 categories: Personal
+image: https://niclake.me/images/sunday-ritual.jpg
 ---
 
 ![A good pen, some paper, and time][headerImg]

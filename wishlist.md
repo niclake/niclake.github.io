@@ -29,7 +29,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Thursday boots President (size 9.5, color Black Coffee)](https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - Converse All Stars (size 10, standard width, in [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false))
-- [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/en_us/3-in-1-travel-charger-magsafe-apple)
+- [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/mophie-3-in-1-travel-charger-with-magsafe/)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
 - A combo drill/driver set (DeWalt) + comprehensive bit set
 - A router bit set
