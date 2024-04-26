@@ -2,6 +2,7 @@
 layout: post
 title: "Unproductive Productivity"
 categories: Personal
+image: https://niclake.me/images/unproductive.png
 ---
 
 If you'd like an insight into my brain, here's the process flow I went through after V went down for the night:
