@@ -11,7 +11,6 @@ title: Projects
 <div class="container">
   <div class="row">
     {% for post in site.categories.Project %}
-      {% if post.hidden != true %}
         {% assign remainder = forloop.index | modulo: 3 %}
             <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
               <div class="card" href="{{ site.baseurl }}{{ post.url }}">
@@ -30,7 +29,6 @@ title: Projects
                 </div>
               </div>
             </div>
-      {% endif %}
     {% endfor %}
   </div>
 </div>

@@ -9,6 +9,125 @@ This is a style guide for NicLake.me.
 <!-- Here is the block for creating a fold for blog posts -->
 <!-- more -->
 
+## Colors
+
+This theme is built around the Dracula color scheme, with the following colors:
+
+<div class="container color-container">
+  <div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color black-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$black</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color grey-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$grey</div>
+          <div>#44475a</div>
+          <div>68, 71, 90</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color lightGrey-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$lightGrey</div>
+          <div>#6272a4</div>
+          <div> 98, 114, 164</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color white-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$white</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color red-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$red</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color orange-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$orange</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color yellow-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$yellow</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color green-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$green</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color cyan-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$cyan</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color purple-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$purple</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+      <div class="card color-box">
+        <div class="the-color pink-bg">&nbsp;</div>
+        <div class="m-2 mt-auto">
+          <div>$pink</div>
+          <div>#282a36</div>
+          <div>40, 42, 54</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Basic Text Things
 
 Here is some standard text.

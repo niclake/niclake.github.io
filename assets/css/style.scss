@@ -8,19 +8,24 @@
 // /**************/
 
 html {
-  font-size: 100%;
   height: 100%;
+  font-size: 1.2em;
+  // font-size: 100%;
 }
 
 body {
-	background: $black;
-  background-image: linear-gradient($black, $grey);
-  background-repeat: no-repeat;
+  background: -webkit-linear-gradient($black, $grey);
   background-attachment: fixed;
-  background-position: center; 
   font-family: $sansSerif;
+  line-height: 1.6;
   color: $white;
   height: 100%;
+}
+
+@media (min-width: 1200px)  {
+  #main.container {
+      max-width: 1000px !important;
+  }
 }
 
 a {
@@ -35,29 +40,40 @@ a {
   }
 }
 
-@media (min-width: 1400px) {
-  .container {
-      max-width: 1000px;
+.navbar {
+  background-color: transparent !important;
+
+  .navbar-brand,
+  .nav-link {
+    font-weight: bold;
+    font-family: $headers;
+  }
+  
+  .navbar-brand {
+    font-size: 3.5rem;
+
+    &:hover {
+      color: $pink !important;
+    }
+
+    span {
+      font-size: 1rem;
+      color: $cyan !important;
+    }
+  }
+
+  .nav-link {
+    font-size: 1.25rem;
+
+    &:hover {
+      color: $green !important;
+    }
   }
 }
 
-@media (min-width: 1200px) {
-  .container {
-      max-width: 1000px;
-  }
-}
-
-.nav-item {
-  font-family: $headers;
-}
-
-.navbar-brand, h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   font-family: $headers;
-}
-
-.navbar-brand {
-  font-size: 2.5rem;
 }
 
 h2, h3, h4, h5, h6 {
@@ -79,10 +95,6 @@ h2 {
 
 h3 {
   color: $yellow;
-
-  &.category-head {
-    
-  }
 }
 
 h4 {
@@ -109,11 +121,6 @@ dl, ol, ul {
     list-style: none;
     padding-left: 0;
   }
-
-  span.post-date {
-    float: right;
-    color: $lightGrey;
-  }
 }
 
 ul, ol {
@@ -126,6 +133,16 @@ ul {
 
 ol {
   list-style-type: decimal;
+}
+
+span {
+  &.post-date {
+    float: right;
+    color: $lightGrey;
+    font-size: 1rem;
+    font-family: $sansSerif;
+    font-weight: 400;
+  }
 }
 
 hr {
@@ -175,10 +192,6 @@ blockquote {
   display:block;
   text-align: center;
   margin: 0 auto;
-}
-
-.page h2 {
-  margin-top: 2rem;
 }
 
 .page h3 {
@@ -237,6 +250,19 @@ img {
   }
 }
 
+@media (max-width: 991px)  {
+  img {
+    &.photo {
+      width: 100%;
+    }
+
+    &.photo-left, &.photo-right {
+      float: none !important;
+      margin: 0 auto;
+    }
+  }
+}
+
 .card {
   background-color: $black;
   border-radius: 15px;
@@ -251,18 +277,108 @@ img {
   img {
     margin-bottom: 1rem;
   }
+
+  &.color-box {
+    text-align: center;
+    width: 100%;
+  
+    .the-color {
+      border: 3px solid $white;
+      border-radius: 10px;
+      display: block;
+      width: 100%;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+// /**************/
+// /*   COLORS   */
+// /**************/
+
+.black {
+  color: $black;
+}
+.black-bg {
+  background-color: $black;
+}
+.grey {
+  color: $grey;
+}
+.grey-bg {
+  background-color: $grey;
+}
+.lightGrey {
+  color: $lightGrey;
+}
+.lightGrey-bg {
+  background-color: $lightGrey;
+}
+.white {
+  color: $white;
+}
+.white-bg {
+  background-color: $white;
+}
+.red {
+  color: $red;
+}
+.red-bg {
+  background-color: $red;
+}
+.orange {
+  color: $orange;
+}
+.orange-bg {
+  background-color: $orange;
+}
+.yellow {
+  color: $yellow;
+}
+.yellow-bg {
+  background-color: $yellow;
+}
+.green {
+  color: $green;
+}
+.green-bg {
+  background-color: $green;
+}
+.cyan {
+  color: $cyan;
+}
+.cyan-bg {
+  background-color: $cyan;
+}
+.purple {
+  color: $purple;
+}
+.purple-bg {
+  background-color: $purple;
+}
+.pink {
+  color: $pink;
+}
+.pink-bg {
+  background-color: $pink;
 }
 
 // Footnotes courtesy of littlefoot.js
 .littlefoot {
-  --button-background-color: #f55;
+  --button-background-color: #bd93f9;
   --button-text-color: #f8f8f2;
-  --button-active-text-color: #f8f8f2;
-  --button-active-background-color: #44475a;
+  --button-active-text-color: #282a36;
+  --button-active-background-color: #f55;
   --popover-background-color: #282a36;
   --popover-text-color: #f8f8f2;
   --popover-border: 2px solid #ff79c6;
-  --popover-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  --popover-shadow: 0 0 10px rgba(0, 0, 0, .5);
+  margin-left: .25rem;
+
+  .littlefoot__content p {
+    margin: 0;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
