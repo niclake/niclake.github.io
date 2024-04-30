@@ -51,9 +51,10 @@ a {
   
   .navbar-brand {
     font-size: 3.5rem;
+    color: $pink !important;
 
     &:hover {
-      color: $pink !important;
+      color: $white !important;
     }
 
     span {
