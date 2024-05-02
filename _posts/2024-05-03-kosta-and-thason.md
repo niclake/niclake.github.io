@@ -72,4 +72,4 @@ Kosta struggles to rise, but cries out in pain and collapses. "A little help?"
 
 Thason reaches out and takes Kosta's hand, but instead of pulling him to his feet, Thason presses his amulet into Kosta's hand. "You've got that covered now, don't you?" Thason grins, then turns to help Anders stagger out of the room.
 
-Kosta watches them leave in bewilderment, and then smiles, blood trickling from his mouth. "Fuck you, Yve," he chuckles. The amulet begins to glow softly. "Fuck you."
+Kosta watches them leave in bewilderment, and then smiles, blood trickling from his mouth. "Fuck you, Yve," he chuckles, as the amulet begins to glow softly. "You bastard."
