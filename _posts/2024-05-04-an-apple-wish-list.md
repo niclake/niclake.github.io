@@ -18,5 +18,6 @@ I'd consider myself to be a staunch Apple fanboy, but there are still a _ton_ of
 - Please give us an iPhone Pro Mini.
 - Why does ANYTHING still use Lightning? USB-C for everything already, c'mon.
 - Why is sharing something via iCloud with a family member so wildly inconsistent and/or unintuitive?
+- Widgets should have an "extra small" size option thats just the size of an app icon. Also, every app should be able to dynamically set their app icon if the user enables it (i.e. Fantastical should be able to show me the date).
 
 I'm sure I have more deep in my bag, but these are my main ones right now. Do you have any gripes?
