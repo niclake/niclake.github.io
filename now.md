@@ -4,13 +4,10 @@ title: Now
 permalink: /now/
 ---
 
-*Last updated: 17 Apr 2024*
-
-These are the things currently occupying my time & attention, in no particular order.
-
-### Personal Stuff
-
-Go check out [my recent blog post about my Now page][now] while I work at getting this automated.
+{% for post in site.categories.Now limit:1 %}
+  <p><em>Last updated: {{ post.date | date: "%e %B %Y" }}</em></p>
+  <div>{{ post.content }}</div>
+{% endfor %}
 
 ### Projects
 
@@ -18,15 +15,15 @@ Go check out [my recent blog post about my Now page][now] while I work at gettin
 
 ### Currently Reading
 
-_Gardens of the Moon_ by Steven Erikson
-
-- (See my [full book backlog here][books] - please tell me any books I should add/prioritize)
+- _Warbreaker_ and _Mistborn_ by Brandon Sanderson
+- _Gardens of the Moon_ by Steven Erikson
+- See my [full book backlog here][books], and tell me any books you think I should add/prioritize
 
 ### Currently Playing
 
-**Pokémon LeafGreen** (GameBoy Advance) and **Disco Elysium** (PC)
-
-- (See my [full game backlog here][games])
+- **Hollow Knight** (Steam Deck)
+- **Pokémon LeafGreen** (GameBoy Advance)
+- See my [full game backlog here][games], and tell me any games you think I should play next
 
 [now]: https://niclake.me/now-for-april-2024/
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing
