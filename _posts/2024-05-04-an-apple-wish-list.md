@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Apple Wish List"
-categories: Personal
+categories: Personal WeblogPoMo
 ---
 
 We're about to get an Apple Event on Tuesday. This is going to be the first one in a while that I'm probably not going to get to watch; I'll be driving back from vacation that day, so it would be highly irresponsible of me to try and tune in.

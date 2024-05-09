@@ -2,6 +2,7 @@
 layout: post
 title: "TITLE"
 categories: Personal
+description: BLURB
 image: url.here
 projectInfo: "Blurb goes here"
 projectLink: url.here
