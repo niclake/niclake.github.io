@@ -11,7 +11,7 @@ title: Categories
   {% assign sorted_posts = category[1] | sort: 'title' %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>    
+    <div id="{{ category_name | slugize }}"></div>    
       <h3 class="category-head">{{ category_name | replace: "-", " " }}</h3>
 
       <ul class="no-list-style">
