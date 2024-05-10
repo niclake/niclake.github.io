@@ -14,6 +14,7 @@ permalink: /hello/
 - Tech enthusiast, gamer, bibliophile, Boston sports fan, spreadsheet enthusiast, and craft beer connoisseur
 - I type using the [Colemak layout](https://niclake.me/colemak)
 - Check out some of the things that I've done on my [Projects page](/projects)
+- [Here's a list of apps that I'm using](/app-defaults.md)
 - If you feel so inclined, you can [buy me a coffee](https://ko-fi.com/niclake)
 
 Here is how I prefer to keep in touch:
