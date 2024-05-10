@@ -2,7 +2,7 @@
 layout: post
 title: "A Digital Reset"
 categories: Personal WeblogPoMo
-projectInfo: "Have you ever thought about nuking everything on your devices and starting over?"
+description: "Have you ever thought about nuking everything on your devices and starting over?"
 ---
 
 (Quick note: I'm back from vacation! It was an amazing time away, and I'm back recharged and energized again. It's so much nicer to be able to type on a real keyboard and get everything published easily, vs. attempting to do this all via Apple Notes and GitHub's website [because the app doesn't let you create pull requests]. I'm sure I'll write more about my time off at some point.)
