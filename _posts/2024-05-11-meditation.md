@@ -2,7 +2,7 @@
 layout: post
 title: "Meditation"
 categories: Personal WeblogPoMo
-description: "Meditation doesn't have to be sitting in silence or finding inner peace."
+description: "I am Calm and Comfort and Quiet and Peace™"
 ---
 
 I've tried traditional meditation. I don't care for it.
