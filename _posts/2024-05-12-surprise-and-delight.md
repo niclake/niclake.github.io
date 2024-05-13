@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surprise and Delight"
-categories: Personal
+categories: Personal WeblogPoMo
 description: "The reveal is important. But the way that reveal makes someone feel... THAT is the key."
 ---
 
