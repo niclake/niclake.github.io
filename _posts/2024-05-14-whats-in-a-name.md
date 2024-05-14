@@ -2,6 +2,7 @@
 layout: post
 title: "What’s In A Name?"
 categories: Personal WeblogPoMo
+description: "Screennames evolve over the years; have you ever looked back on yours and thought 'oh jeez'?"
 ---
 
 Lately, I’ve been on a quest for finding a new handle/screenname for playing games online. Partly because I like changing things up from time to time, but also because I don’t vibe with the ones I use anymore for a variety of reasons. As I was thinking back on all of my old handles, I thought “hey that could be fun to write about”. So… here goes. Enjoy.
