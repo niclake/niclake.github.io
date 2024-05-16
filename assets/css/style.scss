@@ -208,17 +208,21 @@ blockquote {
 // /* SPECIFIC RULES */
 // /******************/
 
-.post {
-  &:not(.single-post) {
-    border-bottom: 1px solid transparent;
-    border-image: linear-gradient(to right, $pink, $purple);
-    border-image-slice: 1;
-  }
+.post:not(.single-post)::after {
+  position: relative;
+  left: -10%;
+  content: " ";
+  display: block;
+  height: 3rem;
+  border-bottom: 5px solid transparent;
+  border-image: linear-gradient(to right, $pink, $purple);
+  border-image-slice: 1;
+  width: 120%;
+  max-width: 100vw;
 }
 
 .post, .pagination, .page {
   padding-bottom: 3rem;
-  margin-bottom: 3rem;
 }
 
 .pagination {
