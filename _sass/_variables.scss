@@ -1,10 +1,10 @@
 // Colors
 $black: #282a36; // 40, 42, 54
+$pureBlack: #000000; // 0, 0, 0
 $grey: #44475a; // 68, 71, 90
-$lightGrey: hsl(225, 27%, 51%); // 98, 114, 164
-// $white: #f8f8f2; // 248, 248, 242
-// $white: #d0d0d0; // 248, 248, 242
-$white: hsl(30 2% 79%);
+$lightGrey: #6272a4; // 98, 114, 164
+$white: #d0d0d0; // 208, 208, 208
+$pureWhite: #ffffff; // 255, 255, 255
 $red: #ff5555; // 255, 85, 85
 $orange: #ffb86c; // 255, 184, 108
 $yellow: #f1fa8c; // 241, 250, 140
@@ -17,8 +17,8 @@ $pink: #ff79c6; // 255, 121, 198
   --bs-primary-rgb: 98, 114, 164;
   --bs-link-color: rgb(255, 184, 108);
   --bs-link-hover-color: rgb(80, 250, 123);
-  --bs-body-color: rgb(40, 42, 54);
-  --bs-code-color: rgb(255, 184, 108);
+  --bs-body-color: $black;
+  --bs-code-color: $orange;
   --bs-font-sans-serif: Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
