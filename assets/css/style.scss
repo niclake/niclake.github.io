@@ -9,17 +9,25 @@
 
 html {
   height: 100%;
-  font-size: 1.2em;
-  // font-size: 100%;
+  font-size: clamp(1rem, 0.33vw + 1rem, 1.3rem);
 }
 
 body {
-  background: -webkit-linear-gradient($black, $grey);
-  background-attachment: fixed;
+  background: $black;
   font-family: $sansSerif;
-  line-height: 1.6;
+  line-height: 1.5;
   color: $white;
   height: 100%;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: $pureBlack;
+  background: $orange;
+}
+
+::selection {
+  color: $pureBlack;
+  background: $orange;
 }
 
 @media (min-width: 1200px)  {
