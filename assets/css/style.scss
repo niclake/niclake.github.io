@@ -18,7 +18,7 @@ body {
   line-height: 1.5;
   color: $white;
   height: 100%;
-  font-size: clamp(1rem, 0.33vw + 1rem, 1.3rem);
+  font-size: clamp(1rem, calc(0.33vw + 1rem), 1.3rem);
 }
 
 ::-moz-selection { /* Code for Firefox */
