@@ -9,17 +9,27 @@
 
 html {
   height: 100%;
-  font-size: 1.2em;
-  // font-size: 100%;
+  font-size: clamp(1rem, 0.33vw + 1rem, 1.3rem);
 }
 
 body {
-  background: -webkit-linear-gradient($black, $grey);
+  background: $black;
+  // background: -webkit-linear-gradient($black, $grey);
   background-attachment: fixed;
   font-family: $sansSerif;
-  line-height: 1.6;
+  line-height: 1.5;
   color: $white;
   height: 100%;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: #000;
+  background: $orange;
+}
+
+::selection {
+  color: #000;
+  background: $orange;
 }
 
 @media (min-width: 1200px)  {
@@ -34,6 +44,7 @@ a {
   -moz-transition: all ease 0.3s;
   -o-transition: all ease 0.3s;
   transition: all ease 0.3s;
+  // color: #fff;
 
   &:hover, &:visited, &:active {
     text-decoration: none;
@@ -50,7 +61,7 @@ a {
   }
   
   .navbar-brand {
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     color: $pink !important;
 
     &:hover {
@@ -73,7 +84,7 @@ a {
 
   @media (max-width: 489px)  {
     .navbar-brand {
-      font-size: 2rem;
+      font-size: 1.8rem;
     }
 
     .nav-link {
@@ -92,7 +103,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .post h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-bottom: 0;
 }
 
@@ -114,16 +125,26 @@ h4 {
 
 p {
   margin: 0 0 1rem;
-  line-height: 1.6em;
-  
-  strong, b { 
-    font-weight: 800; 
-  } 
-
-  em, i { 
-    font-style: italic; 
-  }
+  font-variation-settings: "wdth"100,"wght"300;
 }
+
+em, strong, b, th {
+  color: #fff;
+}
+
+em {
+  font-variation-settings: "wdth"100,"wght"500;
+  font-style: italic;
+}
+
+strong, b { 
+  color: hsl(50deg 100% 100%);
+  font-variation-settings: "wdth"100,"wght"800;
+
+  em {
+    font-variation-settings: "wdth"100,"wght"800;
+  }
+} 
 
 dl, ol, ul {
   margin: 0 0 1rem;
@@ -131,6 +152,11 @@ dl, ol, ul {
   &.no-list-style {
     list-style: none;
     padding-left: 0;
+  }
+
+  li {
+    margin-bottom: .75rem;
+    line-height: 1.4rem;
   }
 }
 
@@ -165,7 +191,7 @@ hr {
 
 pre {
   padding: 1rem;
-  background-color: $black;
+  background-color: $grey;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -218,12 +244,25 @@ blockquote {
 }
 
 .entry {
+  a {
+    color: #fff !important;
+    text-decoration: underline;
+    text-decoration-color: $orange;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    &:hover {
+      text-decoration-color: $green !important;
+    }
+  }
+
   a.photo-link {
     background-color: transparent !important;
     border-radius: 0 !important;
     padding: 0 !important;
-    text-decoration: none;
+    text-decoration: none !important;
   }
+
+
 }
 
 .footer {
