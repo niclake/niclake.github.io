@@ -3,7 +3,6 @@ layout: post
 title: "Fur Babies"
 categories: Personal WeblogPoMo
 description: "I wrote about my cats. You're welcome."
-image: https://niclake.me/images/all_table.jpeg
 ---
 
 <a href="{{ site.baseurl }}/images/furbabies/all_table.jpeg">
