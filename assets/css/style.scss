@@ -153,6 +153,10 @@ dl, ol, ul {
   li {
     margin-bottom: .75rem;
     line-height: 1.4rem;
+
+    &::marker {
+      color: $pink;
+    }
   }
 }
 

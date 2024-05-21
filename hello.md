@@ -20,10 +20,10 @@ permalink: /hello/
 Here is how I prefer to keep in touch:
 
 - I would love to speak to you via [email](mailto:niclake13@gmail.com).
-- I like to post updates on my [website](https://niclake.me). To see what I'm focusing on, I have a [now page](https://niclake.me/now).
+- I'm active on [Mastodon](https://mastodon.social/@niclake).
+- I like to post updates on my [blog/website](https://niclake.me). To see what I'm focusing on, I have a [now page](https://niclake.me/now).
 - I'm part of various communities on [Discord](http://discordapp.com/users/147383526323388416).
-- I'm (currently) active on [Mastodon](https://mastodon.social/@niclake).
-- I use [Instagram](http://instagram.com/niclake) and [Bluesky](https://bsky.app/profile/niclake.bsky.social) sparingly.
+- I use [Instagram](http://instagram.com/niclake) for friends and family only.
 - I use [LinkedIn](https://www.linkedin.com/in/niclake/) to keep an eye on the job market.
 - [I'm done with Twitter & Facebook](https://niclake.me/fuck-social-media/).
 
