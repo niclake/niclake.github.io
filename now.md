@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 {% for post in site.categories.Now limit:1 %}
-  <p><em>Last updated: {{ post.date | date: "%e %B %Y" }}</em> - <a href="https://niclake.me/categories/#Now">see previous entries here</a></p>
+  <p><em>Last updated: {{ post.date | date: "%e %B %Y" }}</em> - <a href="https://niclake.me/categories#Now">see previous entries here</a></p>
   <div>{{ post.content }}</div>
 {% endfor %}
 
