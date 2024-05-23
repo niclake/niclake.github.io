@@ -1,30 +1,31 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about
 ---
 
-<img class="photo photo-right" src="https://i.imgur.com/cpCOxpe.jpg" />
+<img class="photo photo-right" src="/images/its-me-hi.png" />
 
-This is the website & blog of **Nic Lake**, a 30-something tech enthusiast, gamer & streamer, musician, sports fan, craft beer connoisseur, spreadsheet enthusiast, husband, and cat dad living in the Des Moines, IA area.
+I'm Nic Lake. My pronouns are he/him.
 
-I spend my days working as a full-stack web developer & project manager for a development shop, working mostly with Ruby on Rails. Previously, I've also worked as business analyst on an AR/VR team for a major manufacturing company, and as a software developer for industry leaders in health care, non-profit fund-raising, insurance, banking, and public transportation.
+### Professional
 
-I spend my nights and weekends partaking in a variety of hobbies. Video games are a major passion of mine, and you can find me [streaming on Twitch](https://twitch.tv/PhoenixUNI) on occasion. I'm always looking for additional games to add to my [never-ending list of games to play](https://docs.google.com/spreadsheets/d/1zg-SOYI8DlH-ibSNslfPtq0xJB4sEMb_7OHKbq2qclk/edit?usp=sharing). I'm also a multi-instrumental musician, and I've [released an EP under the name *The Music Plays You*](http://themusicplaysyou.bandcamp.com). When I'm not partaking in those, you can also find me bartending at [the best brewery in Des Moines](http://www.confluencebrewing.com), reading (or at least updating my [books to read](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing)), watching Boston-based sports teams, cooking, or making yet another spreadsheet.
+I am a lead software engineer at [Stitch Fix](https://stitchfix.com), an online personal styling service based in San Francisco, CA.
 
-## Colophon
+I've spent over a dozen years writing code for a wide variety of industries with a wide variety of tech stacks, as well as a detour as a business analyst. I currently work mostly with Ruby on Rails, React, and GraphQL.
 
-This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] for code editors and your favorite apps.
+I graduated from the University of Northern Iowa with a degree in Management Information Systems. This was not my first choice, but I'm thankful every day for the path that led me there.
+
+### Personal
+
+I have an ever growing list of hobbies, including video games, reading, mechanical keyboards, woodworking, watching the Celtics and Red Sox, cooking, and making yet another spreadsheet. I have a full sleeve Pokémon tattoo, and a few other on my other arm. I type using the [Colemak layout](/colemak). I hack at [various small projects](/projects) from time to time. I would love to hear from you; you can find out how to contact me over on [my Hello page](/hello).
+
+In a previous life, I was an accomplished musician. I started playing piano at age 4, drums at 10, bass at 12, and guitar at 13. I started my college career as a music education major, with the aspiration of teaching drumline at a 5/6A high school in Texas (oddly specific, I know). I missed out on being the lead guitarist for the most popular recording artist of the early 2020's because she's 4 inches taller than me. I've released [an EP of ambient instrumental music](/sailing).
+
+My partner (R), our daughter (V), and our cats (Bearcat and Beau) reside in eastern Iowa, USA.
+
+### Colophon
+
+This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] for code editors and your favorite apps; curious eyes can check out [my style guide](/styleguide). The header font is [Orbitron](https://fonts.google.com/specimen/Orbitron), the code block font (and my default for my IDEs) is [Hack](https://sourcefoundry.org/hack/), and the base site font is controlled by your device. You can subscribe to [the RSS feed here](/feed).
 
 [drac]: https://draculatheme.com
-
-<div class="contact-me">
-  <h3>Contact Me</h3>
-  <ul>
-    <li><a href="mailto:niclake13@gmail.com">Email me</a></li>
-    <li><a href="http://twitter.com/niclake">Tweet at me</a></li>
-    <li><a href="http://instagram.com/niclake">Look at my pretty photos</a></li>
-    <li><a href="https://github.com/niclake">Stare at my code</a></li>
-    <li><a href="https://docs.google.com/document/d/1KZT-nR_7WVi1ZtnnAwM9OpL2VZmrTSmT9eAHdupwZrk/edit?usp=sharing">Check out my resume</a></li>
-  </ul>
-</div>
