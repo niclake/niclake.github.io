@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-permalink: /hello/
+permalink: /hello
 ---
 
 <img class="photo photo-right" src="/images/its-me-hi.png" />

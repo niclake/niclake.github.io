@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wishlist
-permalink: /wishlist/
+permalink: /wishlist
 ---
 
 Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, Rebecca, or Violet for the holiday season (or any time, if you're feeling generous)!

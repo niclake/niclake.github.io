@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Style Guide
-permalink: /styleguide/
+permalink: /styleguide
 ---
 
 This is a style guide for NicLake.me.

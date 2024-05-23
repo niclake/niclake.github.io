@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Now
-permalink: /now/
+permalink: /now
 ---
 
 {% for post in site.categories.Now limit:1 %}

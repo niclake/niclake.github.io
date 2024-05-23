@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about
 ---
 
 <img class="photo photo-right" src="https://i.imgur.com/cpCOxpe.jpg" />
