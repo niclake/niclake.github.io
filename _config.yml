@@ -2,7 +2,7 @@ name: Nic Lake
 description: 'Life, technology, music, games, and more'
 url: https://niclake.me
 baseurl: ''
-permalink: /:title/
+permalink: /:title
 avatar: https://imgur.com/5HzYjig.jpg
 theme: jekyll-theme-midnight
 excerpt_separator: "<!-- more -->"
