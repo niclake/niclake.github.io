@@ -1,0 +1,24 @@
+<figure
+  {% if include.position %}
+    class="{{ include.position }}"
+  {% endif %}
+>
+  {% if include.url %}
+  <a href="{{ include.url }}">
+  {% elsif include.srcabs %}
+  <a href="{{ include.srcabs }}">
+  {% else %}
+  <a href="{{ site.baseurl }}/images/{{ include.src }}">
+  {% endif %}
+    <img
+        {% if include.srcabs %}
+            src="{{ include.srcabs }}"
+        {% else %}
+            src="{{ site.baseurl }}/images/{{ include.src }}"
+        {% endif %}
+    alt="{{ include.alt }}">
+  </a>
+  {% if include.caption %}
+      <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
