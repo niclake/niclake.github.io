@@ -26,20 +26,6 @@ layout: default
       </div>
     </article>
   {% endfor %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">
-        Previous 
-      </a>&nbsp;|
-    {% endif %}
-    <span class="page_number">
-      &nbsp;Page {{ paginator.page }} of {{ paginator.total_pages }}&nbsp;
-    </span>
-    {% if paginator.next_page %}
-      |&nbsp;<a href="{{ paginator.next_page_path }}" class="next">
-        Next
-      </a>
-    {% endif %}
-    <br /><a href="{{site.baseurl}}/archive">Archive</a>
-  </div>
+
+  {% include pagination.html %}
 </div>
