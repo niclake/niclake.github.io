@@ -51,6 +51,10 @@ a {
 .navbar {
   background-color: transparent !important;
 
+  .nav-item {
+    margin-bottom: 0 !important;
+  }
+
   .navbar-brand,
   .nav-link {
     font-weight: bold;
