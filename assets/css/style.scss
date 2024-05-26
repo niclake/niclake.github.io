@@ -16,6 +16,7 @@ body {
   background: $black;
   font-family: $sansSerif;
   line-height: 1.5;
+  font-weight: 300;
   color: $white;
   height: 100%;
 }
@@ -126,7 +127,6 @@ h4 {
 
 p {
   margin: 0 0 1rem;
-  font-variation-settings: "wdth"100,"wght"300;
 }
 
 em, strong, b, th {
@@ -160,6 +160,14 @@ dl, ol, ul {
 
     &::marker {
       color: $pink;
+    }
+
+    ul > li,
+    ol > li,
+    dl > li {
+      &::marker {
+        color: $green;
+      }
     }
   }
 }
