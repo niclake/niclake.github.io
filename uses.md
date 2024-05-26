@@ -4,7 +4,7 @@ title: Uses
 permalink: /uses
 ---
 
-All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).)
+All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults).
 
 ### Computer
 

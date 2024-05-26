@@ -28,4 +28,6 @@ My partner (R), our daughter (V), and our cats (Bearcat and Beau) reside in east
 
 This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] for code editors and your favorite apps; curious eyes can check out [my style guide](/styleguide). The header font is [Orbitron](https://fonts.google.com/specimen/Orbitron), the code block font (and my default for my IDEs) is [Hack](https://sourcefoundry.org/hack/), and the base site font is controlled by your device. You can subscribe to [the RSS feed here](/feed).
 
+You can see a full list of important hardware and software I use on my [Uses page](/uses), and also view [my app defaults](/app-defaults).
+
 [drac]: https://draculatheme.com

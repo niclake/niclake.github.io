@@ -345,13 +345,18 @@ footer {
 
 .entry, .date {
   a {
-    color: $pureWhite !important;
+    background-image: linear-gradient(to right, $pink, $purple);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: $pureWhite;
     text-decoration: underline;
     text-decoration-color: $orange;
     text-decoration-thickness: 2px;
-    text-underline-offset: 3px;
+    transition: all ease-in-out 0.2s;
+
     &:hover {
-      text-decoration-color: $green !important;
+      -webkit-text-fill-color: transparent;
+      text-decoration-color: transparent;
     }
   }
 
@@ -370,7 +375,7 @@ footer {
   left: 0;
   right: 0;
   background-color: $cyan;
-  background-image: linear-gradient(to right, $pink, $purple)
+  background-image: linear-gradient(to right, $pink, $purple);
 }
 
 .card {
