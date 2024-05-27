@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Death of Music"
-categories: Personal
+categories: Personal WeblogPoMo
 description: "What happens when a lifelong musician reckons with childhood trauma?"
 ---
 
