@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TITLE"
+title: "The Death of Music"
 categories: Personal
 description: BLURB
 image: url.here
