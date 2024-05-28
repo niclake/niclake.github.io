@@ -512,8 +512,10 @@ footer {
   --popover-font-size: .9rem;
   margin-left: .25rem;
 
-  .littlefoot__content p {
-    margin: 0;
+  @media (min-width: 992px)  {
+    .littlefoot__content p {
+      margin: 0;
+    }
   }
 }
 
