@@ -21,19 +21,19 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Things and Stuff
 
+- [Thursday boots President (size 9.5, color Black Coffee)](https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066)
+- Converse All Stars (size 10, standard width, in [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false))
+- [Studio Neat Material Dock Trio](https://www.studioneat.com/products/materialdock)
+- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
+- [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/mophie-3-in-1-travel-charger-with-magsafe/)
+- [Bellroy Card Sleeve Wallet](https://bellroy.com/products/card-sleeve-wallet?color=black_ash&material=leather&size=default)
+- [Geometrical Wallet-Sized iPhone Tripod](https://amzn.to/3yCFobh) (purple or green)
+- Lochby [Pocket Journal](https://www.lochby.com/collections/notebooks/products/pocket-journal) or [Field Journal](https://www.lochby.com/collections/notebooks/products/field-journal)
+- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
 - 3D printer
   - [Bambu Lab P1S printer](https://us.store.bambulab.com/products/p1s?variant=41516337070216) (AMS/combo not necessary)
   - [0.2mm and 0.8mm hotend assemblies](https://us.store.bambulab.com/products/complete-hotend-assembly-p1p)
   - [Bambu Textured PEI plate](https://us.store.bambulab.com/products/bambu-textured-pei-plate)
-- [Studio Neat Material Dock Trio](https://www.studioneat.com/products/materialdock)
-- [Thursday boots President (size 9.5, color Black Coffee)](https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066)
-- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
-- Converse All Stars (size 10, standard width, in [Charcoal](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=charcoal&dwvar_M9696MP_width=standard&styleNo=1J794&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), [Electric Purple](https://www.converse.com/shop/p/chuck-taylor-all-star-classic-unisex-low-top-shoe/M9696MP.html?pid=M9696MP&dwvar_M9696MP_color=electric%20purple&dwvar_M9696MP_width=standard&styleNo=137837F&pdp=true&cgid=mens-classic-chuck-shoes&vgid=M9166), or [Snorkel Blue](https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false))
-- [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/mophie-3-in-1-travel-charger-with-magsafe/)
-- [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
-- A combo drill/driver set (DeWalt) + comprehensive bit set
-- A router bit set
-- A Lochby [Pocket Journal](https://www.lochby.com/collections/notebooks/products/pocket-journal) or [Field Journal](https://www.lochby.com/collections/notebooks/products/field-journal)
 
 ### T-Shirts from Cotton Bureau
 
@@ -55,7 +55,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - [Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-red-heart-w-5950-hat?variant=32307600162852)
   - [Los Wepas de Worcester Rocket](https://woosox.milbstore.com/collections/all-caps/products/ryl-wht-rocket-wepas-5950-hat-100620?variant=39370254057508)
 - Portland Sea Dogs
-  - [2-tone Retro Teal](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-2-tone-retro-fitted-cap?variant=40098657009742)
   - [Sunday Red](https://seadogs.milbstore.com/collections/all-caps/products/official-on-field-sunday-players-hat-sluggers-face-design-1?variant=32604079620174)
   - [State of Maine Navy/Red](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326)
 - Salem Red Sox
