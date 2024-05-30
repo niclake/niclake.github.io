@@ -43,4 +43,4 @@ Yes; ultimately, any instance of me trying to use a notebook for *anything* has 
 - Remove anything related to writing from any sort of long term wishlist (sorry, [Cortex](https://cottonbureau.com/people/cortex-podcast#/shop) and [Studio Neat](https://www.studioneat.com) - you're not getting my money)
 - Give more consideration to the "why" of doing something; is it for me, or is it because others do it?
 
-[headerImg]: https://niclake.me/images/IMG_2032.jpeg "The random notebooks within arm's reach of my desk"
+[headerImg]: https://niclake.me/images/notebooks.jpeg "The random notebooks within arm's reach of my desk"

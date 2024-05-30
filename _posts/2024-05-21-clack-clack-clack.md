@@ -32,7 +32,7 @@ Here's a look at my collection (boards are listed from the photo, top to bottom,
 
 ![My Planck keymap][planck]
 
-[planck]: /images/planck.png
+[planck]: /images/keyboards/planck.png
 
 I mentioned earlier how I have "layers" on all of these boards; layers are a pretty standard option when it comes to mechanical keyboards, and something that I make extensive use of, especially on smaller boards. Above is a view of my Planck's keymap.
 
@@ -46,4 +46,4 @@ There's a lot to the world of mechanical keyboards, and the rabbit hole can go *
 
 Do you have a keyboard collection? I'd love to see it!
 
-[headerImg]: /images/keyboards.jpg "My mechanical keyboards"
+[headerImg]: /images/keyboards/keyboards.jpg "My mechanical keyboards"

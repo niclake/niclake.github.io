@@ -10,14 +10,14 @@ I had been using [NetNewsWire][nnw] for a long, long time, basically since Googl
 
 That said, a ton of people have extolled the greatness of [Reeder][reeder] for years, and I’ve always been hesitant to take the plunge because (_gasp_) it wasn’t free like NNW. I decided to give it a shot, and I totally get it; Reeder is a beautiful reading experience. There is clearly a lot of care taken with making it a terrific experience to consume content.
 
-<a href="{{ site.baseurl }}/images/IMG_3447.jpeg">
-  <img class="photo" src="{{ site.baseurl }}/images/IMG_3447.jpeg" />
+<a href="{{ site.baseurl }}/images/rss/rss1.jpeg">
+  <img class="photo" src="{{ site.baseurl }}/images/rss/rss1.jpeg" />
 </a>
 
 NNW is no slouch either; while the UI might not be as elegant, I love how customizable you can make the UI, and there are a couple of decisions the app makes that I still wish I could do within Reeder. (Honestly, re-downloading NNW to write this post has made me go “hmm…”)
 
-<a href="{{ site.baseurl }}/images/IMG_3448.jpeg">
-  <img class="photo" src="{{ site.baseurl }}/images/IMG_3448.jpeg" />
+<a href="{{ site.baseurl }}/images/rss/rss2.jpeg">
+  <img class="photo" src="{{ site.baseurl }}/images/rss/rss2.jpeg" />
 </a>
 
 The other tool I implemented into my reading setup was a [Feedbin][feedbin] account. “But Nic, isn’t paying for a service to consolidate your feeds pointless?” Don’t worry, I asked myself the same question, and thankfully Feedbin gives you a free trial to test things out… which is smart, because once you use the features, you’ll be hooked. 

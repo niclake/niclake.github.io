@@ -4,7 +4,6 @@ permalink: /categories
 title: Categories
 ---
 
-
 <div id="archives">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}

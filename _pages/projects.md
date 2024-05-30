@@ -4,9 +4,9 @@ permalink: /projects
 title: Projects
 ---
 
-<p>Below is a list of the various projects that I have worked on and released over the years. These include music, various code projects, writings, and more.</p>
+Below is a list of the various projects that I have worked on and released over the years. These include music, various code projects, writings, and more.
 
-<p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake" target="_blank">buy me a coffee</a>.</p>
+If you enjoy any of these, and would like to support my work, you can [buy me a coffee](https://ko-fi.com/niclake){:target="_blank"}. If you'd like to hire me, [please reach out](/hello).
 
 <div class="container">
   <div class="row">
@@ -21,7 +21,7 @@ title: Projects
                   {% endif %}
                   <p>{{post.projectInfo}}</p>
                 </div>
-                <div class="m-2 mt-auto">
+                <div class="mt-auto">
                   {% if post.projectLink %}
                     <a href="{{ post.projectLink }}">Project Link</a> | 
                   {% endif %}

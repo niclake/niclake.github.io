@@ -49,6 +49,8 @@ a {
   }
 }
 
+
+
 .navbar {
   background-color: transparent !important;
 
@@ -63,11 +65,38 @@ a {
   }
   
   .navbar-brand {
-    font-size: 3.2rem;
+    font-size: 3.5rem;
     color: $pink !important;
+
+    #monogram {
+      height: 4rem;
+
+      .monogram-left {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $pink;
+      }
+      .monogram-right {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $cyan;
+      }
+    } 
 
     &:hover {
       color: $white !important;
+      #monogram .monogram-left,
+      #monogram .monogram-right {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $white;
+      }
     }
 
     span {

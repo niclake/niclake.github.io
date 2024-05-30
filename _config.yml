@@ -6,6 +6,11 @@ permalink: /:title
 avatar: https://imgur.com/5HzYjig.jpg
 theme: jekyll-theme-midnight
 excerpt_separator: "<!-- more -->"
+include:
+  - _pages
+  - assets/images/
+
+timezone: America/Chicago
 
 footer-links:
   dribbble:
