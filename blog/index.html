@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="date">
+        {%- capture category_list -%}
+          {%- if post -%}
+            {%- assign categories = post.categories -%}
+          {%- else -%}
+            {%- assign categories = page.categories -%}
+          {%- endif -%}
+          {%- for category in categories -%}
+            <a href="{{site.baseurl}}/categories#{{category|slugize}}">{{category}}</a>|
+          {%- endfor -%}
+        {%- endcapture -%}
+        {{ post.date | date: "%e %B %Y" }} • {{ category_list | split: "|" | join: " • " | replace: "-", " " }}
+      </div>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
+
+  {% include pagination.html %}
+</div>
