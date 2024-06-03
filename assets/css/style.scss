@@ -54,12 +54,8 @@ a {
 .navbar {
   background-color: transparent !important;
 
-  .nav-item {
-    margin-bottom: 0 !important;
-  }
-
   .navbar-brand,
-  .nav-link {
+  .nav-item {
     font-weight: bold;
     font-family: $headers;
   }
@@ -88,14 +84,14 @@ a {
     } 
 
     &:hover {
-      color: $white !important;
+      color: $pureWhite !important;
       #monogram .monogram-left,
       #monogram .monogram-right {
         -webkit-transition: fill .3s ease;
         -moz-transition: fill .3s ease;
         -o-transition: fill .3s ease;
         transition: fill .3s ease;	
-        fill: $white;
+        fill: $pureWhite;
       }
     }
 
@@ -105,11 +101,21 @@ a {
     }
   }
 
-  .nav-link {
-    font-size: 1.25rem;
+  .nav-item {
+    margin-bottom: 0 !important;
 
-    &:hover {
-      color: $green !important;
+    &.active {
+      a {
+        color: $yellow;
+      }
+    }
+
+    .nav-link {
+      font-size: 1rem;
+  
+      &:hover {
+        color: $green !important;
+      }
     }
   }
 
@@ -247,11 +253,14 @@ pre {
 code {
   font-family:'Hack','Courier', monospace;
   color: $cyan;
+  background-color: $grey;
   word-wrap: break-word;
 }
 
 blockquote {
-  border-left: 2px solid $pink;
+  border-left: 5px solid transparent;
+  border-image: linear-gradient(to bottom, $pink, $purple);
+  border-image-slice: 1;
   padding-left: 30px;
 }
 
@@ -435,7 +444,7 @@ footer {
     width: 100%;
   
     .the-color {
-      border: 3px solid $white;
+      border: 3px solid $pureWhite;
       border-radius: 10px;
       display: block;
       width: 100%;
@@ -452,95 +461,12 @@ footer {
   }
 }
 
-// /**************/
-// /*   COLORS   */
-// /**************/
-
-.black {
-  color: $black;
-}
-.black-bg {
-  background-color: $black;
-}
-.pureBlack {
-  color: $pureBlack;
-}
-.pureBlack-bg {
-  background-color: $pureBlack;
-}
-.grey {
-  color: $grey;
-}
-.grey-bg {
-  background-color: $grey;
-}
-.lightGrey {
-  color: $lightGrey;
-}
-.lightGrey-bg {
-  background-color: $lightGrey;
-}
-.white {
-  color: $white;
-}
-.white-bg {
-  background-color: $white;
-}
-.pureWhite {
-  color: $pureWhite;
-}
-.pureWhite-bg {
-  background-color: $pureWhite;
-}
-.red {
-  color: $red;
-}
-.red-bg {
-  background-color: $red;
-}
-.orange {
-  color: $orange;
-}
-.orange-bg {
-  background-color: $orange;
-}
-.yellow {
-  color: $yellow;
-}
-.yellow-bg {
-  background-color: $yellow;
-}
-.green {
-  color: $green;
-}
-.green-bg {
-  background-color: $green;
-}
-.cyan {
-  color: $cyan;
-}
-.cyan-bg {
-  background-color: $cyan;
-}
-.purple {
-  color: $purple;
-}
-.purple-bg {
-  background-color: $purple;
-}
-.pink {
-  color: $pink;
-}
-.pink-bg {
-  background-color: $pink;
-}
-
 // Footnotes courtesy of littlefoot.js
 .littlefoot {
   --button-background-color: #bd93f9;
   --button-text-color: #f8f8f2;
   --button-active-text-color: #282a36;
-  --button-active-background-color: #f55;
+  --button-active-background-color: #ff5555;
   --popover-background-color: #282a36;
   --popover-text-color: #d0d0d0;
   --popover-border: 2px solid #ff79c6;
