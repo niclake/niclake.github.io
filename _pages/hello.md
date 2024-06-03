@@ -4,6 +4,8 @@ title: Hello
 permalink: /hello
 ---
 
+If you'd like to find out more about me, [check out my About page](/about).
+
 Here is how I prefer to keep in touch:
 
 - I would love to hear from you via [email](mailto:niclake13@gmail.com)

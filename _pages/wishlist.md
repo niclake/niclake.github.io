@@ -4,17 +4,17 @@ title: Wishlist
 permalink: /wishlist
 ---
 
-Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, Rebecca, or Violet for the holiday season (or any time, if you're feeling generous)!
+Hello! If you're reading this, you've apparently tracked down the Lake Family Holiday Wishlist (somehow). This is a list of ideas to get Nic, his partner, or his daughter for the holiday seasons (or any time, if you're feeling generous)!
 
-If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](https://niclake.me/hello/).
+If you are wanting to get stuff for us, but are wondering where to send it, you can find my contact info on my [Hello page](/hello).
 
-## Violet's List
+## V's List
 
-- Things from [Violet's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
+- Things from [V's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
 
-## Rebecca's List
+## R's List
 
-- Things from [Rebecca's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
+- Things from [R's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
 - [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
 
 ## Nic's List
@@ -74,9 +74,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ### Other Jerseys
 
+###### AL East
+
 - Orioles: Rutschman 35, Ripken Jr. 8
 - Blue Jays: Halladay 32, Bautista 19, Guerrero Jr. 27
 - Rays: Boggs 12 (Devil Rays), Arozarena 56
+
+###### AL Central
 
 - Twins: Mauer 7, Puckett 34
 - Royals: Butler 16, Perez 13
@@ -84,11 +88,15 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - White Sox: Thomas 35
 - Tigers: Cabrera 24
 
+###### AL West
+
 - Astros: Bagwell 5, Wagner 13
 - Rangers: Ivan Rodríguez 7, Beltré 29
 - Athletics: Eckersley 43, Braden 51
 - Angels: Trout 27
 - Mariners: Griffey Jr. 24
+
+###### NL East
 
 - Mets: Colón 40
 - Braves: Acuña 13, Smoltz 29, Glavine 47, Maddux 31
@@ -97,11 +105,15 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Nationals: Harper 34, Strasburg 37
 - Expos: Guerrero 27
 
+###### NL Central
+
 - Pirates: McCutchen 22, Clemente 21
 - Cubs: Sosa 21
 - Cardinals: Pujols 5, Molina 4, McGwire 25, Rolen 27, Edmonds 15, Smith 1
 - Reds: De La Cruz 44
 - Brewers: Yelich 22? Fielder 28?
+
+###### NL West
 
 - Dodgers: Ohtani 17, Robinson 42
 - Diamondbacks: Johnson 51

@@ -24,6 +24,10 @@ In a previous life, I was an accomplished musician. I started playing piano at a
 
 My partner (R), our daughter (V), and our cats (Bearcat and Beau) reside in eastern Iowa, USA.
 
+### Contact
+
+I would love to hear from you. You can find the best ways to get in touch with me on my [Hello page](/hello).
+
 ### Colophon
 
 This website was created using [Jekyll](https://jekyllrb.com/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] for code editors and your favorite apps; curious eyes can check out [my style guide](/styleguide). The header font is [Orbitron](https://fonts.google.com/specimen/Orbitron), the code block font (and my default for my IDEs) is [Hack](https://sourcefoundry.org/hack/), and the base site font is controlled by your device. You can subscribe to [the RSS feed here](/feed).
