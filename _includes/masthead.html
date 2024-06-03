@@ -9,13 +9,28 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        {% for nav in site.data.navigation %}
+          {% unless nav.masthead == false %}
+            {% assign the-url = page.url %}
+            {% if the-url contains '/blog/' %}
+              {% assign pageUrl = '/blog/' %}
+            {% else %}
+              {% assign pageUrl = page.url %}
+            {% endif %}
+            <li {% if nav.url == pageUrl %} class="nav-item active"{% else %} class="nav-item"{% endif %}>
+              <a class="nav-link" href="{{ nav.url }}">{{ nav.text }}</a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+
+        <!-- <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/about">About</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/hello">Hello</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/now">Now</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/uses">Uses</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/projects">Projects</a></li>
         <li class="nav-item"><a class="nav-link" href="https://mastodon.social/@niclake@mastodon.social"><i class="fa-brands fa-mastodon"></i></a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/feed"><i class="fa-solid fa-rss"></i></a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/feed"><i class="fa-solid fa-rss"></i></a></li> -->
       </ul>
     </div>
   </div>
