@@ -19,7 +19,12 @@ body {
   font-weight: 300;
   color: $white;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 100vh;
 }
+
 
 ::-moz-selection { /* Code for Firefox */
   color: $pureBlack;
@@ -129,6 +134,34 @@ a {
     }
   }
 }
+
+// #main a {
+//   background-image: linear-gradient(to right, $pink, $purple);
+//   -webkit-background-clip: text;
+//   background-clip: text;
+//   -webkit-text-fill-color: $pureWhite;
+//   text-decoration: underline;
+//   text-decoration-color: $orange;
+//   text-decoration-thickness: 2px;
+//   transition: all ease-in-out 0.3s;
+
+//   &:hover, &:visited, &:active {
+//     text-decoration: none;
+//   }
+
+//   &:hover,
+//   i:hover {
+//     -webkit-text-fill-color: transparent;
+//     text-decoration-color: transparent;
+//   }
+
+//   &.photo-link {
+//     background-color: transparent !important;
+//     border-radius: 0 !important;
+//     padding: 0 !important;
+//     text-decoration: none !important;
+//   }
+// }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
@@ -343,11 +376,24 @@ figure {
 }
 
 footer {
+  margin-top: auto;
   text-align: center;
   padding: 1rem 0;
   color: $lightGrey;
-  font-size: 1rem;
-  font-family: $sansSerif;
+
+  a {
+    color: $lightGrey;
+  }
+
+  .bottom-border {
+    height: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: $cyan;
+    background-image: linear-gradient(to right, $pink, $purple);
+  }
 }
 
 // /******************/
@@ -389,7 +435,10 @@ footer {
   margin-bottom: .5rem;
 }
 
-.entry, .date {
+.entry, 
+.date,
+.home p,
+.back {
   a {
     background-image: linear-gradient(to right, $pink, $purple);
     -webkit-background-clip: text;
@@ -400,9 +449,14 @@ footer {
     text-decoration-thickness: 2px;
     transition: all ease-in-out 0.2s;
 
-    &:hover {
+    &:hover,
+    i:hover {
       -webkit-text-fill-color: transparent;
       text-decoration-color: transparent;
+    }
+
+    .post-date {
+      color: $lightGrey !important;
     }
   }
 
@@ -414,14 +468,9 @@ footer {
   }
 }
 
-.bottom-border {
-  height: 5px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: $cyan;
-  background-image: linear-gradient(to right, $pink, $purple);
+.back {
+  display: block;
+  margin-bottom: 1rem;
 }
 
 .card {
