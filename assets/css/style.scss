@@ -27,12 +27,12 @@ body {
 
 
 ::-moz-selection { /* Code for Firefox */
-  color: $pureBlack;
+  color: $pure-black;
   background: $orange;
 }
 
 ::selection {
-  color: $pureBlack;
+  color: $pure-black;
   background: $orange;
 }
 
@@ -53,8 +53,6 @@ a {
     text-decoration: none;
   }
 }
-
-
 
 .navbar {
   background-color: transparent !important;
@@ -89,14 +87,14 @@ a {
     } 
 
     &:hover {
-      color: $pureWhite !important;
+      color: $pure-white !important;
       #monogram .monogram-left,
       #monogram .monogram-right {
         -webkit-transition: fill .3s ease;
         -moz-transition: fill .3s ease;
         -o-transition: fill .3s ease;
         transition: fill .3s ease;	
-        fill: $pureWhite;
+        fill: $pure-white;
       }
     }
 
@@ -135,34 +133,6 @@ a {
   }
 }
 
-// #main a {
-//   background-image: linear-gradient(to right, $pink, $purple);
-//   -webkit-background-clip: text;
-//   background-clip: text;
-//   -webkit-text-fill-color: $pureWhite;
-//   text-decoration: underline;
-//   text-decoration-color: $orange;
-//   text-decoration-thickness: 2px;
-//   transition: all ease-in-out 0.3s;
-
-//   &:hover, &:visited, &:active {
-//     text-decoration: none;
-//   }
-
-//   &:hover,
-//   i:hover {
-//     -webkit-text-fill-color: transparent;
-//     text-decoration-color: transparent;
-//   }
-
-//   &.photo-link {
-//     background-color: transparent !important;
-//     border-radius: 0 !important;
-//     padding: 0 !important;
-//     text-decoration: none !important;
-//   }
-// }
-
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   font-family: $headers;
@@ -198,7 +168,7 @@ p {
 }
 
 em, strong, b, th {
-  color: $pureWhite;
+  color: $pure-white;
 }
 
 em {
@@ -435,6 +405,22 @@ footer {
   margin-bottom: .5rem;
 }
 
+.entry {
+  #monogram {
+    display: block;
+    margin: 2rem auto;
+    width: 1.5rem;
+
+    .monogram-left {
+      fill: $pure-white;
+    }
+
+    .monogram-right {
+      fill: $pure-white;
+    }
+  }
+}
+
 .entry, 
 .date,
 .home p,
@@ -443,7 +429,7 @@ footer {
     background-image: linear-gradient(to right, $pink, $purple);
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: $pureWhite;
+    -webkit-text-fill-color: $pure-white;
     text-decoration: underline;
     text-decoration-color: $orange;
     text-decoration-thickness: 2px;
@@ -493,7 +479,7 @@ footer {
     width: 100%;
   
     .the-color {
-      border: 3px solid $pureWhite;
+      border: 3px solid $pure-white;
       border-radius: 10px;
       display: block;
       width: 100%;
