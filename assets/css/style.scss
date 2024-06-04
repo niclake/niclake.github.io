@@ -295,6 +295,8 @@ img {
 figure {
   display: table;
   text-align: center;
+  width: 400px;
+  margin: 0 auto;
 
   &.left {
     float: left;
@@ -310,12 +312,18 @@ figure {
     width: 250px !important;
   }
 
+  &.banner {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
   figcaption {
     display: table-caption;
     caption-side: bottom;
     font-size: 0.8rem;
     color: $lightGrey;
     margin-top: .5rem;
+    padding-bottom: 1rem;
   }
 }
 
