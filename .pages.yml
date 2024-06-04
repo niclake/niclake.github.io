@@ -1,6 +1,0 @@
-content:
-  - name: posts
-    label: Posts
-    path: _posts/
-    type: collection
-    fields:

@@ -1,18 +1,31 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand" href="{{ site.baseurl }}/">nic lake<span>(me)</span></a>
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+      {% include monogram.svg %}
+      nic lake<span>(me)</span>
+    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/about">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/hello">Hello</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/now">Now</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/uses">Uses</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/projects">Projects</a></li>
-        <li class="nav-item"><a class="nav-link" href="https://mastodon.social/@niclake@mastodon.social"><i class="fa-brands fa-mastodon"></i></a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/feed"><i class="fa-solid fa-rss"></i></a></li>
+        {% for nav in site.data.navigation %}
+          {% unless nav.masthead == false %}
+            {% assign the-url = page.url %}
+            {% if nav.url == page.url %}
+              {% assign classes = 'nav-item active first' %}
+            {% elsif nav.url == '/blog/' and the-url contains '/blog/' %}
+              {% assign classes = 'nav-item active second' %}
+            {% elsif page.id and nav.url == '/blog/' %}
+              {% assign classes = 'nav-item active' %}
+            {% else %}
+              {% assign classes = 'nav-item' %}
+            {% endif %}
+            <li class="{{classes}}">
+              <a class="nav-link" href="{{ nav.url }}">{{ nav.text }}</a>
+            </li>
+          {% endunless %}
+        {% endfor %}
       </ul>
     </div>
   </div>

@@ -1,11 +1,16 @@
 name: Nic Lake
-description: 'Life, technology, music, games, and more'
+description: 'Life, technology, family, and more.'
 url: https://niclake.me
 baseurl: ''
 permalink: /:title
 avatar: https://imgur.com/5HzYjig.jpg
 theme: jekyll-theme-midnight
 excerpt_separator: "<!-- more -->"
+include:
+  - _pages
+  - assets/images/
+
+timezone: America/Chicago
 
 footer-links:
   dribbble:
@@ -26,6 +31,7 @@ footer-links:
 # gems: [jekyll-sitemap jekyll-feed jekyll-paginate]
 
 paginate: 10
+paginate_path: "/blog/:num"
 
 # The release of Jekyll Now that you're using
 version: v1.2.0

@@ -10,15 +10,21 @@ I had been using [NetNewsWire][nnw] for a long, long time, basically since Googl
 
 That said, a ton of people have extolled the greatness of [Reeder][reeder] for years, and I’ve always been hesitant to take the plunge because (_gasp_) it wasn’t free like NNW. I decided to give it a shot, and I totally get it; Reeder is a beautiful reading experience. There is clearly a lot of care taken with making it a terrific experience to consume content.
 
-<a href="{{ site.baseurl }}/images/IMG_3447.jpeg">
-  <img class="photo" src="{{ site.baseurl }}/images/IMG_3447.jpeg" />
-</a>
+{% include image.html
+  src="rss/rss1.jpeg"
+  position="banner"
+  alt="The entry browser of NetNewsWire and Reeder"
+  caption="The entry browser of NetNewsWire and Reeder"
+%}
 
 NNW is no slouch either; while the UI might not be as elegant, I love how customizable you can make the UI, and there are a couple of decisions the app makes that I still wish I could do within Reeder. (Honestly, re-downloading NNW to write this post has made me go “hmm…”)
 
-<a href="{{ site.baseurl }}/images/IMG_3448.jpeg">
-  <img class="photo" src="{{ site.baseurl }}/images/IMG_3448.jpeg" />
-</a>
+{% include image.html
+  src="rss/rss2.jpeg"
+  position="banner"
+  alt="The entry viewer of NetNewsWire and Reeder"
+  caption="The entry viewer of NetNewsWire and Reeder"
+%}
 
 The other tool I implemented into my reading setup was a [Feedbin][feedbin] account. “But Nic, isn’t paying for a service to consolidate your feeds pointless?” Don’t worry, I asked myself the same question, and thankfully Feedbin gives you a free trial to test things out… which is smart, because once you use the features, you’ll be hooked. 
 
@@ -39,7 +45,7 @@ Ah jeez.
 
 Honestly, though, I think I’ve landed on a really good spot. I have already knocked out a few noisy feeds that I added (I was subscribed to a lot of news feeds from places like BBC and The Guardian, but using summary newsletters like [The Morning News](https://themorningnews.org) and [NextDraft](https://nextdraft.com) have been more that sufficient), and I still have a few more subjects I need to hunt down good feeds for. I feel like I’m able to keep up with topics easily, without wallowing in the negative that Apple News or Twitter like to shove in front of my face.
 
-RSS is not dead. Thank goodness. 
+RSS is not dead. Thank goodness.
 
 [nnw]: https://netnewswire.com
 [reeder]: https://reederapp.com

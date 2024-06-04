@@ -15,9 +15,9 @@
     <meta property="og:type" content="article">
     
     {% if page.image %}
-      <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}">
+      <meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ page.image }}">
     {% else %}
-      <meta property="og:image" content="{{ site.baseurl }}/images/me.png">
+      <meta property="og:image" content="{{ site.baseurl }}/assets/images/site/me.png">
     {% endif %}
     
     {% if page.description %}
@@ -42,10 +42,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/site/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/site/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/site/icons/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/site/icons/site.webmanifest">
+  <link rel="shortcut icon" href="/assets/images/site/icons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#44475a">
+  <meta name="msapplication-config" content="/assets/images/site/icons/browserconfig.xml">
+  <meta name="theme-color" content="#44475a">
   <script src="https://kit.fontawesome.com/4b51167d16.js" crossorigin="anonymous"></script>
 
   <!-- RSS -->

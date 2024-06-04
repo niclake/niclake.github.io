@@ -21,6 +21,7 @@ If you’d like to follow along with me & the community, you can follow along wi
 See ya on the other side. 👋🏻
 
 [^1]: I really didn’t want to bring my laptop with me, but I’m going to do everything in my power to leave it in my bag and just use my phone or iPad to write and post all of these.
+
 [robb]: https://rknight.me/blog/weblog-posting-month-2024/
 [anne]: https://weblog.anniegreens.lol/weblog-posting-month-2024
 [pomo]: https://beep.town/@Pomo

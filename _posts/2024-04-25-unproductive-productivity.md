@@ -2,7 +2,7 @@
 layout: post
 title: "Unproductive Productivity"
 categories: Personal
-image: https://niclake.me/images/unproductive.png
+image: unproductive.png
 ---
 
 If you'd like an insight into my brain, here's the process flow I went through after V went down for the night:
@@ -19,7 +19,11 @@ If you'd like an insight into my brain, here's the process flow I went through a
 - I'm now writing this blog post at 10:54pm.
 - I haven't watched a minute of the NBA games, or sorted/gone through any more of the sites I wanted to.
 
-![The final Alfred workflow][workflow]
+{% include image.html
+  src="unproductive.png"
+  position="banner"
+  alt="The final Alfred workflow"
+%}
 
 This is just how my brain operates now, I guess. 
 
@@ -32,5 +36,3 @@ cp ~/github/niclake.github.io/_posts/_PostTemplate.md ~/github/niclake.github.io
 
 [^1]: Yeah, I use VS Code to write my blog posts. The whole site is up on GitHub, and it's just easier for my brain to write it here vs. somewhere else. Maybe one day I'll go back to MarsEdit or something.
 [^2]: It wasn't this one, I'll tell you that much.
-
-[workflow]: /images/unproductive.png

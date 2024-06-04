@@ -5,7 +5,10 @@ categories: Personal Keyboards WeblogPoMo
 description: "Does is clack? Does it thock? Who could say?!?"
 ---
 
-![alt text][headerImg]
+{% include image.html
+  src="keyboards/keyboards.jpg"
+  alt="My humble collection"
+%}
 
 I remember randomly discovering [Reddit's mechanical keyboards subreddit](https://old.reddit.com/r/mechanicalkeyboards) about 10-11 years ago. I thought, "wow, what the heck, why would you buy custom keyboards?" I remember a year later, randomly seeing the [GMK Nautilus keycap set](https://drop.com/buy/massdrop-x-zambumon-gmk-nautilus-custom-keycap-set), and thinking "hmm, ok, I guess I could get behind that... but then I'd have to get a keyboard to put it on". And now here I am, neck deep in the mechanical keyboard hobby, having just had some parts delivered this morning for the 2nd unbuilt board in my drawer.
 
@@ -15,7 +18,7 @@ Here's a look at my collection (boards are listed from the photo, top to bottom,
 
 ### Left column
 
-- **DZ60 + Tofu acrylic case, Zaku linear switches, DSA "UnAlice" keycaps**: This is what's considered a 60% keyboard, meaning there are no arrow keys, no numpad, and no function keys. This is what I consider to be my "default" layout. "Well Nic, how do you move around with no arrows?" After I list my boards, I'll explain more about my default setup for most of these boards. (Also, if you look at this and think "wow, Nic, your letters are in the wrong spots", [there's a reason for that](https://niclake.me/colemak).)
+- **DZ60 + Tofu acrylic case, Zaku linear switches, DSA "UnAlice" keycaps**: This is what's considered a 60% keyboard, meaning there are no arrow keys, no numpad, and no function keys. This is what I consider to be my "default" layout. "Well Nic, how do you move around with no arrows?" After I list my boards, I'll explain more about my default setup for most of these boards. (Also, if you look at this and think "wow, Nic, your letters are in the wrong spots", [there's a reason for that](/colemak).)
 - **Boardwalk + KBDfans 5° aluminum case, Zaku II tactile switches, KAT Cyberspace keycaps**: This was my first true custom board; everything else that I'd purchased up until this point was a prebuilt. It is an ortholinear keyboard, meaning that all of the keys are lined up horizontally and vertically. The aluminum case, plus the brass plate holding switches in place, makes this a very pingy & loud board to type on.
 - **Mode Sonnet, BSUN Strawberry Wine linear switches, ~~KAT Space Dust~~ random purple keycaps**: The board I'm currently typing on. I got this used from a friend, and this is truly one of my favorite boards to type on. It's smooth, fast, and the sound is incredible. These should have some cool black/blue/pink keycaps on them, but they're currently mired in transportation woes after one of the longest group buys in keyboard history; last I checked, they had been sent back to China because they'd been shipped to the US in a container with illegal cotton (seriously).
 - **Planck, BSUN Pine tactile switches, KAT Explosion keycaps**: A 40% board (aka no number row). If you aren't a keyboard person, you're probably looking at this thinking "how?!?" To type numbers, I hold down that up arrow to the right of the space to access the number layer (more on layers soon), and then 1-0 are on the standard ASDFGHJKL; keys. I have a lot of fun typing on this board.
@@ -30,9 +33,10 @@ Here's a look at my collection (boards are listed from the photo, top to bottom,
 
 ---
 
-![My Planck keymap][planck]
-
-[planck]: /images/planck.png
+{% include image.html
+  src="keyboards/planck.png"
+  alt="My Planck layout"
+%}
 
 I mentioned earlier how I have "layers" on all of these boards; layers are a pretty standard option when it comes to mechanical keyboards, and something that I make extensive use of, especially on smaller boards. Above is a view of my Planck's keymap.
 
@@ -45,5 +49,3 @@ I mentioned earlier how I have "layers" on all of these boards; layers are a pre
 There's a lot to the world of mechanical keyboards, and the rabbit hole can go *really* deep. Some people (like my wife) look at the keycaps and go "oh those look nice", and that's all they care about. Other people are focused on the quality of materials, including [boards that have custom accent pieces underneath where you can't see them](https://modedesigns.com/pages/loop-tkl) (that's a bit much for me, personally).
 
 Do you have a keyboard collection? I'd love to see it!
-
-[headerImg]: /images/keyboards.jpg "My mechanical keyboards"

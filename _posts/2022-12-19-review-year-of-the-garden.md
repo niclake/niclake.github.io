@@ -6,7 +6,7 @@ categories: Personal
 
 ![alt text][headerImg]
 
-Once again, it's time for a new [yearly theme](https://www.themesystem.com). Last year's theme was [Year of the Garden](https://niclake.me/year-of-the-garden/), and I honestly thought this was a terrific success.
+Once again, it's time for a new [yearly theme](https://www.themesystem.com). Last year's theme was [Year of the Garden](/year-of-the-garden), and I honestly thought this was a terrific success.
 
 Before I talk about my 2023 theme, let's do a real quick recap on what my 2022 theme was, and how I think it went.
 

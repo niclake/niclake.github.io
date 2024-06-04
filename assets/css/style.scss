@@ -19,15 +19,20 @@ body {
   font-weight: 300;
   color: $white;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 100vh;
 }
 
+
 ::-moz-selection { /* Code for Firefox */
-  color: $pureBlack;
+  color: $pure-black;
   background: $orange;
 }
 
 ::selection {
-  color: $pureBlack;
+  color: $pure-black;
   background: $orange;
 }
 
@@ -52,22 +57,45 @@ a {
 .navbar {
   background-color: transparent !important;
 
-  .nav-item {
-    margin-bottom: 0 !important;
-  }
-
   .navbar-brand,
-  .nav-link {
+  .nav-item {
     font-weight: bold;
     font-family: $headers;
   }
   
   .navbar-brand {
-    font-size: 3.2rem;
+    font-size: 3.5rem;
     color: $pink !important;
 
+    #monogram {
+      height: 4rem;
+
+      .monogram-left {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $pink;
+      }
+      .monogram-right {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $cyan;
+      }
+    } 
+
     &:hover {
-      color: $white !important;
+      color: $pure-white !important;
+      #monogram .monogram-left,
+      #monogram .monogram-right {
+        -webkit-transition: fill .3s ease;
+        -moz-transition: fill .3s ease;
+        -o-transition: fill .3s ease;
+        transition: fill .3s ease;	
+        fill: $pure-white;
+      }
     }
 
     span {
@@ -76,11 +104,21 @@ a {
     }
   }
 
-  .nav-link {
-    font-size: 1.25rem;
+  .nav-item {
+    margin-bottom: 0 !important;
 
-    &:hover {
-      color: $green !important;
+    &.active {
+      a {
+        color: $yellow;
+      }
+    }
+
+    .nav-link {
+      font-size: 1rem;
+  
+      &:hover {
+        color: $green !important;
+      }
     }
   }
 
@@ -130,7 +168,7 @@ p {
 }
 
 em, strong, b, th {
-  color: $pureWhite;
+  color: $pure-white;
 }
 
 em {
@@ -218,11 +256,14 @@ pre {
 code {
   font-family:'Hack','Courier', monospace;
   color: $cyan;
+  background-color: $grey;
   word-wrap: break-word;
 }
 
 blockquote {
-  border-left: 2px solid $pink;
+  border-left: 5px solid transparent;
+  border-image: linear-gradient(to bottom, $pink, $purple);
+  border-image-slice: 1;
   padding-left: 30px;
 }
 
@@ -254,6 +295,8 @@ img {
 figure {
   display: table;
   text-align: center;
+  width: 400px;
+  margin: 0 auto;
 
   &.left {
     float: left;
@@ -266,7 +309,12 @@ figure {
   }
 
   &.left, &.right {
-    width: 400px !important;
+    width: 250px !important;
+  }
+
+  &.banner {
+    width: 100%;
+    margin-bottom: 1rem;
   }
 
   figcaption {
@@ -275,6 +323,7 @@ figure {
     font-size: 0.8rem;
     color: $lightGrey;
     margin-top: .5rem;
+    padding-bottom: 1rem;
   }
 }
 
@@ -305,11 +354,24 @@ figure {
 }
 
 footer {
+  margin-top: auto;
   text-align: center;
   padding: 1rem 0;
   color: $lightGrey;
-  font-size: 1rem;
-  font-family: $sansSerif;
+
+  a {
+    color: $lightGrey;
+  }
+
+  .bottom-border {
+    height: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: $cyan;
+    background-image: linear-gradient(to right, $pink, $purple);
+  }
 }
 
 // /******************/
@@ -351,20 +413,44 @@ footer {
   margin-bottom: .5rem;
 }
 
-.entry, .date {
+.entry {
+  #monogram {
+    display: block;
+    margin: 2rem auto;
+    width: 1.5rem;
+
+    .monogram-left {
+      fill: $pure-white;
+    }
+
+    .monogram-right {
+      fill: $pure-white;
+    }
+  }
+}
+
+.entry, 
+.date,
+.home p,
+.back {
   a {
     background-image: linear-gradient(to right, $pink, $purple);
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: $pureWhite;
+    -webkit-text-fill-color: $pure-white;
     text-decoration: underline;
     text-decoration-color: $orange;
     text-decoration-thickness: 2px;
     transition: all ease-in-out 0.2s;
 
-    &:hover {
+    &:hover,
+    i:hover {
       -webkit-text-fill-color: transparent;
       text-decoration-color: transparent;
+    }
+
+    .post-date {
+      color: $lightGrey !important;
     }
   }
 
@@ -376,14 +462,9 @@ footer {
   }
 }
 
-.bottom-border {
-  height: 5px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: $cyan;
-  background-image: linear-gradient(to right, $pink, $purple);
+.back {
+  display: block;
+  margin-bottom: 1rem;
 }
 
 .card {
@@ -406,7 +487,7 @@ footer {
     width: 100%;
   
     .the-color {
-      border: 3px solid $white;
+      border: 3px solid $pure-white;
       border-radius: 10px;
       display: block;
       width: 100%;
@@ -416,87 +497,11 @@ footer {
   }
 }
 
-// /**************/
-// /*   COLORS   */
-// /**************/
-
-.black {
-  color: $black;
-}
-.black-bg {
-  background-color: $black;
-}
-.pureBlack {
-  color: $pureBlack;
-}
-.pureBlack-bg {
-  background-color: $pureBlack;
-}
-.grey {
-  color: $grey;
-}
-.grey-bg {
-  background-color: $grey;
-}
-.lightGrey {
-  color: $lightGrey;
-}
-.lightGrey-bg {
-  background-color: $lightGrey;
-}
-.white {
-  color: $white;
-}
-.white-bg {
-  background-color: $white;
-}
-.pureWhite {
-  color: $pureWhite;
-}
-.pureWhite-bg {
-  background-color: $pureWhite;
-}
-.red {
-  color: $red;
-}
-.red-bg {
-  background-color: $red;
-}
-.orange {
-  color: $orange;
-}
-.orange-bg {
-  background-color: $orange;
-}
-.yellow {
-  color: $yellow;
-}
-.yellow-bg {
-  background-color: $yellow;
-}
-.green {
-  color: $green;
-}
-.green-bg {
-  background-color: $green;
-}
-.cyan {
-  color: $cyan;
-}
-.cyan-bg {
-  background-color: $cyan;
-}
-.purple {
-  color: $purple;
-}
-.purple-bg {
-  background-color: $purple;
-}
-.pink {
-  color: $pink;
-}
-.pink-bg {
-  background-color: $pink;
+@media (max-width: 1199px)  {
+  #monogram {
+    // Scale this with clamp() eventually
+    display: none;
+  }
 }
 
 // Footnotes courtesy of littlefoot.js
@@ -504,7 +509,7 @@ footer {
   --button-background-color: #bd93f9;
   --button-text-color: #f8f8f2;
   --button-active-text-color: #282a36;
-  --button-active-background-color: #f55;
+  --button-active-background-color: #ff5555;
   --popover-background-color: #282a36;
   --popover-text-color: #d0d0d0;
   --popover-border: 2px solid #ff79c6;

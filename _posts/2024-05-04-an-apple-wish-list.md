@@ -13,7 +13,7 @@ I bought my first Apple computer (a Titanium PowerBook G4) in the summer of 2005
 I'd consider myself to be a staunch Apple fanboy, but there are still a _ton_ of things that I wish Apple would make better, and today I'm going to use this space to put them into the world and hope for the best. In no particular order:
 
 - A standalone Touch ID sensor, and/or one that's baked in to the Magic Trackpad
-- Apple Music on the Mac [lets you shuffle by album](https://niclake.me/one-software-feature) - why is this not the case on iPhone?
+- Apple Music on the Mac [lets you shuffle by album](/one-software-feature) - why is this not the case on iPhone?
 - Why does my Apple Watch insist that I have 2 lists titled Grocery List when I try to use Siri to add something? (No matter which one I choose, it ends up on the right spot, but I shouldn't have to confirm it.)
 - Please give us an iPhone Pro Mini.
 - Why does ANYTHING still use Lightning? USB-C for everything already, c'mon.
