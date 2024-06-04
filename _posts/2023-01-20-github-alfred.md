@@ -10,7 +10,7 @@ image: https://content.invisioncic.com/r229491/monthly_2023_01/image.thumb.png.e
 
 ![alt text][headerImg]
 
-Yesterday, [I posted about how I consolidated some of my Mac helper apps](https://niclake.me/mac-helper-apps). I was talking to members of the [Relay.FM member's Discord](https://www.relay.fm/membership) when going through this exercise, and I happened to mention an Alfred workflow that I had helped create for work. Enough people seemed interested in it that I went through the whole process of getting it set up for other people to download.
+Yesterday, [I posted about how I consolidated some of my Mac helper apps](/mac-helper-apps). I was talking to members of the [Relay.FM member's Discord](https://www.relay.fm/membership) when going through this exercise, and I happened to mention an Alfred workflow that I had helped create for work. Enough people seemed interested in it that I went through the whole process of getting it set up for other people to download.
 
 Introducing: the [GitHub Repository Helper workflow](https://github.com/niclake/alfred-github-repo-helper) for [Alfred.app](http://alfredapp.com)
 

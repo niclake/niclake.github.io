@@ -4,7 +4,11 @@ title: "Accidental Fifty"
 categories: Personal
 ---
 
-![alt text][headerImg]
+{% include image.html
+  src="accidental-fifty.jpg"
+  position="banner"
+  alt="A widget tracking the days since my last drink"
+%}
 
 *CW: this post talks about alcohol and sobriety. If you, or someone you know, is in need of help, please call the SAMHSA hotline at 1-800-662-4357.*
 
@@ -27,5 +31,3 @@ I'm not someone who often sticks with things. Learning a language. Exercising re
 I don't know how long this will continue. Having this little widget on my home screen has certainly helped. I'm not an alcoholic, nor someone who deals with substance abuse, so this hasn't been something I'm doing out of necessity; I've actually held off posting something for weeks, simply because I didn't want to seem insensitive or that I was glorifying my iron will of giving up booze or something.
 
 I just did something cool on accident, and thought maybe I'd share.
-
-[headerImg]: https://niclake.me/images/accidental-fifty.jpg "A widget tracking the days since my last drink"

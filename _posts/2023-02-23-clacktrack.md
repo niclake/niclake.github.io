@@ -2,13 +2,16 @@
 layout: post
 title: "ClackTrack - a Keyboard Cataloging Tool for iOS"
 categories: Project Clacktrack
-image: https://niclake.me/images/clacktrack.png
+image: clacktrack.png
 projectInfo: "ClackTrack is an app for iPhone and iPad to track your mechanical keyboard collection. Track your keyboards, switches, keycaps, and accessories, as either individual components or assembled boards."
 projectLink: https://clacktrack.app
-hidden: false
 ---
 
-![alt text][headerImg]
+{% include image.html
+  src="clacktrack.png"
+  position="banner"
+  alt="ClackTrack - Catalog your mechanical keyboard collection"
+%}
 
 I'd like to present to you a new project I'm working on called [ClackTrack][clacktrack]. ClackTrack is a new application coming out in Fall 2023 for iPhone and iPad, allowing users to catalog their mechanical keyboard collection.
 
@@ -28,6 +31,5 @@ That quickly spiraled out of control - what if it had this feature, and that fea
 
 So, this is a post announcing the announcement of the release of ClackTrack. It's to build hype, to keep me honest, and to share with everyone what I'm working on. If you'd like to stay in the know about it, you can sign up for emails [on the site][clacktrack].
 
-[headerImg]: /images/clacktrack.png "ClackTrack - Catalog your mechanical keyboard collection"
 [clacktrack]: https://clacktrack.app
 [hurley]: https://hurleynumber.com

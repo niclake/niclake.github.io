@@ -2,12 +2,16 @@
 layout: post
 title: "Sunday Ritual"
 categories: Personal
-image: https://niclake.me/images/sunday-ritual.jpg
+image: sunday-ritual.jpg
 ---
 
-![A good pen, some paper, and time][headerImg]
+{% include image.html
+  src="sunday-ritual.jpg"
+  position="banner"
+  alt="A good pen, some paper, and time"
+%}
 
-I've talked before about [how I desperately want to be someone who uses a pocket notebook](https://niclake.me/pocket-notebook/). I've also realized that [this just is not who I am as a person](https://niclake.me/understanding-notebooks/).
+I've talked before about [how I desperately want to be someone who uses a pocket notebook](/pocket-notebook). I've also realized that [this just is not who I am as a person](/understanding-notebooks).
 
 But there's just something cathartic, something that scratches a primal urge, about writing out a to-do list, and marking things off as I go.
 
@@ -31,5 +35,3 @@ My biggest gripe in the past has been, how do I remind myself about things that 
 [^2]: We went to Target yesterday, and as we were walking in, my phone buzzed; I had set a location-based reminder saying "Target Gift Card", reminding me that I had one on me (which is good, because with contactless payment options, I don't even open my bag most times). My wife thinks I'm nuts.
 
 The older I get, the more I realize that I basically have to trick my brain, or turn things into a game, in order to get the most out of it. Put a carrot on a stick ("hey, if you do this, you can get your red pen and fill in the square"), and I'm golden. Gone are the days I wish I could just "be normal like everyone else". I am myself, I'm glad I'm me; this works for how I operate, and that's the only thing that matters.
-
-[headerImg]: /images/sunday-ritual.jpg

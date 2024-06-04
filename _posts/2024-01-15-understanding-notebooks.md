@@ -4,15 +4,19 @@ title: "Understanding: Notebooks"
 categories: 2024-Theme
 ---
 
-![alt text][headerImg]
+{% include image.html
+  src="notebooks.jpeg"
+  position="banner"
+  alt="The random notebooks within an arm's reach of my desk"
+%}
 
-*As part of my 2024 theme, [Year of Understanding](https://niclake.me/year-of-understanding), I'm doing a bunch of introspection about various things. This is one of a series of posts about me working towards understanding some aspect of my life.*
+*As part of my 2024 theme, [Year of Understanding](/year-of-understanding), I'm doing a bunch of introspection about various things. This is one of a series of posts about me working towards understanding some aspect of my life.*
 
 Write it down.
 
 I can still hear my dad telling me that phrase over and over and over again as I grew up. Write it down. Is it important? Do you need to remember it? Write it down.
 
-I was always terrible at taking notes growing up, and still am to this day. In class? Eh... I'd get some of it. A planner? I'd use it for a week or two, and then it'd get lost in my backpack somewhere. A journal? Good luck. [A pocketbook filled with joyous moments?](https://niclake.me/pocket-notebook/) Abandoned. A little musical ideas notebook? I feel weird about adding things to it, so it lays abandoned.
+I was always terrible at taking notes growing up, and still am to this day. In class? Eh... I'd get some of it. A planner? I'd use it for a week or two, and then it'd get lost in my backpack somewhere. A journal? Good luck. [A pocketbook filled with joyous moments?](/pocket-notebook) Abandoned. A little musical ideas notebook? I feel weird about adding things to it, so it lays abandoned.
 
 I've always been envious of people that take notes on paper, and/or have an interesting and varied enough life that warrants something like that. Same with people who draw and have oodles of sketchbooks, or nice pen collections with which to write things. The whole "scene" surrounding notebooks and writing has always been very appealing to me (I've got a massive stack of notebooks around here somewhere, including a really nice leather-bound one my wife got me as a gift years ago). And yet, try as I might, I cannot break into it at all. Especially now, in my Work From Home era, when I just wear sweatpants or shorts around the house and don't have any of my EDC stuff on me.
 
@@ -42,5 +46,3 @@ Yes; ultimately, any instance of me trying to use a notebook for *anything* has 
 - Stop buying more notebooks for things; I have plenty
 - Remove anything related to writing from any sort of long term wishlist (sorry, [Cortex](https://cottonbureau.com/people/cortex-podcast#/shop) and [Studio Neat](https://www.studioneat.com) - you're not getting my money)
 - Give more consideration to the "why" of doing something; is it for me, or is it because others do it?
-
-[headerImg]: https://niclake.me/images/notebooks.jpeg "The random notebooks within arm's reach of my desk"
