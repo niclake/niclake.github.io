@@ -25,6 +25,7 @@ is_post: true
 
   <div class="entry">
     {{ content | replace: '<!-- more -->', '' }}
+    {% include monogram.svg %}
   </div>
 
   {% include disqus.html %}
