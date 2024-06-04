@@ -15,7 +15,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 ## R's List
 
 - Things from [R's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
-- [Spruce Duo Love Seat camping chair](https://www.backcountry.com/stoic-spruce-duo-love-seat)
 
 ## Nic's List
 
@@ -26,7 +25,6 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - [Studio Neat Material Dock Trio](https://www.studioneat.com/products/materialdock)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) (any color)
 - [Mophie 3-in-1 MagSafe travel charger](https://www.zagg.com/mophie-3-in-1-travel-charger-with-magsafe/)
-- [Bellroy Card Sleeve Wallet](https://bellroy.com/products/card-sleeve-wallet?color=black_ash&material=leather&size=default)
 - [Geometrical Wallet-Sized iPhone Tripod](https://amzn.to/3yCFobh) (purple or green)
 - Lochby [Pocket Journal](https://www.lochby.com/collections/notebooks/products/pocket-journal) or [Field Journal](https://www.lochby.com/collections/notebooks/products/field-journal)
 - [Any book off of my wish list](https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit#gid=37847728) (Physical Books I Want tab)
