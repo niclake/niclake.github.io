@@ -40,6 +40,11 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 
 ### Desk & Accessories
 
+{% include image.html
+  src="desk/desk6.jpg"
+  alt="The desk"
+%}
+
 - [5ft x 30in birch block](https://www.homedepot.com/p/HARDWOOD-REFLECTIONS-5-ft-L-x-30-in-D-Unfinished-Birch-Solid-Wood-Butcher-Block-Desktop-Countertop-With-Eased-Edge-1530HDBIR-60/316334372)
 - [VIVO dual motor frame](https://amzn.to/3Qhgdkj)
 - [An under-desk headphone mount + power outlet](https://amzn.to/3JrqOFo)
