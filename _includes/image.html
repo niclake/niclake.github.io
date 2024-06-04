@@ -8,13 +8,13 @@
   {% elsif include.srcabs %}
   <a href="{{ include.srcabs }}">
   {% else %}
-  <a href="{{ site.baseurl }}/images/{{ include.src }}">
+  <a href="{{ site.baseurl }}/assets/images/{{ include.src }}">
   {% endif %}
     <img
         {% if include.srcabs %}
             src="{{ include.srcabs }}"
         {% else %}
-            src="{{ site.baseurl }}/images/{{ include.src }}"
+            src="{{ site.baseurl }}/assets/images/{{ include.src }}"
         {% endif %}
     alt="{{ include.alt }}">
   </a>
