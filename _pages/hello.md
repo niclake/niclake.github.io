@@ -14,4 +14,4 @@ Here is how I prefer to keep in touch:
 - I use [Instagram](http://instagram.com/niclake) for friends and family only
 - I am not active on any other social media
 
-Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/)
+Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
