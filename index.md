@@ -43,7 +43,9 @@ You can learn more about me on my [About page](/about), or find the best way to 
       <div class="card w-100">
         <h6><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h6>
         {% if post.image %}
-          <img src="{{ post.image }}" />
+          <img src="{{ site.baseurl}}/assets/images/{{ post.image }}" />
+        {% elsif post.imageabs %}
+          <img src="{{ post.imageabs }}" />
         {% endif %}
         <p>{{post.projectInfo}}</p>
         <div class="mt-auto text-end">

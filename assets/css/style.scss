@@ -470,8 +470,11 @@ footer {
 .card {
   background-color: $black;
   border-radius: 15px;
+  border-width: 3px;
+  border-color: $grey;
   padding: 1rem;
   margin-bottom: 1rem;
+  box-shadow: 4px 4px darken($black, 5%);
 
   h3 {
     padding: 0 0 .5rem 0;

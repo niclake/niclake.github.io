@@ -17,7 +17,9 @@ If you enjoy any of these, and would like to support my work, you can [buy me a 
           <div>
             <h3>{{post.title}}</h3>
             {% if post.image %}
-              <img src="{{ post.image }}" />
+              <img src="{{ site.baseurl}}/assets/images/{{ post.image }}" />
+            {% elsif post.imageabs %}
+              <img src="{{ post.imageabs }}" />
             {% endif %}
             <p>{{post.projectInfo}}</p>
           </div>
