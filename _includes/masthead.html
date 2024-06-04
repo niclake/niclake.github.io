@@ -12,25 +12,20 @@
         {% for nav in site.data.navigation %}
           {% unless nav.masthead == false %}
             {% assign the-url = page.url %}
-            {% if the-url contains '/blog/' %}
-              {% assign pageUrl = '/blog/' %}
+            {% if nav.url == page.url %}
+              {% assign classes = 'nav-item active first' %}
+            {% elsif nav.url == '/blog/' and the-url contains '/blog/' %}
+              {% assign classes = 'nav-item active second' %}
+            {% elsif page.id and nav.url == '/blog/' %}
+              {% assign classes = 'nav-item active' %}
             {% else %}
-              {% assign pageUrl = page.url %}
+              {% assign classes = 'nav-item' %}
             {% endif %}
-            <li {% if nav.url == pageUrl %} class="nav-item active"{% else %} class="nav-item"{% endif %}>
+            <li class="{{classes}}">
               <a class="nav-link" href="{{ nav.url }}">{{ nav.text }}</a>
             </li>
           {% endunless %}
         {% endfor %}
-
-        <!-- <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/about">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/hello">Hello</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/now">Now</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/uses">Uses</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/projects">Projects</a></li>
-        <li class="nav-item"><a class="nav-link" href="https://mastodon.social/@niclake@mastodon.social"><i class="fa-brands fa-mastodon"></i></a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/feed"><i class="fa-solid fa-rss"></i></a></li> -->
       </ul>
     </div>
   </div>
