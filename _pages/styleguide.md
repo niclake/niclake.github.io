@@ -140,7 +140,7 @@ Images can be put in like this:
   position="right"
 %}
 
-You can use `position` to place an image left or right of the content, and `caption` to add a text caption below the image. If being positioned left/right, you should place the image block before the content.
+You can use `position` to place an image `left` or `right` of the content, or use `banner` for full width. Use a `caption` to add a text caption below the image. If being positioned left/right, you should place the image block before the content.
 
 The full template for using `_include/image.html`:
 

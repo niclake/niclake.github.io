@@ -441,7 +441,7 @@ footer {
     text-decoration: underline;
     text-decoration-color: $orange;
     text-decoration-thickness: 2px;
-    transition: all ease-in-out 0.2s;
+    transition: all ease 0.3s;
 
     &:hover,
     i:hover {
@@ -479,6 +479,31 @@ footer {
   h3 {
     padding: 0 0 .5rem 0;
     margin-bottom: 1rem;
+  }
+
+  h4.rss {
+    &::after {
+      font-family: "Font Awesome 6 Free"; 
+      content: "\f09e";
+      display: inline-block;
+      position: absolute;
+      right: 1rem;
+      font-weight: 700;
+
+      &:hover {
+        color: $green;
+      }
+    }
+
+    &:hover {
+      &::after {
+        color: $purple;
+        -webkit-transition: all ease 0.3s;
+        -moz-transition: all ease 0.3s;
+        -o-transition: all ease 0.3s;
+        transition: all ease 0.3s;
+      }
+    }
   }
 
   img {

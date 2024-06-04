@@ -2,10 +2,10 @@
   url: /blog/
   blurb: "I like to write about life, family, technology, and more. Check out my blog for the latest posts."
 
-- text: Follow
+- text: RSS
   url: /feed.xml
   masthead: false
-  blurb: "You can follow my blog using an RSS reader. Click here to subscribe."
+  blurb: "You can follow my blog using your favorite RSS reader. Click here to subscribe."
 
 - text: About
   url: /about

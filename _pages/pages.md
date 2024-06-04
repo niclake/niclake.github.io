@@ -12,7 +12,7 @@ permalink: /pages
         <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
           <div class="card">
             <div>
-              <h4><a href="{{ site.baseurl }}{{ page.url }}">{{page.text}}</a></h4>
+              <h4 class="{{page.text | downcase}}"><a href="{{ site.baseurl }}{{ page.url }}">{{page.text}}</a></h4>
               <p>{{page.blurb}}</p>
             </div>
           </div>
