@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ClackTrack - a Keyboard Cataloging Tool for iOS"
+title: "ClackTrack - a Keyboard Cataloging Tool for iOS & iPadOS"
 categories: Project Clacktrack
 image: clacktrack.png
 projectInfo: "ClackTrack is an app for iPhone and iPad to track your mechanical keyboard collection. Track your keyboards, switches, keycaps, and accessories, as either individual components or assembled boards."
@@ -13,7 +13,9 @@ projectLink: https://clacktrack.app
   alt="ClackTrack - Catalog your mechanical keyboard collection"
 %}
 
-I'd like to present to you a new project I'm working on called [ClackTrack][clacktrack]. ClackTrack is a new application coming out in Fall 2023 for iPhone and iPad, allowing users to catalog their mechanical keyboard collection.
+> Note: ClackTrack is currently on hold as I work on some other projects (and parent a 2 year old), but I have not abandoned this.
+
+I'd like to present to you a new project I'm working on called [ClackTrack][clacktrack]. ClackTrack is an application I'm developing for iPhone and iPad, allowing users to catalog their mechanical keyboard collection.
 
 <!-- more -->
 

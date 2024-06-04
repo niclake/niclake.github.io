@@ -11,19 +11,18 @@ permalink: /now
 
 ### Projects
 
+- The inklings of a really simple iOS app
 - [See all my released projects here](/projects)
 
 ### Currently Reading
 
-- _Legends & Lattes_ by Travis Baldree
-- _Warbreaker_ and _Mistborn_ by Brandon Sanderson
-- _Gardens of the Moon_ by Steven Erikson
+- _Annihilation_ by Jeff Vandermeer
 - See my [full book backlog here][books], and tell me any books you think I should add/prioritize
 
 ### Currently Playing
 
-- **Celeste** (Steam Deck)
-- **Pokémon LeafGreen** (GameBoy Advance)
+- **Paper Mario: The Thousand-Year Door** (Switch)
+- (Paused) **Pokémon LeafGreen** (GameBoy Advance)
 - See my [full game backlog here][games], and tell me any games you think I should play next
 
 [books]: https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing

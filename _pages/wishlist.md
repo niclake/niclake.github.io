@@ -12,9 +12,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 - Things from [V's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2)
 
+---
+
 ## R's List
 
 - Things from [R's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share)
+
+---
 
 ## Nic's List
 

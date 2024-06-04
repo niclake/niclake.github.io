@@ -479,6 +479,7 @@ footer {
   h3 {
     padding: 0 0 .5rem 0;
     margin-bottom: 1rem;
+    font-size: 1.1rem;
   }
 
   h4.rss {
@@ -522,13 +523,6 @@ footer {
       height: 100px;
       margin-bottom: 10px;
     }
-  }
-}
-
-@media (max-width: 1199px)  {
-  #monogram {
-    // Scale this with clamp() eventually
-    display: none;
   }
 }
 
