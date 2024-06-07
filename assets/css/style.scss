@@ -105,7 +105,7 @@ a {
   }
 
   .nav-item {
-    margin-bottom: 0 !important;
+    margin-bottom: 0;
 
     &.active {
       a {
@@ -118,6 +118,24 @@ a {
   
       &:hover {
         color: $green !important;
+      }
+    }
+  }
+
+  @media (max-width: 991px) {
+    .navbar-collapse {
+      border-bottom: 5px solid transparent;
+      border-image: linear-gradient(to right, $pink, $purple);
+      border-image-slice: 1;
+    }
+
+    .nav-item {
+      text-align: right;
+      padding-right: 1rem;
+      margin-bottom: .5rem;
+      
+      .nav-link {
+        font-size: 1.5rem !important;
       }
     }
   }
