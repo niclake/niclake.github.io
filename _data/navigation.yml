@@ -9,7 +9,6 @@
 
 - text: About
   url: /about
-  masthead: false
   blurb: "Want to learn more about me? Check out my About page for more information."
 
 - text: Hello
@@ -22,7 +21,7 @@
 
 - text: Projects
   url: /projects
-  blurb: "I like to work on a variety of projects. Check out my Projects page for a small list of things I'm proud of."
+  blurb: "I like to work on a variety of projects. My Projects page has a small list of things I'm proud of."
 
 - text: Pages
   url: /pages

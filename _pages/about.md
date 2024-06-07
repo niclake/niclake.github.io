@@ -22,9 +22,11 @@ I graduated from the [University of Northern Iowa](https://uni.edu) with a degre
 
 ### Personal
 
-I have an ever growing list of hobbies, including video games, reading, mechanical keyboards, woodworking, watching the Celtics and Red Sox, cooking, and making yet another spreadsheet. I have [a full sleeve Pokémon tattoo](/tattoos), and a few others on my other arm. I type using the [Colemak layout](/colemak). I hack at [various small projects](/projects) from time to time.
+I have an ever growing list of hobbies, including video games, reading, mechanical keyboards, woodworking, watching the Celtics and Red Sox, cooking, and making yet another spreadsheet. I have numerous tattoos, including [a full sleeve of Pokémon](/tattoos#4-pokémon-sleeve-right-arm). I type using [the Colemak layout](/colemak). I hack at [various small projects](/projects) from time to time.
 
 In a previous life, I was an accomplished musician. I started playing piano at age 4, drums at 10, bass at 12, and guitar at 13. I started my college career as a music education major, with the aspiration of teaching drumline at a 5/6A high school in Texas (oddly specific, I know). I missed out on being the lead guitarist for the most popular recording artist of the early 2020's because she's 4 inches taller than me. I released [an EP of ambient instrumental music](/sailing) in 2013.
+
+You can check out what I've been up to lately over on [my Now page](/now).
 
 My partner (R), our daughter (V), and our cats (Bearcat and Beau) reside in eastern Iowa, USA.
 

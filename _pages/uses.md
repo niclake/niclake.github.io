@@ -6,6 +6,8 @@ permalink: /uses
 
 All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults).
 
+*Last updated 6/6/24*
+
 ### Computer
 
 #### Hardware
@@ -26,17 +28,17 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Visual Studio Code](https://code.visualstudio.com) for everything, [even blogging](/my-blogging-workflow)
 - [Alfred](https://www.alfredapp.com) + the [PowerPack](https://www.alfredapp.com/powerpack/) & [custom workflows](/categories#Alfred)
 - [Fantastical](https://flexibits.com/fantastical) for my calendar & reminders
-- [Bartender](https://www.macbartender.com)
+- ~~Bartender~~ Update 6/6/24 - due to Bartender's botched sale & subsequent community fallout, I've switched over to [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12).
 - [BetterTouchTool](https://folivora.ai)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [Ivory for Mastodon](https://tapbots.com/ivory/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - [Maestral](https://maestral.app) for Dropbox sync
 - [Mimestream](https://mimestream.com) for all my Gmail accounts
 - [Moom](https://manytricks.com/moom/) + [Rectangle Pro](https://rectangleapp.com) for window placement
 - [MusicHarbor](https://apps.apple.com/us/app/musicharbor-track-new-music/id1440405750) to keep up with album releases
 - [Paprika](https://www.paprikaapp.com) for recipe management
 - [Reeder](https://reederapp.com) (+ [Feedbin](https://feedbin.com)) for RSS ([I wrote about my setup](/the-great-rss-pruning))
-- [Reflex](https://stuntsoftware.com/reflex/) to lock media keys and volume to Apple Music & the system
 
 ### Desk & Accessories
 
@@ -49,6 +51,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [VIVO dual motor frame](https://amzn.to/3Qhgdkj)
 - [An under-desk headphone mount + power outlet](https://amzn.to/3JrqOFo)
 - [Cable management trays](https://amzn.to/3W8zk3W)
+- You can find full info on my build [on the blog](/desk)
 
 ### Mobile
 
