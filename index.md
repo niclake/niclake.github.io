@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "👋🏻"
 ---
 
 # Hello! I'm Nic

@@ -296,7 +296,7 @@ figure {
   display: table;
   text-align: center;
   width: 400px;
-  margin: 0 auto;
+  margin: 0 auto 1rem;
 
   &.left {
     float: left;
@@ -323,7 +323,6 @@ figure {
     font-size: 0.8rem;
     color: $lightGrey;
     margin-top: .5rem;
-    padding-bottom: 1rem;
   }
 }
 
@@ -346,9 +345,12 @@ figure {
   }
 
   figure {
+    width: 100%;
+
     &.left, &.right {
+      width: 100% !important;
       float: none !important;
-      margin: 0 auto;
+      margin: 0 auto 1rem;
     }
   }
 }
