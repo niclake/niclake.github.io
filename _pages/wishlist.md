@@ -54,8 +54,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
 - Worcester Red Sox
-  - [Navy Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-heart-w-5950-hat?variant=32307572572196) or
-  - [Navy/Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-red-heart-w-5950-hat?variant=32307691257892)
+  - [Navy Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-heart-w-5950-hat?variant=32307572572196) or [Navy/Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-red-heart-w-5950-hat?variant=32307691257892)
   - [Los Wepas de Worcester Rocket](https://woosox.milbstore.com/collections/all-caps/products/ryl-wht-rocket-wepas-5950-hat-100620?variant=39370254057508)
 - Portland Sea Dogs
   - [State of Maine Navy/Red](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326)
