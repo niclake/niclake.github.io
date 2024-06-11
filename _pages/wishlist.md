@@ -54,15 +54,18 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
   - [Authentic Logo 59FIFTY](https://www.neweracap.com/products/boston-red-sox-authentic-collection-59fifty-fitted-1?variant=42671107703011)
   - [Storm Gray Basic 59FIFTY](https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283)
 - Worcester Red Sox
-  - [Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-red-heart-w-5950-hat?variant=32307600162852)
+  - [Navy Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-heart-w-5950-hat?variant=32307572572196) or
+  - [Navy/Red Heart W](https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-red-heart-w-5950-hat?variant=32307691257892)
   - [Los Wepas de Worcester Rocket](https://woosox.milbstore.com/collections/all-caps/products/ryl-wht-rocket-wepas-5950-hat-100620?variant=39370254057508)
 - Portland Sea Dogs
-  - [Sunday Red](https://seadogs.milbstore.com/collections/all-caps/products/official-on-field-sunday-players-hat-sluggers-face-design-1?variant=32604079620174)
   - [State of Maine Navy/Red](https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326)
 - Salem Red Sox
   - [Diamond Era Navy/Red](https://salemsox.milbstore.com/collections/all-caps/products/new-era-59fifty-alternate-cap?variant=30871409721380)
+  - [San Bernardos de Salem](https://salemsox.milbstore.com/collections/all-caps/products/new-era-59fifty-san-bernardos-de-salem-game-cap?variant=30610106646564)
 - Greenville Drive
   - [Navy Batting Practice](https://drive.milbstore.com/collections/all-caps/products/copy-of-greenville-drive-new-era-navy-59fifty-lp-diamond-era-on-field-road-hat?variant=40546385100855)
+  - [Sunday Green](https://drive.milbstore.com/collections/all-caps/products/greenville-drive-new-era-59fifty-lp-sunday-on-field-hat?variant=40546387787831)
+  - [Ranas de Rio](https://drive.milbstore.com/collections/all-caps/products/greenville-drive-new-era-copa-ranas-de-los-rio-on-field-hat?variant=39688370061367)
 
 ### Red Sox Jerseys
 
@@ -81,6 +84,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 - Orioles: Rutschman 35, Ripken Jr. 8
 - Blue Jays: Halladay 32, Bautista 19, Guerrero Jr. 27
 - Rays: Boggs 12 (Devil Rays), Arozarena 56
+- Yankees: lol no way
 
 ###### AL Central
 
