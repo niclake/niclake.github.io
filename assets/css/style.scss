@@ -463,10 +463,19 @@ footer {
     text-decoration-thickness: 2px;
     transition: all ease 0.3s;
 
+    code {
+      -webkit-text-fill-color: $cyan;
+      transition: all ease 0.3s;
+    }
+
     &:hover,
     i:hover {
       -webkit-text-fill-color: transparent;
       text-decoration-color: transparent;
+
+      code {
+        -webkit-text-fill-color: $green !important;
+      }
     }
 
     .post-date {
