@@ -512,6 +512,10 @@ footer {
         font-weight: bold;
         font-family: $headers;
 
+        &::after {
+          background-image: none;
+        }
+
         &:not(.collapsed) {
           background-color: $grey;
           color: $cyan;

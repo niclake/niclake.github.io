@@ -22,7 +22,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
 
 ## Nic's List
 
-<div class="accordion" id="wishlistAccordion">
+<div class="accordion accordion-flush" id="wishlistAccordion">
   <div class="accordion-item">
     <h3 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
