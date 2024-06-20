@@ -67,7 +67,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
           <div class="row justify-content-center">
             {% for shirt in site.data.wishlist.shirts %}
               <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
-                <div class="card">
+                <div class="card wishlist">
                   <a href="{{ shirt.url }}">
                     <h6>{{ shirt.name }}</h6>
                     <img src="{{ shirt.img }}" alt="{{ shirt.name }}" />
@@ -104,7 +104,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
                     <div class="row justify-content-center">
                       {% for hat in team.hats %}
                         <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
-                          <div class="card">
+                          <div class="card wishlist">
                             <a href="{{ hat.url }}">
                               <h6>{{ hat.name }}</h6>
                               <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}" />
@@ -135,7 +135,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
           <div class="row justify-content-center">
             {% for team in site.data.wishlist.jerseys %}
               <div class="col-lg-4 col-md-6 col-sm-6 d-flex align-items-stretch">
-                <div class="card">
+                <div class="card wishlist">
                   <h5>{{ team.name }}</h5>
                   {% if team.colors %}<span class="mb-3">{% endif %}
                     {% for color in team.colors %}
@@ -174,7 +174,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
           <div class="row justify-content-center">
             {% for artist in site.data.wishlist.vinyl %}
               <div class="col-lg-4 col-md-6 col-sm-6 d-flex align-items-stretch">
-                <div class="card">
+                <div class="card wishlist">
                   <h6>{{ artist.name }}</h6>
                   <ul>
                     {% for album in artist.albums %}
