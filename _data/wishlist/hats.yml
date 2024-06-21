@@ -10,6 +10,29 @@
       url: https://shop.thesavannahbananas.com/products/party-animals-5950-alternate-hat-pink?variant=44364844794094
       img: https://shop.thesavannahbananas.com/cdn/shop/files/70821671_59FIFTY__PARANI_PNKBLK_3QL.jpg
       priority: true
+- name: Boston Celtics
+  hats: 
+    -
+      name: 2024 Draft
+      url: https://www.neweracap.com/products/boston-celtics-2024-draft-59fifty-fitted?variant=44616195178723
+      img: https://www.neweracap.com/cdn/shop/files/60507111_59FIFTY_NBA24DRAFT5950_BOSCEL_CAMOTC_3QL.jpg
+    -
+      name: 2Tone Black
+      url: https://www.neweracap.com/products/boston-celtics-2tone-black-59fifty-fitted?variant=42645860712675
+      img: https://www.neweracap.com/cdn/shop/products/8916463321118.jpg
+      priority: true
+    -
+      name: 2Tone
+      url: https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531
+      img: https://www.neweracap.com/cdn/shop/products/8916382973982.jpg
+    -
+      name: Team Color Black
+      url: https://www.neweracap.com/products/boston-celtics-team-color-black-59fifty-fitted?variant=42671043313891
+      img: https://www.neweracap.com/cdn/shop/products/8916442873886.jpg
+    -
+      name: Basic
+      url: https://www.neweracap.com/products/boston-celtics-basic-59fifty-fitted?variant=42646592880867
+      img: https://www.neweracap.com/cdn/shop/products/9654014935070.jpg
 - name: Boston Red Sox
   hats: 
     -
@@ -79,29 +102,6 @@
       name: San Bernardos de Salem
       url: https://salemsox.milbstore.com/collections/all-caps/products/new-era-59fifty-san-bernardos-de-salem-game-cap?variant=30610106646564
       img: https://salemsox.milbstore.com/cdn/shop/products/Fitted_Copa-Front-view-With_BG_For_Pat_500_ed2515e2-a076-4151-9eeb-7a5ad6ad2f96_500x.jpg
-- name: Boston Celtics
-  hats: 
-    -
-      name: 2024 Draft
-      url: https://www.neweracap.com/products/boston-celtics-2024-draft-59fifty-fitted?variant=44616195178723
-      img: https://www.neweracap.com/cdn/shop/files/60507111_59FIFTY_NBA24DRAFT5950_BOSCEL_CAMOTC_3QL.jpg
-    -
-      name: 2Tone Black
-      url: https://www.neweracap.com/products/boston-celtics-2tone-black-59fifty-fitted?variant=42645860712675
-      img: https://www.neweracap.com/cdn/shop/products/8916463321118.jpg
-      priority: true
-    -
-      name: 2Tone
-      url: https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531
-      img: https://www.neweracap.com/cdn/shop/products/8916382973982.jpg
-    -
-      name: Team Color Black
-      url: https://www.neweracap.com/products/boston-celtics-team-color-black-59fifty-fitted?variant=42671043313891
-      img: https://www.neweracap.com/cdn/shop/products/8916442873886.jpg
-    -
-      name: Basic
-      url: https://www.neweracap.com/products/boston-celtics-basic-59fifty-fitted?variant=42646592880867
-      img: https://www.neweracap.com/cdn/shop/products/9654014935070.jpg
 - name: Other MLB and MILB
   hats:
     -
