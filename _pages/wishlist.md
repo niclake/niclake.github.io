@@ -66,7 +66,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
         <div class="container">
           <div class="row justify-content-center">
             {% for shirt in site.data.wishlist.shirts %}
-              <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
+              <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                 <div class="card wishlist">
                   <a href="{{ shirt.url }}">
                     <h6>{{ shirt.name }}</h6>
@@ -89,7 +89,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
     </h3>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#wishlistAccordion">
       <div class="accordion-body">
-        <h6>All fitted hats size 7 1/2, please</h6>
+        <h6>All fitted hats size 7 1/2, please. <strong><em>* Italic and starred *</em></strong> hats are priority.</h6>
         <div class="accordion" id="hatAccordion">
           {% for team in site.data.wishlist.hats %}
             <div class="accordion-item">
@@ -103,11 +103,13 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
                   <div class="container">
                     <div class="row justify-content-center">
                       {% for hat in team.hats %}
-                        <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                           <div class="card wishlist">
                             <a href="{{ hat.url }}">
-                              <h6>{{ hat.name }}</h6>
+                              {% if hat.priority %}<strong><em>{% endif %}
+                              <h6>{% if hat.priority %}*&nbsp;{% endif %}{{ hat.name }}{% if hat.priority %}&nbsp;*{% endif %}</h6>
                               <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}" />
+                              {% if hat.priority %}</em></strong>{% endif %}
                             </a>
                           </div>
                         </div>
@@ -134,7 +136,7 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
         <div class="container">
           <div class="row justify-content-center">
             {% for team in site.data.wishlist.jerseys %}
-              <div class="col-lg-4 col-md-6 col-sm-6 d-flex align-items-stretch">
+              <div class="col-lg-4 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                 <div class="card wishlist">
                   <h5>{{ team.name }}</h5>
                   {% if team.colors %}<span class="mb-3">{% endif %}
@@ -173,9 +175,12 @@ If you are wanting to get stuff for us, but are wondering where to send it, you 
         <div class="container">
           <div class="row justify-content-center">
             {% for artist in site.data.wishlist.vinyl %}
-              <div class="col-lg-4 col-md-6 col-sm-6 d-flex align-items-stretch">
+              <div class="col-lg-4 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                 <div class="card wishlist">
                   <h6>{{ artist.name }}</h6>
+                  {% if artist.info %}
+                  <span>{{ artist.info }}</span>
+                  {% endif %}
                   <ul>
                     {% for album in artist.albums %}
                       <li>{{ album }}</li>

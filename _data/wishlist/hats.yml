@@ -1,3 +1,15 @@
+- name: Random
+  hats: 
+    -
+      name: Savannah Bananas
+      url: https://shop.thesavannahbananas.com/products/bananas-new-era-5950-trifecta?variant=44363872043246
+      img: https://shop.thesavannahbananas.com/cdn/shop/files/Newerahat.png
+      priority: true
+    -
+      name: Party Animals
+      url: https://shop.thesavannahbananas.com/products/party-animals-5950-alternate-hat-pink?variant=44364844794094
+      img: https://shop.thesavannahbananas.com/cdn/shop/files/70821671_59FIFTY__PARANI_PNKBLK_3QL.jpg
+      priority: true
 - name: Boston Red Sox
   hats: 
     -
@@ -8,6 +20,7 @@
       name: Storm Gray Basic
       url: https://www.neweracap.com/products/boston-red-sox-storm-gray-basic-59fifty-fitted?_pos=24&_fid=a61af9fbe&_ss=c&variant=42646045229283
       img: https://www.neweracap.com/cdn/shop/products/9375957909534.jpg
+      priority: true
     -
       name: Blackout Basic
       url: https://www.neweracap.com/products/boston-red-sox-blackout-basic-59fifty-fitted?variant=42646771204323
@@ -76,6 +89,7 @@
       name: 2Tone Black
       url: https://www.neweracap.com/products/boston-celtics-2tone-black-59fifty-fitted?variant=42645860712675
       img: https://www.neweracap.com/cdn/shop/products/8916463321118.jpg
+      priority: true
     -
       name: 2Tone
       url: https://www.neweracap.com/products/boston-celtics-2tone-59fifty-fitted?variant=42645831778531
@@ -88,12 +102,63 @@
       name: Basic
       url: https://www.neweracap.com/products/boston-celtics-basic-59fifty-fitted?variant=42646592880867
       img: https://www.neweracap.com/cdn/shop/products/9654014935070.jpg
-- name: Other
+- name: Other MLB
   hats:
     -
       name: Atlanta Braves Home
       url: https://www.neweracap.com/products/atlanta-braves-authentic-collection-home-59fifty-fitted-1?variant=42671574483171
       img: https://www.neweracap.com/cdn/shop/products/unnamed_99c3c3d8-d486-466f-9ce1-ae7a034c0e1f.jpg
+      priority: true
+    -
+      name: Baltimore Orioles Chrome
+      url: https://www.neweracap.com/products/baltimore-orioles-chrome-59fifty-fitted?variant=44615651066083
+      img: https://www.neweracap.com/cdn/shop/files/60439177_59FIFTY_5950EGCHWOTCOTC_BALORI_CHW_3QL.jpg
+      priority: true
+    -
+      name: Chicago Cubs City Connect
+      url: https://www.neweracap.com/products/chicago-cubs-city-connect-59fifty-fitted?variant=42651022262499
+      img: https://www.neweracap.com/cdn/shop/products/unnamed_6bcdd8fc-2784-4374-8b87-5043c586b9a8.jpg
+      priority: true
+    -
+      name: Miami Marlins Throwback
+      url: https://www.neweracap.com/products/just-caps-heathered-crown-miami-marlins-59fifty-fitted?variant=44050647646435
+      img: https://www.neweracap.com/cdn/shop/files/70805126_59FIFTY_HEATHEREDCROWN_FLOMARCO_BLK_3QL.jpg
+      priority: true
+    -
+      name: Montreal Expos Sky Blue Snapback
+      url: https://www.neweracap.com/products/montreal-expos-sky-blue-9fifty-snapback?_pos=11&_sid=8f63c25c9&_ss=r&_fid=140a4f548
+      img: https://www.neweracap.com/cdn/shop/files/60440238_9FIFTY_950EGSKYSKYOTC_MONEXPCO_SKYSKYOTC_3QL.jpg
+      priority: true
+    -
+      name: Oakland Athletics Green/Yellow
+      url: https://www.neweracap.com/products/oakland-athletics-authentic-collection-home-59fifty-fitted?variant=42671575826659
+      img: https://www.neweracap.com/cdn/shop/products/8916237058078.jpg
+      priority: true
+    -
+      name: San Diego Padres City Connect
+      url: https://www.neweracap.com/products/san-diego-padres-city-connect-59fifty-fitted?_pos=2&_fid=90c4f931b&_ss=c
+      img: https://www.neweracap.com/cdn/shop/products/60231697_59FIFTY_MLB21CITYCNCTOFF_SADPAD_BLUE_3QL.png
+      priority: true
+    -
+      name: Pittsburgh Pirates Farm Team
+      url: https://www.neweracap.com/products/pittsburgh-pirates-farm-team-59fifty-fitted?_pos=45&_fid=8684689e8&_ss=c
+      img: https://www.neweracap.com/cdn/shop/products/60417987_59FIFTY_FARMTEAM_BRAMAR_STN_3QL.png
+      priority: true
+    -
+      name: San Francisco Giants Alt
+      url: https://www.neweracap.com/products/san-francisco-giants-authentic-collection-alt-59fifty-fitted?variant=42671112945891
+      img: https://www.neweracap.com/cdn/shop/products/8916231094302.jpg
+      priority: true
+    -
+      name: Seattle Mariners Alt
+      url: https://www.neweracap.com/products/seattle-mariners-authentic-collection-alt-59fifty-fitted?variant=42646890447075
+      img: https://www.neweracap.com/cdn/shop/products/8916231225374.jpg
+      priority: true
+    -
+      name: Washington Nationals City Connect
+      url: https://www.neweracap.com/products/washington-nationals-city-connect-59fifty-fitted?variant=42685424402659
+      img: https://www.neweracap.com/cdn/shop/products/60231698_59FIFTY_MLB21CITYCNCTOFF_WASNAT_OTC_3QL.png
+      priority: true
     -
       name: Atlanta Braves City Connect
       url: https://www.neweracap.com/products/atlanta-braves-city-connect-59fifty-fitted?variant=43782945997027
@@ -102,14 +167,6 @@
       name: Baltimore Orioles O
       url: https://www.neweracap.com/products/baltimore-orioles-authentic-collection-alt-59fifty-fitted?variant=42671107997923
       img: https://www.neweracap.com/cdn/shop/products/8916297744414.jpg
-    -
-      name: Baltimore Orioles Chrome
-      url: https://www.neweracap.com/products/baltimore-orioles-chrome-59fifty-fitted?variant=44615651066083
-      img: https://www.neweracap.com/cdn/shop/files/60439177_59FIFTY_5950EGCHWOTCOTC_BALORI_CHW_3QL.jpg
-    -
-      name: Chicago Cubs City Connect
-      url: https://www.neweracap.com/products/chicago-cubs-city-connect-59fifty-fitted?variant=42651022262499
-      img: https://www.neweracap.com/cdn/shop/products/unnamed_6bcdd8fc-2784-4374-8b87-5043c586b9a8.jpg
     -
       name: Colorado Rockies Alt 2 (Purple)
       url: https://www.neweracap.com/products/colorado-rockies-authentic-collection-alt-2-59fifty-fitted?variant=42646286500067
@@ -123,10 +180,6 @@
       url: https://www.neweracap.com/products/miami-marlins-authentic-collection-59fifty-fitted?variant=42671613444323
       img: https://www.neweracap.com/cdn/shop/products/9544457486366.jpg
     -
-      name: Miami Marlins Throwback
-      url: https://www.neweracap.com/products/just-caps-heathered-crown-miami-marlins-59fifty-fitted?variant=44050647646435
-      img: https://www.neweracap.com/cdn/shop/files/70805126_59FIFTY_HEATHEREDCROWN_FLOMARCO_BLK_3QL.jpg
-    -
       name: Milwaukee Brewers Alt
       url: https://www.neweracap.com/products/milwaukee-brewers-authentic-collection-alt-59fifty-fitted?variant=42646313369827
       img: https://www.neweracap.com/cdn/shop/files/70538706_70538714_59FIFTY_ACPERFMILBREALT2020_MILBRE_OTC_3QL.jpg
@@ -134,14 +187,6 @@
       name: Minnesota Twins Road
       url: https://www.neweracap.com/products/minnesota-twins-authentic-collection-road-59fifty-fitted?variant=43544239800547
       img: https://www.neweracap.com/cdn/shop/products/70701500_59FIFTY_ACPERFRD23_MINTWI_NVY_3QL.png
-    -
-      name: Montreal Expos Sky Blue Snapback
-      url: https://www.neweracap.com/products/montreal-expos-sky-blue-9fifty-snapback?_pos=11&_sid=8f63c25c9&_ss=r&_fid=140a4f548
-      img: https://www.neweracap.com/cdn/shop/files/60440238_9FIFTY_950EGSKYSKYOTC_MONEXPCO_SKYSKYOTC_3QL.jpg
-    -
-      name: Oakland Athletics Green/Yellow
-      url: https://www.neweracap.com/products/oakland-athletics-authentic-collection-home-59fifty-fitted?variant=42671575826659
-      img: https://www.neweracap.com/cdn/shop/products/8916237058078.jpg
     -
       name: Oakland Athletics Clubhouse
       url: https://www.neweracap.com/products/oakland-athletics-2024-clubhouse-59fifty-fitted?variant=44318262067427
@@ -151,25 +196,9 @@
     #   url: https://www.neweracap.com/products/san-diego-padres-authentic-collection-59fifty-fitted?_pos=1&_fid=90c4f931b&_ss=c
     #   img: https://www.neweracap.com/cdn/shop/products/9544085438494.jpg
     -
-      name: San Diego Padres City Connect
-      url: https://www.neweracap.com/products/san-diego-padres-city-connect-59fifty-fitted?_pos=2&_fid=90c4f931b&_ss=c
-      img: https://www.neweracap.com/cdn/shop/products/60231697_59FIFTY_MLB21CITYCNCTOFF_SADPAD_BLUE_3QL.png
-    -
       name: Pittsburgh Pirates City Connect
       url: https://www.neweracap.com/products/pittsburgh-pirates-city-connect-59fifty-fitted?_pos=30&_fid=8684689e8&_ss=c
       img: https://www.neweracap.com/cdn/shop/products/60354484_60354478_59FIFTY_CITYCONNECTPITPIR_PITPIR_OTC_3QL.png
-    -
-      name: Pittsburgh Pirates Farm Team
-      url: https://www.neweracap.com/products/pittsburgh-pirates-farm-team-59fifty-fitted?_pos=45&_fid=8684689e8&_ss=c
-      img: https://www.neweracap.com/cdn/shop/products/60417987_59FIFTY_FARMTEAM_BRAMAR_STN_3QL.png
-    -
-      name: San Francisco Giants Alt
-      url: https://www.neweracap.com/products/san-francisco-giants-authentic-collection-alt-59fifty-fitted?variant=42671112945891
-      img: https://www.neweracap.com/cdn/shop/products/8916231094302.jpg
-    -
-      name: Seattle Mariners Alt
-      url: https://www.neweracap.com/products/seattle-mariners-authentic-collection-alt-59fifty-fitted?variant=42646890447075
-      img: https://www.neweracap.com/cdn/shop/products/8916231225374.jpg
     -
       name: Seattle Mariners City Connect
       url: https://www.neweracap.com/products/seattle-mariners-city-connect-59fifty-fitted?variant=43809514389731
@@ -182,7 +211,3 @@
       name: Tampa Bay Rays City Connect
       url: https://www.neweracap.com/products/tampa-bay-rays-city-connect-59fifty-fitted?variant=44852845281507
       img: https://www.neweracap.com/cdn/shop/files/60503049_59FIFTY_CITYCNCTTAMRAYOF_TAMRAYCC24_OTC_3QL.jpg
-    -
-      name: Washington Nationals City Connect
-      url: https://www.neweracap.com/products/washington-nationals-city-connect-59fifty-fitted?variant=42685424402659
-      img: https://www.neweracap.com/cdn/shop/products/60231698_59FIFTY_MLB21CITYCNCTOFF_WASNAT_OTC_3QL.png

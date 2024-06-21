@@ -581,7 +581,7 @@ footer {
       margin-top: 1rem;
     }
 
-    h5{
+    h5 {
       color: $cyan;
       font-family: $sansSerif;
       text-align: center;
@@ -602,7 +602,11 @@ footer {
     }
 
     img {
-      margin-bottom: none;
+      margin-bottom: 0;
+    }
+
+    ul, ol {
+      padding-left: 1rem;
     }
   }
 
