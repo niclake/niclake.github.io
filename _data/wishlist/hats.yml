@@ -102,7 +102,7 @@
       name: Basic
       url: https://www.neweracap.com/products/boston-celtics-basic-59fifty-fitted?variant=42646592880867
       img: https://www.neweracap.com/cdn/shop/products/9654014935070.jpg
-- name: Other MLB
+- name: Other MLB and MILB
   hats:
     -
       name: Atlanta Braves Home
@@ -158,6 +158,11 @@
       name: Washington Nationals City Connect
       url: https://www.neweracap.com/products/washington-nationals-city-connect-59fifty-fitted?variant=42685424402659
       img: https://www.neweracap.com/cdn/shop/products/60231698_59FIFTY_MLB21CITYCNCTOFF_WASNAT_OTC_3QL.png
+      priority: true
+    -
+      name: Quad City River Bandits Red Two-State
+      url: https://riverbandits.milbstore.com/collections/all-caps/products/copy-of-quad-cities-river-bandits-fitted-paw-hat?variant=39683462594639
+      img: https://riverbandits.milbstore.com/cdn/shop/products/60235626_59FIFTY_MLBACALT1_QUARIV_OTC_F_720x.jpg
       priority: true
     -
       name: Atlanta Braves City Connect
