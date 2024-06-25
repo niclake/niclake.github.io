@@ -17,6 +17,9 @@ is_post: true
         {%- assign categories = page.categories -%}
       {%- endif -%}
       {%- for category in categories -%}
+        {%- if category == "ADHD" -%}
+          {%- assign isADHD = "true" -%}
+        {%- endif -%}
         <a href="{{site.baseurl}}/categories#{{category|slugize}}">{{category}}</a>|
       {%- endfor -%}
     {%- endcapture -%}
@@ -24,6 +27,9 @@ is_post: true
   </div>
 
   <div class="entry">
+    {%- if isADHD == "true" -%}
+      {% include adhd.html %}
+    {%- endif -%}
     {{ content | replace: '<!-- more -->', '' }}
     {% include monogram.svg %}
   </div>

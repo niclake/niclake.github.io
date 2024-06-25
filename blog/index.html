@@ -16,6 +16,11 @@ title: Blog
             {%- assign categories = page.categories -%}
           {%- endif -%}
           {%- for category in categories -%}
+          {%- if category == "ADHD" -%}
+            {%- assign isADHD = "true" -%}
+          {%- else -%}
+            {%- assign isADHD = "false" -%}
+          {%- endif -%}
             <a href="{{site.baseurl}}/categories#{{category|slugize}}">{{category}}</a>|
           {%- endfor -%}
         {%- endcapture -%}
@@ -23,6 +28,9 @@ title: Blog
       </div>
 
       <div class="entry">
+        {%- if isADHD == "true" -%}
+          {% include adhd.html %}
+        {%- endif -%}
         {{ post.content }}
       </div>
     </article>

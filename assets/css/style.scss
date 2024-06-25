@@ -625,6 +625,14 @@ footer {
   }
 }
 
+.notice {
+  background-color: $grey;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 4px 4px darken($black, 5%);
+  font-size: .8rem;
+}
+
 // Footnotes courtesy of littlefoot.js
 .littlefoot {
   --button-background-color: #bd93f9;
