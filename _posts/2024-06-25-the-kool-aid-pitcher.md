@@ -7,11 +7,11 @@ description: "When you can't properly express how you feel, turn it into a weird
 
 On March 19, 2024, I sent a very excited message to my friends:
 
-> ✅ ADHD med prescription
+> *✅ ADHD med prescription*
 
 With a toddler running around the house, attempting to white-knuckle my way through life when I *knew* my brain would not let me concentrate on stuff was just no longer an option. I've suspected that I'd had some sort of ADD or ADHD since 2006, and it's taken me nearly 20 years to finally seek out a true screening, diagnosis, and prescription.
 
-> *Quick aside/caveat - what I refer to, and what many of you know, as "ADHD" as actually "Attention Deficit Disorder - Hyperactive Type". I've had someone come for me before about this, so I just wanted to clear that up. Ok, back to it.*
+> *Quick aside/caveat - what I refer to, and what many of you know, as "ADHD" as actually "Attention Deficit Disorder - Hyperactive Type". I've had someone come for me about this previously, so I just wanted to clear that up. Ok, back to it.*
 
 When I tell you that my prescription has changed **EVERYTHING** about my life, I am not kidding. It's now extremely rare for me to get off-task... sometimes to my detriment.
 
