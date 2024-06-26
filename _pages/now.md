@@ -11,6 +11,9 @@ permalink: /now
 
 ### Projects
 
+- I just released my [daily sports emails project](/daily-sports-emails)
+- I'm hacking away at a revamp of my [books][books] and [games][games] spreadsheets
+- I'm doing some tweaking of my blog behind the scenes, and I'm really excited about it
 - The inklings of a really simple iOS app
 - [See all my released projects here](/projects)
 
@@ -22,6 +25,7 @@ permalink: /now
 ### Currently Playing
 
 - **Paper Mario: The Thousand-Year Door** (Switch)
+- (Up Next) **Elden Ring** (PC / Steam Deck)
 - (Paused) **Pokémon LeafGreen** (GameBoy Advance)
 - See my [full game backlog here][games], and tell me any games you think I should play next
 
