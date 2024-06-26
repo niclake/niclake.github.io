@@ -1,11 +1,6 @@
 - name: Random
   hats: 
     -
-      name: Savannah Bananas
-      url: https://shop.thesavannahbananas.com/products/bananas-new-era-5950-trifecta?variant=44363872043246
-      img: https://shop.thesavannahbananas.com/cdn/shop/files/Newerahat.png
-      priority: true
-    -
       name: Party Animals
       url: https://shop.thesavannahbananas.com/products/party-animals-5950-alternate-hat-pink?variant=44364844794094
       img: https://shop.thesavannahbananas.com/cdn/shop/files/70821671_59FIFTY__PARANI_PNKBLK_3QL.jpg
