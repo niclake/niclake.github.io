@@ -203,6 +203,7 @@ strong, b {
 
 dl, ol, ul {
   margin: 0 0 1rem;
+  list-style-position: inside;
 
   &.no-list-style {
     list-style: none;
