@@ -1,0 +1,17 @@
+---
+title: Now
+permalink: /now
+---
+
+{% set latest_nows = collections.now | reverse %}
+{% set nowPost = latest_nows.slice(0, 1) %}
+{% for post in nowPost %}
+  <p><em>Last updated: {{ post.date | postDate }}</em> - <a href="{{base.url}}categories#Now">see previous entries here</a></p>
+  <div>{{ post.content | safe }}</div>
+{% endfor %}
+
+<hr />
+
+{% markdown %}
+  {%- include 'now-stuff.md' -%}
+{% endmarkdown %}

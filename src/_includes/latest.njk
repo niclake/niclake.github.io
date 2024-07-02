@@ -1,0 +1,53 @@
+<h2>Latest Posts</h2>
+
+<div class="blog">
+  {% set latest_posts = collections.post | reverse %}
+  {% set postList = latest_posts.slice(0, 6) %}
+  {% for post in postList %}
+    {%- if post.data.hidden != true -%}
+      {% include 'post-item.njk' %}
+    {%- endif -%}
+  {%- endfor -%}
+  <div class="w-100 mt-1 mb-5">
+    <p class="text-center">
+      <a href="blog">View all posts →</a>
+    </p>
+  </div>
+</div>
+
+<hr/>
+
+<h2>Latest Projects</h2>
+
+<div class="container card-container">
+  <div class="row">
+    {% set latest_projects = collections.project | reverse %}
+    {% set projectList = latest_projects.slice(0, 3) %}
+    {% for project in projectList %}
+      <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
+        <div class="card w-100">
+          <h6>
+            <a href="{{ project.url }}">{{project.data.title}}</a>
+          </h6>
+          {% if project.data.image %}
+            <img src="assets/images/{{ project.data.image }}" alt="{{ project.data.projectInfo }}"/>
+          {% elif project.data.imageabs %}
+            <img src="{{ project.data.imageabs }}" alt="{{ project.data.projectInfo }}"/>
+          {% endif %}
+          <p>{{project.data.projectInfo}}</p>
+          <div class="mt-auto text-end">
+            {% if project.data.projectLink %}
+              <a href="{{ project.data.projectLink }}">Project Link</a> | 
+            {% endif %}
+            <a href = "{{ project.url }}">Blog Post</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="w-100 mt-1 mb-5">
+    <p class="text-center">
+      <a href="projects">View all projects →</a>
+    </p>
+  </div>
+</div>

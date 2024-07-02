@@ -1,0 +1,36 @@
+---
+permalink: /projects
+title: Projects
+---
+
+<p>Below is a list of the various projects that I have worked on and released over the years. These include music, various code projects, writings, and more.</p>
+
+<p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake">buy me a coffee</a>. If you'd like to hire me, <a href="/hello">please reach out</a>.</p>
+
+<div class="container card-container">
+  <div class="row">
+    {# This needs to grab a Projects collection  #}
+    {% for post in collections.project | reverse %}
+    {# Something is weird here not allowing me to modulo 3 #}
+      <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
+        <div class="card w-100">
+          <div>
+            <h3>{{ post.data.title }}</h3>
+            {% if post.data.image %}
+              <img src="/assets/images/{{ post.data.image }}" alt="{{ post.data.projectInfo }}"/>
+            {% elif post.data.imageabs %}
+              <img src="{{ post.data.imageabs }}" alt="{{ post.data.projectInfo }}"/>
+            {% endif %}
+            <p>{{post.data.projectInfo}}</p>
+          </div>
+          <div class="mt-auto text-end">
+            {% if post.data.projectLink %}
+            <a href="{{ post.data.projectLink }}">Project Link</a> | 
+            {% endif %}
+            <a href = "{{ post.url }}">Blog Post</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

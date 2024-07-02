@@ -1,0 +1,18 @@
+img,
+svg {
+  vertical-align: middle;
+}
+
+.entry #monogram {
+  display: block;
+  margin: 2rem auto;
+  width: 1.5rem;
+
+  .monogram-left {
+    fill: var(--pure-white);
+  }
+
+  .monogram-right {
+    fill: var(--pure-white);
+  }
+}

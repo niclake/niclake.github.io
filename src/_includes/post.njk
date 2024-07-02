@@ -1,0 +1,29 @@
+---
+layout: default
+is_post: true
+---
+
+<article class="post single-post">
+  <div class="back">
+    <a href="/blog">← Return to blog</a>
+  </div>
+  <h1 class="postTitle">{{ title }}</h1>
+
+  <div class="date">
+    {{ date | postDate }}
+    {% set isADHD = "false" %}
+    {% for category in categories %}
+      {% if category == "ADHD" %}
+        {% set isADHD = "true" %}
+      {% endif %}
+      • <a href="/categories#{{ category | slugify }}">{{ category | replace("-", " ") }}</a>
+    {% endfor %}
+  </div>
+  <div class="entry">
+    {% if isADHD == "true" %}
+      {% include 'adhd.njk' %}
+    {% endif %}
+    {{ content | safe }}
+    {% svg "images/site/monogram" %}
+  </div>
+</article>

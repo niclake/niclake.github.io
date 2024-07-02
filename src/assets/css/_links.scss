@@ -1,0 +1,41 @@
+.entry, 
+.date,
+.home,
+.back {
+  a {
+    background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 25%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: var(--pure-white);
+    text-decoration: underline;
+    text-decoration-color: var(--orange);
+    text-decoration-thickness: 2px;
+    transition: all ease 0.3s;
+
+    code {
+      -webkit-text-fill-color: var(--cyan);
+      transition: all ease 0.3s;
+    }
+
+    .post-date {
+      color: var(--light-grey) !important;
+    }
+
+    .photo-link {
+      background-color: transparent !important;
+      border-radius: 0 !important;
+      padding: 0 !important;
+      text-decoration: none !important;
+    }
+
+    &:hover,
+    i:hover {
+      -webkit-text-fill-color: transparent;
+      text-decoration-color: transparent;
+
+      code {
+        -webkit-text-fill-color: var(--green) !important;
+      }
+    }
+  }
+}

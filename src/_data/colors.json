@@ -1,0 +1,93 @@
+[
+  {
+    "colorName": "Black",
+    "colorVariable": "black",
+    "colorHex": "#282a36",
+    "colorRGB": "40, 42, 54",
+    "colorUsage": "Site background"
+  },
+  {
+    "colorName": "White",
+    "colorVariable": "white",
+    "colorHex": "#f8f8f2",
+    "colorRGB": "248, 248, 242",
+    "colorUsage": "Base text color"
+  },
+  {
+    "colorName": "Grey",
+    "colorVariable": "grey",
+    "colorHex": "#44475a",
+    "colorRGB": "68, 71, 90",
+    "colorUsage": "Code block backgrounds"
+  },
+  {
+    "colorName": "Light Grey",
+    "colorVariable": "light-grey",
+    "colorHex": "#6272a4",
+    "colorRGB": "98, 114, 164",
+    "colorUsage": "Nav links, post dates, & image captions"
+  },
+  {
+    "colorName": "Red",
+    "colorVariable": "red",
+    "colorHex": "#ff5555",
+    "colorRGB": "255, 85, 85",
+    "colorUsage": "Footnote link hover"
+  },
+  {
+    "colorName": "Orange",
+    "colorVariable": "orange",
+    "colorHex": "#ffb86c",
+    "colorRGB": "255, 184, 108",
+    "colorUsage": "H4s & link underlines"
+  },
+  {
+    "colorName": "Yellow",
+    "colorVariable": "yellow",
+    "colorHex": "#f1fa8c",
+    "colorRGB": "241, 250, 140",
+    "colorUsage": "H3s"
+  },
+  {
+    "colorName": "Green",
+    "colorVariable": "green",
+    "colorHex": "#50fa7b",
+    "colorRGB": "80, 250, 123",
+    "colorUsage": "H2s, nav page active, indented list markers, & hovered links"
+  },
+  {
+    "colorName": "Cyan",
+    "colorVariable": "cyan",
+    "colorHex": "#8be9fd",
+    "colorRGB": "139, 233, 253",
+    "colorUsage": "Masthead accents, nav page hover, & inline code"
+  },
+  {
+    "colorName": "Purple",
+    "colorVariable": "purple",
+    "colorHex": "#bd93f9",
+    "colorRGB": "189, 147, 249",
+    "colorUsage": "Footnote links, link hover gradients, blockquote border gradient, & divider gradients"
+  },
+  {
+    "colorName": "Pink",
+    "colorVariable": "pink",
+    "colorHex": "#ff79c6",
+    "colorRGB": "255, 121, 198",
+    "colorUsage": "Masthead accents, H1s, link hover gradients, list markers, blockquote border gradient, & divider gradients"
+  },
+  {
+    "colorName": "Pure Black",
+    "colorVariable": "pure-black",
+    "colorHex": "#000000",
+    "colorRGB": "0, 0, 0",
+    "colorUsage": "Text color when selected"
+  },
+  {
+    "colorName": "Pure White",
+    "colorVariable": "pure-white",
+    "colorHex": "#ffffff",
+    "colorRGB": "255, 255, 255",
+    "colorUsage": "Default link color, masthead /index hover, `strong` and `em` text color"
+  }
+]
