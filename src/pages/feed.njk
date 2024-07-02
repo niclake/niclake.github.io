@@ -1,0 +1,31 @@
+---
+title: RSS Feed
+permalink: /feed.xml
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nic Lake • Feed</title>
+  <subtitle>{{ site.config.description }}</subtitle>
+  <link href="{{ site.config.baseurl }}{{ permalink }}" rel="self" />
+  <updated>{{ collections.posts | reverse }}</updated>
+  <id>{{ site.config.baseurl }}{{ permalink }}</id>
+  <author>
+    <name>{{ site.config.author }}</name>
+    <uri>{{ site.config.baseurl }}</uri>
+  </author>
+  {%- for post in collections.post | reverse %}
+  {% set absolutePostUrl %}{{ site.config.baseurl }}{{ post.url }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ site.config.baseurl }}{{ post.url }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+    <summary>{% if post.data.description %}{{ post.data.description | safe }}{% else %}{{ post.data.title }}{% endif %}</summary>
+    <author>
+      <name>Nic Lake</name>
+    </author>
+  </entry>
+  {%- endfor %}
+</feed>

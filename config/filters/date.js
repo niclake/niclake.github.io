@@ -17,13 +17,13 @@ module.exports = {
     },
     isOldPost: (date) => {
         const d = DateTime.fromISO(date.toISOString())
-            .setZone('Europe/London')
+            .setZone('America/Chicago')
 
         return DateTime.now().diff(d, 'years').years > 4
     },
     diffInYears: (date) => {
         const d = DateTime.fromISO(date.toISOString())
-            .setZone('Europe/London')
+            .setZone('America/Chicago')
 
         return Math.floor(DateTime.now().diff(d, 'years').years)
     },
@@ -58,18 +58,18 @@ module.exports = {
     },
     postTime: (date) => {
         return DateTime.fromISO(date.toISOString())
-            .setZone('Europe/London')
+            .setZone('America/Chicago')
             .toFormat('HH:mm')
     },
     postDateNoYear: (date) => {
         const d = DateTime.fromISO(date.toISOString())
-            .setZone('Europe/London')
+            .setZone('America/Chicago')
 
         return `${d.toFormat(`d MMMM`)}`
     },
     toDateTimeForHCard: (date) => {
         return DateTime.fromISO(date.toISOString())
-            .setZone('Europe/London')
+            .setZone('America/Chicago')
             .toFormat('yyyy-MM-dd HH:mm:ss')
     },
 }
