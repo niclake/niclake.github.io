@@ -5,7 +5,6 @@ tags: review
 date: 2018-08-18T15:00:00Z
 categories: 
   - Review
-  - PC
 ---
 
 ![alt text][gameImg]

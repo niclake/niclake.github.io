@@ -3,7 +3,6 @@ title: "The Perfect* Thanksgiving Dinner"
 permalink: /thanksgiving-menu
 date: 2019-11-30T15:00:00Z
 categories: 
-  - Personal
   - Food
 ---
 

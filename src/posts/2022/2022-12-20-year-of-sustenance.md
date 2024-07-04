@@ -3,7 +3,6 @@ title: "Year of Sustenance"
 permalink: /year-of-sustenance
 date: 2022-12-20T15:00:00Z
 categories: 
-  - Personal
   - Goals
   - Yearly Theme
 ---

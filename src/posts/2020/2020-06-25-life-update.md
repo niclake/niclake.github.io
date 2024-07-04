@@ -3,7 +3,6 @@ title: "Life"
 permalink: /life-update
 date: 2020-06-25T15:00:00Z
 categories: 
-  - Personal
   - Goals
 ---
 

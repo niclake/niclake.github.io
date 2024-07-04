@@ -5,7 +5,6 @@ tags: review
 date: 2018-11-24T15:00:00Z
 categories: 
   - Review
-  - PS4
 ---
 
 ![alt text][gameImg]

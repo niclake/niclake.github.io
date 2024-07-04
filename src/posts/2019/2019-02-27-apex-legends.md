@@ -5,7 +5,6 @@ tags: review
 date: 2019-02-27T15:00:00Z
 categories: 
   - Review
-  - PC
 ---
 
 ![alt text][gameImg]

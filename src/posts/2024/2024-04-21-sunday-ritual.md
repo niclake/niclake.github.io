@@ -2,9 +2,9 @@
 title: "Sunday Ritual"
 image: sunday-ritual.jpg
 permalink: /sunday-ritual
-date: 2024-04-17T15:00:00Z
+date: 2024-04-21T15:00:00Z
 categories: 
-  - Now
+  - Personal
 ---
 
 {% include 'image.njk',

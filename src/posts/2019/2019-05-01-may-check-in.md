@@ -1,9 +1,9 @@
 ---
-title: "May Check In"
+title: "May '19 Check In"
 permalink: /2019-may-check-in
 date: 2019-05-01T15:00:00Z
 categories: 
-  - Personal
+  - Goals
 ---
 
 Well, I intended to do this quarterly, but I kinda dropped the ball on it, so I guess I'll be doing 3 updates this year on my [goals progress][goals]. Mostly for me, but also for you!

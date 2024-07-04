@@ -3,9 +3,7 @@ title: Kickstart
 permalink: /kickstart
 date: 2019-08-09T15:00:00Z
 categories: 
-  - Personal
   - Music
-  - The Music Plays You
 ---
 
 ![altText][headerImg]

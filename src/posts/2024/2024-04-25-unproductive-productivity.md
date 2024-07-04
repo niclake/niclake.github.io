@@ -5,6 +5,7 @@ permalink: /unproductive-productivity
 date: 2024-04-25T15:00:00Z
 categories: 
   - Personal
+  - ADHD
 ---
 
 If you'd like an insight into my brain, here's the process flow I went through after V went down for the night:

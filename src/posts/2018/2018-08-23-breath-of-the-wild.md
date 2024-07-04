@@ -5,7 +5,6 @@ tags: review
 date: 2018-08-23T15:00:00Z
 categories: 
   - Review
-  - Switch
 ---
 
 ![alt text][gameImg]

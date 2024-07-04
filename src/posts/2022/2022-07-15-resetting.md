@@ -4,6 +4,8 @@ permalink: /resetting
 date: 2022-07-15T15:00:00Z
 categories: 
   - Personal
+  - Life Event
+  - Goals
 ---
 
 ![alt text][headerImg]

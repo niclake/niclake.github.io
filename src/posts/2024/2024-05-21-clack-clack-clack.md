@@ -4,7 +4,6 @@ description: "Does is clack? Does it thock? Who could say?!?"
 permalink: /clack-clack-clack
 date: 2024-05-21T15:00:00Z
 categories: 
-  - Personal
   - WeblogPoMo 2024
   - Keyboards
 ---

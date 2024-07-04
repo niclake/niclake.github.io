@@ -8,9 +8,9 @@ permalink: /daily-sports-email
 tags: project
 date: 2024-06-24T15:00:00Z
 categories: 
-  - Personal
   - Project
   - NodeJS
+  - Sports
 ---
 
 {% include 'image.njk',
