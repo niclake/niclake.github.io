@@ -1,0 +1,14 @@
+<figure class="{{ position }}">
+  {% if url %}
+  <a href="{{ url }}">
+  {% else if include.srcabs %}
+  <a href="{{ srcabs }}">
+  {% else %}
+  <a href="/assets/images/{{ src }}">
+  {% endif %}
+    <img src="{% if srcabs %}{{srcabs}}{% else %}/assets/images/{{src}}{% endif %}" alt="{{ alt }}">
+  </a>
+  {% if caption %}
+  <figcaption>{{ caption }}</figcaption>
+  {% endif %}
+</figure>

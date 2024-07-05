@@ -1,0 +1,14 @@
+<div class="blog-post mb-3">
+  <h5 class="post-title">
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+  </h5>
+  {% if post.data.description %}
+    <span class="post-excerpt">{{ post.data.description }}</span>
+  {% endif %}
+  <div class="date">
+    {{ post.date | postDateNoYear }} •
+    {% for tag in post.data.tags | filterTagList %}
+    <a class="post-tag" href="/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+    {% endfor %}
+  </div>
+</div>
