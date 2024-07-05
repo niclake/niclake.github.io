@@ -1,6 +1,6 @@
 ---
 title: Style Guide
-permalink: /styleguide
+permalink: /styleguide/index.html
 ---
 
 This is a style guide for [NicLake.me](/).

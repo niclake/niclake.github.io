@@ -1,6 +1,6 @@
 ---
 title: Hello
-permalink: /hello
+permalink: /hello/index.html
 ---
 
 If you'd like to find out more about me, [check out my About page](/about).

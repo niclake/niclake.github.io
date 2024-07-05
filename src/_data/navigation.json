@@ -1,7 +1,7 @@
 [
   {
     "text": "Blog",
-    "url": "/blog",
+    "url": "/blog/",
     "blurb": "I like to write about life, family, technology, and more."
   },
   {
@@ -12,27 +12,27 @@
   },
   {
     "text": "About",
-    "url": "/about",
+    "url": "/about/",
     "blurb": "Learn more who I am and what I do."
   },
   {
     "text": "Hello",
-    "url": "/hello",
+    "url": "/hello/",
     "blurb": "Here are the best ways to get in touch."
   },
   {
     "text": "Now",
-    "url": "/now",
+    "url": "/now/",
     "blurb": "Interested in what I've been up to lately?"
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."
   },
   {
     "text": "Explore",
-    "url": "/explore",
+    "url": "/explore/",
     "explore": false
   },
   {
@@ -47,19 +47,19 @@
   },
   {
     "text": "Uses",
-    "url": "/uses",
+    "url": "/uses/",
     "masthead": false,
     "blurb": "Curious about what tools I use to get things done?"
   },
   {
     "text": "Style Guide",
-    "url": "/styleguide",
+    "url": "/styleguide/",
     "masthead": false,
     "blurb": "For the sickos that like to see how the sausage is made."
   },
   {
     "text": "Wishlist",
-    "url": "/wishlist",
+    "url": "/wishlist/",
     "masthead": false,
     "blurb": "A list of things my family and I are interested in acquiring."
   }

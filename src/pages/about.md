@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: '/about'
+permalink: /about/index.html
 ---
 
 {% include 'image.njk',

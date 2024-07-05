@@ -1,6 +1,6 @@
 ---
 title: App Defaults
-permalink: /app-defaults
+permalink: /app-defaults/index.html
 ---
 
 _(Last updated 9 May 2024)_
