@@ -41,7 +41,7 @@ jobs:
             echo "Unable to determine packager manager"
             exit 1
           fi
-      - name: Use Node.js >= 14.x
+      - name: Use Node.js >= 20.x
         uses: actions/setup-node@v3
         with:
           node-version: "20"
