@@ -73,6 +73,19 @@ module.exports = function (eleventyConfig) {
   Object.keys(dateFilters).forEach(filterName => {
     eleventyConfig.addFilter(filterName, dateFilters[filterName])
   })
+
+  // Return all the tags used in a collection
+	eleventyConfig.addFilter("getAllTags", collection => {
+		let tagSet = new Set();
+		for(let item of collection) {
+			(item.data.tags || []).forEach(tag => tagSet.add(tag));
+		}
+		return Array.from(tagSet);
+	});
+
+	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+		return (tags || []).filter(tag => ["all", "nav", "post", "posts", "page"].indexOf(tag) === -1);
+	});
   // Object.keys(postFilters).forEach(filterName => {
   //   eleventyConfig.addFilter(filterName, dateFilters[filterName])
   // })

@@ -10,13 +10,13 @@ is_post: true
   <h1 class="postTitle">{{ title }}</h1>
 
   <div class="date">
-    {{ date | postDate }}
+    {{ date | postDate }} • 
     {% set isADHD = "false" %}
-    {% for category in categories %}
-      {% if category == "ADHD" %}
+    {% for tag in tags | filterTagList %}
+      {% if tag == "ADHD" %}
         {% set isADHD = "true" %}
       {% endif %}
-      • <a href="/categories#{{ category | slugify }}">{{ category | replace("-", " ") }}</a>
+      <a class="post-tag" href="/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
     {% endfor %}
   </div>
   <div class="entry">

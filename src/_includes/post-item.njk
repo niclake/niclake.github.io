@@ -6,9 +6,9 @@
     <span class="post-excerpt">{{ post.data.description }}</span>
   {% endif %}
   <div class="date">
-    {{ post.date | postDateNoYear }}
-    {% for category in post.data.categories %}
-    • <a href="/categories#{{ category | slugify }}">{{ category | replace("-", " ") }}</a>
+    {{ post.date | postDateNoYear }} •
+    {% for tag in post.data.tags | filterTagList %}
+    <a class="post-tag" href="/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
     {% endfor %}
   </div>
 </div>
