@@ -1,6 +1,6 @@
 ---
 title: "Understanding: Notebooks"
-permalink: /understanding-notebooks
+permalink: /understanding-notebooks/index.html
 date: 2024-01-15T15:00:00Z
 tags: 
   - Personal
@@ -13,13 +13,13 @@ tags:
   alt: "The random notebooks within an arm's reach of my desk"
 %}
 
-*As part of my 2024 theme, [Year of Understanding](/year-of-understanding), I'm doing a bunch of introspection about various things. This is one of a series of posts about me working towards understanding some aspect of my life.*
+*As part of my 2024 theme, [Year of Understanding](/year-of-understanding/), I'm doing a bunch of introspection about various things. This is one of a series of posts about me working towards understanding some aspect of my life.*
 
 Write it down.
 
 I can still hear my dad telling me that phrase over and over and over again as I grew up. Write it down. Is it important? Do you need to remember it? Write it down.
 
-I was always terrible at taking notes growing up, and still am to this day. In class? Eh... I'd get some of it. A planner? I'd use it for a week or two, and then it'd get lost in my backpack somewhere. A journal? Good luck. [A pocketbook filled with joyous moments?](/pocket-notebook) Abandoned. A little musical ideas notebook? I feel weird about adding things to it, so it lays abandoned.
+I was always terrible at taking notes growing up, and still am to this day. In class? Eh... I'd get some of it. A planner? I'd use it for a week or two, and then it'd get lost in my backpack somewhere. A journal? Good luck. [A pocketbook filled with joyous moments?](/pocket-notebook/) Abandoned. A little musical ideas notebook? I feel weird about adding things to it, so it lays abandoned.
 
 I've always been envious of people that take notes on paper, and/or have an interesting and varied enough life that warrants something like that. Same with people who draw and have oodles of sketchbooks, or nice pen collections with which to write things. The whole "scene" surrounding notebooks and writing has always been very appealing to me (I've got a massive stack of notebooks around here somewhere, including a really nice leather-bound one my wife got me as a gift years ago). And yet, try as I might, I cannot break into it at all. Especially now, in my Work From Home era, when I just wear sweatpants or shorts around the house and don't have any of my EDC stuff on me.
 

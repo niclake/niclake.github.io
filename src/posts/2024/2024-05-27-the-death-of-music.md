@@ -1,7 +1,7 @@
 ---
 title: "The Death of Music"
 description: "What happens when a lifelong musician reckons with childhood trauma?"
-permalink: /the-death-of-music
+permalink: /the-death-of-music/index.html
 date: 2024-05-27T15:00:00Z
 tags: 
   - Personal
@@ -9,7 +9,7 @@ tags:
   - Music
 ---
 
-Earlier this month, I talked about [other jobs I might have had](/when-i-grow-up) if things had bounced a different way. The first three things talked about various instruments I played. A few people have asked whether I still play or not.
+Earlier this month, I talked about [other jobs I might have had](/when-i-grow-up/) if things had bounced a different way. The first three things talked about various instruments I played. A few people have asked whether I still play or not.
 
 (Today ended up turning into a VERY long post; if you want a TL;DR, click this footnote.)[^1]
 
@@ -61,7 +61,7 @@ After a few years, my arm healed to the point where I felt I could trust it. Thi
 
 ---
 
-And then my mom died, 2 days before my 26th birthday. It coincided with me releasing [my first and only EP](/sailing).
+And then my mom died, 2 days before my 26th birthday. It coincided with me releasing [my first and only EP](/sailing/).
 
 I was on the schedule for church that weekend. I thought, what better way to honor my mom's legacy than to perform?
 
@@ -69,7 +69,7 @@ She died on Monday. I had rehearsal on Thursday. Her funeral was on Friday. I ha
 
 ---
 
-It's been nearly 9 years since I've done anything substantial or meaningful with my instruments. I sold all of my amps and pedals, relying on [digital amp simulators](/uses#software-2) if I want to play guitar. I inherited my mom's piano, but I've only played it for maybe an hour total in those 9 years.[^7]
+It's been nearly 9 years since I've done anything substantial or meaningful with my instruments. I sold all of my amps and pedals, relying on [digital amp simulators](/uses/#software-2) if I want to play guitar. I inherited my mom's piano, but I've only played it for maybe an hour total in those 9 years.[^7]
 
 [^7]: House shopping with a baby grand piano sucks butt. The first thing I asked myself with every house we looked at was "ok, where can we put the piano?" It ruled out a couple of really nice houses (and a ton of shitty ones).
 

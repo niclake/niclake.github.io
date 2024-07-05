@@ -1,7 +1,7 @@
 ---
 title: "A Digital Reset"
 description: "Have you ever thought about nuking everything on your devices and starting over?"
-permalink: /a-digital-reset
+permalink: /a-digital-reset/index.html
 date: 2024-05-09T15:00:00Z
 tags: 
   - Personal

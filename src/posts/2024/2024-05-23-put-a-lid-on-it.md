@@ -1,7 +1,7 @@
 ---
 title: "Put A Lid On It"
 description: "I have a fondness for a good hat."
-permalink: /put-a-lid-on-it
+permalink: /put-a-lid-on-it/index.html
 date: 2024-05-23T15:00:00Z
 tags: 
   - Personal
@@ -34,7 +34,7 @@ My taste in hats has certainly changed over the years. I used to be all in on 47
   caption: "From left to right: my non-sports related hats, my non-Red Sox sport hats, and all of my Red Sox hats, plus some beanies in the back."
 %}
 
-So, at some point over the last decade, I switched over to almost exclusively wearing New Era 59fifty hats. 6 Red Sox hats, one each for the Celtics, Vikings, Iowa Hawkeyes, and Iowa Cubs, plus a couple of novelty hats (and some Neff & Carhart beanies). My [hat wishlist](/wishlist#hats) is always in need of pruning[^2] (which mostly happens when they go out of stock), and one of my pipe dreams is to some day have a hat collection for every MLB team. When we moved into our new house last year, I was able to finally store them all in a drawer in my office, which is perfect.
+So, at some point over the last decade, I switched over to almost exclusively wearing New Era 59fifty hats. 6 Red Sox hats, one each for the Celtics, Vikings, Iowa Hawkeyes, and Iowa Cubs, plus a couple of novelty hats (and some Neff & Carhart beanies). My [hat wishlist](/wishlist/#hats) is always in need of pruning[^2] (which mostly happens when they go out of stock), and one of my pipe dreams is to some day have a hat collection for every MLB team. When we moved into our new house last year, I was able to finally store them all in a drawer in my office, which is perfect.
 
 [^2]: My biggest regret was not buying [the Streakpop Red Sox hat](https://www.fittedhats.com/products/new-era-boston-red-sox-streakpop-59fifty-fitted-hat); I occasionally hunt the web to see if I can find one in my size. Alas.
 

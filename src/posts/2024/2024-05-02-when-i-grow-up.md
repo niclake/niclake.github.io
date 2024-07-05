@@ -1,6 +1,6 @@
 ---
 title: "When I Grow Up"
-permalink: /when-i-grow-up
+permalink: /when-i-grow-up/index.html
 date: 2024-05-02T15:00:00Z
 tags: 
   - Personal

@@ -1,6 +1,6 @@
 ---
 title: Kickstart
-permalink: /kickstart
+permalink: /kickstart/index.html
 date: 2019-08-09T15:00:00Z
 tags: 
   - Music
@@ -59,7 +59,6 @@ After some conversations with a couple of people this summer, that energy has be
 ---
 
 So yeah. The Kickstarter is live, and will run until August 23rd. I'm so excited about this album, and I hope you all are as well. [Any amount helps, even if all you can afford is $1.][kickstarter] Thank you so much for your support, and I cannot wait to share this music with all of you.
-
 
 [headerImg]: https://i.imgur.com/nCNlDpp.jpg "The Music Plays You - Holophrase"
 [midImg]: https://imgur.com/A1PGBvT.jpg "The Music Plays You - Holophrase"

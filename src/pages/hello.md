@@ -3,7 +3,7 @@ title: Hello
 permalink: /hello/index.html
 ---
 
-If you'd like to find out more about me, [check out my About page](/about).
+If you'd like to find out more about me, [check out my About page](/about/).
 
 Here is how I prefer to keep in touch:
 

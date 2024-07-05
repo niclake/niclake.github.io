@@ -1,7 +1,7 @@
 ---
 title: "WeblogPoMo Recap"
 description: "Some things I learned from blogging every* day for a month."
-permalink: /weblogpomo-recap
+permalink: /weblogpomo-recap/index.html
 date: 2024-05-31T15:00:00Z
 tags: 
   - Personal
@@ -22,6 +22,6 @@ I feel like I learned a *lot* over the last few weeks, and thought I'd share a f
 
 (I will say, I appreciate every single person who went out of their way to toot me on Mastodon, boosted my posts so others would see, or write me an email. I loved knowing that various things that I wrote resonated with you to various degrees; honestly, that's why I write, is for others to read. And to that end...)
 
-**Heartfelt is best**. Who cares about my [pruning of RSS feeds](/the-great-rss-pruning)? Not many people. Who enjoys [a sappy post about my kid](/the-best-feeling)? Or my [angry rant about AI](/ai)? *Everyone*, apparently. The key differentiator: at least for me, the posts with emotion behind them resonated with far more people.
+**Heartfelt is best**. Who cares about my [pruning of RSS feeds](/the-great-rss-pruning/)? Not many people. Who enjoys [a sappy post about my kid](/the-best-feeling/)? Or my [angry rant about AI](/ai/)? *Everyone*, apparently. The key differentiator: at least for me, the posts with emotion behind them resonated with far more people.
 
 I had a terrific time with WeblogPoMo, and I'm already looking forward to next year.

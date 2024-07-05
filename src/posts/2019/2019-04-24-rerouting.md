@@ -1,6 +1,6 @@
 ---
 title: "Rerouting"
-permalink: /rerouting
+permalink: /rerouting/index.html
 date: 2019-04-24T15:00:00Z
 tags: 
   - Personal

@@ -1,6 +1,6 @@
 ---
 title: "Accidental Fifty"
-permalink: /accidental-fifty
+permalink: /accidental-fifty/index.html
 date: 2024-02-19T15:00:00Z
 tags: 
   - Personal

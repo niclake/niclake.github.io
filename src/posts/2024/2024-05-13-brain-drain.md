@@ -1,6 +1,6 @@
 ---
 title: "Brain Drain"
-permalink: /brain-drain
+permalink: /brain-drain/index.html
 date: 2024-05-13T15:00:00Z
 tags: 
   - Personal

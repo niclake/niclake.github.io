@@ -1,7 +1,7 @@
 ---
 title: "Pocket Notebook"
 image: notebook.jpeg
-permalink: /pocket-notebook
+permalink: /pocket-notebook/index.html
 date: 2023-10-02T15:00:00Z
 tags: 
   - Personal

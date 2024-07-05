@@ -1,6 +1,6 @@
 ---
 title: "Year of Sustenance"
-permalink: /year-of-sustenance
+permalink: /year-of-sustenance/index.html
 date: 2022-12-20T15:00:00Z
 tags: 
   - Goals
@@ -9,7 +9,7 @@ tags:
 
 ![alt text][headerImg]
 
-As 2022 wraps up, it's time for me to iron out my [yearly theme](https://www.themesystem.com) for 2023. I did [Year of the Garden](/year-of-the-garden), and it went... [ok, I guess](/review-year-of-the-garden)? Could've been better, could've been a lot worse.
+As 2022 wraps up, it's time for me to iron out my [yearly theme](https://www.themesystem.com) for 2023. I did [Year of the Garden](/year-of-the-garden/), and it went... [ok, I guess](/review-year-of-the-garden/)? Could've been better, could've been a lot worse.
 
 But! I learned a lot. I learned more about what makes me tick, what I see as being valueable or worth my time & attention when I'm looking down from a 5,000 ft. view. I learned the kinds of things I need to do to keep my theme at the center of what I'm doing. And most importantly, I (think I) learned how to make this year a rousing success.
 

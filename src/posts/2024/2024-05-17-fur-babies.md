@@ -1,7 +1,7 @@
 ---
 title: "Fur Babies"
 description: "I wrote about my cats. You're welcome."
-permalink: /fur-babies
+permalink: /fur-babies/index.html
 date: 2024-05-10T15:00:00Z
 tags: 
   - Personal
@@ -75,7 +75,7 @@ Alternate names: Chongo Bongo, Beef Ball, Bow Wow
   alt: "Pixel"
 %}
 
-I wrote [a nice eulogy for Pixel](/pixel) last June; we're rapidly approaching the date of his passing, and I'm slowly starting to process the grief all over again. I miss him every day; he loved V and would've had a blast growing up with her.
+I wrote [a nice eulogy for Pixel](/pixel/) last June; we're rapidly approaching the date of his passing, and I'm slowly starting to process the grief all over again. I miss him every day; he loved V and would've had a blast growing up with her.
 
 We adopted Pixel a bit recklessly; we'd been told since day 1 that Bearcat was a loner, that we shouldn't bring another cat into the home, yadda yadda. But we saw him at a mall kiosk one day, and just knew that we had to bring him home. He was the funniest animal I've ever been around, constantly up to antics that would land him in comical situations. He was the social butterfly, forcing Bearcat (and eventually Beau) to love him, and bridging the gap between them. He took to V right away, always wanting to see what she was up to, letting her hug him or pull his fur. He'd find the most narrow slice of sunlight coming through a window, and would live there the rest of the afternoon. He had the softest fur of any animal I've ever met. He was the best.
 

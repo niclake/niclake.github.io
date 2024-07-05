@@ -1,6 +1,6 @@
 ---
 title: "Life"
-permalink: /life-update
+permalink: /life-update/index.html
 date: 2020-06-25T15:00:00Z
 tags: 
   - Goals

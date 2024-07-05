@@ -1,7 +1,7 @@
 ---
 title: "Meditation"
 description: "I am Calm and Comfort and Quiet and Peace™"
-permalink: /meditation
+permalink: /meditation/index.html
 date: 2024-05-11T15:00:00Z
 tags: 
   - Personal

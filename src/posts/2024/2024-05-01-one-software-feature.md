@@ -1,6 +1,6 @@
 ---
 title: "One Software Feature"
-permalink: /one-software-feature
+permalink: /one-software-feature/index.html
 date: 2024-05-01T15:00:00Z
 tags: 
   - Personal

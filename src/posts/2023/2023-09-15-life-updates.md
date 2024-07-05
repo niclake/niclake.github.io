@@ -1,6 +1,6 @@
 ---
 title: "Sept 2023 Life Updates"
-permalink: /09-23-life-updates
+permalink: /09-23-life-updates/index.html
 date: 2023-09-23T15:00:00Z
 tags: 
   - Personal

@@ -1,6 +1,6 @@
 ---
 title: "The Perfect* Thanksgiving Dinner"
-permalink: /thanksgiving-menu
+permalink: /thanksgiving-menu/index.html
 date: 2019-11-30T15:00:00Z
 tags: 
   - Food

@@ -1,6 +1,6 @@
 ---
 title: "D&D Friday - Kosta & Thason"
-permalink: /kosta-and-thason
+permalink: /kosta-and-thason/index.html
 date: 2024-05-03T15:00:00Z
 tags: 
   - WeblogPoMo 2024

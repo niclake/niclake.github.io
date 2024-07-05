@@ -1,6 +1,6 @@
 ---
 title: Game Review - Portal & Portal 2
-permalink: /portal-portal-2
+permalink: /portal-portal-2/index.html
 date: 2018-08-18T15:00:00Z
 tags: 
   - Review

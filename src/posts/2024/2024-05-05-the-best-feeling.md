@@ -1,6 +1,6 @@
 ---
 title: "The Best Feeling"
-permalink: /the-best-feeling
+permalink: /the-best-feeling/index.html
 date: 2024-05-05T15:00:00Z
 tags: 
   - Personal

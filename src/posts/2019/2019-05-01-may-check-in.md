@@ -1,6 +1,6 @@
 ---
 title: "May '19 Check In"
-permalink: /2019-may-check-in
+permalink: /2019-may-check-in/index.html
 date: 2019-05-01T15:00:00Z
 tags: 
   - Goals
@@ -42,7 +42,7 @@ This goal has hit a major speed bump. For one, I've not made the time to work on
 
 ---
 
-So there it is; my 4 month update. Some goals are going great, some not so great... but that's ok! These were just guidelines to help me feel like I'm doing something with my year, and things always change in terms of life priorities and the like. 
+So there it is; my 4 month update. Some goals are going great, some not so great... but that's ok! These were just guidelines to help me feel like I'm doing something with my year, and things always change in terms of life priorities and the like.
 
 *How are your goals going? Do you need some motivation? Do you have any motivation for me? Use the hashtag #GoalsUpdate when you [message me on Twitter][twitter] and let's chat!*
 

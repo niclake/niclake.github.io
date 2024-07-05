@@ -1,7 +1,7 @@
 ---
 title: "Music for Programming"
 image: https://res.cloudinary.com/practicaldev/image/fetch/s--nT0Q222P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/68zuarber4sx5z2snxvb.png
-permalink: /music-for-programming
+permalink: /music-for-programming/index.html
 date: 2023-02-01T15:00:00Z
 tags: 
   - Music

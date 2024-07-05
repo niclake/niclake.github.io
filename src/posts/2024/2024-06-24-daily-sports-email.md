@@ -1,10 +1,10 @@
 ---
 title: "Daily Sports Schedules and Standings Email"
-projectName: daily-sports-email
+projectName: Daily Sports Email
 projectInfo: A GitHub Action written in NodeJS that pulls in schedules & standings, and sends you an email on a schedule.
 projectLink: https://github.com/niclake/daily-sports-email
 image: mlb-example.jpg
-permalink: /daily-sports-email
+permalink: /daily-sports-email/index.html
 date: 2024-06-24T15:00:00Z
 tags: 
   - Project
@@ -22,7 +22,7 @@ tags:
 
 I am the type of person that needs information put right in front of me if I want to guarantee that I'll see it. As a sports fan, this means that I'd like to know what the schedule of games is every day, especially for baseball games during the workday; I don't know what it is, but having baseball on as ambient noise is one of my favorite things.
 
-[I had a Shortcut set up](/mlb-schedule-shortcut) that would send me the MLB schedule every morning. However, about a year ago, Apple killed off the ability to send HTML formatted emails via Shortcuts, and they've made no move to fix it. So, rather than getting a bland, boring email every morning, I decided to try something new.
+[I had a Shortcut set up](/mlb-schedule-shortcut/) that would send me the MLB schedule every morning. However, about a year ago, Apple killed off the ability to send HTML formatted emails via Shortcuts, and they've made no move to fix it. So, rather than getting a bland, boring email every morning, I decided to try something new.
 
 The end result: [my new Daily Sports Emails project](https://github.com/niclake/daily-sports-email). Written in NodeJS (which is new to me), and executed via a GitHub Action, this is a great solution for me to be able to get what I need.
 
@@ -46,4 +46,4 @@ The end result: [my new Daily Sports Emails project](https://github.com/niclake/
 - An option to only display games involving your favorite teams
 - An option to receive an email every Monday morning with that week's schedules for your favorite team
 
-If you have any thoughts about how I could improve this, feel free to [reach out](/hello). If you enjoy this project, you can [buy me a coffee](https://ko-fi.com/niclake){:target="_blank"}.
+If you have any thoughts about how I could improve this, feel free to [reach out](/hello/). If you enjoy this project, you can [buy me a coffee](https://ko-fi.com/niclake){:target="_blank"}.

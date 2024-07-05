@@ -1,7 +1,7 @@
 ---
 title: "Two Year Old Teachings"
 description: "My 2 year old daughter teaches me a lot."
-permalink: /two-year-old-teachings
+permalink: /two-year-old-teachings/index.html
 date: 2024-05-28T15:00:00Z
 tags: 
   - Personal

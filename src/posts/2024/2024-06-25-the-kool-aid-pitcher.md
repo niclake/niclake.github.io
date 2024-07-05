@@ -1,7 +1,7 @@
 ---
 title: "The Kool-Aid Pitcher"
 description: "When you can't properly express how you feel, turn it into a weird analogy. Oh yeah!"
-permalink: /the-kool-aid-pitcher
+permalink: /the-kool-aid-pitcher/index.html
 date: 2024-06-25T15:00:00Z
 tags: 
   - Personal

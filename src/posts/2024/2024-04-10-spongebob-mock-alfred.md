@@ -1,10 +1,9 @@
 ---
 title: "SpONgEbOb MocKing TeXt - an Alfred Workflow"
-projectName: alfred-spongebob
 projectInfo: An Alfred workflow to help you generate SpONgEbOb MocKing TeXt for use wherever you feel like.
 projectLink: https://github.com/niclake/alfred-spongebob-mocking-text
 imageabs: https://github.com/niclake/alfred-spongebob-mocking-text/raw/main/preview.png
-permalink: /spongebob-mock-alfred
+permalink: /spongebob-mock-alfred/index.html
 date: 2024-04-10T15:00:00Z
 tags: 
   - Project

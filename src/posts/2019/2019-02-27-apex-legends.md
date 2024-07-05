@@ -1,6 +1,6 @@
 ---
 title: "Game Review - Apex Legends"
-permalink: /apex-legends
+permalink: /apex-legends/index.html
 date: 2019-02-27T15:00:00Z
 tags: 
   - Review
@@ -27,13 +27,10 @@ I've actively been uninstalling a lot of "time sink" games from my computer (**O
 
 There are a few major reasons why I think the game is so successful:
 
-* **A smaller game.** Most battle royale games give you a massive map with up to 100 people, and give you a ton of options on how to play (solo, duos, squads, first person or third person, etc.). Apex doesn't do this; 60 players, 20 teams of 3, on a map that still feels large, and yet encourages you moving around pretty quickly using...
-
-* **The great mobility options.** Slide down hills. Climb over walls (commonplace now, but not a default in the early stages of some of these games). Use balloons to launch yourself back into the air. Getting around the map is refreshing and fun; while there are a few instances that you might have to cover long distances in open space, there are usually a couple of loot boxes for you and your team to pick up.
-
-* **The communication options.** While I often am playing with friends, I'll still fly solo with 2 random teammates. I know there are many players out there that would rather not have to speak to their teammates for various reasons, and in Apex, you don't have to. The pinging system works incredibly well, allowing you to give nearly complete context of what you're doing or what is on the map to the rest of your team without a microphone. I anticipate this being a fixture in any future battle royale games that hit the market.
-
-* **The speed of the game.** I was big into Call of Duty back in college, and the pace of Apex is right on the cusp of that series. While there are definitely moments of tranquility as you traverse across the aforementioned open areas or loot a tucked away zone, the fights are routinely fast and furious. And yet... even with all the blitz and blam, there is still enough time to make calculated decisions, to use abilities for disengaging or repositioning. The guns are strong but not TOO strong, the clips are big enough except oh crap reload reLoAd RELOAD!!!, and the ability to have your teammates bring you back after being knocked down makes this game have absolute perfect pacing.
+- **A smaller game.** Most battle royale games give you a massive map with up to 100 people, and give you a ton of options on how to play (solo, duos, squads, first person or third person, etc.). Apex doesn't do this; 60 players, 20 teams of 3, on a map that still feels large, and yet encourages you moving around pretty quickly using...
+- **The great mobility options.** Slide down hills. Climb over walls (commonplace now, but not a default in the early stages of some of these games). Use balloons to launch yourself back into the air. Getting around the map is refreshing and fun; while there are a few instances that you might have to cover long distances in open space, there are usually a couple of loot boxes for you and your team to pick up.
+- **The communication options.** While I often am playing with friends, I'll still fly solo with 2 random teammates. I know there are many players out there that would rather not have to speak to their teammates for various reasons, and in Apex, you don't have to. The pinging system works incredibly well, allowing you to give nearly complete context of what you're doing or what is on the map to the rest of your team without a microphone. I anticipate this being a fixture in any future battle royale games that hit the market.
+   **The speed of the game.** I was big into Call of Duty back in college, and the pace of Apex is right on the cusp of that series. While there are definitely moments of tranquility as you traverse across the aforementioned open areas or loot a tucked away zone, the fights are routinely fast and furious. And yet... even with all the blitz and blam, there is still enough time to make calculated decisions, to use abilities for disengaging or repositioning. The guns are strong but not TOO strong, the clips are big enough except oh crap reload reLoAd RELOAD!!!, and the ability to have your teammates bring you back after being knocked down makes this game have absolute perfect pacing.
 
 (Another clip of a win from last night.)
 

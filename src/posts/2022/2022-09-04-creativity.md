@@ -1,6 +1,6 @@
 ---
 title: "Creativity"
-permalink: /creativity
+permalink: /creativity/index.html
 date: 2022-09-04T15:00:00Z
 tags: 
   - Personal

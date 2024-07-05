@@ -1,7 +1,7 @@
 ---
 title: "This Is Thirty Six"
 image: https://imgur.com/ZeuuS1K.jpg
-permalink: /thirty-six
+permalink: /thirty-six/index.html
 date: 2023-02-13T15:00:00Z
 tags: 
   - Personal

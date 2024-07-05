@@ -1,7 +1,7 @@
 ---
 title: "My Blogging Workflow"
 description: "Because I'm sure you just are DYING to know how I get my words out to you."
-permalink: /my-blogging-workflow
+permalink: /my-blogging-workflow/index.html
 date: 2024-05-18T15:00:00Z
 tags: 
   - Personal

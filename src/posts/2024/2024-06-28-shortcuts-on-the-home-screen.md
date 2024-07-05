@@ -1,7 +1,7 @@
 ---
 title: "Shortcuts On The Home Screen"
 description: "Apple (apparently) Doesn't Want You To Know This One Great Tip!"
-permalink: /shortcuts-on-the-home-screen
+permalink: /shortcuts-on-the-home-screen/index.html
 date: 2024-06-28T15:00:00Z
 tags: 
   - Personal

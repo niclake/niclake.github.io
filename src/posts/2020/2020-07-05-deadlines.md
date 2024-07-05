@@ -1,6 +1,6 @@
 ---
 title: "Deadlines (or, On Writing)"
-permalink: /deadlines
+permalink: /deadlines/index.html
 date: 2020-07-25T15:00:00Z
 tags: 
   - Personal

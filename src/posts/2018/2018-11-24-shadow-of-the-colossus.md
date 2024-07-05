@@ -1,6 +1,6 @@
 ---
 title: "Game Review - Shadow of the Colossus"
-permalink: /shadow-of-the-colossus
+permalink: /shadow-of-the-colossus/index.html
 date: 2018-11-24T15:00:00Z
 tags: 
   - Review

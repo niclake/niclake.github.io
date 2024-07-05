@@ -1,6 +1,6 @@
 ---
 title: Hello World
-permalink: /hello-world
+permalink: /hello-world/index.html
 date: 2018-08-15T15:00:00Z
 tags: 
   - Personal

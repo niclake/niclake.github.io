@@ -1,10 +1,9 @@
 ---
 title: "GitHub Repository Helper - an Alfred Workflow"
-projectName: alfred-github
 projectInfo: An Alfred workflow GitHub repository helper. Allows you to open the chosen repository in your browser, copy its URL to your clipboard, or navigate directly to the pull requests, issues, or projects page for that repo.
 projectLink: https://github.com/niclake/alfred-github-repo-helper
 imageabs: https://content.invisioncic.com/r229491/monthly_2023_01/image.thumb.png.ea18e9102196e9cdc120da0b1d050002.png
-permalink: /github-alfred
+permalink: /github-alfred/index.html
 date: 2023-01-19T15:00:00Z
 tags: 
   - Project
@@ -15,7 +14,7 @@ tags:
 
 ![alt text][headerImg]
 
-Yesterday, [I posted about how I consolidated some of my Mac helper apps](/mac-helper-apps). I was talking to members of the [Relay.FM member's Discord](https://www.relay.fm/membership) when going through this exercise, and I happened to mention an Alfred workflow that I had helped create for work. Enough people seemed interested in it that I went through the whole process of getting it set up for other people to download.
+Yesterday, [I posted about how I consolidated some of my Mac helper apps](/mac-helper-apps/). I was talking to members of the [Relay.FM member's Discord](https://www.relay.fm/membership) when going through this exercise, and I happened to mention an Alfred workflow that I had helped create for work. Enough people seemed interested in it that I went through the whole process of getting it set up for other people to download.
 
 Introducing: the [GitHub Repository Helper workflow](https://github.com/niclake/alfred-github-repo-helper) for [Alfred.app](http://alfredapp.com)
 

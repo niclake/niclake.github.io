@@ -1,6 +1,6 @@
 ---
 title: "What’s In A Name?"
-permalink: /whats-in-a-name
+permalink: /whats-in-a-name/index.html
 date: 2024-05-14T15:00:00Z
 tags: 
   - Personal

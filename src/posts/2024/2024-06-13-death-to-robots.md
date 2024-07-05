@@ -1,7 +1,7 @@
 ---
 title: "Death to Robots"
 description: "If your site running Jekyll & hosted on GitHub Pages, this post is for you."
-permalink: /death-to-robots
+permalink: /death-to-robots/index.html
 date: 2024-06-13T15:00:00Z
 tags: 
   - Technology
@@ -62,4 +62,4 @@ Similar to Ethan, I wanted to do this in a way that would leverage Jekyll's stat
 {% endraw %}
 ```
 
-And with that, you can look at [my `robots.txt` file](/robots.txt), and see the desired output!
+And with that, you can look at [my `robots.txt` file](/robots.txt/), and see the desired output!

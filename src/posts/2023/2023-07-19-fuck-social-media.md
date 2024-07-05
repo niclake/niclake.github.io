@@ -1,7 +1,7 @@
 ---
 title: "Thank you Elon, Zuck, and Spez"
 image: "https://www.vyprvpn.com/site/assets/files/1823/image.png"
-permalink: /fuck-social-media
+permalink: /fuck-social-media/index.html
 date: 2023-07-19T15:00:00Z
 tags: 
   - Personal
@@ -33,7 +33,7 @@ I had a folder on my iPhone home screen for ages that was full of all the variou
 
 So, I went... what's just under nuclear? Whatever that is, I did it. I still have all my accounts across the various services, but a lot of them (Ivory for Mastodon, Reddit, Facebook, Twitter) got deleted, and a few others (Instagram, Bluesky) got relegated to the App Library - accessible if I need them for something, but out of sight/mind the rest of the time.
 
-I can't believe that the thing that finally broke the social media chokehold on me was the various owners being complete garbage humans... and yet, here we are. I have no idea if any of these services will ever return to my life in the capacity they were before. I sure hope not. I do miss a lot of the people I would interact with, and I'm trying to be proactive about connecting with those that I really appreciated (if this is you, [hello, come talk to me](/hello)), but I'm doing best to not let the allure of what once was suck me back in to a space I know is not good for me.
+I can't believe that the thing that finally broke the social media chokehold on me was the various owners being complete garbage humans... and yet, here we are. I have no idea if any of these services will ever return to my life in the capacity they were before. I sure hope not. I do miss a lot of the people I would interact with, and I'm trying to be proactive about connecting with those that I really appreciated (if this is you, [hello, come talk to me](/hello/)), but I'm doing best to not let the allure of what once was suck me back in to a space I know is not good for me.
 
 Friendly reminder: if you're not paying for it, YOU are the product.
 

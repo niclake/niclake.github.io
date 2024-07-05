@@ -1,6 +1,6 @@
 ---
 title: "Mac Helper Apps, or Where The FUDGE Is This Triggered From?"
-permalink: /mac-helper-apps
+permalink: /mac-helper-apps/index.html
 date: 2023-01-19T15:00:00Z
 tags: 
   - Apple

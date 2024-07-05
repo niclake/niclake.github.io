@@ -1,6 +1,6 @@
 ---
 title: "Resetting"
-permalink: /resetting
+permalink: /resetting/index.html
 date: 2022-07-15T15:00:00Z
 tags: 
   - Personal

@@ -1,7 +1,7 @@
 ---
 title: "Curb Your Enthusiasm (for Notifications)"
 image: notifications/banner.jpg
-permalink: /notifications
+permalink: /notifications/index.html
 date: 2023-01-19T15:00:00Z
 tags: 
   - Personal
@@ -40,7 +40,7 @@ I know that there are a few studies out there that say that using App Limits act
 
 ## 2: Deleted (most) Social Media Off my Phone
 
-I'm not going to pretend that I'm holier than thou or anything here; everyone has their own reasons for using social media, and you don't need me preaching at you [any more than I already have](/fuck-social-media). That said, the only app that I have left on my phone is Instagram, mostly because a few friends and I use it to send various funny clips to one another. I barely post there anymore. Facebook, Twitter (RIP Tweetbot), Reddit (RIP Apollo), Mastodon, Bluesky, Threads - they're all long gone. It's freeing. You should try it. As mentioned above, App Limits will still keep you from logging in on the web and mindlessly scrolling, so these two together have been great.
+I'm not going to pretend that I'm holier than thou or anything here; everyone has their own reasons for using social media, and you don't need me preaching at you [any more than I already have](/fuck-social-media/). That said, the only app that I have left on my phone is Instagram, mostly because a few friends and I use it to send various funny clips to one another. I barely post there anymore. Facebook, Twitter (RIP Tweetbot), Reddit (RIP Apollo), Mastodon, Bluesky, Threads - they're all long gone. It's freeing. You should try it. As mentioned above, App Limits will still keep you from logging in on the web and mindlessly scrolling, so these two together have been great.
 
 ## 3: Reconfigure My News Sources
 
@@ -93,4 +93,4 @@ ESPN is one of those apps that I have a love/hate relationship with. I love stay
 
 ---
 
-Ultimately, how you want to set these sorts of things up is totally up to you. I've found a couple things that have been working out ok for me, and thoughts I'd share to see if they might be able to help you as well. Do you have any suggestions for what I could do better, or differently? [Get in touch! I'd love to hear from you](/hello).
+Ultimately, how you want to set these sorts of things up is totally up to you. I've found a couple things that have been working out ok for me, and thoughts I'd share to see if they might be able to help you as well. Do you have any suggestions for what I could do better, or differently? [Get in touch! I'd love to hear from you](/hello/).

@@ -3,7 +3,7 @@ title: "MLB Daily Schedule Shortcut"
 image: mlb-schedule-shortcut.png
 projectInfo: "This shortcut will pull the daily MLB schedule from their public facing API, put it into a table, and send an email to the desired recipient. You can set it up as a daily automation to know the schedules for every day."
 projectLink: https://www.icloud.com/shortcuts/a67a3888908d4ae0a37c54ce578f5995
-permalink: /mlb-schedule-shortcut
+permalink: /mlb-schedule-shortcut/index.html
 date: 2023-01-19T15:00:00Z
 tags: 
   - Project
@@ -17,7 +17,7 @@ tags:
   alt: "A screenshot of the email sent from my MLB Schedule shortcut"
 %}
 
-***[24 June 2024] Note: Apple made some changes to Shortcuts about a year ago that nuked the ability to send HTML emails. I've been hopeful that they'd fix this, but in the meantime, I went ahead and [created a new project](/daily-sports-email) that can be configured & run from a GitHub Action.***
+***[24 June 2024] Note: Apple made some changes to Shortcuts about a year ago that nuked the ability to send HTML emails. I've been hopeful that they'd fix this, but in the meantime, I went ahead and [created a new project](/daily-sports-email/) that can be configured & run from a GitHub Action.***
 
 I work from home every day, and have a TV hooked up in my office. I also love watching baseball. On days with day games, this tends to be great for me... unless I don't realize that there are any day games being played (like today).
 

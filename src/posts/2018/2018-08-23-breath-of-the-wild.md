@@ -1,6 +1,6 @@
 ---
 title: "Game Review - The Legend of Zelda: Breath of the Wild"
-permalink: /breath-of-the-wild
+permalink: /breath-of-the-wild/index.html
 date: 2018-08-23T15:00:00Z
 tags: 
   - Review

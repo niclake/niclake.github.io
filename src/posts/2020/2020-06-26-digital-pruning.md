@@ -1,6 +1,6 @@
 ---
 title: "Digital Pruning"
-permalink: /digital-pruning
+permalink: /digital-pruning/index.html
 date: 2020-06-26T15:00:00Z
 tags: 
   - Personal

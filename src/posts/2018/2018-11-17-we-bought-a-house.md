@@ -1,6 +1,6 @@
 ---
 title: "We Bought A House!"
-permalink: /we-bought-a-house
+permalink: /we-bought-a-house/index.html
 date: 2018-11-17T15:00:00Z
 tags:
   - Life Event

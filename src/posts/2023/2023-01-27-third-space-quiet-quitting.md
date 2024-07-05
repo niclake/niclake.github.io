@@ -1,6 +1,6 @@
 ---
 title: "Death of the Third Space + Quiet Quitting"
-permalink: /mac
+permalink: /mac/index.html
 date: 2023-01-27T15:00:00Z
 tags: 
   - Personal

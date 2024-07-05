@@ -1,7 +1,7 @@
 ---
 title: "Sunday Ritual"
 image: sunday-ritual.jpg
-permalink: /sunday-ritual
+permalink: /sunday-ritual/index.html
 date: 2024-04-21T15:00:00Z
 tags: 
   - Personal
@@ -13,7 +13,7 @@ tags:
   alt: "A good pen, some paper, and time"
 %}
 
-I've talked before about [how I desperately want to be someone who uses a pocket notebook](/pocket-notebook). I've also realized that [this just is not who I am as a person](/understanding-notebooks).
+I've talked before about [how I desperately want to be someone who uses a pocket notebook](/pocket-notebook/). I've also realized that [this just is not who I am as a person](/understanding-notebooks/).
 
 But there's just something cathartic, something that scratches a primal urge, about writing out a to-do list, and marking things off as I go.
 

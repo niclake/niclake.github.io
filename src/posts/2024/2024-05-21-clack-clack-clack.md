@@ -1,7 +1,7 @@
 ---
 title: "My Mechanical Keyboards"
 description: "Does is clack? Does it thock? Who could say?!?"
-permalink: /clack-clack-clack
+permalink: /clack-clack-clack/index.html
 date: 2024-05-21T15:00:00Z
 tags: 
   - WeblogPoMo 2024
@@ -21,7 +21,7 @@ Here's a look at my collection (boards are listed from the photo, top to bottom,
 
 ### Left column
 
-- **DZ60 + Tofu acrylic case, Zaku linear switches, DSA "UnAlice" keycaps**: This is what's considered a 60% keyboard, meaning there are no arrow keys, no numpad, and no function keys. This is what I consider to be my "default" layout. "Well Nic, how do you move around with no arrows?" After I list my boards, I'll explain more about my default setup for most of these boards. (Also, if you look at this and think "wow, Nic, your letters are in the wrong spots", [there's a reason for that](/colemak).)
+- **DZ60 + Tofu acrylic case, Zaku linear switches, DSA "UnAlice" keycaps**: This is what's considered a 60% keyboard, meaning there are no arrow keys, no numpad, and no function keys. This is what I consider to be my "default" layout. "Well Nic, how do you move around with no arrows?" After I list my boards, I'll explain more about my default setup for most of these boards. (Also, if you look at this and think "wow, Nic, your letters are in the wrong spots", [there's a reason for that](/colemak/).)
 - **Boardwalk + KBDfans 5° aluminum case, Zaku II tactile switches, KAT Cyberspace keycaps**: This was my first true custom board; everything else that I'd purchased up until this point was a prebuilt. It is an ortholinear keyboard, meaning that all of the keys are lined up horizontally and vertically. The aluminum case, plus the brass plate holding switches in place, makes this a very pingy & loud board to type on.
 - **Mode Sonnet, BSUN Strawberry Wine linear switches, ~~KAT Space Dust~~ random purple keycaps**: The board I'm currently typing on. I got this used from a friend, and this is truly one of my favorite boards to type on. It's smooth, fast, and the sound is incredible. These should have some cool black/blue/pink keycaps on them, but they're currently mired in transportation woes after one of the longest group buys in keyboard history; last I checked, they had been sent back to China because they'd been shipped to the US in a container with illegal cotton (seriously).
 - **Planck, BSUN Pine tactile switches, KAT Explosion keycaps**: A 40% board (aka no number row). If you aren't a keyboard person, you're probably looking at this thinking "how?!?" To type numbers, I hold down that up arrow to the right of the space to access the number layer (more on layers soon), and then 1-0 are on the standard ASDFGHJKL; keys. I have a lot of fun typing on this board.

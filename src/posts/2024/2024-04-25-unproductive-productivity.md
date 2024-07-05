@@ -1,7 +1,7 @@
 ---
 title: "Unproductive Productivity"
 image: unproductive.png
-permalink: /unproductive-productivity
+permalink: /unproductive-productivity/index.html
 date: 2024-04-25T15:00:00Z
 tags: 
   - Personal

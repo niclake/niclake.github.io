@@ -3,7 +3,7 @@ title: Uses
 permalink: /uses/index.html
 ---
 
-All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults).
+All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults/).
 
 *Last updated 6/6/24*
 
@@ -15,7 +15,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Dell S3422DWG 32" ultrawide monitor](https://amzn.to/3V1NOk2) & [Dell S2721DGF 27" 144hz 1440p monitor](https://amzn.to/3WPsFfn)
 - [VIVO Dual Vertically Stacked Monitor Arm](https://amzn.to/3QVxeAM)
 - Magic Trackpad & Magic Mouse
-- [A variety of mechanical keyboards](/clack-clack-clack)
+- [A variety of mechanical keyboards](/clack-clack-clack/)
 - [TOTU USB-C Docking Station](https://amzn.to/4bSRgEn) (don't buy this, get a [CalDigit TS-4](https://amzn.to/3wYtzvg))
 - [Mackie CR5-X monitor speakers](https://amzn.to/3RltPMb)
 - [TwelveSouth BookArc stand](https://www.twelvesouth.com/products/bookarc-for-macbook)
@@ -24,8 +24,8 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 
 - [1Password](https://1password.com)
 - [iTerm2](https://iterm2.com) with [Oh My Zsh](https://ohmyz.sh)
-- [Visual Studio Code](https://code.visualstudio.com) for everything, [even blogging](/my-blogging-workflow)
-- [Alfred](https://www.alfredapp.com) + the [PowerPack](https://www.alfredapp.com/powerpack/) & [custom workflows](/categories#Alfred)
+- [Visual Studio Code](https://code.visualstudio.com) for everything, [even blogging](/my-blogging-workflow/)
+- [Alfred](https://www.alfredapp.com) + the [PowerPack](https://www.alfredapp.com/powerpack/) & [custom workflows](/categories/#alfred)
 - [Fantastical](https://flexibits.com/fantastical) for my calendar & reminders
 - ~~Bartender~~ Update 6/6/24 - due to Bartender's botched sale & subsequent community fallout, I've switched over to [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12).
 - [BetterTouchTool](https://folivora.ai)
@@ -37,17 +37,20 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Moom](https://manytricks.com/moom/) + [Rectangle Pro](https://rectangleapp.com) for window placement
 - [MusicHarbor](https://apps.apple.com/us/app/musicharbor-track-new-music/id1440405750) to keep up with album releases
 - [Paprika](https://www.paprikaapp.com) for recipe management
-- [Reeder](https://reederapp.com) (+ [Feedbin](https://feedbin.com)) for RSS ([I wrote about my setup](/the-great-rss-pruning))
+- [Reeder](https://reederapp.com) (+ [Feedbin](https://feedbin.com)) for RSS ([I wrote about my setup](/the-great-rss-pruning/))
 
 ### Desk & Accessories
 
-<!-- TODO: Desk6 picture here -->
+{% include 'image.njk',
+  src: "desk/desk6.jpg",
+  alt: "Every good DIY post demands the finished product at the start."
+%}
 
 - [5ft x 30in birch block](https://www.homedepot.com/p/HARDWOOD-REFLECTIONS-5-ft-L-x-30-in-D-Unfinished-Birch-Solid-Wood-Butcher-Block-Desktop-Countertop-With-Eased-Edge-1530HDBIR-60/316334372)
 - [VIVO dual motor frame](https://amzn.to/3Qhgdkj)
 - [An under-desk headphone mount + power outlet](https://amzn.to/3JrqOFo)
 - [Cable management trays](https://amzn.to/3W8zk3W)
-- You can find full info on my build [on the blog](/desk)
+- You can find full info on my build [on the blog](/desk/)
 
 ### Mobile
 

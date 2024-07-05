@@ -1,6 +1,6 @@
 ---
 title: "Weblog Posting Month 2024"
-permalink: /weblogpomo
+permalink: /weblogpomo/index.html
 date: 2024-04-30T15:00:00Z
 tags: 
   - WeblogPoMo 2024

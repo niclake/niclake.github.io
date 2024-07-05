@@ -1,7 +1,7 @@
 ---
 title: "Surprise and Delight"
 description: "The reveal is important. But the way that reveal makes someone feel... THAT is the key."
-permalink: /surprise-and-delight
+permalink: /surprise-and-delight/index.html
 date: 2024-05-12T15:00:00Z
 tags: 
   - Personal

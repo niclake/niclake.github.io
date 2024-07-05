@@ -1,7 +1,7 @@
 ---
 title: "Derailment"
 description: "Society has forgotten what 'falling off the wagon' feels like."
-permalink: /derailment
+permalink: /derailment/index.html
 date: 2024-05-30T15:00:00Z
 tags: 
   - Personal
@@ -10,7 +10,7 @@ tags:
 
 It's no secret that I'm very proud of my (currently) 152 sobriety streak. I'm someone that has a hard time committing to anything long-term, so being able to keep that up has been great.
 
-When you read this post, it'll be May 31st (or later). Today is the final day of Weblog Posting Month, or [WeblogPoMo](/categories#WeblogPoMo). I'd been going strong all month, coming up with topics out of nowhere & knocking out tons of blog posts, even on days I really didn't feel like it.
+When you read this post, it'll be May 31st (or later). Today is the final day of Weblog Posting Month, or [WeblogPoMo](/categories/#weblogpomo-2024). I'd been going strong all month, coming up with topics out of nowhere & knocking out tons of blog posts, even on days I really didn't feel like it.
 
 And then yesterday, right before dinner, my daughter injured herself. (Everything's ok - she had about 2 dozen splinters of various size in her hand. We tried to extract them last night, failed, hoped they'd come out on their own overnight, they didn't, so we went to urgent care this morning.)
 

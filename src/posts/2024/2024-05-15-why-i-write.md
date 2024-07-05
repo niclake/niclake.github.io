@@ -1,6 +1,6 @@
 ---
 title: "Why I Write"
-permalink: /why-i-write
+permalink: /why-i-write/index.html
 date: 2024-05-15T15:00:00Z
 tags: 
   - Personal

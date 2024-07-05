@@ -1,6 +1,6 @@
 ---
 title: "Year of the Garden"
-permalink: /year-of-the-garden
+permalink: /year-of-the-garden/index.html
 date: 2021-12-28T15:00:00Z
 tags: 
   - Goals

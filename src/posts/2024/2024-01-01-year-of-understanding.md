@@ -1,6 +1,6 @@
 ---
 title: "Year of Understanding"
-permalink: /year-of-understanding
+permalink: /year-of-understanding/index.html
 date: 2024-01-01T15:00:00Z
 tags: 
   - Goals
@@ -21,9 +21,9 @@ Rather than doing resolutions (which seem destined for failure), over the past c
 
 [^1]: They're more like guidelines, really.
 
-In 2022, I did [Year of the Garden](/year-of-the-garden). Its aim was to encourage the habits and hobbies that I wanted to flourish in my life, while simultaneously pruning back or razing the things that were making me unhappy or taking up too much of my time. This was mostly prep for my daughter being born, as I knew that I needed to learn how to prioritize my time well.
+In 2022, I did [Year of the Garden](/year-of-the-garden/). Its aim was to encourage the habits and hobbies that I wanted to flourish in my life, while simultaneously pruning back or razing the things that were making me unhappy or taking up too much of my time. This was mostly prep for my daughter being born, as I knew that I needed to learn how to prioritize my time well.
 
-2023 was more of the same - I went with [Year of Sustenance](/year-of-sustenance). While I was initially annoyed realizing the similarities between my 2022 and 2023 themes, it sank in that the core goals were what I truly needed to focus on, as I don't feel like I really "completed" my initial theme[^2].
+2023 was more of the same - I went with [Year of Sustenance](/year-of-sustenance/). While I was initially annoyed realizing the similarities between my 2022 and 2023 themes, it sank in that the core goals were what I truly needed to focus on, as I don't feel like I really "completed" my initial theme[^2].
 
 [^2]: This is *not* the goal of themes, but that's just how my brain works.
 
@@ -43,7 +43,7 @@ As I'm contemplating all of this, I happened to be listening to the [most recent
 
 As 2023 wore on, I found myself doing a lot of analyzing of not just what I did or said or emoted, but *how* I did these things, and *why* I did them. Why do I gravitate to games that take up all my time? Why do I think that carrying a notebook with me will make me feel better? Why do I not want to touch my piano or make music anymore?
 
-Many of the adjustments that I have been making in my life have been ones where I am just changing to change. Making adjustments without thinking through the "why" behind it. A literal manifestation of "fuck around and find out". Sometimes the results are great, other times hilarious, but many times things just don't stick and I find myself getting frustrated. [That notebook I was so excited to carry with me and write in?](/pocket-notebook) It's been sitting on my dresser for weeks.
+Many of the adjustments that I have been making in my life have been ones where I am just changing to change. Making adjustments without thinking through the "why" behind it. A literal manifestation of "fuck around and find out". Sometimes the results are great, other times hilarious, but many times things just don't stick and I find myself getting frustrated. [That notebook I was so excited to carry with me and write in?](/pocket-notebook/) It's been sitting on my dresser for weeks.
 
 I'm not exactly sure how this is going to look, especially as I dive into it more, but here's what I'm thinking:
 
