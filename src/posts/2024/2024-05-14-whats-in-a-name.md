@@ -2,7 +2,7 @@
 title: "What’s In A Name?"
 permalink: /whats-in-a-name
 date: 2024-05-14T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

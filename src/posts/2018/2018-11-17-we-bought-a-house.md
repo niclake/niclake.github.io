@@ -2,7 +2,7 @@
 title: "We Bought A House!"
 permalink: /we-bought-a-house
 date: 2018-11-17T15:00:00Z
-categories:
+tags:
   - Life Event
 ---
 

@@ -2,7 +2,7 @@
 title: "Rerouting"
 permalink: /rerouting
 date: 2019-04-24T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

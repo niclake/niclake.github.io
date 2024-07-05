@@ -2,7 +2,7 @@
 title: "Creativity"
 permalink: /creativity
 date: 2022-09-04T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

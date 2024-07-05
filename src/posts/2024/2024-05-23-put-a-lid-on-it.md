@@ -3,7 +3,7 @@ title: "Put A Lid On It"
 description: "I have a fondness for a good hat."
 permalink: /put-a-lid-on-it
 date: 2024-05-23T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

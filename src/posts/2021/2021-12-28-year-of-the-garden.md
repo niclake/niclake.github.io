@@ -2,7 +2,7 @@
 title: "Year of the Garden"
 permalink: /year-of-the-garden
 date: 2021-12-28T15:00:00Z
-categories: 
+tags: 
   - Goals
   - Yearly Theme
 ---
@@ -15,7 +15,7 @@ With that said, my theme is: **Year of the Garden**.
 
 I want to work on all of the small things in my life, thinking of it like a garden that I need to tend to in order to have success this year, and be ready for future years as well.
 
-With that said, here are my 4 main categories:
+With that said, here are my 4 main buckets:
 
 ### Harvest - continue with established habits
 

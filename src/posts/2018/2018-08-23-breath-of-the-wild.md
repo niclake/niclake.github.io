@@ -1,9 +1,8 @@
 ---
 title: "Game Review - The Legend of Zelda: Breath of the Wild"
 permalink: /breath-of-the-wild
-tags: review
 date: 2018-08-23T15:00:00Z
-categories: 
+tags: 
   - Review
 ---
 

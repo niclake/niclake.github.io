@@ -3,7 +3,7 @@ title: "Unproductive Productivity"
 image: unproductive.png
 permalink: /unproductive-productivity
 date: 2024-04-25T15:00:00Z
-categories: 
+tags: 
   - Personal
   - ADHD
 ---

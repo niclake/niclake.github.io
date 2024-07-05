@@ -3,7 +3,7 @@ title: "Two Year Old Teachings"
 description: "My 2 year old daughter teaches me a lot."
 permalink: /two-year-old-teachings
 date: 2024-05-28T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

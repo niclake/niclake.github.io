@@ -2,7 +2,7 @@
 title: "Digital Pruning"
 permalink: /digital-pruning
 date: 2020-06-26T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

@@ -2,7 +2,7 @@
 title: "Review - Year of the Garden"
 permalink: /review-year-of-the-garden
 date: 2022-08-28T15:00:00Z
-categories: 
+tags: 
   - Goals
   - Yearly Theme
 ---

@@ -1,9 +1,8 @@
 ---
 title: Game Review - Portal & Portal 2
 permalink: /portal-portal-2
-tags: review
 date: 2018-08-18T15:00:00Z
-categories: 
+tags: 
   - Review
 ---
 

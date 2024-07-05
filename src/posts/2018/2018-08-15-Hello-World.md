@@ -2,7 +2,7 @@
 title: Hello World
 permalink: /hello-world
 date: 2018-08-15T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

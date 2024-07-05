@@ -2,7 +2,7 @@
 title: "One Software Feature"
 permalink: /one-software-feature
 date: 2024-05-01T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

@@ -2,7 +2,7 @@
 title: "The Great RSS Pruning"
 permalink: /the-great-rss-pruning
 date: 2024-05-07T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

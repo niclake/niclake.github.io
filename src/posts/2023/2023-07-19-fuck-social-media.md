@@ -3,7 +3,7 @@ title: "Thank you Elon, Zuck, and Spez"
 image: "https://www.vyprvpn.com/site/assets/files/1823/image.png"
 permalink: /fuck-social-media
 date: 2023-07-19T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

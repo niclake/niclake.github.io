@@ -6,8 +6,7 @@ projectLink: https://github.com/niclake/alfred-spongebob-mocking-text
 imageabs: https://github.com/niclake/alfred-spongebob-mocking-text/raw/main/preview.png
 permalink: /spongebob-mock-alfred
 date: 2024-04-10T15:00:00Z
-tags: project
-categories: 
+tags: 
   - Project
   - Alfred
 ---

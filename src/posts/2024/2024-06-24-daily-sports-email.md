@@ -5,9 +5,8 @@ projectInfo: A GitHub Action written in NodeJS that pulls in schedules & standin
 projectLink: https://github.com/niclake/daily-sports-email
 image: mlb-example.jpg
 permalink: /daily-sports-email
-tags: project
 date: 2024-06-24T15:00:00Z
-categories: 
+tags: 
   - Project
   - NodeJS
   - Sports

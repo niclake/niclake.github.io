@@ -2,7 +2,7 @@
 title: "Year of Understanding"
 permalink: /year-of-understanding
 date: 2024-01-01T15:00:00Z
-categories: 
+tags: 
   - Goals
   - Yearly Theme
 ---

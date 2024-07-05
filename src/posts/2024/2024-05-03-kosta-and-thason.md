@@ -2,7 +2,7 @@
 title: "D&D Friday - Kosta & Thason"
 permalink: /kosta-and-thason
 date: 2024-05-03T15:00:00Z
-categories: 
+tags: 
   - WeblogPoMo 2024
   - D&D
 ---

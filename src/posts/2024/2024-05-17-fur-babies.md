@@ -3,7 +3,7 @@ title: "Fur Babies"
 description: "I wrote about my cats. You're welcome."
 permalink: /fur-babies
 date: 2024-05-10T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

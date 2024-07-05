@@ -3,7 +3,7 @@ title: "Meditation"
 description: "I am Calm and Comfort and Quiet and Peace™"
 permalink: /meditation
 date: 2024-05-11T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

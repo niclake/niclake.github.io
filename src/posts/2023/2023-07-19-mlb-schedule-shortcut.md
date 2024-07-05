@@ -5,8 +5,7 @@ projectInfo: "This shortcut will pull the daily MLB schedule from their public f
 projectLink: https://www.icloud.com/shortcuts/a67a3888908d4ae0a37c54ce578f5995
 permalink: /mlb-schedule-shortcut
 date: 2023-01-19T15:00:00Z
-tags: project
-categories: 
+tags: 
   - Project
   - Apple
   - Shortcuts

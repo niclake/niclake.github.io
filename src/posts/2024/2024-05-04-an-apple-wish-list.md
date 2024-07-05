@@ -2,7 +2,7 @@
 title: "An Apple Wish List"
 permalink: /an-apple-wish-list
 date: 2024-05-04T15:00:00Z
-categories: 
+tags: 
   - WeblogPoMo 2024
   - Apple
 ---

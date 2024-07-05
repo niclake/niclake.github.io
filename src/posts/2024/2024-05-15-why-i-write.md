@@ -2,7 +2,7 @@
 title: "Why I Write"
 permalink: /why-i-write
 date: 2024-05-15T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

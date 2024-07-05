@@ -2,7 +2,7 @@
 title: "Sept 2023 Life Updates"
 permalink: /09-23-life-updates
 date: 2023-09-23T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

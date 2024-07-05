@@ -3,7 +3,7 @@ title: "WeblogPoMo Recap"
 description: "Some things I learned from blogging every* day for a month."
 permalink: /weblogpomo-recap
 date: 2024-05-31T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

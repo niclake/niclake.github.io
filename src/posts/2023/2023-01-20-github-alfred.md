@@ -6,8 +6,7 @@ projectLink: https://github.com/niclake/alfred-github-repo-helper
 imageabs: https://content.invisioncic.com/r229491/monthly_2023_01/image.thumb.png.ea18e9102196e9cdc120da0b1d050002.png
 permalink: /github-alfred
 date: 2023-01-19T15:00:00Z
-tags: project
-categories: 
+tags: 
   - Project
   - Alfred
   - Apple

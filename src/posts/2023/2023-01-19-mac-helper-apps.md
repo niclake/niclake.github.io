@@ -2,7 +2,7 @@
 title: "Mac Helper Apps, or Where The FUDGE Is This Triggered From?"
 permalink: /mac-helper-apps
 date: 2023-01-19T15:00:00Z
-categories: 
+tags: 
   - Apple
 ---
 

@@ -3,7 +3,7 @@ title: "Shortcuts On The Home Screen"
 description: "Apple (apparently) Doesn't Want You To Know This One Great Tip!"
 permalink: /shortcuts-on-the-home-screen
 date: 2024-06-28T15:00:00Z
-categories: 
+tags: 
   - Personal
   - Apple
   - Shortcuts

@@ -2,7 +2,7 @@
 title: "May '19 Check In"
 permalink: /2019-may-check-in
 date: 2019-05-01T15:00:00Z
-categories: 
+tags: 
   - Goals
 ---
 

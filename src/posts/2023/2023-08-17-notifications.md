@@ -3,7 +3,7 @@ title: "Curb Your Enthusiasm (for Notifications)"
 image: notifications/banner.jpg
 permalink: /notifications
 date: 2023-01-19T15:00:00Z
-categories: 
+tags: 
   - Personal
   - Apple
 ---

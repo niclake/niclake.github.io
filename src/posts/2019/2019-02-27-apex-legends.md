@@ -1,9 +1,8 @@
 ---
 title: "Game Review - Apex Legends"
 permalink: /apex-legends
-tags: review
 date: 2019-02-27T15:00:00Z
-categories: 
+tags: 
   - Review
 ---
 

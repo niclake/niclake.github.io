@@ -2,7 +2,7 @@
 title: "Brain Drain"
 permalink: /brain-drain
 date: 2024-05-13T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

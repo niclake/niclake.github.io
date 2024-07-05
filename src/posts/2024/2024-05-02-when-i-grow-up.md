@@ -2,7 +2,7 @@
 title: "When I Grow Up"
 permalink: /when-i-grow-up
 date: 2024-05-02T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

@@ -3,7 +3,7 @@ title: "Backslide"
 description: This is a post about politics. You don't have to read it. But maybe you should.
 permalink: /backslide
 date: 2024-06-29T15:00:00Z
-categories: 
+tags: 
   - Personal
   - Politics
 ---

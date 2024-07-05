@@ -5,8 +5,7 @@ projectInfo: "ClackTrack is an app for iPhone and iPad to track your mechanical 
 projectLink: https://clacktrack.app
 permalink: /clacktrack
 date: 2023-02-23T15:00:00Z
-tags: project
-categories: 
+tags: 
   - Project
   - Apple
 ---

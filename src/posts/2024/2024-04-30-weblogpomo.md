@@ -2,7 +2,7 @@
 title: "Weblog Posting Month 2024"
 permalink: /weblogpomo
 date: 2024-04-30T15:00:00Z
-categories: 
+tags: 
   - WeblogPoMo 2024
 ---
 

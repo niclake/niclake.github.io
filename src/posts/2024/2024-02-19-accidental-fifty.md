@@ -2,7 +2,7 @@
 title: "Accidental Fifty"
 permalink: /accidental-fifty
 date: 2024-02-19T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

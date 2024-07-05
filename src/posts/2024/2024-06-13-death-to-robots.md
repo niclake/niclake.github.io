@@ -3,7 +3,7 @@ title: "Death to Robots"
 description: "If your site running Jekyll & hosted on GitHub Pages, this post is for you."
 permalink: /death-to-robots
 date: 2024-06-13T15:00:00Z
-categories: 
+tags: 
   - Technology
 ---
 

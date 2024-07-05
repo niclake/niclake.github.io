@@ -3,7 +3,7 @@ title: "The Death of Music"
 description: "What happens when a lifelong musician reckons with childhood trauma?"
 permalink: /the-death-of-music
 date: 2024-05-27T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
   - Music

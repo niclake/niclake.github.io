@@ -3,7 +3,7 @@ title: "This Is Thirty Six"
 image: https://imgur.com/ZeuuS1K.jpg
 permalink: /thirty-six
 date: 2023-02-13T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

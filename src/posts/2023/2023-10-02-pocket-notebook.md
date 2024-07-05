@@ -3,7 +3,7 @@ title: "Pocket Notebook"
 image: notebook.jpeg
 permalink: /pocket-notebook
 date: 2023-10-02T15:00:00Z
-categories: 
+tags: 
   - Personal
 ---
 

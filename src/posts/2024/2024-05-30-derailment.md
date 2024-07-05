@@ -3,7 +3,7 @@ title: "Derailment"
 description: "Society has forgotten what 'falling off the wagon' feels like."
 permalink: /derailment
 date: 2024-05-30T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---

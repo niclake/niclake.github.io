@@ -3,7 +3,7 @@ title: "A Digital Reset"
 description: "Have you ever thought about nuking everything on your devices and starting over?"
 permalink: /a-digital-reset
 date: 2024-05-09T15:00:00Z
-categories: 
+tags: 
   - Personal
   - WeblogPoMo 2024
 ---
