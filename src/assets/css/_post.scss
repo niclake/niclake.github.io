@@ -46,6 +46,12 @@
     box-shadow: 4px 4px darken(#282a36, 5%);
     font-size: .8rem;
   }
+
+  &.single-post {
+    .date {
+      margin-bottom: 1rem;
+    }
+  }
 }
 
 .date,
