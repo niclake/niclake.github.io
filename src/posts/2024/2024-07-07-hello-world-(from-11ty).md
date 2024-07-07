@@ -10,7 +10,7 @@ tags:
 ---
 
 {% include 'image.njk',
-  src: "eleventy.njk",
+  src: "eleventy.png",
   position: "banner",
   alt: "The logo for Eleventy"
 %}
