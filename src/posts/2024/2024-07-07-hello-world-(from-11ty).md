@@ -36,7 +36,7 @@ image: eleventy.png
 tags: 
   - Personal
 ---
-{% }
+
 {% include 'image.njk',
   src: "eleventy.njk",
   position: "banner",
