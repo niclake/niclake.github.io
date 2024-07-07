@@ -31,21 +31,6 @@
     "blurb": "Here's a small list of things I've done that I am proud of."
   },
   {
-    "text": "Explore",
-    "url": "/explore/",
-    "explore": false
-  },
-  {
-    "text": "<i class=\"fa-brands fa-mastodon\"></i>",
-    "url": "https://mastodon.social/@niclake",
-    "explore": false
-  },
-  {
-    "text": "<i class=\"fa-solid fa-rss\"></i>",
-    "url": "/feed.xml",
-    "explore": false
-  },
-  {
     "text": "Uses",
     "url": "/uses/",
     "masthead": false,
@@ -62,5 +47,20 @@
     "url": "/wishlist/",
     "masthead": false,
     "blurb": "A list of things my family and I are interested in acquiring."
+  },
+  {
+    "text": "Explore",
+    "url": "/explore/",
+    "explore": false
+  },
+  {
+    "text": "<i class=\"fa-brands fa-mastodon\"></i>",
+    "url": "https://mastodon.social/@niclake",
+    "explore": false
+  },
+  {
+    "text": "<i class=\"fa-solid fa-rss\"></i>",
+    "url": "/feed.xml",
+    "explore": false
   }
 ]

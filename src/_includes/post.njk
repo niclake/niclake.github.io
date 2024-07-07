@@ -16,7 +16,7 @@ is_post: true
       {% if tag == "ADHD" %}
         {% set isADHD = "true" %}
       {% endif %}
-      <a class="post-tag" href="/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+      <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
     {% endfor %}
   </div>
   <div class="entry">

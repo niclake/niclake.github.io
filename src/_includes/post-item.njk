@@ -8,7 +8,7 @@
   <div class="date">
     {{ post.date | postDateNoYear }} •
     {% for tag in post.data.tags | filterTagList %}
-    <a class="post-tag" href="/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+    <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
     {% endfor %}
   </div>
 </div>
