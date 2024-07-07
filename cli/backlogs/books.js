@@ -24,9 +24,11 @@ const books = new GoogleSpreadsheet(process.env.BOOKS_SHEET_ID, serviceAccountAu
 await books.loadInfo() // loads document properties and worksheets
 const booksSheet = books.sheetsByTitle['Books'] // or use `doc.sheetsById[id]` or `doc.sheetsByTitle[title]`
 const allBooks = await booksSheet.getRows()
-const jsonArr = []
+const readArr = []
+const progressArr = []
+const priorityArr = []
 for (var i = 0; i < allBooks.length; i++) {
-  jsonArr.push({
+  var data = {
     title: allBooks[i]._rawData[0],
     authorFirst: allBooks[i]._rawData[1],
     authorLast: allBooks[i]._rawData[2],
@@ -37,11 +39,26 @@ for (var i = 0; i < allBooks.length; i++) {
     compDate: allBooks[i]._rawData[7],
     status: allBooks[i]._rawData[8],
     information: allBooks[i]._rawData[9],
-  })
+  }
+
+  if (["1 In Progress"].includes(data.status)) {progressArr.push(data)}
+  if (["2 Ready", "3 On Hold", "4 Priority"].includes(data.status)) {priorityArr.push(data)}
+  if (data.read === "X") {readArr.push(data)}
 }
-// console.log(allBooks[8]._rawData.slice(0,10))
-const __targetFile = 'books.json'
-fs.writeFile(__siteroot + __target + __targetFile, JSON.stringify(jsonArr), function(err) {
+fs.writeFile(__siteroot + __target + 'booksProgress.json', JSON.stringify(progressArr), function(err) {
+  if (err) {
+    console.log(err)
+  }
+})
+fs.writeFile(__siteroot + __target + 'booksPriority.json', JSON.stringify(priorityArr), function(err) {
+  if (err) {
+    console.log(err)
+  }
+})
+const sortedArr = readArr.sort(function(a,b) {
+  return Date.parse(b.compDate) - Date.parse(a.compDate)
+})
+fs.writeFile(__siteroot + __target + 'booksRead.json', JSON.stringify(sortedArr), function(err) {
   if (err) {
     console.log(err)
   }

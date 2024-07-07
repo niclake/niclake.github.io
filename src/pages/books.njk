@@ -1,0 +1,15 @@
+---
+title: Books
+permalink: "/books/index.html"
+layout: page
+---
+
+Hi There
+
+{% set books = backlogs.books %}
+{% for book in books %}
+  {{ book.title }}, {{ book.compDate }}
+{% endfor %}
+
+{% set year = books | currentBookCount %}
+{{ year }}

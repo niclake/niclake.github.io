@@ -24,9 +24,11 @@ const games = new GoogleSpreadsheet(process.env.GAMES_SHEET_ID, serviceAccountAu
 await games.loadInfo() // loads document properties and worksheets
 const gamesSheet = games.sheetsByTitle['Master List'] // or use `doc.sheetsById[id]` or `doc.sheetsByTitle[title]`
 const allGames = await gamesSheet.getRows()
-const jsonArr = []
+const beatenArr = []
+const progressArr = []
+const priorityArr = []
 for (var i = 0; i < allGames.length; i++) {
-  jsonArr.push({
+  var data = {
     title: allGames[i]._rawData[0],
     series: allGames[i]._rawData[1],
     seriesOrder: allGames[i]._rawData[2],
@@ -37,10 +39,26 @@ for (var i = 0; i < allGames.length; i++) {
     compDate: allGames[i]._rawData[8],
     hrComp: allGames[i]._rawData[9],
     information: allGames[i]._rawData[10],
-  })
+  }
+
+  if (["In Progress"].includes(data.status)) {progressArr.push(data)}
+  if (["Installed", "Priority"].includes(data.status)) {priorityArr.push(data)}
+  if (data.compDate) {beatenArr.push(data)}
 }
-const __targetFile = 'games.json'
-fs.writeFile(__siteroot + __target + __targetFile, JSON.stringify(jsonArr), function(err) {
+fs.writeFile(__siteroot + __target + 'gamesProgress.json', JSON.stringify(progressArr), function(err) {
+  if (err) {
+    console.log(err)
+  }
+})
+fs.writeFile(__siteroot + __target + 'gamesPriority.json', JSON.stringify(priorityArr), function(err) {
+  if (err) {
+    console.log(err)
+  }
+})
+const sortedArr = beatenArr.sort(function(a,b) {
+  return Date.parse(b.compDate) - Date.parse(a.compDate)
+})
+fs.writeFile(__siteroot + __target + 'gamesBeaten.json', JSON.stringify(sortedArr), function(err) {
   if (err) {
     console.log(err)
   }

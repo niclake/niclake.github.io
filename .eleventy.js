@@ -2,6 +2,7 @@ const plugins = require('./config/plugins')
 const shortcodes = require('./config/shortcodes.js')
 const dateFilters = require('./config/filters/date.js')
 const postFilters = require('./config/filters/posts.js')
+const bookFilters = require('./config/filters/books.js')
 const fs = require('fs')
 
   
@@ -73,6 +74,9 @@ module.exports = function (eleventyConfig) {
 
   // Filters
   Object.keys(dateFilters).forEach(filterName => {
+    eleventyConfig.addFilter(filterName, dateFilters[filterName])
+  })
+  Object.keys(bookFilters).forEach(filterName => {
     eleventyConfig.addFilter(filterName, dateFilters[filterName])
   })
 
