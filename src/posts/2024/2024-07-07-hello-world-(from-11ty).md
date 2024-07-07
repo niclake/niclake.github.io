@@ -2,10 +2,11 @@
 title: "Hello World (from 11ty)!"
 permalink: /hello-world-11ty/index.html
 date: 2024-07-07T13:38:13Z
-description: BLURB
+description: Ah shit, here we go again dot gif
 image: eleventy.png
 tags: 
   - Personal
+  - Technology
 ---
 
 {% include 'image.njk',
