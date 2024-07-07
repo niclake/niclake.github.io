@@ -8,6 +8,7 @@ If you'd like to find out more about me, [check out my About page](/about/).
 Here is how I prefer to keep in touch:
 
 - I would love to hear from you via [email](mailto:niclake13@gmail.com)
+- You can follow everything I write by subscribing to [my RSS feed](/feed.xml)
 - I'm active on [Mastodon](https://mastodon.social/@niclake) and [Discord](http://discordapp.com/users/147383526323388416)
 - I use [LinkedIn](https://www.linkedin.com/in/niclake/) to keep an eye on the job market and support my peers
 - I use [Instagram](http://instagram.com/niclake) for friends and family only
