@@ -52,6 +52,20 @@
       margin-bottom: 1rem;
     }
   }
+
+  table {
+    margin: 0 auto 1rem;
+    border: 5px solid var(--light-grey);
+
+    th {
+      background-color: var(--grey);
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid var(--light-grey);
+    }
+  }
 }
 
 .date,
