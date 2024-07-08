@@ -2,7 +2,7 @@
 title: "The Ultimate Fantasy Football Keeper League"
 permalink: /fantasy-football/index.html
 date: 2024-07-08T16:15:05Z
-description: If your fantasy football leagues are becoming bland, boring, or just to 'the same every year', I have the solution for you. It involves punters.
+description: If your fantasy football leagues are becoming bland, boring, or a massive snoozefest, I have the solution for you. It involves punters.
 tags: 
   - Personal
   - Sports
