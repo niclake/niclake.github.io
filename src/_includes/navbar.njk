@@ -19,7 +19,7 @@
               {% set classes = "nav-item" %}
             {% endif %}
             <li class="{{ classes }}">
-              <a class="nav-link" href="{{ nav.url }}">{{ nav.text | safe }}</a>
+              <a {% if nav.rel %}rel="me"{% endif %} class="nav-link" href="{{ nav.url }}">{{ nav.text | safe }}</a>
             </li>
           {% endif %}
         {%- endfor -%}

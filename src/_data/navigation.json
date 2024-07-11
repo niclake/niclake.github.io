@@ -55,6 +55,7 @@
   },
   {
     "text": "<i class=\"fa-brands fa-mastodon\"></i>",
+    "rel": "me",
     "url": "https://mastodon.social/@niclake",
     "explore": false
   },

@@ -12,9 +12,6 @@ module.exports = [
     name: '@11tyrocks/eleventy-plugin-sass-lightningcss'
   },
   {
-    name: '@sardine/eleventy-plugin-external-links'
-  },
-  {
     name: '@rknightuk/eleventy-plugin-post-graph',
     options: {
       boxColor: '#44475a',
