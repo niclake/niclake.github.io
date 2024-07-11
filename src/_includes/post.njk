@@ -4,21 +4,21 @@ is_post: true
 ---
 
 <article class="post single-post">
-  <div class="back">
-    <a href="/blog">← Return to blog</a>
-  </div>
-  <h1 class="postTitle">{{ title }}</h1>
+  <div class="center-heading">
+    <h1 class="postTitle">{{ title }}</h1>
 
-  <div class="date">
-    {{ date | postDate }} • 
-    {% set isADHD = "false" %}
-    {% for tag in tags | filterTagList %}
-      {% if tag == "ADHD" %}
-        {% set isADHD = "true" %}
-      {% endif %}
-      <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
-    {% endfor %}
+    <div class="date">
+      {{ date | postDate }} • 
+      {% set isADHD = "false" %}
+      {% for tag in tags | filterTagList %}
+        {% if tag == "ADHD" %}
+          {% set isADHD = "true" %}
+        {% endif %}
+        <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+      {% endfor %}
+    </div>
   </div>
+
   <div class="entry">
     {% if isADHD == "true" %}
       {% include 'adhd.njk' %}

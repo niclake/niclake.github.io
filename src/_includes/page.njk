@@ -3,7 +3,16 @@ layout: default
 ---
 
 <article class="page">
-  <h1 class="pageTitle">{{ title }}</h1>
+  <div class="center-heading">
+    <h1 class="pageTitle">{{ title }}</h1>
+    {% if title == 'Blog' %}
+    <div class="btn-nl-primary">
+      <a class="tag-bubble" href="/blog/tags/">
+        All Tags
+      </a>
+    </div>
+    {% endif %}
+  </div>
   <div class="entry clearfix">
     {{ content | safe }}
   </div>

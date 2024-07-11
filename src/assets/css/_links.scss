@@ -1,9 +1,10 @@
 .entry, 
 .date,
 .home,
-.back {
+.back,
+.btn-nl-primary {
   a {
-    background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 25%);
+    background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 75%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: var(--pure-white);
@@ -37,5 +38,25 @@
         -webkit-text-fill-color: var(--green) !important;
       }
     }
+  }
+}
+
+.btn-nl-primary {
+  display: inline-flex;
+  background-color: var(--grey);
+  color: var(--pure-white);
+  border-radius: 10px;
+  border: 3px solid linear-gradient(to right, var(--pink) 0%, var(--purple) 75%);
+  font-weight: 500;
+  margin-bottom: 5px;
+  transition: all ease 0.3s;
+
+  .tag-bubble {
+    padding: 5px 10px;
+    text-decoration: none;
+  }
+
+  &:hover {
+    background-color: var(--pure-black);
   }
 }

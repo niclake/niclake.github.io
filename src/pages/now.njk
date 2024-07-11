@@ -6,11 +6,14 @@ permalink: /now/index.html
 {% set latest_nows = collections.Now | reverse %}
 {% set nowPost = latest_nows.slice(0, 1) %}
 {% for post in nowPost %}
-  <p><em>Last updated: {{ post.date | postDate }}</em> - <a href="{{base.url}}tags#now">see previous entries here</a></p>
+  <div class="center-heading">
+    <div class="date">
+      {{ post.date | postDate }}<br/>
+      <a href="{{base.url}}tags#now">See Previous Entries Here</a>
+    </div>
+  </div>
   <div>{{ post.content | safe }}</div>
 {% endfor %}
-
-<hr />
 
 {% markdown %}
   {%- include 'now-stuff.md' -%}

@@ -22,3 +22,9 @@ if (entry !== null) {
   entry.getElementsByClassName('monogram-left')[0].style.fill = sig1;
   entry.getElementsByClassName('monogram-right')[0].style.fill = sig2;
 }
+
+var entry = document.querySelector('.home');
+if (entry !== null) {
+  entry.getElementsByClassName('monogram-left')[0].style.fill = sig1;
+  entry.getElementsByClassName('monogram-right')[0].style.fill = sig2;
+}

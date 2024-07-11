@@ -3,9 +3,21 @@ permalink: /blog/tags/index.html
 title: Tags
 ---
 
+{% set tags = collections.post | getAllTags | filterTagList | sort %}
 <div id="tags">
-{% for tag in collections.post | getAllTags | filterTagList | sort %}
-  <h3 id="{{ tag | slugify }}" class="category-head">{{ tag }}</h3>
+  <div class="center-heading">
+    <div class="container card-container">
+    {% for tag in tags %}
+      <div class="btn-nl-primary">
+        <a class="tag-bubble" href="#{{tag | slugify}}">
+          {{tag}} <small>({{collections[tag].length}})
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% for tag in tags %}
+  <h3 id="{{ tag | slugify }}" class="category-head">{{ tag }} <small class="">({{ collections[tag].length }})</small></h3>
   <ul class="no-list-style">
     {% for post in collections[ tag ] | reverse %}
       <li>
