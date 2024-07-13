@@ -3,12 +3,6 @@
     "name": "Random",
     "hats": [
       {
-        "name": "Savannah Bananas",
-        "url": "https://shop.thesavannahbananas.com/products/bananas-new-era-5950-trifecta?variant=44363872043246",
-        "img": "https://shop.thesavannahbananas.com/cdn/shop/files/Newerahat.png",
-        "priority": true
-      },
-      {
         "name": "Party Animals",
         "url": "https://shop.thesavannahbananas.com/products/party-animals-5950-alternate-hat-pink?variant=44364844794094",
         "img": "https://shop.thesavannahbananas.com/cdn/shop/files/70821671_59FIFTY__PARANI_PNKBLK_3QL.jpg",
@@ -96,21 +90,6 @@
   {
     "name": "Red Sox Minor Leagues",
     "hats": [
-      {
-        "name": "Worcester Navy Heart W",
-        "url": "https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-heart-w-5950-hat?variant=32307572572196",
-        "img": "https://woosox.milbstore.com/cdn/shop/products/12508977_59FIFTY_MILBACWARSOXHOME_WARSOX_OTC_3QL_3750x.jpg"
-      },
-      {
-        "name": "Worcester Navy/Red Heart W",
-        "url": "https://woosox.milbstore.com/collections/all-caps/products/pre-sale-worcester-red-sox-navy-red-heart-w-5950-hat?variant=32307691257892",
-        "img": "https://woosox.milbstore.com/cdn/shop/products/12509049_59FIFTY_MILBACWARSOXALT1_WARSOX_OTC_3QL_3750x.jpg"
-      },
-      {
-        "name": "Los Wepas de Worcester Rocket Royal/White",
-        "url": "https://woosox.milbstore.com/collections/all-caps/products/ryl-wht-rocket-wepas-5950-hat-100620?variant=39370254057508",
-        "img": "https://woosox.milbstore.com/cdn/shop/products/12737073_12737055_59FIFTY_COPA21_WORSOX_WHILTRYL_3QL_3750x.jpg"
-      },
       {
         "name": "Portland State of Maine Navy/Red",
         "url": "https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326",
