@@ -1,20 +1,24 @@
 ### Projects
 
-- I just released my [daily sports emails project](/daily-sports-emails/)
-- I'm hacking away at a revamp of my [books][books] and [games][games] spreadsheets
-- I'm doing some tweaking of my blog behind the scenes, and I'm really excited about it
+- I recently updated my site, and am adding a bunch of additional tweaks and features
+- I just released my [daily sports emails project](/daily-sports-emails/), and have some bugs + new features that I'm addressing
 - The inklings of a really simple iOS app
 - [See all my released projects here](/projects/)
 
 ### Currently Reading
 
-- _Annihilation_ by Jeff Vandermeer
+- _Morning Star (Red Rising book 3)_ by Pierce Brown
+- Up Next: _A Memory Called Empire_ by Arkady Martine
+- Up Next: _The Caledonian Gambit_ by Dan Moren
+- Up Next: _Acceptance (Southern Reach book 3)_ by Jeff VanderMeer
+- Up Next: _Gardens of the Moon (Malazan book 1)_ by Steven Erikson
+- Up Next: _Horus Rising_ by Dan Abbott
 - See my [full book backlog here][books], and tell me any books you think I should add/prioritize
 
 ### Currently Playing
 
+- **Elden Ring** (PC / Steam Deck)
 - **Paper Mario: The Thousand-Year Door** (Switch)
-- (Up Next) **Elden Ring** (PC / Steam Deck)
 - (Paused) **Pokémon LeafGreen** (GameBoy Advance)
 - See my [full game backlog here][games], and tell me any games you think I should play next
 
