@@ -1,0 +1,38 @@
+---
+title: "Sports, The Economy, and You"
+date: "2009-02-18"
+tags:
+  - "sports"
+---
+
+\*\*\*NOTE: I have absolutely no facts to back this post up.  These are just personal thoughts and feelings that I have about sports and the economy as they stand today.\*\*\*
+
+I should preface this note by stating that this is, in fact, the first day that I have worked this week.  Due to budget cuts, my job has cut back on the number of hours given out to full time employees(??)... last week I had 9 regular hours.  This week isn't looking any better.  And with the economy, finding a new job is very very difficult... not for lack of trying.  But I digress.
+
+Last night, in amidst the talk of A-Rod's press conference and the Suns scoring 81 points in the first half, I saw something about Texas Tech football coach Mike Leach potentially getting fired because he wouldn't negotiate an extension for his contract.  This kinda got me thinking (it's not exactly related, but it's close) about the finances and the economy today, and how it all relates to sports.
+
+Here's more of a story along my lines of thinking.  Kirk Ferentz (Iowa Hawkeyes football coach... go Hawks!) [got himself a nice little extension](http://sports.espn.go.com/ncf/news/story?id=3902684) in amongstall the talk of him possibly jumping to the Kansas City Chiefs head coach position (frankly, I'm not sure what kind of job he could do as a NFL coach, but that's not the point).  Did you know that Ferentz is the highest paid state employee in the state of Iowa?  Let me repeat that... the highest paid state employee in the state of Iowa.
+
+Please, don't get me wrong.  I love sports.  Sports entertain us.  There's more drama in a single season of college basketball than could ever be fit into a DVD box set of One Tree Hill, more storylines written on fields and courts than all the writers that went on strike could have ever written down, and enough hearts broken every single year to keep any practicing psychiatrist debt-free for the rest of his/her life.  But in the long run, you and I (and everyone else) know that sports is just a game.  I repeat, just a game.
+
+Sure, these guys work hard, training to be the absolute best at what they do, and I applaud them for that.  I wish to this day that I could be as tall as Hasheem Thabeet (did you know that I'm actually older than he is?  By 3 days, I think... yet he towers over my meek 5'6" height), as fast as Marion Jones (minus the drugs), or could throw a ball as hard as Jonathan Paplebon.  But I can't do these things... so I get to sit back here and analyze things.  And you know what I see, throughout all major sports (NBA, NFL, NHL, MLB)?  (And again, remember... this is a generalization.)
+
+I see a bunch of millionare crybabies.
+
+There, I said it.  Crybabies.  Players that "can't feed families on $18 million a year".  Players that are "upset" with having the franchise tag placed on them (doesn't that guarantee you $14 million?).  Players that... well, you get my drift.
+
+At a time when the economy is suffering, when families are scrounging to get by on a monthly, weekly, daily basis, the only solace for some of us is sitting and watching Kobe and Lebron, Sid the Kid, Federer and Nadal, or analyze these kids fresh out of college to figure out where they're going to end up in the NFL; all these players, most of whom make more in a single game that I'll make in a year, or who make more in a year than I'll ever see in my lifetime (barring some miracle).
+
+Maybe I'm bitter, who knows.  Maybe I'm jealous of these guys having fun, playing a game that they've loved all their life and getting paid obscene amounts of money for it, while I sit back and watch and use a pre-made blog template because I'm too cheap to pay $15 a year to modify it.  Does that make me a terrible person?  Who knows.  I'm sure the more and more I type, the more I sound like I'm just cranky... maybe I'll take a page out of Kornheiser's book and do a little penguin dance.  That'll cheer me up for sure.
+
+So what's my main point of this post?  It'd have to be this; I hope that all of these athletes truly understand their gifts and talents, their power and clout in the world today, and that they make the most of it.  Sitting there watching the rich get richer and the poor get poorer might empower someone, but it hurts them at the same time.
+
+Your games that you play (by the way, if you haven't figured it out yet, I like to stress this point a lot... sports are games.  Games are fun.  Professional sports are businesses built around having fun... almost seems counter-productive to me... anyway...), and by you, I mean the athletes... how much fun would you have, making $10, $15 million a year, with no one coming to watch you play?  Ladies in the WNBA (sorry to single you out, but...), do you think you would enjoy playing more if more people showed up to watch your games?  Or how about you, MLS?  Arena Football (though your stadiums are usually pretty full, I'll give you that.)?  I'm waiting to see what's going to happen to the MLB this year, personally.  Teams like the Yankees, Red Sox, Cubs... big name teams in big name venues, most tickets are season tickets, and those have been acquired long ago.  But what about smaller clubs like Kansas City, Tampa, Seattle... Detroit?  How great will you, the visiting team, feel about going in to a stadium just barely over half capacity and having a 3 game series played there?  How do you think the home team would feel in a situation like that?  To sum it up, what's the fun in playing the sports, if no one is around to watch you?
+
+So I go back to an earlier post, and taking a page out of the book of some ESPN columnist (if someone can point me to whom this is so I can give him/her credit, that would be wonderful), I, as quasi-pretend-commissioner of all sports, propose this; everyone in the wide world of sports, from the coaches to the players to the commissioners, everyone who benefits directly from the play and management of the team itself, should take a 1% pay cut, all the way across the board.
+
+Take this money and give it directly to the community that you support.  Teams and organizations, go build a park or something.  Keep jobs open and available for your beer and hot dog salespeople.  Offer promotions at the ball park/stadium.  Help out those in need in your area.  For the leagues themselves, I see 3 options.  You could go around and compliment the individual teams, maybe help a little more in more impoverished areas.  You could do some sort of nationwide benefit; I'm not really sure what this could entail, but I'm sure your marketing people could think something up.  Or, you could put all that money towards steroid/PED-detection programs and testing, working towards ending this terrible trend in sports nowadays.  Any of those options are bound to make your fans happy.  But somehow, please... show us you care about the common fan.  (Also, for leagues that don't have salary caps... I propose you get one implemented ASAP.)
+
+Oh, and TV networks... don't black out your games anymore.  You and I both know that we're all having a hard enough time making ends meet, and that there are going to be plenty of non-sold out games this season.  Please don't take it out on us, the bottom end of the totem pole.  I like watching my sports teams.  I'd rather see the whole game, and not just the 30-second highlights that ESPN gives us each night.
+
+Thus ends yet another political and economical-induced rant.  I said that I didn't want to do these, but I feel so strongly about the topics sometimes that I just have to get them out.  I promise... more sports talk.  Less MSNBC-esque talk.
