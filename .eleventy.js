@@ -1,3 +1,4 @@
+const collections = require('./config/collections')
 const plugins = require('./config/plugins')
 const shortcodes = require('./config/shortcodes.js')
 const dateFilters = require('./config/filters/date.js')
@@ -32,8 +33,6 @@ module.exports = function (eleventyConfig) {
     extname: ".html"
   });
 
-  
-
   // Passthroughs
   ['src/assets', '{ "node_modules/littlefoot/dist/littlefoot.js": "assets/js/littlefoot.js" }'].forEach(path => {
     eleventyConfig.addPassthroughCopy(path, {
@@ -45,6 +44,11 @@ module.exports = function (eleventyConfig) {
   plugins.forEach(plugin => {
     eleventyConfig.addPlugin(require(plugin.name), { ...plugin.options })
   })
+
+  // collections
+  Object.keys(collections).forEach(collectionName => {
+    eleventyConfig.addCollection(collectionName, collections[collectionName])
+})
 
   // Shortcodes
   Object.keys(shortcodes).forEach(shortcodeName => {
