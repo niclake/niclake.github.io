@@ -2,7 +2,7 @@
 title: "Hit The Brakes"
 date: "2011-04-13"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 ![](images/speeding%20car%20fast%20flying%20driving%20driver.jpg)Human beings aren't built to go 100 miles a minute.  We just aren't.  And yet it seems that is how the 21st century American tries to live their life.

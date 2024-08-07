@@ -2,10 +2,10 @@
 title: "You Have to Try to Fail That Badly"
 date: "2010-02-25"
 tags:
-  - "computers"
-  - "life"
-  - "technology"
-  - "thoughts"
+  - "Computers"
+  - "Personal"
+  - "Technology"
+  - "Thoughts"
 ---
 
 Days like today make me really happy I have the past that I do.  That's probably one of the few times you'll ever hear me utter something like that.

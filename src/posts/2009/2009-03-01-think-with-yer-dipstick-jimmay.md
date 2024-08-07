@@ -2,10 +2,10 @@
 title: "Think With Yer Dipstick, Jimmay!"
 date: "2009-03-01"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
+  - "MLB"
 ---
 
 \[caption id="" align="alignleft" width="289" caption="Were you thinkin' with yer dipstick... Jimmay?"\]![Were you thinkin with yer dipstick... Jimmay?](images/castrol-use-your-dipstick.jpg)\[/caption\]

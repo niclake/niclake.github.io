@@ -2,8 +2,8 @@
 title: "Random Randomness From My Random World"
 date: "2008-07-03"
 tags:
-  - "crossed"
-  - "random"
+  - "Crossed"
+  - "Personal"
 ---
 
 Have you ever had one of those days where your body is absolutely exhausted, but your brain is just jumpy and ready to go?

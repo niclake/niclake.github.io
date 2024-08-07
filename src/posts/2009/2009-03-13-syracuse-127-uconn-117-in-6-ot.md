@@ -2,8 +2,8 @@
 title: "Syracuse 127, UConn 117 in 6 OT"
 date: "2009-03-13"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 \[caption id="" align="alignleft" width="273" caption="Courtesy AP Photos"\]![](images/e6ca84d2-6d42-4f65-8995-d0f8ed521f50.jpg)\[/caption\]

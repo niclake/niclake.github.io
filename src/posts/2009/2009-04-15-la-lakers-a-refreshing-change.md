@@ -2,7 +2,7 @@
 title: "LA Lakers: A Refreshing Change"
 date: "2009-04-15"
 tags:
-  - "basketball"
+  - "Basketball"
   - "NBA"
 ---
 

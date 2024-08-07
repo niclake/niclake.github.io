@@ -2,8 +2,8 @@
 title: "Fantasy Frustration"
 date: "2009-09-20"
 tags:
-  - "fantasy-sports"
-  - "football"
+  - "Fantasy Sports"
+  - "Football"
   - "NFL"
 ---
 

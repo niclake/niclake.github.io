@@ -2,7 +2,7 @@
 title: "Sports, The Economy, and You"
 date: "2009-02-18"
 tags:
-  - "sports"
+  - "Sports"
 ---
 
 \*\*\*NOTE: I have absolutely no facts to back this post up.  These are just personal thoughts and feelings that I have about sports and the economy as they stand today.\*\*\*

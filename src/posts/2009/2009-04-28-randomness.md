@@ -2,17 +2,17 @@
 title: "Randomness"
 date: "2009-04-28"
 tags:
-  - "cedar-falls"
-  - "goals"
-  - "life"
-  - "movies"
-  - "random"
-  - "rant"
-  - "school"
-  - "sports"
-  - "stupid"
-  - "thoughts"
-  - "work"
+  - "Cedar Falls"
+  - "Goals"
+  - "Personal"
+  - "Movies"
+  - "Personal"
+  - "Rant"
+  - "School"
+  - "Sports"
+  - "Stupid"
+  - "Thoughts"
+  - "Work"
 ---
 
 Before I begin, I have to explain something...

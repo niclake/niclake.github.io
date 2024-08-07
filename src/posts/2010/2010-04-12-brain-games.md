@@ -2,9 +2,9 @@
 title: "Brain Games"
 date: "2010-04-12"
 tags:
-  - "life"
-  - "random"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Thoughts"
 ---
 
 I have a pretty big love/hate relationship with my brain.

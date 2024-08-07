@@ -2,8 +2,8 @@
 title: "I Can't Believe This..."
 date: "2008-06-18"
 tags:
-  - "rant"
-  - "stupid"
+  - "Rant"
+  - "Stupid"
 ---
 
 This is copied from ESPN's Rick Reilly... [Here's the video.](http://www.youtube.com/watch?v=-tsFSALrA1o)

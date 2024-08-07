@@ -2,12 +2,12 @@
 title: "Professional vs. College - The Never-ending Debate"
 date: "2009-02-13"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
   - "NBA"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
   - "NFL"
 ---
 

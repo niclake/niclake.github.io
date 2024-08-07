@@ -2,7 +2,7 @@
 title: "Goals Update"
 date: "2008-07-13"
 tags:
-  - "goals"
+  - "Goals"
 ---
 
 Man, it's been a long time...  I thought maybe I'd do a quick goals update.

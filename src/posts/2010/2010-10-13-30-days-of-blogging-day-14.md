@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 14"
 date: "2010-10-13"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Wow, this has been a rough day.  Holy crap.  Good thing I can still update my blog while I'm on-the-go.

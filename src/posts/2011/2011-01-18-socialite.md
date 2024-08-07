@@ -2,10 +2,10 @@
 title: "Socialite"
 date: "2011-01-18"
 tags:
-  - "guitar"
-  - "life"
-  - "music"
-  - "school"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "School"
 ---
 
 What an awesome 10 days this has been.  Seriously.

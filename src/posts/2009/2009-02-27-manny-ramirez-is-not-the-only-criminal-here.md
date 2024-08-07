@@ -2,7 +2,7 @@
 title: "Manny Ramirez Is Not the Only Criminal Here"
 date: "2009-02-27"
 tags:
-  - "baseball"
+  - "Baseball"
 ---
 
 _PHOENIX --_ [_Manny Ramirez_](http://sports.espn.go.com/mlb/players/profile?playerId=2974) _has rejected yet another offer from the_ [_Los Angeles Dodgers_](http://sports.espn.go.com/mlb/clubhouse?team=lad)_._

@@ -2,8 +2,8 @@
 title: "Rajon Rondo"
 date: "2009-02-24"
 tags:
-  - "basketball"
-  - "celtics"
+  - "Basketball"
+  - "Celtics"
   - "NBA"
 ---
 

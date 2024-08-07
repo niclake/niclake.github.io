@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 1"
 date: "2010-09-28"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I ran across this idea today as I was cleaning out my techno-life... someone saved their RSS feed from deletion for at least a little while longer for giving me the idea.  The concept is, here's 30 topics to blog about, mostly on a personal level.  Go nuts.  She (and in turn, I) am taking it one step further, by doing these in consecutive days.  I already know I'm going to run into a bit of a hangup on this, simply because I'm going out of town this weekend.  Oh well, at least I know Reid has wifi in his residence.

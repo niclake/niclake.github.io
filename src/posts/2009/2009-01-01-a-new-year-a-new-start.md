@@ -2,7 +2,7 @@
 title: "A New Year, A New Start"
 date: "2009-01-01"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 So, as I sit here doing nothing on New Year's Eve, I've decided that I'm going to start using my blog more.  I don't know what I'm going to put on it... thoughts of the day, rants, new music I like, and stuff like that.

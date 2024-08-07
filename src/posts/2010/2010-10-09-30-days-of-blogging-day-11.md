@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 11"
 date: "2010-10-09"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Oh, hello there strep throat.  I didn't see you there sneaking up on me like that.

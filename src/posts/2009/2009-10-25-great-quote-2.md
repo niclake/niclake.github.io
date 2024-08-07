@@ -2,7 +2,7 @@
 title: "Great Quote"
 date: "2009-10-25"
 tags:
-  - "football"
+  - "Football"
 ---
 
 A great quote from the great Vince Lombardi...

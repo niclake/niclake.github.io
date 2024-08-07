@@ -2,9 +2,9 @@
 title: "The Ultimate Betrayer Is..."
 date: "2009-03-04"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
 ---
 
 Professional sports are businesses.  I get that.  Players change organizations and uniforms all the time, and that's just part of it.  But with Jay Cutler being shopped around, with Shaq vs. the Magic and Chauncy Billups vs. the Pistons this evening, and with the draft incoming for your favorite college players, I thought I'd bring this topic up.  (Also, because ESPN has this as their current interactive poll.)

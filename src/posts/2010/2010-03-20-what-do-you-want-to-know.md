@@ -2,7 +2,7 @@
 title: "What Do You Want To Know?"
 date: "2010-03-20"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 So it seems that lately, Formspring has been "the big thing".  For those that don't know, Formspring is a way for people to ask others questions.  The user answers, and the questions are on display for all to see.  Most people do this anonymously, but others will log in to allow the user to see who's asking the questions.

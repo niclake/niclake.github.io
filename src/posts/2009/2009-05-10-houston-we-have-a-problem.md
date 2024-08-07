@@ -2,9 +2,9 @@
 title: "Houston, We Have A Problem..."
 date: "2009-05-10"
 tags:
-  - "baseball"
-  - "basketball"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "MLB"
   - "NBA"
 ---
 

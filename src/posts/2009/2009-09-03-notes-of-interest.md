@@ -2,14 +2,14 @@
 title: "Notes of Interest"
 date: "2009-09-03"
 tags:
-  - "computers"
-  - "life"
-  - "music"
-  - "school"
-  - "simple-pleasures"
-  - "sports"
-  - "technology"
-  - "thoughts"
+  - "Computers"
+  - "Personal"
+  - "Music"
+  - "School"
+  - "Simple Pleasures"
+  - "Sports"
+  - "Technology"
+  - "Thoughts"
 ---
 
 • He Is Legend's "I Am Hollywood" album is incredible.  Probably one of my personal top 5 of all time, definitely top 10.

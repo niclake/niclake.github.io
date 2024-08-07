@@ -2,9 +2,9 @@
 title: "Profound Thoughts and Resolutions"
 date: "2009-12-15"
 tags:
-  - "food"
-  - "goals"
-  - "life"
+  - "Food"
+  - "Goals"
+  - "Personal"
 ---
 
 > "It doesn't matter if the glass is half empty or half full, it's who is pouring the water that matters."

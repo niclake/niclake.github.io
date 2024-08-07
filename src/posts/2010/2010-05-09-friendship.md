@@ -2,10 +2,10 @@
 title: "Friendship"
 date: "2010-05-09"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "simple-pleasures"
-  - "thoughts"
+  - "Cedar Falls"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Thoughts"
 ---
 
 There's something to be said for pure, honest friendship.

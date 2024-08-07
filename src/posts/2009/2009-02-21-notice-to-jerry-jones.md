@@ -2,7 +2,7 @@
 title: "Notice to Jerry Jones"
 date: "2009-02-21"
 tags:
-  - "football"
+  - "Football"
   - "NFL"
 ---
 

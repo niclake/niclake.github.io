@@ -2,8 +2,8 @@
 title: "Stress Test"
 date: "2011-04-19"
 tags:
-  - "life"
-  - "school"
+  - "Personal"
+  - "School"
 ---
 
 Today = me taking a study break to update.  Real life stuff, no theoretical mumbo-jumbo.

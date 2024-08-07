@@ -2,9 +2,9 @@
 title: "Basketball Weekend"
 date: "2009-03-01"
 tags:
-  - "basketball"
+  - "Basketball"
   - "NBA"
-  - "ncaa-basketball"
+  - "Basketball"
 ---
 
 With no news coming out of spring training camps, and Tiger Woods absent from the golf course, what an absolutely fantastic weekend for basketball, both college and NBA.  I think I'm going to need to invest in an additional TV here in the near future if I'm going to keep up with it all.

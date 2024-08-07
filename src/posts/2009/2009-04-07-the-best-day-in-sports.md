@@ -2,10 +2,10 @@
 title: "The Best Day in Sports"
 date: "2009-04-07"
 tags:
-  - "baseball"
-  - "basketball"
-  - "mlb"
-  - "ncaa-basketball"
+  - "Baseball"
+  - "Basketball"
+  - "MLB"
+  - "Basketball"
 ---
 
 That's right, you heard me.  The Best Day in Sports.  Usually, at least.

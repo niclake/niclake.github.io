@@ -2,8 +2,8 @@
 title: "Football Rules... C'mon, Man!!!"
 date: "2009-09-25"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
   - "NFL"
 ---
 

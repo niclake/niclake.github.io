@@ -2,10 +2,10 @@
 title: "Week in Review"
 date: "2008-08-11"
 tags:
-  - "life"
-  - "music"
-  - "rant"
-  - "work"
+  - "Personal"
+  - "Music"
+  - "Rant"
+  - "Work"
 ---
 
 Just kinda reviewing my week... I have no idea who even reads this.

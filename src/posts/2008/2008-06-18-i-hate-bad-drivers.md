@@ -2,7 +2,7 @@
 title: "I Hate Bad Drivers"
 date: "2008-06-18"
 tags:
-  - "rant"
+  - "Rant"
 ---
 
 You know what really grinds my gears?  

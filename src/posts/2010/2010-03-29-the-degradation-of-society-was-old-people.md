@@ -2,11 +2,11 @@
 title: "The Degradation of Society (was Old People)"
 date: "2010-03-29"
 tags:
-  - "america"
-  - "life"
-  - "random"
-  - "simple-pleasures"
-  - "thoughts"
+  - "America"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Thoughts"
 ---
 
 Have you ever realized how freakin' cool old people are?

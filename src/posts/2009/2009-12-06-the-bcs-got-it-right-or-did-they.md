@@ -2,8 +2,8 @@
 title: "The BCS Got It Right... Or Did They?"
 date: "2009-12-06"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
 ---
 
 ![](images/bcsIS.jpg)The BCS sucks.  It really does.  In theory, you'd think that this idea would be great, and would really assist all of us fans in getting to see the top two teams in the nation play each other.  That's what we want after all, right?

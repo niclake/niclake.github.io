@@ -2,9 +2,9 @@
 title: "Ten on Tuesday (March 2)"
 date: "2010-03-02"
 tags:
-  - "life"
-  - "ten-on-tuesday"
-  - "thoughts"
+  - "Personal"
+  - "Ten On Tuesday"
+  - "Thoughts"
 ---
 
 **[![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)1. If you were given an hour to use a $200 Amazon gift card, what would you buy?** Good question... Amazon's got all kinds of stuff.  I'm sure I could go nuts on the DVDs and music stuff.

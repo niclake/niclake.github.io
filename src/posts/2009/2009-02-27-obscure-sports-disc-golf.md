@@ -2,7 +2,7 @@
 title: "Obscure Sports - Disc Golf"
 date: "2009-02-27"
 tags:
-
+  - Disc Golf
 ---
 
 So people ask me quite often, "What exactly is disc golf?"  Today is your lucky day.  I'm going to educate you on the wonders of this lively little sport.

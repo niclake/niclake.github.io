@@ -2,8 +2,8 @@
 title: "VEDA for August 14"
 date: "2010-08-15"
 tags:
-  - "beer"
-  - "vlog"
+  - "Beer"
+  - "Vlog"
 ---
 
 I've discovered a few things in my 2 days of doing VEDA so far...

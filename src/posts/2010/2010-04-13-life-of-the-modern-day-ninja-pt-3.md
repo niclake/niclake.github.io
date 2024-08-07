@@ -2,12 +2,12 @@
 title: "Life of the Modern Day Ninja, pt. 3"
 date: "2010-04-13"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "random"
-  - "simple-pleasures"
-  - "stupid"
-  - "thoughts"
+  - "Cedar Falls"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 ![](images/547px-ninja_gaiden_big1.jpg)It's been a long, long time, my friends. I've been away on my travels, practicing the way of the ninja, in order to blend in better. It's been a close couple of calls, with [a near-decapitation](http://niclake13.wordpress.com/2009/07/15/life-of-a-modern-day-ninja/) and [a near-capture](http://niclake13.wordpress.com/2009/07/16/life-of-the-modern-day-ninja-pt-2/) on my record... not to mention that I was still hungry.  These past few months, however, have prepared me for the worst, and I'm ready to face my next challenge head on.

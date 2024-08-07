@@ -2,11 +2,11 @@
 title: "Allyn's Calculus Test"
 date: "2009-12-14"
 tags:
-  - "life"
-  - "movies"
-  - "school"
-  - "simple-pleasures"
-  - "technology"
+  - "Personal"
+  - "Movies"
+  - "School"
+  - "Simple Pleasures"
+  - "Technology"
 ---
 
 I'm sitting here in the Union with [Allyn](http://www.discobeetle.com), and we're studying for our various finals.  He showed me one of his calc tests that he took... more specifically, his answer for an extra credit question...

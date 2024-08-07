@@ -2,8 +2,8 @@
 title: "Dear AP Voter: Can I Have What You're Smoking?"
 date: "2009-09-21"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
 ---
 
 Raise your hands here if you like the BCS and the way it's set up.

@@ -2,7 +2,7 @@
 title: "Ten on Tuesday (March 23)"
 date: "2010-03-23"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)**1. When you were a senior in high school, what career did you think you’d choose? Did you? Why or why not?** I was nearly certain that I was going to be a percussion/band instructor for the rest of my life. And I pursued it here at the university. However, I quickly discovered that my passion for music is more internal than external, and that it would be very difficult for me to teach others how to do the things that I love. Also, I'd dealt with tendonitis in my arm for years, and finally had a tendon in my wrist snap that April, requiring surgery and me to effectively retire from percussion.

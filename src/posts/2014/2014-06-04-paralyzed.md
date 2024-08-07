@@ -1,7 +1,7 @@
 ---
 title: "Paralyzed"
 permalink: /paralyzed/index.html
-date: 2014-06-04:00:00Z
+date: 2014-06-04T15:00:00Z
 tags: 
   - Personal
   - Tumblr

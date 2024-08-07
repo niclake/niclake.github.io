@@ -2,9 +2,9 @@
 title: "Weekend Update"
 date: "2009-03-08"
 tags:
-  - "basketball"
-  - "football"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Football"
+  - "Basketball"
   - "NFL"
 ---
 

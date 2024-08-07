@@ -2,7 +2,7 @@
 title: "2009 MLB Predictions"
 date: "2009-02-13"
 tags:
-  - "baseball"
+  - "Baseball"
 ---
 
 With the baseball season not too far in the distance, i thought that it's high time for me to do my predictions of this season. I'm not one of those super in-depth analysts that will tell you how many HRs someone will have, or a batting average or anything like that... instead, I'm more of the "outside the box" kinda guy when it comes to predictions.

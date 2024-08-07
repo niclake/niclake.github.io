@@ -2,9 +2,9 @@
 title: "My Confrontation with the Po-Po"
 date: "2010-03-01"
 tags:
-  - "beer"
-  - "cedar-falls"
-  - "life"
+  - "Beer"
+  - "Cedar Falls"
+  - "Personal"
 ---
 
 At the request of a few people on 20 Something Bloggers, I've decided to document my one and only "official" (i.e. not speeding-related) run-in with the police.  Unfortunately, that run-in was this past weekend... haha.  Oops.

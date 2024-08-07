@@ -2,8 +2,8 @@
 title: "Album Review - Damiera - 'Quiet Mouth Loud Hands'"
 date: "2008-06-19"
 tags:
-  - "guitar"
-  - "music-review"
+  - "Guitar"
+  - "Music Review"
 ---
 
 [![](images/149.jpg)](http://www.equalvision.com/media/releases/149.jpg)Just got my hands on a copy of Damiera's "Quiet Mouth Loud Hands".  Any CF graduates that know Steve Downs or Josh Sparks... this is their band.

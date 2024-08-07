@@ -2,7 +2,7 @@
 title: "Looking Deeper"
 date: "2010-03-06"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Someone suggested the other day that I should write about some of the more intimate aspects of my life.  Since I've been single for oh-so-long, I'm assuming they didn't mean \*that\* kind of intimate, but rather more of the personal things that go on in my life.  As such, I've decided to write about a few of them.  I may update every once in a while if I think of a more.

@@ -2,8 +2,8 @@
 title: "Fantasy 101: The Recap"
 date: "2009-09-23"
 tags:
-  - "fantasy-sports"
-  - "football"
+  - "Fantasy Sports"
+  - "Football"
   - "NFL"
 ---
 

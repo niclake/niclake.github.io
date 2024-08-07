@@ -2,9 +2,9 @@
 title: "NCAA Season Rankings"
 date: "2009-02-24"
 tags:
-  - "basketball"
-  - "football"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Football"
+  - "Basketball"
   - "NFL"
 ---
 

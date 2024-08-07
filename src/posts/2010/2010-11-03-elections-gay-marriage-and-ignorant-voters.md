@@ -2,12 +2,12 @@
 title: "On Elections, Gay Marriage, and Ignorant Voters"
 date: "2010-11-03"
 tags:
-  - "america"
-  - "life"
-  - "rant"
-  - "stupid"
-  - "technology"
-  - "thoughts"
+  - "America"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
+  - "Technology"
+  - "Thoughts"
 ---
 
 Man, this is \*not\* how I wanted to be writing post #200.  At all.  (Also, apologies for my absence.  I promise to explain myself, and soon.  But for now... on to other topics.)  A pre-emptive "sorry" for the long rant.

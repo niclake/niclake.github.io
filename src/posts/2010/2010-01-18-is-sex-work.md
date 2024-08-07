@@ -2,8 +2,8 @@
 title: "Is Sex Work?"
 date: "2010-01-18"
 tags:
-  - "life"
-  - "thoughts"
+  - "Personal"
+  - "Thoughts"
 ---
 
 A U.S.M.C. Major was about to start the morning briefing to his staff. While waiting for the coffee machine to finish its brewing, the major decided to pose a question to all assembled. He explained that his wife had been a bit frisky the night before and he failed to get his usual amount of sound sleep.

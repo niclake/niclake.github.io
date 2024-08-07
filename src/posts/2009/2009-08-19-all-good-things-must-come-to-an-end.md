@@ -2,12 +2,12 @@
 title: "All Good Things Must Come To An End"
 date: "2009-08-19"
 tags:
-  - "cedar-falls"
-  - "football"
+  - "Cedar Falls"
+  - "Football"
   - "golf"
-  - "life"
-  - "school"
-  - "sports"
+  - "Personal"
+  - "School"
+  - "Sports"
 ---
 
 As this summer winds to a close, I realize that I have, in fact, had it pretty decent.  There have been the obvious downs (dumb roommates, jobs downsizing, money crunches), but there have been tons of ups as well.

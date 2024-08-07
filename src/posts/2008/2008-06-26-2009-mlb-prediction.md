@@ -2,7 +2,7 @@
 title: "2009 MLB Prediction"
 date: "2008-06-26"
 tags:
-  - "sports"
+  - "Sports"
 ---
 
 Yes, that's right... 2009.  That's \*next\* year.

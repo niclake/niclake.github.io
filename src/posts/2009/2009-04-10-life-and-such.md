@@ -2,12 +2,12 @@
 title: "Life and Such"
 date: "2009-04-10"
 tags:
-  - "cedar-falls"
-  - "guitar"
-  - "life"
-  - "music"
-  - "rant"
-  - "school"
+  - "Cedar Falls"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "Rant"
+  - "School"
 ---
 
 Wow, it has been a really long time since I've posted in this blog... I should start doing it more.

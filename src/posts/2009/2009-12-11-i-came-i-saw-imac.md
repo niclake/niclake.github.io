@@ -2,11 +2,11 @@
 title: "I Came, I Saw, iMac"
 date: "2009-12-11"
 tags:
-  - "computers"
-  - "life"
-  - "simple-pleasures"
-  - "technology"
-  - "thoughts"
+  - "Computers"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Technology"
+  - "Thoughts"
 ---
 
 iKnow... very creative.

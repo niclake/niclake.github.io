@@ -2,10 +2,10 @@
 title: "Let The Madness Begin!"
 date: "2010-03-19"
 tags:
-  - "america"
-  - "basketball"
-  - "life"
-  - "sports"
+  - "America"
+  - "Basketball"
+  - "Personal"
+  - "Sports"
 ---
 
 March Madness is such a great time of the year.  It ties for my favorite, along with the MLB playoffs, though college basketball wins when/if the Red Sox and Cubs are eliminated, while basketball is awesome from beginning to end.  There's really nothing like the frantic pace of 48 college basketball games in 4 days in a tournament setting.  I love it, and I think we all do, as Americans.  You've got the office pools, the random betting, and the intensity that seems to sweep the nation every year during Spring Break.

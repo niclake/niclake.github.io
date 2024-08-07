@@ -2,8 +2,8 @@
 title: "What A Thriller..."
 date: "2009-11-01"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
 ---
 
 So I want to tell you a little game about a football game.

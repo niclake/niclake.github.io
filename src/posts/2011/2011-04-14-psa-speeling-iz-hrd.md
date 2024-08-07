@@ -2,10 +2,10 @@
 title: "PSA: Speeling iz Hrd"
 date: "2011-04-14"
 tags:
-  - "life"
-  - "rant"
-  - "stupid"
-  - "technology"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
+  - "Technology"
 ---
 
 This is me venting.  I get angry about dumb stuff like this.

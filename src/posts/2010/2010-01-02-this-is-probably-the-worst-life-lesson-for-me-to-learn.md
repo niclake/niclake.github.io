@@ -2,11 +2,11 @@
 title: "This Is Probably The Worst Life Lesson For Me To Learn"
 date: "2010-01-02"
 tags:
-  - "gambling"
-  - "life"
-  - "sports"
-  - "stupid"
-  - "thoughts"
+  - "Gambling"
+  - "Personal"
+  - "Sports"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 Before I begin, I need to say something.  Cheap sparklers (a LOT of them) and some masking tape can be a whole lot of fun.  You remember those little packs you'd get as kids?  And how they come in packs of 6 boxes?  At the New Year's party I attended, we took 9 of those packs (54 boxes), taped all the sparklers together, and lit them.  That stuff goes up quick, and is incredibly bright.  Add a few firecrackers and we'd have our own 4th of July show.

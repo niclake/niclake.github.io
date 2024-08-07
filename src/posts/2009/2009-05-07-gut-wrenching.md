@@ -2,9 +2,9 @@
 title: "Gut-Wrenching"
 date: "2009-05-07"
 tags:
-  - "baseball"
-  - "mlb"
-  - "red-sox"
+  - "Baseball"
+  - "MLB"
+  - "Red Sox"
 ---
 
 ![](images/Manny%20Ramirez.jpg)You know how everyone says "You'll remember exactly where you where when \_\_\_\_\_\_\_\_\_ happened"?  I think they're right.  I'll forever remember that I was in my tiny apartment searching for my W2's from 2007 when the news about Manny Ramirez broke.  I'd just gotten home, my TV wasn't on, and my monitor with my e-mail, RSS feeds, and Twitter updates was still off.  My phone rang... it was my friend Doug.  It's finals week at the university here, so I figured it was a "Duuuude, let's go get DRUNK!!!" call.  Instead, I got "Duuuuude, did you hear about MANNY?!?!?"

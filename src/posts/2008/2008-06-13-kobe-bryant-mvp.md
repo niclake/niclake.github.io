@@ -2,9 +2,9 @@
 title: "Kobe Bryant = MVP??"
 date: "2008-06-13"
 tags:
-  - "basketball"
-  - "rant"
-  - "sports"
+  - "Basketball"
+  - "Rant"
+  - "Sports"
 ---
 
 Fourth post in a few hours? Sue me.

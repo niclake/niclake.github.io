@@ -2,11 +2,11 @@
 title: "Life of the Modern Day Ninja, pt. 2"
 date: "2009-07-17"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "simple-pleasures"
-  - "stupid"
-  - "thoughts"
+  - "Cedar Falls"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 ![](images/ninja_tux.jpg)I have been utterly bested.

@@ -2,7 +2,7 @@
 title: "Ground Zero"
 date: "2011-02-19"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Too often, we build up extravagant structures in our lives and allow them to define us and rule us.  You could be a business owner consumed by your work, a musician that thinks you're better than everyone you've ever met (guilty, on occasion), a volunteer that gets sucked into whatever they're spending their time on, a person that gets consumed with spending time with their newest boy/girlfriend... it can be any number of things.

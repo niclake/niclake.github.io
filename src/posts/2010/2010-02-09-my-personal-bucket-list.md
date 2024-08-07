@@ -2,8 +2,8 @@
 title: "My Personal Bucket List"
 date: "2010-02-09"
 tags:
-  - "goals"
-  - "life"
+  - "Goals"
+  - "Personal"
 ---
 
 ![](images/BUCKET.JPG)The good people (ok, sorry, Alex the King) over at [20 Something Bloggers](http://www.20sb.net) put the idea into my head of doing a bucket list.  Everyone's always got that list of things they'd like to do/accomplish before they die, and as I near my 23rd birthday, I figured I would join the trend and write my own.  I'm sure that this is just a start, and I'll update it as time goes on.

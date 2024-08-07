@@ -2,8 +2,8 @@
 title: "Music Mix-Up Monday (March 15)"
 date: "2010-03-15"
 tags:
-  - "music"
-  - "music-mix-up-monday"
+  - "Music"
+  - "Music Mix Up Monday"
 ---
 
 Hello everyone, and welcome to the 2nd Music Mix-Up Monday.  It seems that a good number of people enjoyed [the first iteration of this](http://niclake13.wordpress.com/2010/03/01/music-mix-up-monday-march-1/), so we're gonna give it another try.

@@ -2,9 +2,9 @@
 title: "Self Image (VEDA-ish)"
 date: "2010-08-18"
 tags:
-  - "life"
-  - "thoughts"
-  - "vlog"
+  - "Personal"
+  - "Thoughts"
+  - "Vlog"
 ---
 
 After a few days off to reflect on this past weekend, I look back and think "wow... that was fun!"  3 vlogs in 3 days as my intro to Vlog Every Day in August (VEDA), even though it's the middle of the month already.  It's a whole different world, both recording these things as well as watching others.  There's something so raw and honest and open that vlogs have over normal blog posts.

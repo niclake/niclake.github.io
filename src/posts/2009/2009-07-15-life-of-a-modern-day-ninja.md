@@ -2,11 +2,11 @@
 title: "Life of a Modern Day Ninja"
 date: "2009-07-15"
 tags:
-  - "life"
-  - "random"
-  - "simple-pleasures"
-  - "stupid"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 ![](images/ninja-cat.jpg)Living as a modern day ninja is quite difficult.

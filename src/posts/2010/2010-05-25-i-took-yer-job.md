@@ -2,8 +2,8 @@
 title: "I Took Yer Job!!!"
 date: "2010-05-25"
 tags:
-  - "life"
-  - "work"
+  - "Personal"
+  - "Work"
 ---
 
 Wow, it's been a while since I've updated.  Life's gotten really busy, sorry.

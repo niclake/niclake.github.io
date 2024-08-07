@@ -2,11 +2,11 @@
 title: "Everybody Wake Up (Our Finest Hour Arrives)"
 date: "2009-05-29"
 tags:
-  - "cedar-falls"
-  - "guitar"
-  - "life"
-  - "random"
-  - "school"
+  - "Cedar Falls"
+  - "Guitar"
+  - "Personal"
+  - "Personal"
+  - "School"
 ---
 
 ![](images/University-of-Northern-Iowa-3C24A1E2.276151000_std.jpg)I'm thrilled to go back to school.  Stoked.  Nervous, sure, but I'm ready to do this.  My only worry/thought is that I may be graduating long after all of my peers.  A lot of people that I entered college with are either done, have 1 year for a comprehensive major/minor, or just student teaching left to complete.  Me?  3 years, if I push it.

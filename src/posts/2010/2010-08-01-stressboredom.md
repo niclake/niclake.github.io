@@ -2,11 +2,11 @@
 title: "Stress/Boredom"
 date: "2010-08-01"
 tags:
-  - "life"
-  - "school"
-  - "simple-pleasures"
-  - "thoughts"
-  - "work"
+  - "Personal"
+  - "School"
+  - "Simple Pleasures"
+  - "Thoughts"
+  - "Work"
 ---
 
 I start you out with a video, because I like this song.  Thus, you will watch it, and hopefully enjoy it as well.

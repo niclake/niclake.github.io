@@ -2,7 +2,7 @@
 title: "Obligatory Post"
 date: "2011-04-07"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I really need to start blogging more.  Live has been super busy.  School, church, school, trying to have a social life, and more school.

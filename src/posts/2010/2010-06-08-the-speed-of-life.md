@@ -2,8 +2,8 @@
 title: "The Speed of Life"
 date: "2010-06-08"
 tags:
-  - "life"
-  - "thoughts"
+  - "Personal"
+  - "Thoughts"
 ---
 
 ![](images/28-time-management.jpg)I've noticed that the older I get, the faster and faster life seems to be going.  And this bothers me a little bit.

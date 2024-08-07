@@ -2,13 +2,13 @@
 title: "Seriously, Who Doesn't Know About Disc Golf?"
 date: "2010-02-25"
 tags:
-  - "cedar-falls"
-  - "disc-golf"
-  - "flood"
-  - "life"
-  - "random"
-  - "simple-pleasures"
-  - "sports"
+  - "Cedar Falls"
+  - Disc Golf
+  - "Flood"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Sports"
 ---
 
 I actually had someone ask me today, "What is disc golf?" I was instantly saddened... the fact that people don't know the about it is truly a travesty. I actually wrote a post on my sports blog about this time last year, and thought maybe I would just transfer it over here, to share the wonders with you all.

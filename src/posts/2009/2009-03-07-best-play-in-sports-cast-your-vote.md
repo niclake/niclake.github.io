@@ -2,13 +2,13 @@
 title: "Best Play in Sports (Cast Your Vote)"
 date: "2009-03-07"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
+  - "MLB"
   - "NBA"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
   - "NFL"
 ---
 

@@ -2,7 +2,7 @@
 title: "A Change of Scenery(??)"
 date: "2011-03-17"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 For the past year, I've contemplated launching a web site.  I've had the domain for a while now, and even went through the preliminary stages of rough draft development, importing the blog (and bashing my head against the wall for days on end, trying to get it to work right), and so forth.  Then a) I realized that my site had a lot in common with [Gruber's site](http://daringfireball.net/), and 2) I had nothing relevant.

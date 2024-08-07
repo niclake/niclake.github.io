@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 7"
 date: "2010-10-05"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 7: Someone who has made your life worth living for.

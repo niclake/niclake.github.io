@@ -2,9 +2,9 @@
 title: "22 Years, Another Life Lesson Learned..."
 date: "2009-06-16"
 tags:
-  - "life"
-  - "rant"
-  - "stupid"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
 ---
 
 So I discovered 2 things about myself this evening.

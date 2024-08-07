@@ -2,8 +2,8 @@
 title: "Done and Done"
 date: "2010-05-05"
 tags:
-  - "life"
-  - "school"
+  - "Personal"
+  - "School"
 ---
 
 This is me, doing a little jig of elation.

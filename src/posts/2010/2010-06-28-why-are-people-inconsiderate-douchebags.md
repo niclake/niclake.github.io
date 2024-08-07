@@ -2,10 +2,10 @@
 title: "Why Are People Inconsiderate Douchebags?"
 date: "2010-06-28"
 tags:
-  - "life"
-  - "rant"
-  - "stupid"
-  - "thoughts"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 I'd like to think that my parents raised me pretty well, and that I've managed to adhere to their teachings as best as I've been able to. Everyone's got their moments, of course, but I actively attempt to keep these to a minimum. Obviously, when we get around our friends and family, we have the ability to become different people, and act in such a way that we may not otherwise, but even then most of the behavior is acceptable. However, now that I'm on the road more and more (yay, massive amounts of overtime!), I've been noticing a lot more unsavory actions occurring. These aren't stemming from me (though I'm sure I'm at fault sometimes), but rather from people in these various cities that I visit.

@@ -2,8 +2,8 @@
 title: "Randy Johnson - End of an Era"
 date: "2009-06-05"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 ![](images/randy-johnson-giants-iconphotostwo257270-mlb-giants-at.jpg)Randy Johnson became the 24th member of the 300 wins club this evening, winning 5-1 against the Nationals tonight.  In doing so, he became the 6th lefty, the 2nd oldest, and the only pitcher to ever defeat all 30 MLB clubs during his quest for 300.  Even at Johnson's spry age of 45, he was still able to knock a ball down, follow it, and make a diving throw to first to prevent a runner getting on base during the game this evening.

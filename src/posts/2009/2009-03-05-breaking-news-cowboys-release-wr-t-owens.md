@@ -2,7 +2,7 @@
 title: "BREAKING NEWS: Cowboys Release WR T. Owens"
 date: "2009-03-05"
 tags:
-  - "football"
+  - "Football"
   - "NFL"
 ---
 

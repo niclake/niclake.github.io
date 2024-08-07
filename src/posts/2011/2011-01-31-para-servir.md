@@ -2,7 +2,7 @@
 title: "Para Servir"
 date: "2011-01-31"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 What a week.

@@ -2,10 +2,10 @@
 title: "Greg Paulus ≠ Quarterback... right?"
 date: "2009-04-15"
 tags:
-  - "basketball"
-  - "football"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
+  - "Basketball"
+  - "Football"
   - "NFL"
 ---
 

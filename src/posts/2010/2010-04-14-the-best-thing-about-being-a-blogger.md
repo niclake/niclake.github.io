@@ -2,7 +2,7 @@
 title: "The Best Thing About Being A Blogger..."
 date: "2010-04-14"
 tags:
-  - "guest-blog"
+  - "Guest Blog"
 ---
 
 Over at 20 Something Bloggers.net, they host semi-regular blog-swaps, as a way for people to share their thoughts with others, as well as get more readers.  I signed up for the most recent event, and now I'd like you to all welcome Kelly to TMPY.  We traded blogs for the day... you can find [my post on this topic here](http://morgendorf.blogspot.com/2010/04/blog-swap.html).

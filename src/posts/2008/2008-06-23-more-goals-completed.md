@@ -2,8 +2,8 @@
 title: "More Goals Completed..."
 date: "2008-06-23"
 tags:
-  - "goals"
-  - "music"
+  - "Goals"
+  - "Music"
 ---
 
 I'm feeling somewhat proud of myself.

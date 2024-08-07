@@ -2,8 +2,8 @@
 title: "NCAA Tournament: 23-9"
 date: "2009-03-21"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 > There are a few games that I’m a bit worried in… Florida State/Wisconsin, Arizona State/Temple, and Utah/Arizona (seriously… AZ squeaked in.  Why is everyone picking them?).

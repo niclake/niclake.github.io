@@ -2,7 +2,7 @@
 title: "Hilarious Picture"
 date: "2009-09-03"
 tags:
-  - "simple-pleasures"
+  - "Simple Pleasures"
 ---
 
 Uploaded for your viewing pleasure.  Enjoy.

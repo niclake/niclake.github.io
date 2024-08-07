@@ -2,7 +2,7 @@
 title: "Jokes of the Day"
 date: "2009-08-31"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I apologize in advance... these are groaners.

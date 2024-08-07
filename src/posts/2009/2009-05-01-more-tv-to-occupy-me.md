@@ -2,11 +2,11 @@
 title: "More TV To Occupy Me..."
 date: "2009-05-01"
 tags:
-  - "life"
-  - "movies"
-  - "sports"
-  - "thoughts"
-  - "tv"
+  - "Personal"
+  - "Movies"
+  - "Sports"
+  - "Thoughts"
+  - "TV"
 ---
 
 Obviously, I'm a huge sports nut.  Basketball, baseball, soccer, football, hockey, rugby, jai alai (yeah, it was on once)... anything that I can possibly watch, I usually do.  Unscripted drama at every turn, excitement, and (usually) non-stop action.  What's not to love about it.

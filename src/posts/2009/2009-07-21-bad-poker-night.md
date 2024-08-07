@@ -2,11 +2,11 @@
 title: "Bad Poker Night"
 date: "2009-07-21"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "poker"
-  - "random"
-  - "rant"
+  - "Cedar Falls"
+  - "Personal"
+  - "Poker"
+  - "Personal"
+  - "Rant"
 ---
 
 I went into playing poker tonight with a very open mind.  First time playing on Allyn's real poker table (for the record... it's freakin' sweet), first time playing in about 2 weeks (live, at least... I had played quite a bit of online poker in that time, including getting a Royal Flush and winning ~$65 on that one hand... otherwise, I'd been playing Pot-Limit Omaha High for play chips), and we had a full game of 10 people, plus a waiting list.  Everything was pointing to a fun, enjoyable night.

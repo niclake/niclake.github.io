@@ -2,7 +2,7 @@
 title: "Good Mornings To You Too..."
 date: "2010-03-15"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I can't think of much of a better way for this day to start.

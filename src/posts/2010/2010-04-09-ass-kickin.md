@@ -2,11 +2,11 @@
 title: "Ass Kickin'"
 date: "2010-04-09"
 tags:
-  - "computers"
-  - "life"
-  - "music"
-  - "technology"
-  - "thoughts"
+  - "Computers"
+  - "Personal"
+  - "Music"
+  - "Technology"
+  - "Thoughts"
 ---
 
 Before I begin, I just have to say… there is absolutely nothing that I enjoy more than playing music with great musicians. It truly has the ability to change my entire outlook on life, and make a so-so day into a fantastic one. Sadly, I don't get to do that nearly enough.

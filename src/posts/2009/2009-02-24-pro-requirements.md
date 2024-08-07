@@ -2,11 +2,11 @@
 title: "Pro Sports 101 - Requirements: X Years of College?"
 date: "2009-02-24"
 tags:
-  - "basketball"
-  - "football"
+  - "Basketball"
+  - "Football"
   - "NBA"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
   - "NFL"
 ---
 

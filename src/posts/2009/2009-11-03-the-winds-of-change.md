@@ -2,9 +2,9 @@
 title: "The Winds of Change"
 date: "2009-11-03"
 tags:
-  - "life"
-  - "simple-pleasures"
-  - "thoughts"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Thoughts"
 ---
 
 I've noticed that people nowadays really look at change in a very narrow way.  Not saying that this is a bad thing at all, but it's an observation.

@@ -2,11 +2,11 @@
 title: "I Never Thought I'd Be Doing This..."
 date: "2009-04-30"
 tags:
-  - "goals"
-  - "life"
-  - "random"
-  - "school"
-  - "thoughts"
+  - "Goals"
+  - "Personal"
+  - "Personal"
+  - "School"
+  - "Thoughts"
 ---
 
 Something happened last night that really changed my opinion on a lot of things...

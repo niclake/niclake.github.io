@@ -2,8 +2,8 @@
 title: "Big Ten Expansion"
 date: "2009-12-15"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
 ---
 
 Right now, there is all this talk about the Big Ten expanding to 12 schools.  The primary reason for this was made very apparent this football season, that being that football doesn't have a playoff, and therefore our quality teams (Ohio State, Iowa, and Penn State) suffer from inactivity.  2 questions need to be tackled before this can be accomplished, though.

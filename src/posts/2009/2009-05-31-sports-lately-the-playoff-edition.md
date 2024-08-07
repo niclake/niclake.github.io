@@ -2,16 +2,16 @@
 title: "Sports Lately - The Playoff Edition"
 date: "2009-05-31"
 tags:
-  - "all-star"
-  - "baseball"
-  - "basketball"
-  - "drugs"
-  - "fantasy-sports"
-  - "football"
+  - "All-star"
+  - "Baseball"
+  - "Basketball"
+  - "Drugs"
+  - "Fantasy Sports"
+  - "Football"
   - "NBA"
   - "NFL"
-  - "red-sox"
-  - "yankees"
+  - "Red Sox"
+  - "Yankees"
 ---
 
 I feel like a terrible sports fan.

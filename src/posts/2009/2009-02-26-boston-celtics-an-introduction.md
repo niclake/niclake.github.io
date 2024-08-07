@@ -2,8 +2,8 @@
 title: "Boston Celtics: An Introduction"
 date: "2009-02-26"
 tags:
-  - "basketball"
-  - "celtics"
+  - "Basketball"
+  - "Celtics"
   - "NBA"
 ---
 

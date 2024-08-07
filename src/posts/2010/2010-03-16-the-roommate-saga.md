@@ -2,7 +2,7 @@
 title: "The Roommate Saga"
 date: "2010-03-16"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Today, I'm going to tell you a little story.  Actually, it's not so little, but it's amusing nonetheless.  This story is about the roommates that I have lived with throughout my life.

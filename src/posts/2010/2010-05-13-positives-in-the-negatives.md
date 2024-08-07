@@ -2,8 +2,8 @@
 title: "Positives in the Negatives"
 date: "2010-05-13"
 tags:
-  - "life"
-  - "thoughts"
+  - "Personal"
+  - "Thoughts"
 ---
 
 I'm sick of hearing people whine about mundane things.

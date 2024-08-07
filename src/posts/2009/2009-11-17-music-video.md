@@ -2,10 +2,10 @@
 title: "Yes, I Am In A Music Video"
 date: "2009-11-17"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "music"
-  - "technology"
+  - "Cedar Falls"
+  - "Personal"
+  - "Music"
+  - "Technology"
 ---
 
 So this evening, thanks to my buddy Bennett, I discovered that I have, in fact, made it big time.  Ladies and gentlemen... I'm in a music video.

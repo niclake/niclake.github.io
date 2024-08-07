@@ -2,8 +2,8 @@
 title: "NCAA Selection Thoughts"
 date: "2009-03-15"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 I'm going as the brackets go... so let's see.  We'll start with the opening round games.

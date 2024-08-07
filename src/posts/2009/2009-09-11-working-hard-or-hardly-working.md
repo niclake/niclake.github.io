@@ -2,8 +2,8 @@
 title: "Working Hard, or Hardly Working?"
 date: "2009-09-11"
 tags:
-  - "goals"
-  - "life"
+  - "Goals"
+  - "Personal"
 ---
 
 Have you ever had one of those moments where you stop, look at your life and schedule, and think to yourself "Damn, I am super busy!" or "Damn, I have nothing to do!"?

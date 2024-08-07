@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Days 16, 17, and 18"
 date: "2010-10-17"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 16: Something you wish you hadn't done in your life.

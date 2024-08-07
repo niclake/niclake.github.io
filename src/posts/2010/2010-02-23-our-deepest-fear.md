@@ -2,9 +2,9 @@
 title: "Our Deepest Fear"
 date: "2010-02-23"
 tags:
-  - "life"
-  - "random"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Thoughts"
 ---
 
 Think about your deepest fear.

@@ -2,7 +2,7 @@
 title: "What I Learned In College..."
 date: "2010-11-19"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 College has been the best and worst experience of my life. I say that now, knowing full well that I have 3 semesters left to go. I have learned so much since the fall of 2005 when I stepped foot into my dorm for the first time. Yet at the same time, I feel like I've learned nothing at all.

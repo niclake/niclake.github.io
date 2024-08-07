@@ -2,9 +2,9 @@
 title: "A-Rod Out for the WBC"
 date: "2009-03-05"
 tags:
-  - "baseball"
-  - "drugs"
-  - "yankees"
+  - "Baseball"
+  - "Drugs"
+  - "Yankees"
 ---
 
 [![](images/t1_alex_rodriguez.jpg)From ESPN](http://sports.espn.go.com/mlb/news/story?id=3954457):

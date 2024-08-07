@@ -2,8 +2,8 @@
 title: "Bash on the Farm"
 date: "2008-06-22"
 tags:
-  - "crossed"
-  - "music"
+  - "Crossed"
+  - "Music"
 ---
 
 I'm absolutely exhausted.

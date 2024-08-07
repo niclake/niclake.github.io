@@ -2,7 +2,7 @@
 title: "Team's gesture supports grieving opponent [ESPN]"
 date: "2009-02-19"
 tags:
-  - "basketball"
+  - "Basketball"
 ---
 
 _This story was taken from_ [_ESPN's website_](http://sports.espn.go.com/highschool/rise/basketball/boys/news/story?id=3914375)_.  A friend passed the link along to me, and I felt it appropriate to re-post this so that you can all read it._

@@ -2,8 +2,8 @@
 title: "Why I Hate Electronics (sometimes)"
 date: "2009-08-03"
 tags:
-  - "music"
-  - "rant"
+  - "Music"
+  - "Rant"
 ---
 
 I set an alarm to go off on my computer at midnight on July 31st.  That was the day Nine Inch Nails tickets went on sale.  For those that don't know, NIN (or Trent Reznor, if you will) is doing their/his last tour at the end of August/beginning of September.  I was hoping to snag some tickets to one of the Chicago shows.

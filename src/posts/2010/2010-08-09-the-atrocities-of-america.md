@@ -2,8 +2,8 @@
 title: "The Atrocities of America"
 date: "2010-08-09"
 tags:
-  - "rant"
-  - "thoughts"
+  - "Rant"
+  - "Thoughts"
 ---
 
 By finishing tied for 78th (out of 80) at the WGC-Bridgestone, Tiger Woods still earned more than the average teacher salary in 44 states.

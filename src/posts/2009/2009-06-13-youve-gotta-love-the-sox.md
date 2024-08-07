@@ -2,10 +2,10 @@
 title: "You've Gotta Love the Sox..."
 date: "2009-06-13"
 tags:
-  - "baseball"
-  - "mlb"
-  - "red-sox"
-  - "yankees"
+  - "Baseball"
+  - "MLB"
+  - "Red Sox"
+  - "Yankees"
 ---
 
 ![](images/redsox.jpg)This is why I never, ever give up on the Red Sox, even when they under-perform at the beginning of the year... and also why I love the game of baseball so much.

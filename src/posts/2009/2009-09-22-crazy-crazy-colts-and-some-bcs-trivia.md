@@ -2,8 +2,8 @@
 title: "Crazy, Crazy Colts (and some BCS Trivia)"
 date: "2009-09-22"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
   - "NFL"
 ---
 

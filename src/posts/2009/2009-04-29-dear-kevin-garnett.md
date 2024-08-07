@@ -2,8 +2,8 @@
 title: "Dear Kevin Garnett..."
 date: "2009-04-29"
 tags:
-  - "basketball"
-  - "celtics"
+  - "Basketball"
+  - "Celtics"
 ---
 
 You are the man.  I love your heart when it comes to basketball and defense.  But really... your "fierce" look that you do?  It looks like you just realized that someone took a #2 in your Gatorade cup.

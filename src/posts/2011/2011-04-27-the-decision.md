@@ -2,7 +2,7 @@
 title: "The Decision"
 date: "2011-04-27"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I can't believe I'm about to say this, but... I'm considering tacking on 2 additional years to my schooling.

@@ -2,8 +2,8 @@
 title: "The One Reason I Hate Baseball"
 date: "2008-06-20"
 tags:
-  - "sports"
-  - "stupid"
+  - "Sports"
+  - "Stupid"
 ---
 
 I love baseball.  I really do.  It's not as exciting as football, or as energetic as baseball, or as fascinating to watch as soccer, but there's something about it that I always go back to.  Long games?  Real rivalries?  162 games a season?  I don't really know what it is... but you give me a choice of any sports game on TV vs. a Red Sox game, and I'll go to my beloved Boston every time.

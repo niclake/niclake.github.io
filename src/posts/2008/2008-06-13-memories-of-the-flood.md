@@ -2,8 +2,8 @@
 title: "Memories of the Flood"
 date: "2008-06-13"
 tags:
-  - "cedar-falls"
-  - "flood"
+  - "Cedar Falls"
+  - "Flood"
 ---
 
 Just some random memories/thoughts about the floods we had here in Iowa.

@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 5"
 date: "2010-10-04"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I meant to pre-write this post and have it publish itself yesterday.  Instead, I'll just do it today.  Sorry if anyone was anticipating this one... I was in Iowa City with a couple of friends for the weekend.

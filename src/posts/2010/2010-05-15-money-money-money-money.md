@@ -2,13 +2,13 @@
 title: "Money Money Money Money!!!"
 date: "2010-05-15"
 tags:
-  - "america"
-  - "life"
-  - "random"
-  - "rant"
-  - "simple-pleasures"
-  - "stupid"
-  - "thoughts"
+  - "America"
+  - "Personal"
+  - "Personal"
+  - "Rant"
+  - "Simple Pleasures"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 ![](images/money%20large.jpg)Obviously, I don't think that anyone would consider me to be the "norm" in any aspect.  Normal is no fun anyway.  But when I look at the things that some people do, it really just makes me scratch my head and think "was I really raised that differently than you?"  (I've been meaning to write this post on a particular person for a couple months now, and I've just now gotten around to it, so some of my details may be fuzzy.)

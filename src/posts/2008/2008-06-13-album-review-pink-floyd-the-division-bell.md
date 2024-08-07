@@ -2,8 +2,8 @@
 title: "Album Review - Pink Floyd - 'The Division Bell'"
 date: "2008-06-13"
 tags:
-  - "guitar"
-  - "music-review"
+  - "Guitar"
+  - "Music Review"
 ---
 
 [![](images/51h9Z0TK87L._SL500_AA240_.jpg)](http://ecx.images-amazon.com/images/I/51h9Z0TK87L._SL500_AA240_.jpg)  

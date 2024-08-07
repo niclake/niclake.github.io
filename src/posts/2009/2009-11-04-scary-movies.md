@@ -2,10 +2,10 @@
 title: "Scary Movies"
 date: "2009-11-04"
 tags:
-  - "movies"
-  - "rant"
-  - "stupid"
-  - "thoughts"
+  - "Movies"
+  - "Rant"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 Seriously, what is the big to-do about scary movies?  I don't get it.

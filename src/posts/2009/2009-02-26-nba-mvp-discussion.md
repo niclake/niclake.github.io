@@ -2,7 +2,7 @@
 title: "NBA MVP Discussion"
 date: "2009-02-26"
 tags:
-  - "basketball"
+  - "Basketball"
   - "NBA"
 ---
 

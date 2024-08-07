@@ -2,7 +2,7 @@
 title: "Recap of Life/Current Goals"
 date: "2008-06-13"
 tags:
-  - "goals"
+  - "Goals"
 ---
 
 So, there's some of you out there that may be wondering a thing or two about what's going on in my life. Maybe. Who knows. Anyway, here's some things...  

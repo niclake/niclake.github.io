@@ -2,7 +2,7 @@
 title: "52 Free-Agent Pick-up!"
 date: "2010-03-04"
 tags:
-  - "basketball"
+  - "Basketball"
   - "NBA"
 ---
 

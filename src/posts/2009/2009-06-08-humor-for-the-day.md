@@ -2,9 +2,9 @@
 title: "Humor for the Day"
 date: "2009-06-08"
 tags:
-  - "cats"
-  - "random"
-  - "simple-pleasures"
+  - "Cats"
+  - "Personal"
+  - "Simple Pleasures"
 ---
 
 My mother sent me some LOLCats images.

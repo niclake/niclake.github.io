@@ -2,9 +2,9 @@
 title: "TMPY: Burnout Edition"
 date: "2010-12-12"
 tags:
-  - "life"
-  - "school"
-  - "thoughts"
+  - "Personal"
+  - "School"
+  - "Thoughts"
 ---
 
 Hello everyone.

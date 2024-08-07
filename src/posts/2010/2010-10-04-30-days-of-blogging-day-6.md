@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 6"
 date: "2010-10-04"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 6: Something you hope you never have to do.

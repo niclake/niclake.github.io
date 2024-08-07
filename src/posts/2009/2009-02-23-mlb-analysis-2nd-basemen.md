@@ -2,8 +2,8 @@
 title: "2009 MLB Analysis: 2nd Basemen"
 date: "2009-02-23"
 tags:
-  - "baseball"
-  - "fantasy-sports"
+  - "Baseball"
+  - "Fantasy Sports"
 ---
 
 2nd basemen. These men are usually noted for their speed, their defense, and their speedy reaction times. However, in order to succeed in the realm of the Major Leagues, you've gotta be able to put wood to ball, knock out some clutch hits, and drive in a few runs.

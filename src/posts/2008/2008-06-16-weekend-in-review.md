@@ -2,8 +2,8 @@
 title: "Weekend In Review"
 date: "2008-06-16"
 tags:
-  - "life"
-  - "sports"
+  - "Personal"
+  - "Sports"
 ---
 
 After my initial slew of posts, I've kinda lost inspiration for some of those epic posts... so instead, I'll just kinda review my weekend.

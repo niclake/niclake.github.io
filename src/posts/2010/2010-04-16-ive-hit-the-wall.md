@@ -2,7 +2,7 @@
 title: "I've Hit The Wall"
 date: "2010-04-16"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I had a breakdown tonight. I hit that metaphorical wall that life likes to stick in front of us on occasion. Still not sure what material it was made out of... all I know is that it was solid, and it hurt like a bitch.

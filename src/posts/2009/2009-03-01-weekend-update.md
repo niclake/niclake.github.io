@@ -2,12 +2,12 @@
 title: "Weekend Update"
 date: "2009-03-01"
 tags:
-  - "baseball"
-  - "basketball"
-  - "celtics"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Celtics"
+  - "Football"
   - "NBA"
-  - "ncaa-basketball"
+  - "Basketball"
   - "NFL"
 ---
 

@@ -2,7 +2,7 @@
 title: "Current MLB News"
 date: "2009-02-26"
 tags:
-  - "baseball"
+  - "Baseball"
 ---
 
 I'm sitting here watching some college basketball (UConn and Marquette was an excellent game, Maryland and Duke is shaping up to be as well), and I saw 2 stories go by on the MLB ticker that made me wonder what's wrong with the sports world.

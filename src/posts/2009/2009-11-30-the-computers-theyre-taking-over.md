@@ -2,11 +2,11 @@
 title: "The Computers, They're Taking Over!!!"
 date: "2009-11-30"
 tags:
-  - "computers"
-  - "life"
-  - "rant"
-  - "technology"
-  - "thoughts"
+  - "Computers"
+  - "Personal"
+  - "Rant"
+  - "Technology"
+  - "Thoughts"
 ---
 
 ![](images/Terminator3-09.jpg)I promise, this isn't just an excuse to get Ah-nold on my blog (first Fabio, now this?  Yeesh...).

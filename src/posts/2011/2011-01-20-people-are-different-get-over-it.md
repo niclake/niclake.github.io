@@ -2,10 +2,10 @@
 title: "People Are Different. Get Over It."
 date: "2011-01-20"
 tags:
-  - "america"
-  - "life"
-  - "rant"
-  - "stupid"
+  - "America"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
 ---
 
 I can't believe I really have to blog about this again.

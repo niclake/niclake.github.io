@@ -2,9 +2,9 @@
 title: "Alex Rodriguez - My Take"
 date: "2009-02-13"
 tags:
-  - "baseball"
-  - "drugs"
-  - "yankees"
+  - "Baseball"
+  - "Drugs"
+  - "Yankees"
 ---
 
 "On February 7, 2009, Sports Illustrated reported that Rodriguez had tested positive for two anabolic steroids, testosterone and Primobolan, during his 2003 season playing shortstop for the Texas Rangers, the same season in which he captured his first American League Most Valuable Player award, broke 300 career home runs (hitting 47 runs that year), and earned one of his ten Silver Slugger Awards. The information had been part of a government-sealed report detailing 104 major league players who tested positive for performance enhancers during a 2003 survey test, which was conducted by Major League Baseball to see whether a mandatory drug testing program might be necessary. At the time, there was no penalty or punishment for a positive test. Because more than 5% of the samples taken from players in 2003 came back positive, mandatory testing of major league baseball players began in 2004, with penalties for violations." ([Wikipedia.com](http://en.wikipedia.org/wiki/Alex_Rodriguez#Steroid_use))

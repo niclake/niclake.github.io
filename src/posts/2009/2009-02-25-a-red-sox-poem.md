@@ -2,8 +2,8 @@
 title: "A Red Sox poem..."
 date: "2009-02-25"
 tags:
-  - "baseball"
-  - "red-sox"
+  - "Baseball"
+  - "Red Sox"
 ---
 
 I realize this is slightly old (I posted this on my [personal blog](http://themusicplaysyou.wordpress.com) on Aug. 1 of last year), but I still find it hilarious.

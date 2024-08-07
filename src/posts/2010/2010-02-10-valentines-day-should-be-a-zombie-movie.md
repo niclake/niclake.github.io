@@ -2,10 +2,10 @@
 title: "Valentine's Day Should Be A Zombie Movie"
 date: "2010-02-10"
 tags:
-  - "life"
-  - "rant"
-  - "simple-pleasures"
-  - "thoughts"
+  - "Personal"
+  - "Rant"
+  - "Simple Pleasures"
+  - "Thoughts"
 ---
 
 My birthday is here.  I'm getting more and more excited as the week goes by.  I'm slowly getting over my "holy crap, I'm getting old" phase and coming to grips with the fact that there's nothing I can do about it.  30 is the new 20, right? (or is that only for females???) I get to enjoy some Hu Hot and gifts with my parents on Friday (the night before), go to Peoria, IL on Saturday to watch the Northern Iowa basketball team (#18 in the country... sweet!), and then come back and celebrate my birthday with my birthday-sharing-friend Kat and others.  It should be a pretty good time, all in all.

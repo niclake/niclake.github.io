@@ -2,9 +2,9 @@
 title: "Freakin' Battery..."
 date: "2009-05-29"
 tags:
-  - "life"
-  - "rant"
-  - "technology"
+  - "Personal"
+  - "Rant"
+  - "Technology"
 ---
 
 I now need one of these...

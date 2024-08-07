@@ -2,10 +2,10 @@
 title: "Kids, This is *Not* How You Should Pitch..."
 date: "2009-05-12"
 tags:
-  - "baseball"
-  - "mlb"
-  - "red-sox"
-  - "yankees"
+  - "Baseball"
+  - "MLB"
+  - "Red Sox"
+  - "Yankees"
 ---
 
 By the way, I never really posted on this before... so here it is.

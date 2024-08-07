@@ -2,8 +2,8 @@
 title: "Technology, It Is A-Changin'"
 date: "2009-05-19"
 tags:
-  - "simple-pleasures"
-  - "technology"
+  - "Simple Pleasures"
+  - "Technology"
 ---
 
 Look around you.  Look at everything that we as Americans, as human beings, have at our disposal on a day-to-day basis.  It's kinda shocking.

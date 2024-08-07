@@ -2,8 +2,8 @@
 title: "NCAA Basketball Tournament: My Thoughts"
 date: "2010-03-06"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 Every year, it seems, we go through some of the same issues...  Better NFL overtime rules.  Issues with 1-and-dones in the NCAA going to the NBA.  NASCAR not being a sport.  Cheerleaders and mascots.  Bruce Pearl's orange suit.  And, of course, expanding the NCAA tournament.

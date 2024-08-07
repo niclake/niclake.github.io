@@ -2,7 +2,7 @@
 title: "First Post"
 date: "2008-06-13"
 tags:
-  - "random"
+  - "Personal"
 ---
 
 Well, since Logan, Lauren, and Dustin are all doing it, I thought I'd jump in.

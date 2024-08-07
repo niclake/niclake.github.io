@@ -2,9 +2,9 @@
 title: "Old Man Experience, pt. 2"
 date: "2009-07-15"
 tags:
-  - "rant"
-  - "stupid"
-  - "technology"
+  - "Rant"
+  - "Stupid"
+  - "Technology"
 ---
 
 Obviously, when I had my surgery on my wrist/elbow, I kinda had one of those "damn, I'm old" moments.  I just had another one of those about 5 minutes ago.

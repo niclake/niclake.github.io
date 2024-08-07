@@ -2,7 +2,7 @@
 title: "Better Blog Design?"
 date: "2010-02-09"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Hey everyone... taking votes on which blog layout you like better.

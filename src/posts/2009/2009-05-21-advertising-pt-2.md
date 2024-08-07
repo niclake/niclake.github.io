@@ -2,7 +2,7 @@
 title: "Advertising, pt. 2"
 date: "2009-05-21"
 tags:
-  - "tv"
+  - "TV"
 ---
 
 Last night I [showed an advertisement for Rolling Rock beer](http://niclake13.wordpress.com/2009/05/20/advertising/), and talked about "advertising done right" and how it sticks with you.  Proof?  I heard "Heartbeats" by José Gonzalez on an episode of Scrubs this evening, and it reminded me of one thing...

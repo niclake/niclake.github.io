@@ -2,10 +2,10 @@
 title: "Metrodome Madness"
 date: "2009-10-07"
 tags:
-  - "baseball"
-  - "football"
-  - "mlb"
-  - "vikings"
+  - "Baseball"
+  - "Football"
+  - "MLB"
+  - "Vikings"
 ---
 
 To the great state of Minnesota:

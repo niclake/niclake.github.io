@@ -2,8 +2,8 @@
 title: "(Insert Creative Title)"
 date: "2009-05-27"
 tags:
-  - "life"
-  - "thoughts"
+  - "Personal"
+  - "Thoughts"
 ---
 
 I now understand why my dad complains about his feet hurting.  When they hurt, life sucks.

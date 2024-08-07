@@ -2,8 +2,8 @@
 title: "Hey Milton!  *^%#$*!@%#*^ You!!!"
 date: "2009-09-21"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 Before I begin, I want to make something very clear.  I enjoy Cubs baseball.  Yes, I'm a die-hard Red Sox fan, but as a midwesterner, I've found room in my heart to let the Loveable Losers of Baseball(tm) make a small home.  I mean, come on, WGN or Comcast shows their games practically every day... if I need a baseball fix, what better place to turn?  And besides, I am of the belief that there is absolutely no problem having a favorite team from each league (Red Sox/Cubs, Vikings/Colts, Celtics/Suns for me), so long as those teams avoid each other during the post season.  So, with that being said, it is with absolute glee that I am able to go into this next story.

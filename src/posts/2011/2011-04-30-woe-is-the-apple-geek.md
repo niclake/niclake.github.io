@@ -2,9 +2,9 @@
 title: "Woe Is the Apple Geek"
 date: "2011-04-30"
 tags:
-  - "computers"
-  - "life"
-  - "technology"
+  - "Computers"
+  - "Personal"
+  - "Technology"
 ---
 
 TL;DR I need a laptop recommendation... skip the ramble section and help me decide.

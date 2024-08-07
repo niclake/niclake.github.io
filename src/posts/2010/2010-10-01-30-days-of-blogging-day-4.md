@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 4"
 date: "2010-10-01"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Pretty pumped for this weekend. Going to Iowa City to hang out with a couple of friends, participate in the homecoming parade, and watch some Hawkeye football (meh, just in the bars somewhere... tickets are too expensive). Should be a nice mini-vacation.

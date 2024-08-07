@@ -2,9 +2,9 @@
 title: "I Just Solved Ortiz's Problem"
 date: "2009-06-04"
 tags:
-  - "baseball"
-  - "mlb"
-  - "red-sox"
+  - "Baseball"
+  - "MLB"
+  - "Red Sox"
 ---
 
 Remember when Ortiz and Manny used to do this all the time after a hit?

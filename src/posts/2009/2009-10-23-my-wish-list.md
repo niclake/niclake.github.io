@@ -2,15 +2,15 @@
 title: "My Wish List"
 date: "2009-10-23"
 tags:
-  - "computers"
-  - "guitar"
-  - "life"
-  - "music"
-  - "random"
-  - "simple-pleasures"
-  - "technology"
-  - "thoughts"
-  - "video-games"
+  - "Computers"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Technology"
+  - "Thoughts"
+  - "Video Games"
 ---
 
 A current wish list, for those that give a hoot about things like this.

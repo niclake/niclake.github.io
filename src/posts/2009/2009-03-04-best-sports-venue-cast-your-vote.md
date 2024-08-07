@@ -2,9 +2,9 @@
 title: "Best Sports Venue (Cast your vote)"
 date: "2009-03-04"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
 ---
 
 ![](images/marqee-welcome-to-wrigley-field.jpg)With college basketball putting the pedal to the medal, lots of football combine talk, and the MLB season getting ready to gear up, it got me thinking... what's the best venue in sports?

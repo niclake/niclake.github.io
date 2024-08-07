@@ -2,12 +2,12 @@
 title: "Simplicity"
 date: "2009-11-26"
 tags:
-  - "life"
-  - "music"
-  - "random"
-  - "simple-pleasures"
-  - "technology"
-  - "thoughts"
+  - "Personal"
+  - "Music"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Technology"
+  - "Thoughts"
 ---
 
 ![](images/keep_it_simple.jpg)

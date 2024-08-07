@@ -2,9 +2,9 @@
 title: "Michael Phelps: The Lighter Side of the Fallout"
 date: "2009-02-15"
 tags:
-  - "america"
-  - "random"
-  - "simple-pleasures"
+  - "America"
+  - "Personal"
+  - "Simple Pleasures"
 ---
 
 \[vodpod id=ExternalVideo.787680&w=425&h=350&fv=\]

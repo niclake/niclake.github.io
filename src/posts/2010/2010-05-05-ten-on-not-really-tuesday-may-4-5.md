@@ -2,7 +2,7 @@
 title: "Ten on (not really) Tuesday - May 4 (5?)"
 date: "2010-05-05"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)Yeah, I know. It's not Tuesday. In my defense, I've been busy as hell with studying for finals and such. At least I'm getting around to it, right? Right.

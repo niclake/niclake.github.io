@@ -2,10 +2,10 @@
 title: "Boredom is a Pattern, Not a Reality"
 date: "2010-02-02"
 tags:
-  - "life"
-  - "rant"
-  - "simple-pleasures"
-  - "thoughts"
+  - "Personal"
+  - "Rant"
+  - "Simple Pleasures"
+  - "Thoughts"
 ---
 
 Lately I've been feeling... I think lethargic is the proper term.  Lazy.  Bored.  Tired.  Uninspired.  Any verb-age you choose to use, it probably would fit.  On Thursday, I decided to take a nap at 7pm, just because I was feeling really down.  I didn't wake up until 7:45am on Friday morning.  I had a similar occurrence Saturday night, falling asleep at 8, only to wake up at 1am and entertain myself until 7... then I went back to bed for 2 hours before going to church.  Not feeling sick, not depressed, just... bored.

@@ -2,9 +2,9 @@
 title: "Live, Love and Learn"
 date: "2009-12-16"
 tags:
-  - "life"
-  - "school"
-  - "thoughts"
+  - "Personal"
+  - "School"
+  - "Thoughts"
 ---
 
 ![](images/thinkingcapwhoa.gif)Before I begin... I have determined the biggest downfall to switching from 5 years of laptop use over to a desktop.  In order to get these random thoughts out of my head, I actually have to get my ass out of bed now.  I'm also sitting here wearing sunglasses with the screen brightness turned extremely low, trying to get my eyes adjusted to the light.

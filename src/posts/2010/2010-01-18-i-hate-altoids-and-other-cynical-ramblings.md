@@ -2,15 +2,15 @@
 title: "I Hate Altoids (and Other Cynical Ramblings)"
 date: "2010-01-18"
 tags:
-  - "guitar"
-  - "life"
-  - "music"
-  - "random"
-  - "rant"
-  - "school"
-  - "stupid"
-  - "thoughts"
-  - "work"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "Personal"
+  - "Rant"
+  - "School"
+  - "Stupid"
+  - "Thoughts"
+  - "Work"
 ---
 
 I was trying to think of a title for this post, and couldn't really think of something that fit.  So I came up with a random tidbit.  Read below if you're curious.

@@ -2,13 +2,13 @@
 title: "I Can't Believe, I Don't Believe"
 date: "2009-11-16"
 tags:
-  - "life"
-  - "music"
-  - "rant"
-  - "sports"
-  - "stupid"
-  - "technology"
-  - "thoughts"
+  - "Personal"
+  - "Music"
+  - "Rant"
+  - "Sports"
+  - "Stupid"
+  - "Technology"
+  - "Thoughts"
 ---
 
 I don't believe a lot of things.  That's just how I roll.  Whether it's from life experience or lack thereof, from my own opinions, whatever.  I think or believe some things, but obviously I don't believe many others.

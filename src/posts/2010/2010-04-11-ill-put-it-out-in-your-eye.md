@@ -2,10 +2,10 @@
 title: "I'll Put It Out In Your Eye..."
 date: "2010-04-11"
 tags:
-  - "life"
-  - "random"
-  - "rant"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Rant"
+  - "Thoughts"
 ---
 
 There are some days where I can't get over how utterly stupid some people can be. This past week has been one of those "days". (To be fair, the past 8 or so years would qualify as one of those "days" where I'm disgusted by what I'm about to speak about, but I'm limiting it to recently, just because I can.)

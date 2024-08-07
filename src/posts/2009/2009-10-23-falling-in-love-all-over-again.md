@@ -2,14 +2,14 @@
 title: "Falling In Love, All Over Again"
 date: "2009-10-23"
 tags:
-  - "baseball"
-  - "basketball"
-  - "fantasy-sports"
-  - "football"
-  - "hockey"
-  - "olympics"
-  - "pickem"
-  - "soccer"
+  - "Baseball"
+  - "Basketball"
+  - "Fantasy Sports"
+  - "Football"
+  - "Hockey"
+  - "Olympics"
+  - "Pickem"
+  - "Soccer"
 ---
 
 I love sports.

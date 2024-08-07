@@ -2,9 +2,9 @@
 title: "Random Musings (March 3)"
 date: "2010-03-04"
 tags:
-  - "life"
-  - "random"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Thoughts"
 ---
 
 I go on streaks every once in a while where I have a whole bunch of random thoughts and/or happenings in my life, as well as various quotes I've encountered. Here's some of the recent ones.

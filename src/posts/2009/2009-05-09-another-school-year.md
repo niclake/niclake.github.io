@@ -2,12 +2,12 @@
 title: "Another School Year..."
 date: "2009-05-09"
 tags:
-  - "cedar-falls"
-  - "goals"
-  - "guitar"
-  - "life"
-  - "random"
-  - "simple-pleasures"
+  - "Cedar Falls"
+  - "Goals"
+  - "Guitar"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
 ---
 
 It's slightly frustrating living in a college town. I'm used to the bustle and congestion of having ... how many students does UNI have? 12,000? Anyway, I just drove back from Waterloo (congrats on graduating from nursing school, Ashlinn), on a Friday night... and there's absolutely nobody around.

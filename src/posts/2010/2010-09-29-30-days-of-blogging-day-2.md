@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 2"
 date: "2010-09-29"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 2: Something you love about yourself.

@@ -2,8 +2,8 @@
 title: "Modern Warfare, Part Deux"
 date: "2009-11-11"
 tags:
-  - "technology"
-  - "video-games"
+  - "Technology"
+  - "Video Games"
 ---
 
 I've determined that I would really like to have a text editor attached to my brain somehow.  If someone comes out with the technology to make this possible, I will be first in line to get it.

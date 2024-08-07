@@ -2,9 +2,9 @@
 title: "Humor, and the Art of Selective Listening"
 date: "2011-05-03"
 tags:
-  - "america"
-  - "life"
-  - "rant"
+  - "America"
+  - "Personal"
+  - "Rant"
 ---
 
 Interesting title for an interesting topic, but it's one that's been brewing for a while.  This is strong, bottom-of-the-pot stuff.  Fair warning.

@@ -2,10 +2,10 @@
 title: "Sports and Technology"
 date: "2009-07-15"
 tags:
-  - "baseball"
-  - "sports"
-  - "technology"
-  - "thoughts"
+  - "Baseball"
+  - "Sports"
+  - "Technology"
+  - "Thoughts"
 ---
 
 ![](images/baseball-umpire.jpg)I was talking with Shawn, a friend of mine, about sports on Sunday. We were watching the Cubs game on ESPN, and commenting on various things throughout the game. For some reason, we started talking about rules (like how I'm not a huge fan of the infield fly rule, or how catchers can't use their masks to move the baseball, etc.), and Shawn brought up an interesting comment. His idea was to replace umps calling balls and strikes with a computer that did it for you.

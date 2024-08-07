@@ -2,8 +2,8 @@
 title: "A Red Sox Poem..."
 date: "2008-08-01"
 tags:
-  - "baseball"
-  - "sports"
+  - "Baseball"
+  - "Sports"
 ---
 
 T’was the night before August and all through the Nation  

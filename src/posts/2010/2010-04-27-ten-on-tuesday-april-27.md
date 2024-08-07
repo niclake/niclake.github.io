@@ -2,7 +2,7 @@
 title: "Ten on Tuesday (April 27)"
 date: "2010-04-27"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](images/200906_zack-morris-phone.jpg)**Zack Morris’s phone**](http://rootsandrings.wordpress.com/)**?** Definitely don't have to go back a decade.  Got my first phone when I got into college.  It was a TracFone flip phone, the same as my girlfriend's.  That thing was a piece...

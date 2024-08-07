@@ -2,8 +2,8 @@
 title: "The Art of Being Loud, Obnoxious, and Sometimes Annoying"
 date: "2009-04-08"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 ![](images/Baseball_umpire_2004.jpg)Don't get me wrong.  I love baseball.  I love everything about the sport; it's got tradition, it's got a modern touch, it's got numbers, and it makes you think.  Really, there's no other sport like it, other than golf... but golf is "even more boring than baseball" (except for this coming weekend, but that's beside the point).

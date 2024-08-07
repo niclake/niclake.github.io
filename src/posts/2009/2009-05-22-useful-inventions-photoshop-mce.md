@@ -2,8 +2,8 @@
 title: "Useful Inventions - Photoshop MCE"
 date: "2009-05-22"
 tags:
-  - "technology"
-  - "thoughts"
+  - "Technology"
+  - "Thoughts"
 ---
 
 I was working on an image for [my sports blog](http://wordstoplayby.wordpress.com) tonight, and I realized the most amazing thing that needs to be invented, as of yesterday.

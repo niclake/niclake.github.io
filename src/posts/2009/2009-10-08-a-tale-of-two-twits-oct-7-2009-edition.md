@@ -2,7 +2,7 @@
 title: "A Tale of Two Twits: Oct 7, 2009 Edition"
 date: "2009-10-08"
 tags:
-  - "football"
+  - "Football"
   - "NFL"
 ---
 

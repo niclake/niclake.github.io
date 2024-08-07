@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 12"
 date: "2010-10-10"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Thank God I got medicine for my strep throat when I did.  Still feeling like crap, but it's a better crap than it was yesterday.  Analyze that last sentence for more than 10 seconds without thinking of poop, I dare you.

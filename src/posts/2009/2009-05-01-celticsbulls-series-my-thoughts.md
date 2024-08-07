@@ -2,8 +2,8 @@
 title: "Celtics/Bulls Series: My Thoughts"
 date: "2009-05-01"
 tags:
-  - "basketball"
-  - "celtics"
+  - "Basketball"
+  - "Celtics"
   - "NBA"
 ---
 

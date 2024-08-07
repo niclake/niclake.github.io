@@ -2,7 +2,7 @@
 title: "Ten on Tuesday (April 20)"
 date: "2010-04-20"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)**1.  What two cities should be moved closer together?** Wherever I'm living, and Chicago.  So right now, that makes Cedar Falls, IA and Chicago.  I have yet to get there, and I would really like to do so ASAP.

@@ -2,16 +2,16 @@
 title: "Thoughts on Sports"
 date: "2009-05-09"
 tags:
-  - "baseball"
-  - "basketball"
-  - "celtics"
-  - "drugs"
-  - "football"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "Celtics"
+  - "Drugs"
+  - "Football"
+  - "MLB"
   - "NBA"
   - "NFL"
-  - "red-sox"
-  - "yankees"
+  - "Red Sox"
+  - "Yankees"
 ---
 
 **Baseball:** A-Rod hit a home run on the very first pitch he saw this season... He \*must\* be juicing.  Must've forgotten to take his **[Woman's Fertility Drug](http://wordstoplayby.wordpress.com/2009/05/07/gut-wrenching/)** though... cause he struck out in his next two at bats.

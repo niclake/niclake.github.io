@@ -2,9 +2,9 @@
 title: "The UFC: Where's the Love?"
 date: "2009-03-02"
 tags:
-  - "football"
+  - "Football"
 
-  - "ufc"
+  - "UFC"
 ---
 
 ![](images/UFC76griffin_vs_shogun1.jpg)For years, the UFC (Ultimate Fighting Championship) has been lurking around in the shadows, captivating the minds of college students, martial artists, and thrill-seeking enthusiasts, treating us to a bunch of great action and awesome displays of power.  Yet, for some reason, it seems to have slipped under the rugs, only talked about in fleeting conversations by the media.  Where's the love at?

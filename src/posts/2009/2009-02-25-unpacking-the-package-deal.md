@@ -2,10 +2,10 @@
 title: "\"Unpacking\" the Package Deal"
 date: "2009-02-25"
 tags:
-  - "basketball"
-  - "football"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
+  - "Basketball"
+  - "Football"
 ---
 
 As I was out celebrating a friend's 21st birthday last night, I got to thinking... what's the deal with these package deals I keep hearing about in NCAA basketball?

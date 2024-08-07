@@ -2,7 +2,7 @@
 title: "The Shields We Bear"
 date: "2010-03-09"
 tags:
-  - "thoughts"
+  - "Thoughts"
 ---
 
 I keep looking at the title of this and thinking "panda bear".  Rawr!

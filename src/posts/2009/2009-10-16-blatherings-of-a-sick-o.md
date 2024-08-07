@@ -2,7 +2,7 @@
 title: "Blatherings of a Sick-o"
 date: "2009-10-16"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 It's amazing the kind of productivity you can accomplish when you are ill... I'm pretty impressed with myself.

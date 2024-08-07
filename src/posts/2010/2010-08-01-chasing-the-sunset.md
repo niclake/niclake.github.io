@@ -2,9 +2,9 @@
 title: "Chasing the Sunset"
 date: "2010-08-01"
 tags:
-  - "life"
-  - "thoughts"
-  - "work"
+  - "Personal"
+  - "Thoughts"
+  - "Work"
 ---
 
 ![](images/IMG_6307-copy-790545.jpg)For my job, we drive. A lot. I've put in at least 4,000 miles so far this summer in the company car, and it'll probably be close to 6,000 by the time I'm done in 3 weeks. It's extremely rare for me to be driving west at night, but lo and behold, I found myself doing that the other night.

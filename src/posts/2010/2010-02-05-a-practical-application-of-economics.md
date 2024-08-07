@@ -2,12 +2,12 @@
 title: "A Practical Application of Economics"
 date: "2010-02-05"
 tags:
-  - "america"
-  - "food"
-  - "life"
-  - "rant"
-  - "stupid"
-  - "thoughts"
+  - "America"
+  - "Food"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 There is nothing more rewarding to a student of any level than the moment that they are able to apply their knowledge to a real world application.  This is even more true for those of us that are paying insane amounts of money for our education (can I get a "what what" from the college students out there?).  Take my Statistics class, for example... we've been discussing how to compute the probability of events based upon certain conditions.  Then we got some real-world examples of how this would be useful in day-to-day life, and how statisticians can be employed across nearly all fields in the working world.  It helped to lock in what we'd been talking about, as well as giving me that little "ahha, that's why I'm learning this" moment.  (On a side note... I find it hilarious that the first place that I met my Stats teacher was the casino over Christmas break.  He and his wife apparently frequent the buffet there, but I definitely met him at a blackjack table.  Probably a good place for a statistician to hang out on his down time... maybe I should hit the tables with him.)

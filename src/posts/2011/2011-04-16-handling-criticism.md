@@ -2,7 +2,7 @@
 title: "Handling Criticism"
 date: "2011-04-16"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Last night at church, we got into a discussion about handling criticism.  You know personally whether or not you take criticism well... but let's be honest, even if we take it well, no one really likes it.  While it may help us get better in the long run, no one truly enjoys getting told that what they did was not necessarily up to par.

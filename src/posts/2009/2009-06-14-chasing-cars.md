@@ -2,10 +2,10 @@
 title: "Chasing Cars"
 date: "2009-06-14"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "rant"
-  - "stupid"
+  - "Cedar Falls"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
 ---
 
 Back in May, I [wrote about a lot of stress I was dealing with](http://niclake13.wordpress.com/2009/05/14/random-thoughts/).  One paragraph in particular sticks out...

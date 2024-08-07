@@ -2,11 +2,11 @@
 title: "Enjoy Life"
 date: "2010-04-30"
 tags:
-  - "guitar"
-  - "life"
-  - "music"
-  - "sports"
-  - "thoughts"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "Sports"
+  - "Thoughts"
 ---
 
 A little while ago, 20SB.net ran a little blog swap, and asked all participating bloggers to write about their favorite aspect of blogging, and why they do it.  For me, that enjoyment is the freedom that blogging gives me, how I can write about whatever I choose.  This is still true.

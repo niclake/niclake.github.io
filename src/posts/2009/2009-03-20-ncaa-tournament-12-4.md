@@ -2,8 +2,8 @@
 title: "NCAA Tournament: 12-4"
 date: "2009-03-20"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 Did you know that the odds of getting the correct bracket for the NCAA tournament are 9.2 quintillion to 1?  And if every human being on the planet picked a different bracket, we would still only have a 1 billion to 1 chance of getting it correct?

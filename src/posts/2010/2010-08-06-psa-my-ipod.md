@@ -2,8 +2,8 @@
 title: "PSA: My iPod"
 date: "2010-08-06"
 tags:
-  - "life"
-  - "random"
+  - "Personal"
+  - "Personal"
 ---
 
 We interrupt your routine Friday with this public service announcement...

@@ -2,7 +2,7 @@
 title: "It's Been A While"
 date: "2010-04-27"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Man, it's been a while... a week since I've posted last.  Sorry about that... to put it mildly, nothing really exciting has happened to write about.  No fun thoughts, no extravagant stories... nothing.

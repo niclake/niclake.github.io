@@ -2,8 +2,8 @@
 title: "USA! USA! USA!"
 date: "2009-06-25"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 I'm not sure what's more sad... the fact that it's been nearly a week since I've written (and over a month since I've written seriously), or the fact that the one thing that gets me back is USA Soccer.

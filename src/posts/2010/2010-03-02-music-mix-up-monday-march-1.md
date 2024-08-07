@@ -2,10 +2,10 @@
 title: "Music Mix-Up Monday (March 1)"
 date: "2010-03-02"
 tags:
-  - "life"
-  - "music"
-  - "music-mix-up-monday"
-  - "thoughts"
+  - "Personal"
+  - "Music"
+  - "Music Mix Up Monday"
+  - "Thoughts"
 ---
 
 Alright, so I think it's time to start a trend among myself and my fellow bloggers (especially the group over at 20 Something Bloggers).  So here it is...

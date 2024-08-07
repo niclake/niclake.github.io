@@ -2,16 +2,16 @@
 title: "Stereofoam"
 date: "2009-06-11"
 tags:
-  - "cedar-falls"
-  - "guitar"
-  - "life"
-  - "music"
-  - "random"
-  - "school"
-  - "simple-pleasures"
-  - "sports"
-  - "technology"
-  - "twitter"
+  - "Cedar Falls"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "Personal"
+  - "School"
+  - "Simple Pleasures"
+  - "Sports"
+  - "Technology"
+  - "Twitter"
 ---
 
 So I'm 3 days into my first summer class... it's quite interesting.  I'm taking Sociology with Sandstrom.  2 hours just seems to absolutely fly by, which is nice.  I've learned quite a bit of stuff even after 3 days, which is also quite refreshing.  Today was humorous... sociology basically turned into Dating 101.  Slightly awkward when a student throws out a "that's what she said" and the professor laughs along with everyone else.

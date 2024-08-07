@@ -2,16 +2,16 @@
 title: "The Madness Continues (and Other Ramblings)"
 date: "2010-03-23"
 tags:
-  - "basketball"
-  - "cedar-falls"
-  - "computers"
-  - "life"
-  - "school"
-  - "simple-pleasures"
-  - "sports"
-  - "technology"
-  - "tv"
-  - "work"
+  - "Basketball"
+  - "Cedar Falls"
+  - "Computers"
+  - "Personal"
+  - "School"
+  - "Simple Pleasures"
+  - "Sports"
+  - "Technology"
+  - "TV"
+  - "Work"
 ---
 
 For those of you that aren't aware, I need to state a couple of things.

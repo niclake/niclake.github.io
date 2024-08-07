@@ -2,10 +2,10 @@
 title: "Dear Mr. President"
 date: "2009-12-02"
 tags:
-  - "america"
-  - "life"
-  - "rant"
-  - "thoughts"
+  - "America"
+  - "Personal"
+  - "Rant"
+  - "Thoughts"
 ---
 
 I think you're making a terrible mistake.

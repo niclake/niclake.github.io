@@ -2,14 +2,14 @@
 title: "Today's Forecast: Partly Sarcastic, with a Chance of Indifference..."
 date: "2009-09-09"
 tags:
-  - "football"
-  - "life"
-  - "random"
-  - "simple-pleasures"
-  - "sports"
-  - "stupid"
-  - "thoughts"
-  - "work"
+  - "Football"
+  - "Personal"
+  - "Personal"
+  - "Simple Pleasures"
+  - "Sports"
+  - "Stupid"
+  - "Thoughts"
+  - "Work"
 ---
 
 First off... for your viewing pleasure... Brett Favre, ladies and gentlemen.

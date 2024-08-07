@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 3"
 date: "2010-09-30"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 3: Something you have to forgive yourself for.

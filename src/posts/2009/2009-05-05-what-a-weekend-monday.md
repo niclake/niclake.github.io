@@ -2,18 +2,18 @@
 title: "What a Year So Far"
 date: "2009-05-05"
 tags:
-  - "baseball"
-  - "basketball"
-  - "celtics"
-  - "fantasy-sports"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Celtics"
+  - "Fantasy Sports"
+  - "Football"
   - "golf"
-  - "mlb"
+  - "MLB"
   - "NBA"
-  - "ncaa-basketball"
+  - "Basketball"
   - "NFL"
-  - "red-sox"
-  - "yankees"
+  - "Red Sox"
+  - "Yankees"
 ---
 
 I'm slowly learning that I am incredibly lucky right now.

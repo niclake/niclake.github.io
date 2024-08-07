@@ -2,8 +2,8 @@
 title: "30 Days of Blogging: Day 10"
 date: "2010-10-08"
 tags:
-  - "america"
-  - "life"
+  - "America"
+  - "Personal"
 ---
 
 1/3 of the way done... well, after today, that is.  This is quite the interesting project.  Most of the posts are able to be kept short and sweet, so this is truly just a nice little "get in and get out" month of posts.  And I can dig that.

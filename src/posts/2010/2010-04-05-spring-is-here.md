@@ -2,10 +2,10 @@
 title: "Spring Is Here"
 date: "2010-04-05"
 tags:
-  - "life"
-  - "school"
-  - "thoughts"
-  - "work"
+  - "Personal"
+  - "School"
+  - "Thoughts"
+  - "Work"
 ---
 
 Yes, I have declared it so.  Spring has finally arrived.  A couple days of 70+ degree weather.  4 rounds of disc golf already in the books.

@@ -2,9 +2,9 @@
 title: "Thanksgiving Break"
 date: "2009-11-22"
 tags:
-  - "cedar-falls"
-  - "life"
-  - "thoughts"
+  - "Cedar Falls"
+  - "Personal"
+  - "Thoughts"
 ---
 
 Ah, sweet sweet vacation-y bliss.  The downside to school is that it's nonstop for nearly 16 weeks.  The upside is that we get a week break right near the end, just in time for a recharge.  And yet, at the same time, I've got enough stuff to do to keep me busy.

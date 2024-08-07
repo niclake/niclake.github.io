@@ -2,8 +2,8 @@
 title: "The NFL Draft (and Why I Hate It)"
 date: "2009-04-23"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
   - "NFL"
 ---
 

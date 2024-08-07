@@ -2,9 +2,9 @@
 title: "Breathe Easy, Red Sox Fans"
 date: "2009-05-21"
 tags:
-  - "baseball"
-  - "mlb"
-  - "red-sox"
+  - "Baseball"
+  - "MLB"
+  - "Red Sox"
 ---
 
 ![](images/ortiz1.jpg)Last season, the biggest worry for the Red Sox was Jason Varitek's struggles at the plate.  This season, our biggest worry has been David Ortiz and his slump.  We've also had injury concerns, with Lowell, Lowrie, and Youk getting injured. And, oh yeah, we got rid of that Ramirez guy.

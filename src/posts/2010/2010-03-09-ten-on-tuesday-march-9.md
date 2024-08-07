@@ -2,7 +2,7 @@
 title: "Ten on Tuesday (March 9)"
 date: "2010-03-09"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)**1. Of your current hobbies, which would you choose to spend more time, money, and effort on? Why?** I think guitar takes all 3 of the above categories, although I could really use a nice camera and some lenses.  And why?  Well, I love music, but I really don't put a lot of time or effort towards it, mostly because I live in the dorms and don't want to bother people.  Great excuse, I know.

@@ -2,8 +2,8 @@
 title: "The Big Men - The New Face of College Basketball"
 date: "2009-02-15"
 tags:
-  - "basketball"
-  - "ncaa-basketball"
+  - "Basketball"
+  - "Basketball"
 ---
 
 There's nothing like the magic of a great shooting guard like [Kyle McAlarney](http://sports.espn.go.com/ncb/player/profile?playerId=26941) or [Jodie Meeks](http://sports.espn.go.com/ncb/player/profile?playerId=31683), a great passer and setup man like [Levance Fields](http://sports.espn.go.com/ncb/player/profile?playerId=27292) or [Ty Lawson](http://sports.espn.go.com/ncb/player/profile?playerId=31608), or even a great all-around player like [Stephen Curry](http://sports.espn.go.com/ncb/player/profile?playerId=32284) in the game of basketball... but if you ask any coach, they'll tell you that having a quality man in the middle is just as important.

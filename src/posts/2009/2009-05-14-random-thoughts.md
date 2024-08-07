@@ -2,11 +2,11 @@
 title: "Random Thoughts"
 date: "2009-05-14"
 tags:
-  - "basketball"
-  - "life"
-  - "rant"
-  - "sports"
-  - "work"
+  - "Basketball"
+  - "Personal"
+  - "Rant"
+  - "Sports"
+  - "Work"
 ---
 
 You know what's frustrating?

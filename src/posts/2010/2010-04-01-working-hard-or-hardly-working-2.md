@@ -2,9 +2,9 @@
 title: "Working Hard, or Hardly Working"
 date: "2010-04-01"
 tags:
-  - "life"
-  - "random"
-  - "rant"
+  - "Personal"
+  - "Personal"
+  - "Rant"
 ---
 
 I have absolutely no idea what "working hard" means.

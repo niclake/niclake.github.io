@@ -2,7 +2,7 @@
 title: "Nuggets/Lakers, Game 2"
 date: "2009-05-22"
 tags:
-  - "basketball"
+  - "Basketball"
   - "NBA"
 ---
 

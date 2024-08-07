@@ -2,16 +2,16 @@
 title: "It's Time To Go Zebra Hunting..."
 date: "2009-10-25"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
-  - "hockey"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
+  - "Hockey"
+  - "MLB"
   - "NBA"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
   - "NFL"
-  - "soccer"
+  - "Soccer"
 ---
 
 I'm going to be really honest with you all today...

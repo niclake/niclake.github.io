@@ -2,10 +2,10 @@
 title: "30 Days of Blogging: Day 13 (in honor of Coming Out Day)"
 date: "2010-10-11"
 tags:
-  - "america"
-  - "life"
-  - "rant"
-  - "thoughts"
+  - "America"
+  - "Personal"
+  - "Rant"
+  - "Thoughts"
 ---
 
 I'm mixing things up today.  Instead of talking about what I should be, I'm going to shuffle the order a bit.

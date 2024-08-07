@@ -2,8 +2,8 @@
 title: "Pandora Radio... for Cars?"
 date: "2009-05-21"
 tags:
-  - "music"
-  - "technology"
+  - "Music"
+  - "Technology"
 ---
 
 This is something that needs to be made, like, right now.

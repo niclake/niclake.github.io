@@ -2,7 +2,7 @@
 title: "Guitar Rig"
 date: "2009-07-11"
 tags:
-  - "guitar"
+  - "Guitar"
 ---
 
 I take back anything I'd previously written in regards to my future guitar rig... and I'll probably take this back someday as well. But that's ok.

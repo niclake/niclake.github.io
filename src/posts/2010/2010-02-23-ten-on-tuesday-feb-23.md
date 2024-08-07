@@ -2,9 +2,9 @@
 title: "Ten on Tuesday (Feb. 23)"
 date: "2010-02-23"
 tags:
-  - "life"
-  - "ten-on-tuesday"
-  - "thoughts"
+  - "Personal"
+  - "Ten On Tuesday"
+  - "Thoughts"
 ---
 
 ![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125)Well, someone suggested that I start doing this as a way to increase readers, as well as to let everyone out there know a little more about me.  So without further ado... my first foray into the Ten on Tuesday posts.

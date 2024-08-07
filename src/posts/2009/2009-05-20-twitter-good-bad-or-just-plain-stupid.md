@@ -2,8 +2,8 @@
 title: "Twitter: Good, Bad, or Just Plain Stupid?"
 date: "2009-05-20"
 tags:
-  - "technology"
-  - "twitter"
+  - "Technology"
+  - "Twitter"
 ---
 
 I really don't know what to think about Twitter some days.

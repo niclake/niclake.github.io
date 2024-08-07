@@ -2,8 +2,8 @@
 title: "Living In This Fantasy World"
 date: "2009-11-03"
 tags:
-  - "fantasy-sports"
-  - "football"
+  - "Fantasy Sports"
+  - "Football"
   - "NFL"
 ---
 

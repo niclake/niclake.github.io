@@ -2,8 +2,8 @@
 title: "Own That Box"
 date: "2011-02-08"
 tags:
-  - "life"
-  - "music"
+  - "Personal"
+  - "Music"
 ---
 
 Everyone always tells you "think outside the box". As a musician, this can be really helpful, or extremely frustrating. We all have our own ruts that we like to sit in, certain licks we enjoy, specific instruments and pedals and amps that we want to play through, and so forth. Sometimes, mixing things up a bit can really motivate a musician to become better. Give the classical pianist a jazz chart. Have that metal-head guitarist play some blues. Give an old, beaten up trumpet to the orchestra's first chair, and have him struggle and strive to make every note sound exactly how he wants it.

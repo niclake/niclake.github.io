@@ -2,11 +2,11 @@
 title: "Deep Breath... Ready..."
 date: "2010-01-28"
 tags:
-  - "guitar"
-  - "life"
-  - "music"
-  - "school"
-  - "thoughts"
+  - "Guitar"
+  - "Personal"
+  - "Music"
+  - "School"
+  - "Thoughts"
 ---
 
 It's 4:36 as I start writing this blog post.  This is honestly one of the first times since the semester started that I've been able to just sit back and chill for a bit.  I'm sitting here at work right now, having just finished my Accounting homework for tomorrow.  This weekend is going to be jam packed.  This cute redhead keeps looking over at me.  I still have more stuff to do tonight.  But right now, I just need a chance to mellow out and write.

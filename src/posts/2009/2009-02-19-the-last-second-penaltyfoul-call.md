@@ -2,11 +2,11 @@
 title: "The Last-Second Penalty/Foul Call"
 date: "2009-02-19"
 tags:
-  - "basketball"
-  - "football"
+  - "Basketball"
+  - "Football"
   - "NBA"
-  - "ncaa-basketball"
-  - "ncaa-football"
+  - "Basketball"
+  - "Football"
   - "NFL"
 ---
 

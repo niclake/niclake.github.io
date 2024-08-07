@@ -2,7 +2,7 @@
 title: "Simple Pleasures, Pt. 1"
 date: "2008-06-17"
 tags:
-  - "simple-pleasures"
+  - "Simple Pleasures"
 ---
 
 I have determined that I'm going to start a little mini-series within my blog here... weekly?  Idk.  We'll find out.

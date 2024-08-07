@@ -2,8 +2,8 @@
 title: "2009 MLB Analysis: 1st Basemen"
 date: "2009-02-21"
 tags:
-  - "baseball"
-  - "fantasy-sports"
+  - "Baseball"
+  - "Fantasy Sports"
 ---
 
 I'm a huge baseball fan.

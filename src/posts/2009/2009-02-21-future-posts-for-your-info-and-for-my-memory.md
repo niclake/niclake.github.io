@@ -2,10 +2,10 @@
 title: "Future Posts (For your info, and for my memory)"
 date: "2009-02-21"
 tags:
-  - "baseball"
-  - "basketball"
-  - "fantasy-sports"
-  - "football"
+  - "Baseball"
+  - "Basketball"
+  - "Fantasy Sports"
+  - "Football"
 ---
 
 Like I said, this is both for your information for what to look for in the near future, as well as a reminder and portable list for me to know what I want to write about.  So, here goes...

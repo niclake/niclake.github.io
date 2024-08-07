@@ -2,9 +2,9 @@
 title: "Life Update"
 date: "2008-07-22"
 tags:
-  - "movies"
-  - "school"
-  - "work"
+  - "Movies"
+  - "School"
+  - "Work"
 ---
 
 So, for those that haven't heard... I got a new job.  I'll be working for TechTeam Global, doing IT stuff at John Deere.  It should be a good time.

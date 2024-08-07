@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 19"
 date: "2010-10-18"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Day 19: (scenario) Your best friend is in a car accident and you two got into a fight an hour before. What do you do?

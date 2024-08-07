@@ -2,7 +2,7 @@
 title: "Being Yourself Online"
 date: "2011-01-20"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Today, if you hit up Twitter and search for #PastBlast, you'll find a whole bunch of us tweeting some of our favorite articles that we've read over the years.  There is some wonderful stuff out there... Apple wishlists that turned out to be spot on, random stories about things like fonts in the NYC subway system or the SR-71 Blackbird aircraft, and much much more.

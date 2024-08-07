@@ -2,12 +2,12 @@
 title: "\"Culpepper throws, up for Carter, TOUCHDOWN!!!\""
 date: "2009-05-12"
 tags:
-  - "baseball"
-  - "basketball"
-  - "football"
-  - "mlb"
+  - "Baseball"
+  - "Basketball"
+  - "Football"
+  - "MLB"
   - "NFL"
-  - "red-sox"
+  - "Red Sox"
 ---
 
 It just struck me this morning... I'm such a passionate sports fan, I love all sports... and yet I've only been to a small sampling of professional sporting events in my life.  It's a slight oxymoron to me.  "Yeah!  Go sports!  As long as I'm sitting at my desk!"

@@ -2,9 +2,9 @@
 title: "Inspiration (or Lack Thereof)"
 date: "2010-06-28"
 tags:
-  - "life"
-  - "thoughts"
-  - "work"
+  - "Personal"
+  - "Thoughts"
+  - "Work"
 ---
 
 I haven't written a lot of blog posts lately. Sorry for that, all 2 dozen of you readers.

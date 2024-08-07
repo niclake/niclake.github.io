@@ -2,13 +2,13 @@
 title: "The System Is Down"
 date: "2010-09-24"
 tags:
-  - "america"
-  - "computers"
-  - "life"
-  - "rant"
-  - "stupid"
-  - "technology"
-  - "thoughts"
+  - "America"
+  - "Computers"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
+  - "Technology"
+  - "Thoughts"
 ---
 
 ![](images/mr-bill-ohh-nooo-magnet-c11751410jpeg.jpg)([obligatory YouTube link](http://www.youtube.com/watch?v=JwZwkk7q25I))

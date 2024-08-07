@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Day 15"
 date: "2010-10-14"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I swear, it's getting more and more difficult to keep up with this project.  Midterms will do that to you, I guess.

@@ -2,8 +2,8 @@
 title: "2009 MLB Predictions: The (Early) Review (and New Predictions)"
 date: "2009-09-25"
 tags:
-  - "baseball"
-  - "red-sox"
+  - "Baseball"
+  - "Red Sox"
 ---
 
 I wrote this on my birthday earlier this year... time to analyze.

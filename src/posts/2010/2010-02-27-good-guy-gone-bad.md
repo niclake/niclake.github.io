@@ -2,8 +2,8 @@
 title: "Good Guy Gone Bad..."
 date: "2010-02-27"
 tags:
-  - "rant"
-  - "stupid"
+  - "Rant"
+  - "Stupid"
 ---
 
 I'm just going to throw this out there... days like today, I really, really hate being the good guy.

@@ -2,8 +2,8 @@
 title: "Baseball: Ups and Downs"
 date: "2009-05-13"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 Ups: The state of the games being played in baseball.  Offense.  Defense.  Special teams baserunning and heads up play.  Someone has stolen home plate 4 times this season.  I haven't seen too many sacrifice bunts or bunts for hits, but those will start showing up more towards the end of the season.

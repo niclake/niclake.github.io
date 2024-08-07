@@ -2,10 +2,10 @@
 title: "Strange Feats Are Abound"
 date: "2009-04-16"
 tags:
-  - "baseball"
-  - "basketball"
-  - "mlb"
-  - "red-sox"
+  - "Baseball"
+  - "Basketball"
+  - "MLB"
+  - "Red Sox"
 ---
 
 There are some crazy weird things happening this season in the world of sports, and tonight was no different.

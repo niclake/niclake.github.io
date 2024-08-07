@@ -2,15 +2,15 @@
 title: "What a Weekend"
 date: "2010-04-19"
 tags:
-  - "america"
-  - "baseball"
-  - "food"
-  - "goals"
-  - "life"
-  - "school"
-  - "simple-pleasures"
-  - "sports"
-  - "thoughts"
+  - "America"
+  - "Baseball"
+  - "Food"
+  - "Goals"
+  - "Personal"
+  - "School"
+  - "Simple Pleasures"
+  - "Sports"
+  - "Thoughts"
 ---
 
 This was exactly what I needed.

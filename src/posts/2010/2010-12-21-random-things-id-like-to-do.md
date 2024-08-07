@@ -2,8 +2,8 @@
 title: "Random Things I'd Like To Do"
 date: "2010-12-21"
 tags:
-  - "goals"
-  - "life"
+  - "Goals"
+  - "Personal"
 ---
 
 With 11 full days of 2010 left, it's high time to start thinking about what you'd like to do for your New Year's Resolution.  I had pretty solid success with my eating healthy/giving up pop resolutions (they're more guidelines than anything), and will probably do that one again this year.  I know a lot of college students resolve to start working out more, which leads to our wellness center being jam packed for the first 2 weeks after school returns.

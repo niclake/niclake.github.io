@@ -2,8 +2,8 @@
 title: "Organizing Your iTunes Library with Ratings"
 date: "2010-11-22"
 tags:
-  - "music"
-  - "technology"
+  - "Music"
+  - "Technology"
 ---
 
 ![](images/itunes9icon.png)I was talking with one of my friends Jason the other day, and the topic got on iTunes and how we sort our music.  As of right now, I have 19141 songs (57 days, 2 hours, 59 minutes, and 53 seconds, or 91.91 GB) in my library.  That's way too much for one person to have, I think.  I used to have nearly 22,000 but I've been cleaning music out utilizing this process.

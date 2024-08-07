@@ -2,9 +2,9 @@
 title: "Moments of Zen"
 date: "2010-12-08"
 tags:
-  - "guitar"
-  - "life"
-  - "music"
+  - "Guitar"
+  - "Personal"
+  - "Music"
 ---
 
 ![](http://media.yayart.com/media/art/generated/1660_618x618.jpg?_=1lt9El)This past Sunday, I filled in on guitar at the Waterloo campus of [Prairie Lakes Church](http://www.prairielakeschurch.org/default.aspx).  None of the songs we played were new to me, per se, but the arrangements definitely were different than I was used to.  I was a bit nervous going in...  This was my first time playing since I bombed an audition (which ended off not being a big deal, but it was still frustrating for me), I didn't have much time to learn the songs, and I hadn't played guitar in over a week (stupid school/finals).  Needless to say, I was worrying a little bit about how I was going to play.

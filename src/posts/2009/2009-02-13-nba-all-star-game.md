@@ -2,8 +2,8 @@
 title: "NBA All-Star Game"
 date: "2009-02-13"
 tags:
-  - "all-star"
-  - "basketball"
+  - "All-star"
+  - "Basketball"
   - "NBA"
 ---
 

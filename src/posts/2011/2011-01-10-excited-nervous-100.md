@@ -2,9 +2,9 @@
 title: "Excited, Nervous, and 100"
 date: "2011-01-10"
 tags:
-  - "life"
-  - "school"
-  - "work"
+  - "Personal"
+  - "School"
+  - "Work"
 ---
 
 Classes started up again today. I'm pumped that my schedule worked out like it did, only having classes on MWF. Wednesdays are going to suck, but that's ok, I can deal with it. The one thing I forgot, though, is the fact that I am now taking 100-level business courses.

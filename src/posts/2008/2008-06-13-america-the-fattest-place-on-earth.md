@@ -2,10 +2,10 @@
 title: "America - The Fattest Place On Earth"
 date: "2008-06-13"
 tags:
-  - "america"
-  - "goals"
-  - "rant"
-  - "stupid"
+  - "America"
+  - "Goals"
+  - "Rant"
+  - "Stupid"
 ---
 
 So recently, I've been trying to get back into the kind of shape that I used to be. I've never been necessarily ripped or fit, but I used to have enough stamina when I was younger to play basketball for 3 or more hours at a time. Once my leg and arm started bothering me, I kinda dropped out of doing that as much.  

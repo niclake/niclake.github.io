@@ -2,7 +2,7 @@
 title: "30 Days of Blogging: Days 8 &amp; 9"
 date: "2010-10-07"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 Sorry I didn't get to this sooner... I had the idea in mind for yesterday's post, but I've been battling another illness (a cold this time), and have been sleeping a ton. So anyway... here I am. And here's your double dose.

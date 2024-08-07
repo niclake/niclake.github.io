@@ -2,8 +2,8 @@
 title: "Baseball Season Should Be a Happy Time..."
 date: "2009-04-15"
 tags:
-  - "baseball"
-  - "mlb"
+  - "Baseball"
+  - "MLB"
 ---
 
 I need to take a moment and comment about the recent state of affairs in the world of baseball.  The league and all of its fans have lost 3 members in a week, with the passing of Nick Adenhart (22), Harry Kalas (73), and Mark Fidrych (54).

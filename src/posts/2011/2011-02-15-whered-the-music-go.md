@@ -2,8 +2,8 @@
 title: "Where'd The Music Go?"
 date: "2011-02-15"
 tags:
-  - "life"
-  - "music"
+  - "Personal"
+  - "Music"
 ---
 
 I started [a new blog](http://wheredthemusicgo.tumblr.com/) today. Don't worry, this one's not going anywhere.

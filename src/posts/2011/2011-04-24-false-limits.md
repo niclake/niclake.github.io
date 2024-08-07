@@ -2,7 +2,7 @@
 title: "False Limits"
 date: "2011-04-24"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 > I'm not going to believe that only a few people are permitted to be gatekeepers or creators or generous leaders. I have no intention of apologizing for believing in people, for insisting that we all use this moment and these assets to create some art and improve the world around us.

@@ -2,8 +2,8 @@
 title: "Fantasy Football"
 date: "2009-08-30"
 tags:
-  - "football"
-  - "sports"
+  - "Football"
+  - "Sports"
 ---
 
 In my free time, I am one of the moderators of the [Vikings Yahoo group online](http://sports.groups.yahoo.com/group/vikings/).  One of the members there kindly paid for and hosted a Fantasy Football league (yeah, he paid for it... kinda insane, but I'll roll with it), and as a moderator, I was invited to participate.  Now, I've never done much in the way of fantasy sports before this calendar year.  I joined 2 fantasy baseball leagues this year, one of which I care about a little bit (currently 7th of 10 players) and one which I don't give a crap about (2nd of 10).  Baseball is just such a long season, it's hard to keep up with it all.

@@ -2,9 +2,9 @@
 title: "A-Fraud Benched"
 date: "2009-06-20"
 tags:
-  - "baseball"
-  - "mlb"
-  - "yankees"
+  - "Baseball"
+  - "MLB"
+  - "Yankees"
 ---
 
 Word out of NY is that A-Fraud has been benched for "fatigue".  I see two options...

@@ -2,7 +2,7 @@
 title: "Ten on Tuesday (March 16)"
 date: "2010-03-16"
 tags:
-  - "ten-on-tuesday"
+  - "Ten On Tuesday"
 ---
 
 [![](http://rootsandrings.files.wordpress.com/2009/10/rr10tuesday.jpg?w=125&h=125&h=125)](http://rootsandrings.wordpress.com/)**1. Quick! Zombies are coming!! What do you do?** I go find some of my friends that have weapons. I have none. Freakin' lame.

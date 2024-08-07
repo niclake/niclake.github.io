@@ -2,8 +2,8 @@
 title: "New (Additional) Blog"
 date: "2009-02-10"
 tags:
-  - "life"
-  - "sports"
+  - "Personal"
+  - "Sports"
 ---
 
 I realize that I barely use this blog, but I'm going to try and start using it more.

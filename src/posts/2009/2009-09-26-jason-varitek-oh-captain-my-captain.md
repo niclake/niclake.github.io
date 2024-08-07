@@ -2,8 +2,8 @@
 title: "Jason Varitek: Oh Captain My Captain"
 date: "2009-09-26"
 tags:
-  - "baseball"
-  - "red-sox"
+  - "Baseball"
+  - "Red Sox"
 ---
 
 ![](images/1099231237_4494.jpg)Dear Jason Varitek,

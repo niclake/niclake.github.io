@@ -2,8 +2,8 @@
 title: "More Voting Travesty"
 date: "2009-10-05"
 tags:
-  - "football"
-  - "ncaa-football"
+  - "Football"
+  - "Football"
 ---
 
 I've already talked about this topic once, and I'm going to have to say it again...

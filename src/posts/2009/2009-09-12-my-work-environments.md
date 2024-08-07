@@ -2,7 +2,7 @@
 title: "My Work Environments"
 date: "2009-09-12"
 tags:
-  - "computers"
+  - "Computers"
 ---
 
 Lately, I've been looking around at various people's computer work environments, getting different ideas for how to customize mine.  Anyone who's been around me and my computers for more than a few minutes knows the degree of customization that I utilize on my machines.  Most of it is based upon the personal desire to retain as much information at a brief glance as possible.  I figured I would share a few of these shots with you.

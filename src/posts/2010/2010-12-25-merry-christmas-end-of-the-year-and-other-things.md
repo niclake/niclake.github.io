@@ -2,7 +2,7 @@
 title: "Merry Christmas, End of the Year, and Other Things"
 date: "2010-12-25"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 First, 2 things.

@@ -2,7 +2,7 @@
 title: "Life As We Know It"
 date: "2011-03-01"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 99.99% of the time, when life hits you with that left hook that spins you around (you spin my head right round, right roun... sorry), you hate it.  The other 0.01%, it's incredible, and you want to go get punched again.  I think I've gone the full 12 rounds with both tangents here recently.

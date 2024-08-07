@@ -2,13 +2,13 @@
 title: "'Tis the Season..."
 date: "2009-09-05"
 tags:
-  - "cedar-falls"
-  - "computers"
-  - "football"
-  - "life"
-  - "rant"
-  - "technology"
-  - "thoughts"
+  - "Cedar Falls"
+  - "Computers"
+  - "Football"
+  - "Personal"
+  - "Rant"
+  - "Technology"
+  - "Thoughts"
 ---
 
 ... to have multiple TVs in your place of residence.

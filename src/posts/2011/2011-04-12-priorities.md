@@ -2,7 +2,7 @@
 title: "Priorities"
 date: "2011-04-12"
 tags:
-  - "life"
+  - "Personal"
 ---
 
 I struggle mightily with prioritizing things.  I don't know when I picked up this habit, but I really wish I could get rid of it.

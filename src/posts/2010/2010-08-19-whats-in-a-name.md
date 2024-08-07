@@ -2,9 +2,9 @@
 title: "What's In a Name?"
 date: "2010-08-19"
 tags:
-  - "life"
-  - "music"
-  - "thoughts"
+  - "Personal"
+  - "Music"
+  - "Thoughts"
 ---
 
 Someone asked me the other day about the name of my blog, "The Music Plays You".  So, maybe I should explain...

@@ -2,9 +2,9 @@
 title: "Time to Rant"
 date: "2010-08-04"
 tags:
-  - "life"
-  - "rant"
-  - "stupid"
+  - "Personal"
+  - "Rant"
+  - "Stupid"
 ---
 
 People that steal are gigantic pieces of shit.

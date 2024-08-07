@@ -2,8 +2,8 @@
 title: "NaNoWriMo... It's only, like, 5 months away."
 date: "2008-06-18"
 tags:
-  - "goals"
-  - "nanowrimo"
+  - "Goals"
+  - "NaNoWriMo"
 ---
 
 The most "novel" ideas come to you in the restroom... yet no one ever admits to their genius they come across while depositing offerings in the porcelain receptacles. Weird.  

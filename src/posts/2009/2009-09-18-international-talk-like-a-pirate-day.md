@@ -2,8 +2,8 @@
 title: "International Talk Like a Pirate Day"
 date: "2009-09-18"
 tags:
-  - "random"
-  - "simple-pleasures"
+  - "Personal"
+  - "Simple Pleasures"
 ---
 
 Yep.  Tomorrow.  Sept. 19.  I need to get this keyboard so I'm prepared...

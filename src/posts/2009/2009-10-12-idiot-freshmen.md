@@ -2,13 +2,13 @@
 title: "Idiot Freshmen"
 date: "2009-10-12"
 tags:
-  - "life"
-  - "random"
-  - "rant"
-  - "school"
-  - "simple-pleasures"
-  - "stupid"
-  - "thoughts"
+  - "Personal"
+  - "Personal"
+  - "Rant"
+  - "School"
+  - "Simple Pleasures"
+  - "Stupid"
+  - "Thoughts"
 ---
 
 Let me tell you a little story.

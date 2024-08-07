@@ -2,8 +2,8 @@
 title: "Fantasy Football"
 date: "2009-09-18"
 tags:
-  - "fantasy-sports"
-  - "football"
+  - "Fantasy Sports"
+  - "Football"
   - "NFL"
 ---
 

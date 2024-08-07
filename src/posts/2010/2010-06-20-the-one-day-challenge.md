@@ -2,13 +2,13 @@
 title: "The One Day Challenge"
 date: "2010-06-20"
 tags:
-  - "computers"
-  - "life"
-  - "technology"
-  - "thoughts"
-  - "tv"
-  - "twitter"
-  - "video-games"
+  - "Computers"
+  - "Personal"
+  - "Technology"
+  - "Thoughts"
+  - "TV"
+  - "Twitter"
+  - "Video Games"
 ---
 
 I lost internet last night.
