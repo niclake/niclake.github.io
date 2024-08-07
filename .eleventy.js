@@ -4,6 +4,7 @@ const shortcodes = require('./config/shortcodes.js')
 const dateFilters = require('./config/filters/date.js')
 const postFilters = require('./config/filters/posts.js')
 const fs = require('fs')
+const moment = require("moment")
 
   
 module.exports = function (eleventyConfig) {
@@ -92,6 +93,12 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts", "page"].indexOf(tag) === -1);
 	});
+
+  eleventyConfig.addFilter("afterDateForRss", function afterDateForRss(collection) {
+    return collection.filter((p) => {
+      return moment(p.date).isAfter(moment("2018-08-01"));
+    });
+  });
   // Object.keys(postFilters).forEach(filterName => {
   //   eleventyConfig.addFilter(filterName, dateFilters[filterName])
   // })
