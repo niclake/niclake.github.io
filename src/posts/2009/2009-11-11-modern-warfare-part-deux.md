@@ -1,0 +1,29 @@
+---
+title: "Modern Warfare, Part Deux"
+date: "2009-11-11"
+tags:
+  - "Technology"
+  - "Video Games"
+---
+
+I've determined that I would really like to have a text editor attached to my brain somehow.  If someone comes out with the technology to make this possible, I will be first in line to get it.
+
+There's a good reason for this too.  I often get some very profound and awesome ideas in my head about subject matter, but this is usually when I'm in a place where I'm completely segregated from any sort of technology (be it a laptop or even a pencil/paper) that I am unable to jot the idea down.  Coupled with my terrible short term memory, this means that 95% of these amazing ideas go unwritten and unnoticed.  Thankfully, the thoughts that I had for this blog post, while being over 24 hours old, had a good enough analogy attached to them that I was able to remember it after a bit of thinking.
+
+![](images/modern-warfare-2-gameplay-photos1254532753.jpg)So, for those that don't know, yesterday was the release of Call of Duty: Modern Warfare 2 (CoD or MW2 for short).  This was easily one of the most anticipated games in the history of video games, with GameStop actually setting a new record for the most number of preorders for a game (can't remember the figure, but I remember the article).  For those of you that are familiar with College Square Mall here in town, the line went from the GameStop down the stairs to the west end of the mall.  If I had to guess, I'd say 500 people were there, but I think this is an extreme low-ball estimate.
+
+The most recent midnight releases that I have participated in before this were the World of Warcraft expansion (yes, I played.  No, I don't play anymore) and Halo 3.  Usually, I would go home, play the game until about 3 or 4, go to bed, and be tired the whole next day.  A small price to pay, I thought, for enjoying the games.
+
+This time, I went a little bit of a different avenue.  Picked up the game, and home by 12:20.  I was into the MW2 campaign (on Hardened, or 2nd highest difficulty) by 12:24.  Watching every cutscene, paying attention to everything that was said, I finished the game at 6:36am... just a little over 6 hours and 10 minutes.  The game is not short by any means... there's quite a bit to the game itself (more on that later).  I'm planning on it taking me quite a while to go through on Veteran, which is why I plan on giving that a shot over Thanksgiving break.
+
+Here's about how my day went...
+
+0000 - Pick up game. 0024 - start playing game 0636 - finish on Hardened 0637 - do a little dance of elation (very little) 0637:05 - sign on to multiplayer 0800 - 20 minute break to shower 1145 - log off, go eat lunch 1215 - decide to take a nap, since I was a little tired 1330 - wake up from nap 1400 - class 1530 - Personal Wellness extracurricular lecture 1730 - wake up
+
+Oops.  That was with 2 alarms set, and someone banging on my door at 1:30... apparently, I shut off both alarms and told Justin "yeah, I'm up" before falling back asleep... don't remember it at all.
+
+![](images/cod-mw2-1_1517847c.jpg)Anyway, after I completed the campaign and played a bit of multiplayer, I decided to take a shower since I was planning on going to my class and lecture, and didn't want to make it apparent to the average person that I had not slept.  I was thinking through the campaign that I had just played, and the incredible story that it had told.  Seriously, I feel that this game in particular (and possibly even CoD4, the predecessor to MW2) should be made into a movie/movies.  There's action to keep the younger generation enthralled, and enough mystery and plot twists that make good movies incredible (see: The Prestige).  There were literally moments during this game that I was thinking to myself "holy s\*\*\*, what if this actually happened" or having actual emotions being evoked by a video game.  For the general population of video gamers, I'm guessing this hasn't happened before.  The analogy I made when I was thinking about this was that it was like the new Daniel Craig Bond movies (Casino Royale, with its edginess and emotional reactions), plus the Pierce Brosnan Bond movies (ACTION!!!!), and you multiply the number of protagonists by 20 and the number of bad guys by 200 (probably 2,000, but you can have some actors play multiple roles).  Then you throw in a sprinkling of suspense and about 4 or 5 hard plot turns and twists, and you have the story put out by this game.
+
+**SPOILER ALERT: IF YOU HAVEN'T PLAYED THE "CONTROVERSIAL" LEVEL YET, SKIP THIS PARAGRAPH!!!!** Infinity Ward (the developer of MW2) has always been notorious about trying to get some sort of emotional reaction out of its players when they play their games, and particularly in the CoD franchise.  About 2 weeks ago, a level of the game was leaked to the media somehow, showing an optional level that allows you to to take control of a terrorist as you go through an airport, using machine guns and grenade launchers to kill innocent civilians and the police force that eventually arrives.  What you didn't see in that leaked video was the fact that you were in control of an American soldier (who you controlled for the first couple of levels) that was recruited by the CIA to infiltrate the Russian terrorist organization you were in the airport with.  It also didn't show the fact that the leader of the group knew who you were, and at the end of the level, shoots you and leaves you for dead.  Talk about a bit of "what the hell just happened?!?" **END OF SPOILER!!!**
+
+There are always moments of "wow, that really shouldn't have been made into a movie" (see: Hitman, Final Fantasy \[though I actually like the FF movie\], Eragon, Twilight, etc.), but with the right people working on this, a Modern Warfare movie could turn out to be absolutely epic.  Odds of it actually happening? Probably slim to none.  Oh well, that's why we dream, right?

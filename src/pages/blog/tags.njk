@@ -10,7 +10,7 @@ title: Tags
     {% for tag in tags %}
       <div class="btn-nl-primary">
         <a class="tag-bubble" href="#{{tag | slugify}}">
-          {{tag}} <small>({{collections[tag].length}})
+          {{tag}} <small>({{collections[tag].length}})</small>
         </a>
       </div>
     {% endfor %}

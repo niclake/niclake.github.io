@@ -16,7 +16,9 @@ module.exports = [
     options: {
       boxColor: '#44475a',
       highlightColor: '#50fa7b',
-      textColor: '#d0d0d0'
+      textColor: '#d0d0d0',
+      dayBoxTitle: true,
+      dayBoxTitleFormat: 'MMMM D'
     }
   },
 ]
