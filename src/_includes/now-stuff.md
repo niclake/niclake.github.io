@@ -7,9 +7,8 @@
 
 ### Currently Reading
 
-- _Morning Star (Red Rising book 3)_ by Pierce Brown
+- _The Bayern Agenda_ by Dan Moren
 - Up Next: _A Memory Called Empire_ by Arkady Martine
-- Up Next: _The Caledonian Gambit_ by Dan Moren
 - Up Next: _Acceptance (Southern Reach book 3)_ by Jeff VanderMeer
 - Up Next: _Gardens of the Moon (Malazan book 1)_ by Steven Erikson
 - Up Next: _Horus Rising_ by Dan Abbott
@@ -18,6 +17,7 @@
 ### Currently Playing
 
 - **Elden Ring** (PC / Steam Deck)
+- **Balatro** (PC / Steam Deck)
 - **Paper Mario: The Thousand-Year Door** (Switch)
 - (Paused) **Pokémon LeafGreen** (GameBoy Advance)
 - See my [full game backlog here][games], and tell me any games you think I should play next
