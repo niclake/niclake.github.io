@@ -10,9 +10,13 @@ is_post: true
     <div class="date">
       {{ date | postDate }} • 
       {% set isADHD = "false" %}
+      {% set isTherapy = "false" %}
       {% for tag in tags | filterTagList %}
         {% if tag == "ADHD" %}
           {% set isADHD = "true" %}
+        {% endif %}
+        {% if tag == "Therapy" %}
+          {% set isTherapy = "true" %}
         {% endif %}
         <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
       {% endfor %}
@@ -22,6 +26,9 @@ is_post: true
   <div class="entry">
     {% if isADHD == "true" %}
       {% include 'adhd.njk' %}
+    {% endif %}
+    {% if isTherapy == "true" %}
+      {% include 'therapy.njk' %}
     {% endif %}
     {{ content | safe }}
     {% svg "images/site/monogram" %}
