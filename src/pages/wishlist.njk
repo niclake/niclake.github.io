@@ -9,13 +9,13 @@ permalink: /wishlist/index.html
 
 <h2>V's List</h2>
 
-<p>Things from <a href="https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2">V's Amazon Wish List</a></p>
+<p>Things from <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/2J1F8GO0YW309/ref=nav_wishlist_lists_2">V's Amazon Wish List</a></p>
 
 <hr/>
 
 <h2>R's List</h2>
 
-<p>Things from <a href="https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share">R's Amazon Wish List</a></p>
+<p>Things from <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/1KI7GH0R68MTX?ref_=wl_share">R's Amazon Wish List</a></p>
 
 <hr/>
 
@@ -33,26 +33,14 @@ permalink: /wishlist/index.html
         <ul>
           {%- for thing in wishlist.things -%}
             <li>
-              {% if thing.url %}
-                <a href="{{ thing.url }}">
-                {% endif %}
-                {{ thing.name }}
-                {% if thing.notes %}&nbsp;({{ thing.notes }}){% endif %}
-                {% if thing.url %}
-                </a>
-              {% endif %}
+              {% if thing.url %}<a target="_blank" href="{{ thing.url }}">{% endif %}{{ thing.name }}{% if thing.url %}</a>{% endif %}
+              {% if thing.notes %}&nbsp;({{ thing.notes }}){% endif %}
               {% if thing.options %}
                 <ul>
                   {%- for subthing in thing.options -%}
                     <li>
-                      {% if subthing.url %}
-                        <a href="{{ subthing.url }}">
-                        {% endif %}
-                        {{ subthing.name }}
-                        {% if subthing.notes %}&nbsp;({{ subthing.notes }}){% endif %}
-                        {% if subthing.url %}
-                        </a>
-                      {% endif %}
+                      {% if subthing.url %}<a target="_blank" href="{{ subthing.url }}">{% endif %}{{ subthing.name }}{% if subthing.url %}</a>{% endif %}
+                      {% if subthing.notes %}&nbsp;({{ subthing.notes }}){% endif %}
                     </li>
                   {%- endfor -%}
                 </ul>
@@ -77,7 +65,7 @@ permalink: /wishlist/index.html
             {%- for shirt in wishlist.shirts -%}
               <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                 <div class="card wishlist">
-                  <a href="{{ shirt.url }}">
+                  <a target="_blank" href="{{ shirt.url }}">
                     <h6>{{ shirt.name }}</h6>
                     <img src="{{ shirt.img }}" alt="{{ shirt.name }}"/>
                   </a>
@@ -116,7 +104,7 @@ permalink: /wishlist/index.html
                       {%- for hat in team.hats -%}
                         <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                           <div class="card wishlist">
-                            <a href="{{ hat.url }}">
+                            <a target="_blank" href="{{ hat.url }}">
                               {% if hat.priority %}
                                 <strong>
                                   <em>
@@ -165,14 +153,14 @@ permalink: /wishlist/index.html
                     <span class="mb-3">
                     {% endif %}
                     {%- for color in team.colors -%}
-                      <a href="{{ color.url }}">{{ color.name }}</a>&nbsp;&nbsp;
+                      <a target="_blank" href="{{ color.url }}">{{ color.name }}</a>&nbsp;&nbsp;
                     {%- endfor -%}
                     {% if team.colors %}</span>{% endif %}
                   <ul>
                     {%- for player in team.players -%}
                       <li>
                         {% if player.url %}
-                          <a href="{{ player.url }}">
+                          <a target="_blank" href="{{ player.url }}">
                           {% endif %}
                           {% if player.priority %}
                             <strong>
@@ -238,7 +226,7 @@ permalink: /wishlist/index.html
         <ul>
           {%- for book in wishlist.cookbooks -%}
             <li>
-              <a href="{{ book.url }}">{{ book.name }}</a>
+              <a target="_blank" href="{{ book.url }}">{{ book.name }}</a>
             </li>
           {%- endfor -%}
         </ul>
@@ -257,7 +245,7 @@ permalink: /wishlist/index.html
           {%- for gc in wishlist.gcs -%}
             <li>
               {% if gc.url %}
-                <a href="{{ gc.url }}">
+                <a target="_blank" href="{{ gc.url }}">
                 {% endif %}
                 {{ gc.name }}
                 {% if gc.url %}

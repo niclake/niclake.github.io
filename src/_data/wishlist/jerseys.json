@@ -3,17 +3,6 @@
     "name": "Boston Red Sox",
     "players": [
       {
-        "name": "Ortiz",
-        "number": 34,
-        "priority": true,
-        "url": "https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-david-ortiz-nike-navy-alternate-replica-player-jersey/t-25333097+p-0464684556805+z-9-2288905099"
-      },
-      {
-        "name": "Duran",
-        "number": 16,
-        "priority": true
-      },
-      {
         "name": "Wakefield",
         "number": 49,
         "priority": true
@@ -136,8 +125,7 @@
     "players": [
       {
         "name": "Thomas",
-        "number": 35,
-        "priority": true
+        "number": 35
       }
     ],
     "colors": [
@@ -204,36 +192,33 @@
         "number": 24,
         "url": "https://www.mlbshop.com/detroit-tigers/mens-detroit-tigers-miguel-cabrera-nike-gray-road-limited-player-jersey/t-25338650+p-803377579590304+z-9-305953815"
       }
+    ]
+  },
+  {
+    "name": "Houston Astros",
+    "players": [
+      {
+        "name": "Bagwell",
+        "number": 5
+      },
+      {
+        "name": "Wagner",
+        "number": 13
+      },
+      {
+        "name": "Altuve",
+        "number": 27,
+        "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-jose-altuve-nike-navy-city-connect-limited-player-jersey/t-47117507+p-687711244033032+z-9-3098885057"
+      }
     ],
     "colors": [
-      null,
       {
-        "name": "Houston Astros",
-        "players": [
-          {
-            "name": "Bagwell",
-            "number": 5
-          },
-          {
-            "name": "Wagner",
-            "number": 13
-          },
-          {
-            "name": "Altuve",
-            "number": 27,
-            "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-jose-altuve-nike-navy-city-connect-limited-player-jersey/t-47117507+p-687711244033032+z-9-3098885057"
-          }
-        ],
-        "colors": [
-          {
-            "name": "Orange",
-            "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-nike-orange-alternate-limited-custom-jersey/t-58994241+p-2422112759992+z-7-1352685764"
-          },
-          {
-            "name": "White",
-            "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-nike-white-home-replica-custom-jersey/t-36117529+p-7075907861952+z-9-3358757438"
-          }
-        ]
+        "name": "Orange",
+        "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-nike-orange-alternate-limited-custom-jersey/t-58994241+p-2422112759992+z-7-1352685764"
+      },
+      {
+        "name": "White",
+        "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-nike-white-home-replica-custom-jersey/t-36117529+p-7075907861952+z-9-3358757438"
       }
     ]
   },
@@ -267,6 +252,7 @@
       {
         "name": "Trout",
         "number": 27,
+        "priority": true,
         "url": "https://www.mlbshop.com/los-angeles-angels/mens-los-angeles-angels-mike-trout-nike-red-alternate-limited-player-jersey/t-25887635+p-465500468378910+z-9-3518604390"
       }
     ]
@@ -279,6 +265,18 @@
         "number": 17,
         "priority": true,
         "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-shohei-ohtani-nike-white-home-replica-player-jersey/t-36002177+p-804411265930737+z-9-989368427"
+      },
+      {
+        "name": "Betts",
+        "number": 50,
+        "priority": true,
+        "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-mookie-betts-nike-royal-alternate-limited-player-jersey/t-69009822+p-68993368517212+z-8-1360067038?_ref=p-DLP:m-GRID:i-r3c2:po-11&sku=200911216"
+      },
+      {
+        "name": "Freeman",
+        "number": 5,
+        "priority": true,
+        "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-freddie-freeman-nike-cream-2024-city-connect-limited-player-jersey/t-14229866+p-137799023922647+z-9-2609493733?_ref=p-DLP:m-GRID:i-r5c0:po-15&sku=200907924"
       },
       {
         "name": "Robinson",
@@ -310,10 +308,6 @@
   {
     "name": "Milwaukee Brewers",
     "players": [
-      {
-        "name": "Fielder",
-        "number": 28
-      },
       {
         "name": "Yelich",
         "number": 22,
@@ -405,38 +399,32 @@
         "number": "lol"
       }
     ],
-    "colors": [
-      null,
+    "colors": []
+  },
+  {
+    "name": "Oakland Athletics",
+    "players": [
       {
-        "name": "Oakland Athletics",
-        "players": [
-          {
-            "name": "Eckersley",
-            "number": 43,
-            "priority": true
-          },
-          {
-            "name": "Braden",
-            "number": 51,
-            "priority": true
-          }
-        ],
-        "colors": [
-          {
-            "name": "White",
-            "url": "https://www.mlbshop.com/oakland-athletics/mens-oakland-athletics-nike-white-home-replica-custom-jersey/t-36124411+p-1431893450848+z-9-1294199072"
-          }
-        ]
+        "name": "Eckersley",
+        "number": 43,
+        "priority": true
+      },
+      {
+        "name": "Braden",
+        "number": 51,
+        "priority": true
+      }
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "url": "https://www.mlbshop.com/oakland-athletics/mens-oakland-athletics-nike-white-home-replica-custom-jersey/t-36124411+p-1431893450848+z-9-1294199072"
       }
     ]
   },
   {
     "name": "Philadelphia Phillies",
     "players": [
-      {
-        "name": "Utley",
-        "number": 26
-      },
       {
         "name": "Harper",
         "number": 3
@@ -470,7 +458,7 @@
     "name": "San Diego Padres",
     "players": [
       {
-        "name": "Tatis Jr.",
+        "name": "Tatis Jr. (City Connect)",
         "number": 23,
         "priority": true,
         "url": "https://www.mlbshop.com/san-diego-padres/mens-san-diego-padres-fernando-tatis-jr-nike-white-city-connect-replica-player-jersey/t-25343382+p-2647109027278+z-9-3905074987"
@@ -507,10 +495,6 @@
         "name": "Posey",
         "number": 28,
         "priority": true
-      },
-      {
-        "name": "Lincecum",
-        "number": 55
       }
     ],
     "colors": [
@@ -614,16 +598,17 @@
     "name": "Texas Rangers",
     "players": [
       {
+        "name": "Ryan",
+        "number": 34,
+        "priority": true
+      },
+      {
         "name": "Rodríguez",
         "number": 7
       },
       {
         "name": "Beltré",
         "number": 29
-      },
-      {
-        "name": "Ryan",
-        "number": 34
       }
     ]
   },
@@ -652,7 +637,7 @@
         "name": "Strasburg",
         "number": 37,
         "priority": true,
-        "url": "https://www.mlbshop.com/washington-nationals/mens-washington-nationals-stephen-strasburg-nike-gray-city-connect-replica-player-jersey/t-36010114+p-574400478727762+z-9-3119935734"
+        "url": "https://www.mlbshop.com/washington-nationals/mens-washington-nationals-stephen-strasburg-nike-charcoal-city-connect-limited-player-jersey/t-14565636+p-027711805111738+z-9-1011849349?_ref=p-DLP:m-GRID:i-r0c0:po-0&sku=200908995"
       },
       {
         "name": "Harper",
