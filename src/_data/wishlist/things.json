@@ -1,15 +1,5 @@
 [
   {
-    "name": "Bambu Lab P1S printer",
-    "url": "https://us.store.bambulab.com/products/p1s",
-    "options": [
-      {"name": "AMS Combo"},
-      {"name": ".4, .6, .8, and .2mm hotends"},
-      {"name": "Dual Texture PEI Plate"},
-      {"name": "Anti-Vibration Feet"}
-    ]
-  },
-  {
     "name": "Mac Mini M4",
     "url": "https://www.apple.com/shop/buy-mac/mac-mini/apple-m4-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-256gb#",
     "notes": "24 or 32gb RAM, default storage, default Ethernet, optional Logic Pro"
@@ -23,6 +13,16 @@
     "name": "WD Black 2TB NVMe Solid State Drive",
     "url": "https://a.co/d/931ZpQ9",
     "notes": "For the OWC enclosure - 1 to 4 of these"
+  },
+  {
+    "name": "Bambu Lab P1S printer",
+    "url": "https://us.store.bambulab.com/products/p1s",
+    "options": [
+      {"name": "AMS Combo"},
+      {"name": ".4, .6, .8, and .2mm hotends"},
+      {"name": "Dual Texture PEI Plate"},
+      {"name": "Anti-Vibration Feet"}
+    ]
   },
   {
     "name": "3D printer filament",
