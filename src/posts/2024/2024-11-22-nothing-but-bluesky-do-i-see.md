@@ -9,7 +9,7 @@ tags:
 
 *TL;DR [I'm on Bluesky now][profile]. If you miss early Twitter, you should come hang out.*
 
-Social media used to be good. [It sucks now](/fuck_social_media/), but it used to be good.[^1]
+Social media used to be good. [It sucks now](/fuck-social-media/), but it used to be good.[^1]
 
 [^1]: I talk in the linked post there about my entire history with social media. Check it out if you want.
 
