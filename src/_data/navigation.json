@@ -21,6 +21,12 @@
     "blurb": "Here are the best ways to get in touch."
   },
   {
+    "text": "Keyboards",
+    "url": "/keyboards/",
+    "masthead": false,
+    "blurb": "Check out my mechanical keyboard collection."
+  },
+  {
     "text": "Now",
     "url": "/now/",
     "blurb": "Interested in what I've been up to lately?"
