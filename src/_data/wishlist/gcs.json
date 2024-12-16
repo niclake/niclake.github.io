@@ -1,11 +1,7 @@
 [
   {
-    "name": "Mode Keyboards",
-    "url": "https://modedesigns.com/products/gift-card"
-  },
-  {
-    "name": "Divinikey",
-    "url": "https://divinikey.com/products/divinikey-gift-card"
+    "name": "Polymaker (3D Printer Filament)",
+    "url": "https://us.polymaker.com/products/polymaker-gift-card"
   },
   {
     "name": "Thursday Boots",
@@ -20,12 +16,24 @@
     "url": "https://bookshop.org/gift_cards"
   },
   {
-    "name": "Amazon",
-    "url": "https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011"
+    "name": "Mode Keyboards",
+    "url": "https://modedesigns.com/products/gift-card"
+  },
+  {
+    "name": "Divinikey",
+    "url": "https://divinikey.com/products/divinikey-gift-card"
   },
   {
     "name": "Converse",
     "url": "https://www.converse.com/c/gift-cards"
+  },
+  {
+    "name": "Nike",
+    "url": "https://www.nike.com/gift-cards"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011"
   },
   {
     "name": "Steam (Walmart, Target, GameStop, etc. will have these)"

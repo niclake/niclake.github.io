@@ -41,9 +41,43 @@ permalink: /wishlist/index.html
                     <li>
                       {% if subthing.url %}<a target="_blank" href="{{ subthing.url }}">{% endif %}{{ subthing.name }}{% if subthing.url %}</a>{% endif %}
                       {% if subthing.notes %}&nbsp;({{ subthing.notes }}){% endif %}
+                      {% if subthing.options %}
+                        <ul>
+                          {%- for subsubthing in subthing.options -%}
+                            <li>
+                              {% if subsubthing.url %}<a target="_blank" href="{{ subsubthing.url }}">{% endif %}{{ subsubthing.name }}{% if subsubthing.url %}</a>{% endif %}
+                              {% if subsubthing.notes %}&nbsp;({{ subsubthing.notes }}){% endif %}
+                            </li>
+                          {%- endfor -%}
+                        </ul>
+                      {% endif %}
                     </li>
                   {%- endfor -%}
                 </ul>
+              {% endif %}
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h3 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+        Gift Certificates
+      </button>
+    </h3>
+    <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#wishlistAccordion">
+      <div class="accordion-body">
+        <ul>
+          {%- for gc in wishlist.gcs -%}
+            <li>
+              {% if gc.url %}
+                <a target="_blank" href="{{ gc.url }}">
+                {% endif %}
+                {{ gc.name }}
+                {% if gc.url %}
+                </a>
               {% endif %}
             </li>
           {%- endfor -%}
@@ -227,30 +261,6 @@ permalink: /wishlist/index.html
           {%- for book in wishlist.cookbooks -%}
             <li>
               <a target="_blank" href="{{ book.url }}">{{ book.name }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h3 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-        Gift Certificates
-      </button>
-    </h3>
-    <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#wishlistAccordion">
-      <div class="accordion-body">
-        <ul>
-          {%- for gc in wishlist.gcs -%}
-            <li>
-              {% if gc.url %}
-                <a target="_blank" href="{{ gc.url }}">
-                {% endif %}
-                {{ gc.name }}
-                {% if gc.url %}
-                </a>
-              {% endif %}
             </li>
           {%- endfor -%}
         </ul>

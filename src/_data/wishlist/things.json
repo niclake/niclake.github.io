@@ -15,51 +15,6 @@
     "notes": "For the OWC enclosure - 1 to 4 of these"
   },
   {
-    "name": "Bambu Lab P1S printer",
-    "url": "https://us.store.bambulab.com/products/p1s",
-    "options": [
-      {"name": "AMS Combo"},
-      {"name": ".4, .6, .8, and .2mm hotends"},
-      {"name": "Dual Texture PEI Plate"},
-      {"name": "Anti-Vibration Feet"}
-    ]
-  },
-  {
-    "name": "3D printer filament",
-    "options": [
-      {
-        "name": "Polymaker PolyLite PLA",
-        "url": "https://www.amazon.com/dp/B099KTY4HY/",
-        "notes": "Favs are Purple, Lemon Yellow, Lime Green, Magenta, Green, & Orange"
-      },
-      {
-        "name": "Polymaker Matte PLA",
-        "url": "https://www.amazon.com/dp/B0CFQXCHDW/",
-        "notes": "Marble Sandstone, or any other colors you like"
-      },
-      {
-        "name": "Polymaker Panchroma Neon",
-        "url": "https://www.amazon.com/dp/B0D4PSSZCQ/",
-        "notes": "Green, Magenta, Orange, and Yellow"
-      },
-      {
-        "name": "Polymaker Matte Multicolor PLA",
-        "url": "https://www.amazon.com/dp/B0CBMN9F91/",
-        "notes": "Favs are Fall, Pastel Rainbow, Winter, Foggy Purple, Glacier Blue, Sunrise, Shadow Black, & Shadow Red"
-      },
-      {
-        "name": "FLASHFORGE PLA",
-        "url": "https://www.amazon.com/dp/B08ZNBGQ2S/",
-        "notes": "Favs are Rainbow, Burnt Titanium, Obsidian, and Nebula Purple"
-      },
-      {
-        "name": "COOKIECAD PLA",
-        "url": "https://www.amazon.com/dp/B09LYFS64P/",
-        "notes": "Mint Chip, plus any of the others"
-      }
-    ]
-  },
-  {
     "name": "Raspberry Pi Kit",
     "url": "https://vilros.com/products/vilros-raspberry-pi-5-complete-starter-kit?variant=40332876447838"
   },
@@ -94,19 +49,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing"
   },
   {
-    "name": "Lochby Journal",
-    "options": [
-      {
-        "name": "Pocket Journal",
-        "url": "https://www.lochby.com/collections/notebooks/products/pocket-journal"
-      },
-      {
-        "name": "Field Journal",
-        "url": "https://www.lochby.com/collections/notebooks/products/field-journal"
-      }
-    ]
-  },
-  {
     "name": "Converse All Stars (size 10, standard width)",
     "options": [
       {
@@ -120,6 +62,90 @@
       {
         "name": "Snorkel Blue",
         "url": "https://www.converse.com/shop/p/chuck-taylor-all-star-unisex-low-top-shoe/135514F_100.html?pid=M9696MP&dwvar_M9696MP_size=100&dwvar_M9696MP_color=snorkel%20blue&dwvar_M9696MP_width=standard&styleNo=135514F&pdp=true&cgid=mens-classic-chuck-shoes&buyrec=false"
+      }
+    ]
+  },
+  {
+    "name": "3D printer filament",
+    "options": [
+      {
+        "name": "I prefer filaments from Polymaker and Bambu. I currently only print using PLA, and use 1.75mm filament."
+      },
+      {
+        "name": "I can ALWAYS use more black and/or white filament."
+      },
+      {
+        "name": "Polymaker",
+        "notes": "These are all Amazon links, but you can sometimes find sales on us.polymaker.com",
+        "options": [
+          {
+            "name": "PolyLite PLA",
+            "url": "https://www.amazon.com/dp/B099KTY4HY/",
+            "notes": "Favs are Purple, Lemon Yellow, Lime Green, Magenta, Green, & Orange"
+          },
+          {
+            "name": "Matte PLA",
+            "url": "https://www.amazon.com/dp/B0CFQXCHDW/",
+            "notes": "Marble Sandstone, or any other colors you like"
+          },
+          {
+            "name": "Matte Multicolor PLA",
+            "url": "https://www.amazon.com/dp/B0CBMN9F91/",
+            "notes": "Favs are Fall, Pastel Rainbow, Winter, Foggy Purple, Glacier Blue, Sunrise, Shadow Black, & Shadow Red"
+          }
+        ]
+      },
+      {
+        "name": "Bambu",
+        "notes": "You can buy refills instead of filament w/ spools. You get discounts for buying 4+ at once.",
+        "options": [
+          {
+            "name": "PLA Basic",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament"
+          },
+          {
+            "name": "PLA Matte",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-matte-filament"
+          },
+          {
+            "name": "PLA Basic Gradient",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-gradient"
+          },
+          {
+            "name": "PLA Silk",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-silk"
+          },
+          {
+            "name": "PLA Silk Dual Color",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-silk-dual-color"
+          },
+          {
+            "name": "PLA Marble",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-marble"
+          },
+          {
+            "name": "PLA Galaxy",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-galaxy"
+          },
+          {
+            "name": "PLA Sparkle",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-sparkle"
+          },
+          {
+            "name": "PLA Metal",
+            "url": "https://us.store.bambulab.com/collections/pla/products/pla-metal"
+          }
+        ]
+      },
+      {
+        "name": "FLASHFORGE PLA",
+        "url": "https://www.amazon.com/dp/B08ZNBGQ2S/",
+        "notes": "Favs are Rainbow, Burnt Titanium, Obsidian, and Nebula Purple"
+      },
+      {
+        "name": "COOKIECAD PLA",
+        "url": "https://www.amazon.com/dp/B09LYFS64P/",
+        "notes": "Mint Chip, plus any of the others"
       }
     ]
   }
