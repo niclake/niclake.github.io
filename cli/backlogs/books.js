@@ -16,7 +16,7 @@ const serviceAccountAuth = new JWT({
   // see "Authentication" section in docs for more info
   email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
   key: process.env.GOOGLE_PRIVATE_KEY,
-  scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+  scopes: ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive.file'],
 })
 
 const books = new GoogleSpreadsheet(process.env.BOOKS_SHEET_ID, serviceAccountAuth)
@@ -27,16 +27,17 @@ const allBooks = await booksSheet.getRows()
 const jsonArr = []
 for (var i = 0; i < allBooks.length; i++) {
   jsonArr.push({
-    title: allBooks[i]._rawData[0],
-    authorFirst: allBooks[i]._rawData[1],
-    authorLast: allBooks[i]._rawData[2],
-    genre: allBooks[i]._rawData[3],
-    series: allBooks[i]._rawData[4],
-    owned: allBooks[i]._rawData[5],
-    read: allBooks[i]._rawData[6],
-    compDate: allBooks[i]._rawData[7],
-    status: allBooks[i]._rawData[8],
-    information: allBooks[i]._rawData[9],
+    title: allBooks[i].get("Title"),
+    authorFirst: allBooks[i].get("Author First"),
+    authorLast: allBooks[i].get("Author Last"),
+    genre: allBooks[i].get("Genre"),
+    series: allBooks[i].get("Series"),
+    owned: allBooks[i].get("Owned?"),
+    read: allBooks[i].get("Read?"),
+    compDate: allBooks[i].get("Comp Date"),
+    status: allBooks[i].get("Status"),
+    information: allBooks[i].get("Information"),
+    pages: allBooks[i].get("Pages"),
   })
 }
 // console.log(allBooks[8]._rawData.slice(0,10))

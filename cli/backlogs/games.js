@@ -16,7 +16,7 @@ const serviceAccountAuth = new JWT({
   // see "Authentication" section in docs for more info
   email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
   key: process.env.GOOGLE_PRIVATE_KEY,
-  scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+  scopes: ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive.file'],
 })
 
 const games = new GoogleSpreadsheet(process.env.GAMES_SHEET_ID, serviceAccountAuth)
@@ -27,16 +27,16 @@ const allGames = await gamesSheet.getRows()
 const jsonArr = []
 for (var i = 0; i < allGames.length; i++) {
   jsonArr.push({
-    title: allGames[i]._rawData[0],
-    series: allGames[i]._rawData[1],
-    seriesOrder: allGames[i]._rawData[2],
-    system: allGames[i]._rawData[4],
-    hrEst: allGames[i]._rawData[5],
-    owned: allGames[i]._rawData[6],
-    status: allGames[i]._rawData[7],
-    compDate: allGames[i]._rawData[8],
-    hrComp: allGames[i]._rawData[9],
-    information: allGames[i]._rawData[10],
+    title: allGames[i].get("Game Title"),
+    series: allGames[i].get("Series"),
+    seriesOrder: allGames[i].get("Series#"),
+    system: allGames[i].get("System/Service"),
+    hrEst: allGames[i].get("Hr Est"),
+    owned: allGames[i].get("Owned?"),
+    status: allGames[i].get("Status"),
+    compDate: allGames[i].get("Comp Date"),
+    hrComp: allGames[i].get("Hr Comp"),
+    information: allGames[i].get("Information"),
   })
 }
 const __targetFile = 'games.json'
