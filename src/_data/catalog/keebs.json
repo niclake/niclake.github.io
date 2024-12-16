@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Vortex Tab 90M",
+    "url": "https://vortexgear.store/products/tab-90m?srsltid=AfmBOorAJSgXequ9mET0JZIfq8GpB9xASzq6TVXrzA34Q7-K-N8OvjMr",
+    "image": "tab90m.jpeg",
+    "switches": "Cherry MX Black",
+    "keycaps": "DSA Astrolokeys",
+    "size_type": "Full Size",
+    "description": "The oldest keyboard in my collection, and the 2nd one I ever bought. A great starter keyboard for someone wondering what all the full is with mechanical keyboards. Currently used by my wife."
+  },
+  {
+    "name": "Boardwalk + KBDfans 5° case",
+    "url": "https://kbd.news/From-Boardwalk-to-Promenade-2248.html",
+    "image": "boardwalk.jpeg",
+    "switches": "Zaku II",
+    "keycaps": "KAT Cyberspace",
+    "size_type": "70% ortholinear",
+    "description": "My first true build. Ordered in the midst of the pandemic. A really fun layout with tons of setup flexibility."
+  },
+  {
+    "name": "DZ60 + Tofu60 Acrylic case",
+    "url": "https://drop.com/buy/dz60-dz60rgb-type-c-60-pcb?defaultSelectionIds=985342",
+    "image": "dz60.jpeg",
+    "switches": "Zaku",
+    "keycaps": "DSA \"UnAlice\"",
+    "size_type": "60%",
+    "description": "This replaced my first keyboard, the Vortex Pok3r. A standard 60% keyboard, this type of thing is what many consider the entry level 'build it yourself' board."
+  },
+  {
+    "name": "Drop Planck",
+    "url": "https://drop.com/buy/planck-mechanical-keyboard",
+    "image": "planck.jpeg",
+    "switches": "BSUN Pine",
+    "keycaps": "KAT Explosion",
+    "size_type": "40% ortholinear",
+    "description": "The start of my descent down the rabbit hole. I've had my eye on a board like this for ages, and finally picked one up in 2023. This really opened my eyes to custom layouts, using layers to their full extent, and how much fun this hobby can be."
+  },
+  {
+    "name": "NovelKeys NK65 Superuser",
+    "url": "https://www.deskhero.ca/products/nk65-superuser-edition",
+    "image": "nk65-superuser.jpeg",
+    "switches": "NovelKeys Emerald Silk",
+    "keycaps": "Yong Qiu Binary",
+    "size_type": "65%",
+    "description": "A nice, entry level board that I bought from a friend to try the layout. It's a great board given the price, but the 65% layout is just too much for me in general, since my arrow keys are all easily accessible in a layer."
+  },
+  {
+    "name": "CBKBD Bully",
+    "url": "https://www.cbkbd.com/product/bully",
+    "image": "bully.jpeg",
+    "switches": "Gateron Oil King",
+    "keycaps": "SA Mizu",
+    "size_type": "40%",
+    "description": "Another entry into the 40s world. I love this little board; tons of heft, great feeling switches, and the layout is super fun to use."
+  },
+  {
+    "name": "SplitKB Elora",
+    "url": "https://splitkb.com/collections/keyboard-kits/products/elora",
+    "image": "elora.jpeg",
+    "switches": "Kailh Box Heavy Yellow",
+    "keycaps": "GMK Dots 2",
+    "size_type": "60% split",
+    "description": "I'd been keeping my eyes peeled for a good split keyboard for a while, and when I saw the initial announcement for the Elora, I knew I had to have it. I waited for ages for it to arrive, and couldn't be happier with how it turned out. I actually made the bottom walnut cases myself as a little woodworking project; I want to make some different ones eventually, but they turned out really nice."
+  },
+  {
+    "name": "Krado Industries Promenade + Tofu Redux case",
+    "url": "https://www.kradoindustries.com/product/promenade-hs",
+    "image": "promenade.jpeg",
+    "switches": "Gateron Raw",
+    "keycaps": "KAM Command",
+    "size_type": "70%",
+    "description": "I've always enjoyed the Boardwalk, but the hotswap Boardwalk could only support 1U center columns; I'd always wanted to have the 1.5U columns in the middle. When someone pointed out the Promenade to me, I knew it was an insta-buy. It's cool to revisit a unique layout like this and see how my preferences have changed over time."
+  },
+  {
+    "name": "Mode Sonnet",
+    "url": "https://modedesigns.com/pages/sonnet",
+    "image": "sonnet.jpeg",
+    "switches": "BSUN Strawberry Wine",
+    "keycaps": "KAT Space Dust",
+    "size_type": "75%",
+    "description": "Someone pointed this out to a group of us saying 'anyone gonna jump on this? It's half price.' and you better believe I snagged it as quick as I possibly could. My first \"really nice\" keyboard, and probably one of my favorites I own."
+  },
+  {
+    "name": "PyrooL Alpha28",
+    "url": "https://github.com/PyrooL/Alpha",
+    "image": "alpha28.jpeg",
+    "switches": "Cherry MX Speed Silver",
+    "keycaps": "OEM WoB",
+    "size_type": "Other",
+    "description": "I got this for free at the 2024 Iowa Keyboard Meetup; someone had a couple they had built as little projects, and I figured why not. I have yet to put any meaningful time into using it; it's gonna force me to use a lot of 'tap vs. hold' functionality, which should be very interesting."
+  },
+  {
+    "name": "KeebIO FoldKB",
+    "url": "https://keeb.io/products/foldkb",
+    "image": "foldkb.jpeg",
+    "switches": "Gateron Yellow Pro",
+    "keycaps": "DSA Berry Yogurt",
+    "size_type": "60% ortholinear",
+    "description": "Another free 2024 Iowa Keyboard Meetup offering, this time from the raffle. A fun split layout accepting of default keycap sets, I was smitten with it as soon as I saw it and knew I had to have it."
+  },
+  {
+    "name": "Pikatea Cerberus",
+    "url": "https://www.pikatea.com/products/pikatea-cerberus-low-profile-keyboard-kit",
+    "image": "cerberus.jpeg",
+    "switches": "Kailh Choc Jade",
+    "keycaps": "Chocfox CFX White Blanks",
+    "size_type": "65%",
+    "description": "Someone at the 2024 Iowa Keyboard Meetup (I'm realizing this particular event was especially dangerous for me) had one of these; the guy who hosted the event had built it custom for him. I thought the layout was cool, so I asked for one of my own. It's my first 'full build', requiring soldering of diodes, the controller, and all the keycaps. It's also my first Choc board, and my first board I've had with clicky switches. Tons of fun, ultra portable, really cool."
+  },
+  {
+    "name": "Mode SixtyFive",
+    "url": "https://modedesigns.com/products/sixtyfive?code=S1A2A3H5F6A8A",
+    "image": "sixty-five-2024.jpeg",
+    "switches": "Mode Tomorrow Tactile",
+    "keycaps": "GMK WoB",
+    "size_type": "65%",
+    "description": "My first full-price 'higher end board' purchase (I'm actually writing this description on the board right now). While I went with some of the more affordable options, I love how customizable this board can be. If I ever wanted different components, I could just order them from Mode and swap them out. Super classy look."
+  }
+]

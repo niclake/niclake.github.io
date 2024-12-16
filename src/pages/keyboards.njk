@@ -1,0 +1,40 @@
+---
+title: Keyboards
+permalink: /keyboards/index.html
+---
+
+<p>I have a pretty good sized collection of mechanical keyboards, and get enough questions about them that I thought I would document them here.</p>
+
+<figure class="banner">
+  <a href="/assets/images/keyboards/keyboards-08-24.jpg">
+    <img src="/assets/images/keyboards/keyboards-08-24.jpg" alt="The full collection of keyboards" />
+  </a>
+  <figcaption>The full collection of keyboards.</figcaption>
+</figure>
+
+<hr/>
+
+<h2>The Keyboards</h2>
+
+{%- for board in catalog.keebs -%}
+  {% if loop.index % 2 == 0 %}
+    {% set imgpos = 'left' %}
+  {% else %}
+    {% set imgpos = 'right' %}
+  {% endif %}
+  <div class="mt-5 mb-5" id="{{ board.name }}">
+    <figure class="banner">
+      <a href="/assets/images/keyboards/{{ board.image }}">
+        <img src="/assets/images/keyboards/{{ board.image }}" alt="{{ board.name }}" />
+      </a>
+    </figure>
+    <h4>
+      <a href="{{ board.url }}">{{ board.name }}</a>
+    </h4>
+    <p><strong>Size/Type:</strong> {{ board.size_type }}</p>
+    <p><strong>Switches:</strong> {{ board.switches }}</p>
+    <p><strong>Keycaps:</strong> {{ board.keycaps }}</p>
+    <p>{{ board.description }}</p>
+  </div>
+  <hr/>
+{%- endfor -%}
