@@ -80,7 +80,7 @@ Motion is movement. Movement doesn't mean perfection; movement means trying some
 
 ### Moving Laterally Is Still Motion
 
-Motion is movement, but sideways (or backwards) motion can sometimes feel like wasted time, spinning wheels, or just being bad at something. 
+Motion is movement, but sideways (or backwards) motion can sometimes feel like wasted time, spinning wheels, or just being bad at something.
 
 Like with reading; I always want to read, but sometimes the books I think I should read just aren't doing it for me right now. Or I'll be in this amazing stretch of reading 4 books in a row... and then I just stop. Energy gone. And I get frustrated about that.
 
