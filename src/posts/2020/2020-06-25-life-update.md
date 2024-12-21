@@ -28,7 +28,7 @@ Please meet Beau.
 
 ![altText][beau]
 
-Becca & I picked up Beau at the beginning of May, and he's been a joy. Beau & Pixel are fast friends. Bearcat is still a bit apprehensive, but they're bonding more and more every day.
+R & I picked up Beau at the beginning of May, and he's been a joy. Beau & Pixel are fast friends. Bearcat is still a bit apprehensive, but they're bonding more and more every day.
 
 #### Transitioned to Colemak
 

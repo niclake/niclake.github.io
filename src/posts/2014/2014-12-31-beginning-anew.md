@@ -7,7 +7,7 @@ tags:
   - Tumblr
 ---
 
-Tomorrow is January 1st, 2015. My evening will usher in the new year with minimal outward fanfare; Becca and I are staying in, making dinner, watching a few movies, and enjoying some peace and quiet. I've now got 4 days to relax, recharge, and get focused on the next 365 days.
+Tomorrow is January 1st, 2015. My evening will usher in the new year with minimal outward fanfare; R and I are staying in, making dinner, watching a few movies, and enjoying some peace and quiet. I've now got 4 days to relax, recharge, and get focused on the next 365 days.
 
 ---
 
@@ -24,7 +24,7 @@ So, for those that are interested in that sort of thing... my 2015 resolutions!
 - **Get under 160lbs.** Starting weight: 172.2 lbs.
 - **Release another album.** It's been nearly 2 years since <a href="http://themusicplaysyou.com" target="_blank">Sailing</a> was released. And I have SO MANY ideas.
 - **Read more. Write more.**
-- **Save money.** With an imminent relocation once Becca graduates, and plenty of student loan debt, I need to start putting money aside for things.
+- **Save money.** With an imminent relocation once R graduates, and plenty of student loan debt, I need to start putting money aside for things.
 - **Spend more time disconnected.** We just spent 9 days on vacation in North Carolina. While I still had my phone and used it, my screen time was drastically reduced, and I felt awesome because of it.
 
 

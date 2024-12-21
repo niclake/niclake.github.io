@@ -15,6 +15,6 @@ But that was 9th grade. I'm now 27, and haven't been able to run in forever. Pai
 
 Come to find out, it was my shoes. A new pair of light stability shoes later, and I just knocked out 2 miles in 23:30 (running and walking). Not exactly world class, but I can't even describe how good it feels to be able to run that distance without pain anywhere in my body.
 
-Becca and I decided that we're going to run a 5k together at the end of June. That gives me about 13.5 more weeks to get into shape. I just did day 2 of the 9-week <a href="http://www.coolrunning.com/engine/2/2_3/181.shtml" target="_blank">Couch to 5K program</a>, and so by my math, I'll have roughly a month to improve my pace a bit before giving it a shot.
+R and I decided that we're going to run a 5k together at the end of June. That gives me about 13.5 more weeks to get into shape. I just did day 2 of the 9-week <a href="http://www.coolrunning.com/engine/2/2_3/181.shtml" target="_blank">Couch to 5K program</a>, and so by my math, I'll have roughly a month to improve my pace a bit before giving it a shot.
 
 It just feels great to finally hit my stride with something (pun totally intended). Between eating healthy and exercising, I feel great, and can't wait to see all the changes. I've got 30 pounds I want to knock off, and I've taken the steps to make that happen.

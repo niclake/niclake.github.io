@@ -7,7 +7,7 @@ tags:
   - Tumblr
 ---
 
-It is currently the evening of Sunday, Jan. 13. I just got back from visiting my mother, Rebecca Lake, who has been at the University of Iowa hospitals over the course of the last month, being treated for a stomach blockage that prevented her from eating. After undergoing surgery, it was discovered that she has end-stage stomach cancer that has metastasized. It could be 3 weeks, 6 months… they don't know. It all depends on how aggressive the cancer is and where it spreads to next.
+It is currently the evening of Sunday, Jan. 13. I just got back from visiting my mother, who has been at the University of Iowa hospitals over the course of the last month, being treated for a stomach blockage that prevented her from eating. After undergoing surgery, it was discovered that she has end-stage stomach cancer that has metastasized. It could be 3 weeks, 6 months… they don't know. It all depends on how aggressive the cancer is and where it spreads to next.
 
 ---
 
