@@ -28,22 +28,22 @@ The end result: [my new Daily Sports Emails project](https://github.com/niclake/
 
 ## Current Features
 
-- Like the old Shortcut, it sends out the day's MLB schedule, with start times, current team records, and the probable starters
-- I also added in the current standings, so you can see how your favorite teams stack up
+- MLB, NBA, and NFL schedules & standings can be sent out each day
+- For schedules, the grid shows start times, current team records, and (for baseball) the probable starters
+- For standings, it shows each league/conference/division, along with current playoff standings where appropriate
+- For the NFL, you get a weekly email on Wednesday showing every upcoming game. Also, each NFL email includes a direct link to 506Sports, so you can see what games are broadcast in your area
+- You can flag any team(s) as "favorites", which highlights them in the schedules & standings to quickly pull your eyes to the important teams and games
 - There are options to configure this to send from any service provider that allows for SMTP
 - There are options to configure the game times based on your time zone, and display in 12 or 24 hour time
-- And finally, there are options to flag any/all teams as your favorites, giving them a nice badge of color to quickly pull your eyes to the important games
 
 ## Coming Soon
 
-*(as of 24 June 2024)*
+*(as of 21 Dec 2024)*
 
-- NFL and NBA schedules and standings are next up (I think I've tracked down suitable APIs for these)
-- The NFL emails might get sent out multiple times; one big recap on Tuesdays, along with game emails for every day
 - If I can figure it out, it'd be cool to highlight the games local to the user based on their county, similar to how [506Sports](https://506sports.com) does with their maps
 - A configuration tool to make setup easier
 - An option to show schedules or standings individually per league
 - An option to only display games involving your favorite teams
-- An option to receive an email every Monday morning with that week's schedules for your favorite team
+- An option to receive an email every Monday morning with that week's schedules for your favorite teams across all sports
 
 If you have any thoughts about how I could improve this, feel free to [reach out](/hello/). If you enjoy this project, you can [buy me a coffee](https://ko-fi.com/niclake){:target="_blank"}.
