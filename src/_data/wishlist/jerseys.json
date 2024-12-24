@@ -100,7 +100,6 @@
       {
         "name": "Rutschman",
         "number": 35,
-        "priority": true,
         "url": "https://www.mlbshop.com/baltimore-orioles/mens-baltimore-orioles-adley-rutschman-nike-black-city-connect-limited-player-jersey/t-14992939+p-139999352877657+z-9-325307452"
       }
     ]
@@ -141,7 +140,6 @@
       {
         "name": "De La Cruz",
         "number": 44,
-        "priority": true,
         "url": "https://www.mlbshop.com/cincinnati-reds/mens-cincinnati-reds-elly-de-la-cruz-nike-white-home-replica-jersey/t-36004291+p-242277919786635+z-9-3373413933"
       }
     ]
@@ -149,11 +147,6 @@
   {
     "name": "Cleveland Guardians",
     "players": [
-      {
-        "name": "Ramirez",
-        "number": 11,
-        "url": "https://www.mlbshop.com/cleveland-guardians/mens-cleveland-guardians-josé-ramírez-nike-white-replica-player-jersey/t-14551947+p-820396796690+z-8-3940051218"
-      }
     ]
   },
   {
@@ -200,15 +193,6 @@
       {
         "name": "Bagwell",
         "number": 5
-      },
-      {
-        "name": "Wagner",
-        "number": 13
-      },
-      {
-        "name": "Altuve",
-        "number": 27,
-        "url": "https://www.mlbshop.com/houston-astros/mens-houston-astros-jose-altuve-nike-navy-city-connect-limited-player-jersey/t-47117507+p-687711244033032+z-9-3098885057"
       }
     ],
     "colors": [
@@ -405,6 +389,11 @@
     "name": "Oakland Athletics",
     "players": [
       {
+        "name": "Henderson",
+        "number": 35,
+        "priority": true
+      },
+      {
         "name": "Eckersley",
         "number": 43,
         "priority": true
@@ -466,6 +455,10 @@
       {
         "name": "Gwynn",
         "number": 19
+      },
+      {
+        "name": "Bogaerts",
+        "number": 2
       }
     ],
     "colors": [
@@ -616,17 +609,8 @@
     "name": "Toronto Blue Jays",
     "players": [
       {
-        "name": "Guerrero Jr.",
-        "number": 27,
-        "url": "https://www.mlbshop.com/toronto-blue-jays/mens-toronto-blue-jays-vladimir-guerrero-jr-nike-black-2024-city-connect-limited-player-jersey/t-36569013+p-025533248488808+z-9-222078473"
-      },
-      {
         "name": "Halladay",
         "number": 32
-      },
-      {
-        "name": "Bautista",
-        "number": 19
       }
     ]
   },
