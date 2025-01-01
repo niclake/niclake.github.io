@@ -5,16 +5,16 @@ permalink: /uses/index.html
 
 All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults/).
 
-*Last updated 6/6/24*
+*Last updated 1 Jan 2025*
 
 ### Computer
 
 #### Hardware
 
-- 16" M1 Max MacBook Pro (for work)
+- 16" M1 Max MacBook Pro
 - [Dell S3422DWG 32" ultrawide monitor](https://amzn.to/3V1NOk2) & [Dell S2721DGF 27" 144hz 1440p monitor](https://amzn.to/3WPsFfn)
 - [VIVO Dual Vertically Stacked Monitor Arm](https://amzn.to/3QVxeAM)
-- Magic Trackpad & Magic Mouse
+- Magic Trackpad
 - [A variety of mechanical keyboards](/clack-clack-clack/)
 - [TOTU USB-C Docking Station](https://amzn.to/4bSRgEn) (don't buy this, get a [CalDigit TS-4](https://amzn.to/3wYtzvg))
 - [Mackie CR5-X monitor speakers](https://amzn.to/3RltPMb)
@@ -23,21 +23,22 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 #### Software
 
 - [1Password](https://1password.com)
-- [iTerm2](https://iterm2.com) with [Oh My Zsh](https://ohmyz.sh)
-- [Visual Studio Code](https://code.visualstudio.com) for everything, [even blogging](/my-blogging-workflow/)
 - [Alfred](https://www.alfredapp.com) + the [PowerPack](https://www.alfredapp.com/powerpack/) & [custom workflows](/categories/#alfred)
 - [Fantastical](https://flexibits.com/fantastical) for my calendar & reminders
-- ~~Bartender~~ Update 6/6/24 - due to Bartender's botched sale & subsequent community fallout, I've switched over to [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12).
+- [Bartender](https://www.macbartender.com) for wrangling my menu bar
 - [BetterTouchTool](https://folivora.ai)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [iTerm2](https://iterm2.com) with [Oh My Zsh](https://ohmyz.sh)
 - [Ivory for Mastodon](https://tapbots.com/ivory/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - [Maestral](https://maestral.app) for Dropbox sync
 - [Mimestream](https://mimestream.com) for all my Gmail accounts
 - [Moom](https://manytricks.com/moom/) + [Rectangle Pro](https://rectangleapp.com) for window placement
 - [MusicHarbor](https://apps.apple.com/us/app/musicharbor-track-new-music/id1440405750) to keep up with album releases
+- [OmniFocus](https://www.omnigroup.com/omnifocus) for task and project management
 - [Paprika](https://www.paprikaapp.com) for recipe management
 - [Reeder](https://reederapp.com) (+ [Feedbin](https://feedbin.com)) for RSS ([I wrote about my setup](/the-great-rss-pruning/))
+- [Visual Studio Code](https://code.visualstudio.com) for everything, [even blogging](/my-blogging-workflow/)
 
 ### Desk & Accessories
 
@@ -78,7 +79,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Storygraph](https://apps.apple.com/us/app/storygraph-reading-tracker/id1570489264) to track my reading
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) for tracking packages
 - [Up Ahead](https://apps.apple.com/us/app/up-ahead-countdown-widgets/id1583147528) for tracking how long I've been sober
-- Fantastical, Reeder, and Ivory (same as Mac)
+- Fantastical, Ivory, OmniFocus, and Reeder (same as Mac)
 
 ### Gaming
 
@@ -91,6 +92,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
   - Logitech G502 wireless mouse
   - 1TB & 500GB SSD + 1TB & 5TB HDD storage
 - Steam Deck (512GB)
+  - EmuDeck for playing classic Pokémon games
 - Nintendo Switch (launch version)
 - PS5 (disc version)
 - [Hacked](https://3ds.hacks.guide) Nintendo 3DS
@@ -112,15 +114,9 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 
 - Logic Pro
 - Neural DSP amp plugins
-  - Archetype: Gojira X
-  - Archetype: Plini X
-  - Archetype: Cory Wong
-  - Archetype: Petrucci
-  - Archetype: Rabea
   - Archetype: Nolly
-  - Archetype: Abasi
   - Parallax
-- Kontakt + GetGood Drums (One Kit Wonder: Aggressive Rock & P IV Matt Halpern)
+- Kontakt + GetGood Drums (PV Matt Halpern)
 - Valhalla DSP delays and reverbs
 - Spitfire Audio LABS
 - Spectrasonics Omnisphere
