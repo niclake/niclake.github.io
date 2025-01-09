@@ -8,7 +8,8 @@ import fs from 'fs'
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename)
 const __siteroot = __dirname.replace('/cli/backlogs', '');
-const __target = '/src/_data/backlogs/'
+const __target = '/src/_data/catalog/'
+const __targetFile = 'books.json'
 
 // Initialize auth - see https://theoephraim.github.io/node-google-spreadsheet/#/guides/authentication
 const serviceAccountAuth = new JWT({
@@ -26,24 +27,47 @@ const booksSheet = books.sheetsByTitle['Books'] // or use `doc.sheetsById[id]` o
 const allBooks = await booksSheet.getRows()
 const jsonArr = []
 for (var i = 0; i < allBooks.length; i++) {
+  // Skip unless there's a status or read status
+  if (allBooks[i].get("Status") === "" && allBooks[i].get("Read?") === "") { continue; }
+  
   jsonArr.push({
     title: allBooks[i].get("Title"),
     authorFirst: allBooks[i].get("Author First"),
     authorLast: allBooks[i].get("Author Last"),
-    genre: allBooks[i].get("Genre"),
-    series: allBooks[i].get("Series"),
-    owned: allBooks[i].get("Owned?"),
-    read: allBooks[i].get("Read?"),
+    read: (allBooks[i].get("Read?") === "X") ? true : false,
     compDate: allBooks[i].get("Comp Date"),
-    status: allBooks[i].get("Status"),
-    information: allBooks[i].get("Information"),
+    rating: getStars(allBooks[i].get("Rating")),
+    status: trimStatus(allBooks[i].get("Status")),
     pages: allBooks[i].get("Pages"),
+    isbn: allBooks[i].get("ISBN"),
   })
 }
-// console.log(allBooks[8]._rawData.slice(0,10))
-const __targetFile = 'books.json'
+
 fs.writeFile(__siteroot + __target + __targetFile, JSON.stringify(jsonArr), function(err) {
   if (err) {
     console.log(err)
   }
 })
+
+function getStars(rating) {
+  var stars = ''
+  if (rating === "") {
+    return stars
+  }
+  const fullStar = "★";
+	const halfStar = "½";
+  for (var i = 1; i <= rating; i++) {
+    stars += fullStar
+  }
+  if (rating % 1 !== 0) {
+    stars += halfStar
+  }
+  return stars
+}
+
+function trimStatus(status) {
+  if (status === "") {
+    return ""
+  }
+  return status.substring(2).trim()
+}

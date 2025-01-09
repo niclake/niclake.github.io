@@ -3,6 +3,7 @@ import { GoogleSpreadsheet } from 'google-spreadsheet';
 import { JWT } from 'google-auth-library';
 import 'node-fetch';
 import { setTimeout } from "timers/promises";
+import { log } from 'console';
 
 // Initialize auth - see https://theoephraim.github.io/node-google-spreadsheet/#/guides/authentication
 const serviceAccountAuth = new JWT({
@@ -21,31 +22,53 @@ const allBooks = await booksSheet.getRows()
 
 var count = 0;
 var manualCount = 0;
+var manualIsbnCount = 0;
 
 for (var i = 0; i < allBooks.length; i++) {
   if (count >= 30) { console.log("Pausing..."); await setTimeout(30000); count = 0; }
   const currPages = allBooks[i].get("Pages");
+  const currIsbn = allBooks[i].get("ISBN");
   const title = allBooks[i].get("Title");
   const authorFirst = allBooks[i].get("Author First");
   const authorLast = allBooks[i].get("Author Last");
   const series = allBooks[i].get("Series");
-  
-  if (!Number.isNaN(currPages) && !isNaN(parseFloat(currPages))) { continue; }
+
+  log(`Processing ${title}...`);
+
+  // Stop if we already have a page count and ISBN
+  if (!Number.isNaN(currPages) && !isNaN(parseFloat(currPages)) && currIsbn.length > 0) { continue; }
+  // Skip if both are manual
+  if (currPages == "Manual" && currIsbn == "Manual") { continue; }
 
   const bookInfo = await getBookInfo(title, authorFirst, authorLast, series);
 
-  var newPages = '';
-  var saveMessage = '';
-  if (bookInfo && bookInfo["number_of_pages_median"] && bookInfo["number_of_pages_median"] > 1) {
-    newPages = bookInfo["number_of_pages_median"];
-    saveMessage = `Saved ${title} (${newPages} pages)!`;
-  } else {
-    manualCount++;
-    newPages = "Manual";
-    saveMessage = `Saved ${title} - needs manual pages.`;
-  }
+  var saveMessage = `Saved ${title}`;
 
-  allBooks[i].set("Pages",newPages);
+  if (Number.isNaN(currPages) || isNaN(parseFloat(currPages))) {
+    var newPages = '';
+    if (bookInfo && bookInfo["number_of_pages_median"] && bookInfo["number_of_pages_median"] > 1) {
+      newPages = bookInfo["number_of_pages_median"];
+      saveMessage += ` (${newPages} pages)`;
+    } else {
+      manualCount++;
+      newPages = "Manual";
+      saveMessage += ` - needs manual pages`;
+    }
+    allBooks[i].set("Pages",newPages);
+  }
+  
+  if (!currIsbn.length > 0 || currIsbn == "Manual") {
+    var newIsbn = '';
+    if (bookInfo && bookInfo["isbn"]) {
+      newIsbn = bookInfo["isbn"][0];
+      saveMessage += `, ISBN: ${newIsbn}`;
+    } else {
+      manualIsbnCount++;
+      newIsbn = "Manual";
+      saveMessage += `, ISBN needs manual entry.`;
+    }
+    allBooks[i].set("ISBN",newIsbn);
+  }
 
   await allBooks[i].save().then(() => console.log(`${saveMessage}`)).catch((err) => console.log(err));
   count++;
@@ -53,6 +76,7 @@ for (var i = 0; i < allBooks.length; i++) {
 
 console.log(`Total books: ${allBooks.length}`);
 console.log(`Books needing manual pagecounts: ${manualCount}`);
+console.log(`Books needing manual ISBNs: ${manualIsbnCount}`);
 console.log("Finished!");
 
 async function getBookInfo(title, authorFirst, authorLast, series) {
