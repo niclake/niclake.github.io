@@ -1,0 +1,14 @@
+<div class="item bookitem">
+  {% set bookshop_base = "https://bookshop.org/a/109591/" %}
+	<a href="{{ bookshop_base }}{{ book.ISBN }}">
+	{% if book.localCover %}
+		<img src="/assets/images/catalog/books/{{ book.title | slugify }}.jpg" alt="{{ book.title | safe }}">
+	{% else %}
+		<img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg" alt="{{ book.title | safe }}">
+	{% endif %}
+	</a>
+	<p class="bktitle"><a href="{{ bookshop_base }}{{ book.ISBN }}">{{ book.title | safe }}</a></p>
+	<p class="bkauthor">by {{ book.authorFirst }} {{ book.authorLast }}</p>
+  <p class="bkdate">{{ book.compDate }}</p>
+	{% if book.rating != "" %}<p class="bkrating">{{ book.rating }}</p>{% endif %}
+</div>

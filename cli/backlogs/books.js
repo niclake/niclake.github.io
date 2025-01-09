@@ -27,20 +27,19 @@ const booksSheet = books.sheetsByTitle['Books'] // or use `doc.sheetsById[id]` o
 const allBooks = await booksSheet.getRows()
 const jsonArr = []
 for (var i = 0; i < allBooks.length; i++) {
-  // Skip unless there's a status or read status
-  if (allBooks[i].get("Status") === "" && allBooks[i].get("Read?") === "") { continue; }
-  
-  jsonArr.push({
-    title: allBooks[i].get("Title"),
-    authorFirst: allBooks[i].get("Author First"),
-    authorLast: allBooks[i].get("Author Last"),
-    read: (allBooks[i].get("Read?") === "X") ? true : false,
-    compDate: allBooks[i].get("Comp Date"),
-    rating: getStars(allBooks[i].get("Rating")),
-    status: trimStatus(allBooks[i].get("Status")),
-    pages: allBooks[i].get("Pages"),
-    isbn: allBooks[i].get("ISBN"),
-  })
+  if (allBooks[i].get("Status") === "1 In Progress" || allBooks[i].get("Read?") === "X") {
+    jsonArr.push({
+      title: allBooks[i].get("Title"),
+      authorFirst: allBooks[i].get("Author First"),
+      authorLast: allBooks[i].get("Author Last"),
+      read: (allBooks[i].get("Read?") === "X") ? true : false,
+      compDate: formatDate(allBooks[i].get("Comp Date")),
+      rating: getStars(allBooks[i].get("Rating")),
+      status: trimStatus(allBooks[i].get("Status")),
+      pages: allBooks[i].get("Pages"),
+      isbn: allBooks[i].get("ISBN"),
+    })
+  }
 }
 
 fs.writeFile(__siteroot + __target + __targetFile, JSON.stringify(jsonArr), function(err) {
@@ -63,6 +62,13 @@ function getStars(rating) {
     stars += halfStar
   }
   return stars
+}
+
+function formatDate(date) {
+  if (date === "") {
+    return ""
+  }
+  return new Date(date).toLocaleDateString('en-za')
 }
 
 function trimStatus(status) {

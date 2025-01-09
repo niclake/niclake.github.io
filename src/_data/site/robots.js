@@ -2,13 +2,10 @@ const fetch = require("node-fetch")
 const { AssetCache } = require("@11ty/eleventy-fetch")
 
 module.exports = async function() {
-    console.log("Fetching robots.txt")
-    
     let asset = new AssetCache("robots.txt")
 
     if (asset.isCacheValid('1d'))
     {
-        console.log("Returning robots.txt from cache" )
         return await asset.getCachedValue()
     }
 

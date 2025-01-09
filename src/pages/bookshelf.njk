@@ -1,0 +1,44 @@
+---
+title: Bookshelf
+permalink: /bookshelf/index.html
+---
+
+<p>A whole bunch of people on the internet have started to have bookshelves and almanacs on their websites, such as <a href="https://rknight.me/almanac/">Robb Knight</a>, <a href="https://bobmonsour.com/books/">Bob Monsour</a>, and <a href="https://thisguise.wtf/bookshelf/">Swyx</a>. I love this idea; I've had aspirations to do something similar for ages, but I've always managed to just fall back on linking to my Goodreads or <a href="">StoryGraph</a> profiles, or just pointing people towards <a href="https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?usp=sharing">my reading spreadsheet</a>. I'm going to try to do better.
+
+<p>One day, I'll go into detail about how this is constructed, but for now, I'm just going to list the books I've read recently, along with my ratings. Eventually, I'll have it updating auto-magically, but for now, I'm just going to update it manually.
+
+<div class="bookyears">
+	{% for year in catalog.books.years %}
+		<a href="#{{ year.year }}">{{ year.year | replace("y", "") }}</a>{% if  not loop.last %} / {% endif %}
+	{% endfor %}
+</div>
+
+{% set book = catalog.books.current[0] %}
+<div class="bklist">
+  {% include "bookitem.njk" %}
+</div>
+
+{% set previous_year = "" %}
+{%- for book in catalog.books.datedBooks %}
+  {# extract the year from the yearRead property that is formatted as yyyy/mm/dd #}
+  {%- set current_year = book.compDate | truncate(4, true, '') -%}
+  {%- if current_year != previous_year %}
+    {# if we're changing years and it's not the first year,
+      close the 'bklist' div on the prior year, set the heading id
+      to the new year, update the previous_year, and open a new bklist div #}
+    {% if not loop.first %}</div>{% endif %}
+    <h2 id="y{{ current_year }}" class="bookyear">{{ current_year }}</h2>
+    {% set previous_year = current_year %}
+    <div class="bklist">
+  {%- endif %}
+  {% include "bookitem.njk" %}
+  {# close the 'bklist' div on the last book in the list #}
+  {% if loop.last %}</div>{% endif %}
+{%- endfor %}
+
+<h2 id="undated" class="bookyear">Undated: don't know when I read these</h2>
+<div class="bklist">
+	{%- for book in catalog.books.undatedBooks %}
+		{% include "bookitem.njk" %}
+	{%- endfor %}
+</div>
