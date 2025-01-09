@@ -14,8 +14,19 @@
 			"$0"
 		],
 		"description": "Log output to console"
-	}
+	},
 
 	// Snippet for a new wishlist item
 
+	"Image boilerplate": {
+		"scope": "markdown",
+		"body": [
+			"{% include 'image.njk',",
+			"  src: \"$1\",",
+			"  position: \"banner\",",
+			"  alt: \"someAltText\"",
+			"%}"
+		],
+		"description": "Include image for post"
+	}
 }
