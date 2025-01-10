@@ -7,14 +7,19 @@ permalink: /now/index.html
 {% set nowPost = latest_nows.slice(0, 1) %}
 {% for post in nowPost %}
   <div class="center-heading">
-    <div class="date">
-      {{ post.date | postDate }}<br/>
-      <a href="/blog/tags#now">See Previous Entries Here</a>
-    </div>
+    <b>Last updated: {{ post.date | postDate }}</b> (<a href="/blog/tags#now">Previous Entries</a>)
   </div>
   <div>{{ post.content | safe }}</div>
 {% endfor %}
-
-{% markdown %}
-  {%- include 'now-stuff.md' -%}
-{% endmarkdown %}
+<hr />
+<div class="container card-container">
+  {% set book = catalog.books.current[0] %}
+  <div class="center-heading catalog-year">
+    <h2 id="current" class="bookyear">Currently Reading</h2>
+  </div>
+  <div class="row">
+    {%- for book in catalog.books.current %}
+      {% include "bookitem.njk" %}
+    {%- endfor %}
+  </div>
+</div>

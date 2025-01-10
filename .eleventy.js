@@ -5,6 +5,7 @@ const dateFilters = require('./config/filters/date.js')
 const postFilters = require('./config/filters/posts.js')
 const fs = require('fs')
 const moment = require("moment")
+// const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 
   
 module.exports = function (eleventyConfig) {
@@ -45,11 +46,27 @@ module.exports = function (eleventyConfig) {
   plugins.forEach(plugin => {
     eleventyConfig.addPlugin(require(plugin.name), { ...plugin.options })
   })
+  // eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+	// 	extensions: "html",
+	// 	outputDir: "/assets/images/",
+	// 	cacheOptions: {
+	// 		duration: "*",
+	// 		directory: ".cache",
+	// 		removeUrlQueryParams: false,
+	// 	},
+	// 	formats: ["webp", "jpeg"],
+	// 	widths: [300, 600, 900, 1200],
+	// 	defaultAttributes: {
+	// 		loading: "lazy",
+	// 		sizes: "100vw",
+	// 		decoding: "async",
+	// 	},
+	// })
 
   // collections
   Object.keys(collections).forEach(collectionName => {
     eleventyConfig.addCollection(collectionName, collections[collectionName])
-})
+  })
 
   // Shortcodes
   Object.keys(shortcodes).forEach(shortcodeName => {

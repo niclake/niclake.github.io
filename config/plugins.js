@@ -1,6 +1,6 @@
 module.exports = [
   {
-      name: '@11ty/eleventy-navigation',
+    name: '@11ty/eleventy-navigation',
   },
   {
     name: '@11ty/eleventy-plugin-rss'

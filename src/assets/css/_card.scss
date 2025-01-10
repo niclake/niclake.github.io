@@ -93,6 +93,14 @@
       margin-bottom: 10px;
     }
   }
+
+  &.catalog-card {
+    padding: .5rem;
+    font-size: 0.9rem;
+    h6 {
+      font-family: var(--sans-serif);
+    }
+  }
 }
 
 .card-container {
