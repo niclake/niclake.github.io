@@ -54,6 +54,12 @@
     "explore": false
   },
   {
+    "text": "<i class=\"fa-brands fa-bluesky\"></i>",
+    "rel": "me",
+    "url": "https://bsky.app/profile/niclake.me",
+    "explore": false
+  },
+  {
     "text": "<i class=\"fa-brands fa-mastodon\"></i>",
     "rel": "me",
     "url": "https://mastodon.social/@niclake",
