@@ -5,7 +5,7 @@ title=$(echo "$1" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 posts="$HOME/github/niclake.github.io/src/posts"
 year=$(date +%Y)
 date=$(date +%Y-%m-%d)
-time=$(date +%H:%M:%S)
+time=$(date -u -v+30M +%H:%M:%S)
 
 cp $posts/_PostTemplate.md $posts/$year/$date-$title.md
 sed -i '' -e "s/TITLE/$rawTitle/g" $posts/$year/$date-$title.md
