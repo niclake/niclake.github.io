@@ -37,6 +37,12 @@
     "blurb": "Curious about what tools I use to get things done?"
   },
   {
+    "text": "Bookshelf",
+    "url": "/bookshelf/",
+    "masthead": false,
+    "blurb": "A list of books I've read and rated."
+  },
+  {
     "text": "Style Guide",
     "url": "/styleguide/",
     "masthead": false,

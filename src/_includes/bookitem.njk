@@ -1,18 +1,22 @@
-<div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
-  <div class="w-100 catalog book">
-    {% set bookshop_base = "https://bookshop.org/a/109783/" %}
-    <a href="{{ bookshop_base }}{{ book.isbn }}">
-    {% if book.localCover %}
-      <img src="/assets/images/catalog/books/{{ book.title | slugify }}.jpg" alt="{{ book.title | safe }}">
-    {% else %}
-      <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg" alt="{{ book.title | safe }}">
-    {% endif %}
-    </a>
-    <h6><a href="{{ bookshop_base }}{{ book.isbn }}">{{ book.title | safe }}</a></h6>
-    <p>by {{ book.authorFirst }} {{ book.authorLast }}
-    {% if book.rating != "" %}<br/>{{ book.rating }}{% endif %}
-    <br/>
-    {{ book.compDate }}
-    </p>
+{% set favClass = "" %}
+{% if book.rating == "★★★★★" %}
+  {% set favClass = "da-best" %}
+{% endif %}
+<div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch catalog-column {{ favClass }}">
+  <div class="w-100 catalog-item book">
+    <div class="cover">
+      {% set bookshop_base = "https://bookshop.org/a/109783/" %}
+      <a href="{{ bookshop_base }}{{ book.isbn }}">
+        <img src="/assets/images/catalog/books/{{ book.title | slugify }}.jpg" alt="{{ book.title | safe }}">
+      </a>
+    </div>
+    <div class="mt-auto">
+      <h6><a href="{{ bookshop_base }}{{ book.isbn }}">{{ book.title | safe }}</a></h6>
+      <p>{{ book.authorFirst }} {{ book.authorLast }}
+      {% if book.rating != "" %}<br/><span class="catalog-rating">{{ book.rating }}</span>{% endif %}
+      <br/>
+      {{ book.compDate }}
+      </p>
+    </div>
   </div>
 </div>

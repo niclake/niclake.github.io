@@ -1,15 +1,25 @@
-.catalog {
+.catalog-item {
   font-size: 0.9rem;
   margin-bottom: 1rem;
-
-  img {
-    border-radius: 0;
-    margin-bottom: 1rem;
-  }
+  display: flex;
+  flex-direction: column;
 
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--sans-serif);
     margin-bottom: 0 !important;
+  }
+
+  .cover {
+    img {
+      border-radius: 0;
+      margin-bottom: 1rem;
+      width: 100%;
+    }
+  }
+
+  .catalog-rating {
+    font-style: bold;
+    color: var(--yellow);
   }
 }
 

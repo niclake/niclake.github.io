@@ -38,6 +38,7 @@ for (var i = 0; i < allBooks.length; i++) {
       status: trimStatus(allBooks[i].get("Status")),
       pages: allBooks[i].get("Pages"),
       isbn: allBooks[i].get("ISBN"),
+      localCover: (allBooks[i].get("Local Cover") === "TRUE") ? true : false,
     })
   }
 }
