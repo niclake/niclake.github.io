@@ -1,6 +1,8 @@
 .catalog {
   font-size: 0.9rem;
   margin-bottom: 1rem;
+  flex-direction: column;
+  display: flex;
 
   img {
     border-radius: 0;
