@@ -1,0 +1,15 @@
+<div class="container card-container">
+  <div class="center-heading">
+    <h2 id="current" class="bookyear">Currently Reading</h2>
+  </div>
+  <div class="row">
+    {%- for book in catalog.books.current %}
+      {% include "bookitem.njk" %}
+    {%- endfor %}
+  </div>
+  <div class="w-100 mt-1 mb-3">
+    <p class="text-center">
+      <a href="/bookshelf/">View my bookshelf →</a>
+    </p>
+  </div>
+</div>
