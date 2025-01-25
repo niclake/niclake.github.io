@@ -1,17 +1,17 @@
-@import 'variables';
-@import 'bootstrap';
+@use 'variables';
+@use 'bootstrap';
 
-@import 'base';
-@import 'navbar';
-@import 'page';
-@import 'post';
-@import 'footnotes';
-@import 'footer';
-@import 'breakpoints';
+@use 'base';
+@use 'navbar';
+@use 'page';
+@use 'post';
+@use 'footnotes';
+@use 'footer';
+@use 'breakpoints';
 
-@import 'accordion';
-@import 'card';
-@import 'catalog';
-@import 'dracula-prism';
-@import 'images';
-@import 'links';
+@use 'accordion';
+@use 'card';
+@use 'catalog';
+@use 'dracula-prism';
+@use 'images';
+@use 'links';

@@ -30,5 +30,6 @@ module.exports = async function() {
 		datedBooks: datedBooks,
 		undatedBooks: undatedBooks,
 		years: years,
+		count: theBooks.length,
 	}
 }

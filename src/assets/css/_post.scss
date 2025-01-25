@@ -1,3 +1,4 @@
+@use "sass:color";
 .post {
   padding-bottom: 3rem;
 
@@ -43,7 +44,7 @@
     background-color: var(--grey);
     border-radius: 1rem;
     padding: 1rem;
-    box-shadow: 4px 4px darken(#282a36, 5%);
+    box-shadow: 4px 4px color.adjust(#282a36, $lightness: -5%);
     font-size: .8rem;
   }
 

@@ -1,3 +1,4 @@
+@use "sass:color";
 .card {
   color: var(--white);
   background-color: var(--black);
@@ -6,7 +7,7 @@
   border-color: var(--grey);
   padding: 1rem;
   margin-bottom: 1rem;
-  box-shadow: 4px 4px darken(#282a36, 5%);
+  box-shadow: 4px 4px color.adjust(#282a36, $lightness: -5%);
 
   h3 {
     padding: 0 0 .5rem 0;
