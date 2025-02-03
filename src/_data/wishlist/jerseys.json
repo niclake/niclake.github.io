@@ -52,12 +52,6 @@
     "name": "Atlanta Braves",
     "players": [
       {
-        "name": "Acuña Jr.",
-        "number": 13,
-        "priority": true,
-        "url": "https://www.mlbshop.com/atlanta-braves/mens-atlanta-braves-ronald-acuna-jr-nike-navy-alternate-replica-player-name-jersey/t-14889616+p-9216546882080+z-9-886719923"
-      },
-      {
         "name": "Smoltz",
         "number": 29,
         "priority": true

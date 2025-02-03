@@ -50,11 +50,6 @@
         "img": "https://www.neweracap.com/cdn/shop/files/60439100_59FIFTY_5950EGCHWOTCOTC_BOSRED_CHW_3QL.jpg"
       },
       {
-        "name": "City Mesh",
-        "url": "https://www.neweracap.com/products/boston-red-sox-city-mesh-59fifty-fitted?variant=44445641081059",
-        "img": "https://www.neweracap.com/cdn/shop/files/60505764_59FIFTY_LifestyleEnergy_BOSREDCC21_CHWOTC_3QL.jpg"
-      },
-      {
         "name": "Mini Mascot (Girl)",
         "url": "https://www.neweracap.com/products/boston-red-sox-mini-mascot-girl-59fifty-fitted?variant=45169728258275",
         "img": "https://www.neweracap.com/cdn/shop/files/70873188_59FIFTY_MLBMINIMASCOT_BOSRED_BRN_3QR.jpg"
@@ -103,12 +98,6 @@
         "name": "Party Animals",
         "url": "https://shop.thesavannahbananas.com/products/party-animals-5950-alternate-hat-pink?variant=44364844794094",
         "img": "https://shop.thesavannahbananas.com/cdn/shop/files/70821671_59FIFTY__PARANI_PNKBLK_3QL.jpg",
-        "priority": true
-      },
-      {
-        "name": "Quad City River Bandits Red Two-State",
-        "url": "https://riverbandits.milbstore.com/collections/all-caps/products/copy-of-quad-cities-river-bandits-fitted-paw-hat?variant=39683462594639",
-        "img": "https://riverbandits.milbstore.com/cdn/shop/products/60235626_59FIFTY_MLBACALT1_QUARIV_OTC_F_720x.jpg",
         "priority": true
       },
       {
