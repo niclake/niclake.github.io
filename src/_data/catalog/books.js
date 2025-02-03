@@ -1,6 +1,6 @@
 const theBooks = require('./books.json')
 
-module.exports = async function() {
+module.exports = function() {
 	const currentBook = theBooks.filter(book => book.status === 'In Progress')
 	const datedBooks = theBooks
 		.filter(
