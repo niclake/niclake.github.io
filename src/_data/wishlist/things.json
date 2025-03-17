@@ -1,10 +1,5 @@
 [
   {
-    "name": "WD Black 2TB NVMe Solid State Drive",
-    "url": "https://a.co/d/931ZpQ9",
-    "notes": "For the OWC enclosure - 1 to 4 of these"
-  },
-  {
     "name": "Raspberry Pi Kit",
     "url": "https://vilros.com/products/vilros-raspberry-pi-5-complete-starter-kit?variant=40332876447838"
   },
@@ -14,20 +9,8 @@
     "url": "https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066"
   },
   {
-    "name": "Studio Neat Material Dock - Upright Duo",
-    "url": "https://www.studioneat.com/products/materialdock?variant=40158017617985"
-  },
-  {
     "name": "Geometrical Wallet-Sized iPhone Tripod (any color)",
     "url": "https://amzn.to/3yCFobh"
-  },
-  {
-    "name": "Clever Dripper",
-    "url": "https://www.amazon.com/Clever-Coffee-Dripper-Hassle-Free-Manual/dp/B088W7WT5H/"
-  },
-  {
-    "name": "Chemex 8 cup coffeemaker",
-    "url": "https://amzn.to/3zcveOO"
   },
   {
     "name": "King KDS 1000/6000 Grit Whetstone",
@@ -59,73 +42,26 @@
     "name": "3D printer filament",
     "options": [
       {
-        "name": "I prefer filaments from Polymaker and Bambu. I currently only print using PLA, and use 1.75mm filament."
+        "name": "I can ALWAYS use more black and/or white PLA filament (regular or matte)."
       },
       {
-        "name": "I can ALWAYS use more black and/or white filament."
+        "name": "Polymaker PolyLite PLA",
+        "url": "https://www.amazon.com/dp/B099KTY4HY/",
+        "notes": "Favs are Purple, Lemon Yellow, Lime Green, Magenta, Green, & Orange"
       },
       {
-        "name": "Polymaker",
-        "notes": "These are all Amazon links, but you can sometimes find sales on us.polymaker.com",
-        "options": [
-          {
-            "name": "PolyLite PLA",
-            "url": "https://www.amazon.com/dp/B099KTY4HY/",
-            "notes": "Favs are Purple, Lemon Yellow, Lime Green, Magenta, Green, & Orange"
-          },
-          {
-            "name": "Matte PLA",
-            "url": "https://www.amazon.com/dp/B0CFQXCHDW/",
-            "notes": "Marble Sandstone, or any other colors you like"
-          },
-          {
-            "name": "Matte Multicolor PLA",
-            "url": "https://www.amazon.com/dp/B0CBMN9F91/",
-            "notes": "Favs are Fall, Pastel Rainbow, Winter, Foggy Purple, Glacier Blue, Sunrise, Shadow Black, & Shadow Red"
-          }
-        ]
+        "name": "Polymaker Matte PLA",
+        "url": "https://www.amazon.com/dp/B0CFQXCHDW/",
+        "notes": "Marble Sandstone, or any other colors you like"
       },
       {
-        "name": "Bambu",
-        "notes": "You can buy refills instead of filament w/ spools. You get discounts for buying 4+ at once.",
-        "options": [
-          {
-            "name": "PLA Basic",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament"
-          },
-          {
-            "name": "PLA Matte",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-matte-filament"
-          },
-          {
-            "name": "PLA Basic Gradient",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-gradient"
-          },
-          {
-            "name": "PLA Silk",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-silk"
-          },
-          {
-            "name": "PLA Silk Dual Color",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-silk-dual-color"
-          },
-          {
-            "name": "PLA Marble",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-marble"
-          },
-          {
-            "name": "PLA Galaxy",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-galaxy"
-          },
-          {
-            "name": "PLA Sparkle",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-sparkle"
-          },
-          {
-            "name": "PLA Metal",
-            "url": "https://us.store.bambulab.com/collections/pla/products/pla-metal"
-          }
-        ]
+        "name": "Polymaker Matte Multicolor PLA",
+        "url": "https://www.amazon.com/dp/B0CBMN9F91/",
+        "notes": "Favs are Fall, Pastel Rainbow, Winter, Foggy Purple, Glacier Blue, Sunrise, Shadow Black, & Shadow Red"
+      },
+      {
+        "name": "Bambu PLA Basic",
+        "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament"
       },
       {
         "name": "FLASHFORGE PLA",
