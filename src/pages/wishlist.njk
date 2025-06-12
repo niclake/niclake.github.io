@@ -138,21 +138,26 @@ permalink: /wishlist/index.html
                       {%- for hat in team.hats -%}
                         <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                           <div class="card wishlist">
-                            <a target="_blank" href="{{ hat.url }}">
-                              {% if hat.priority %}
+                            <div>
+                              <a target="_blank" href="{{ hat.url }}">
+                                {% if hat.priority %}
                                 <strong>
                                   <em>
                                   {% endif %}
                                   <h6>
-                                    {% if hat.priority %}*&nbsp;{% endif %}{{ hat.name }}
-                                    {% if hat.priority %}&nbsp;*{% endif %}
+                                    {% if hat.priority %}*&nbsp;{% endif %}{{ hat.name }}{% if hat.priority %}&nbsp;*{% endif %}
                                   </h6>
-                                  <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}"/>
                                   {% if hat.priority %}
                                   </em>
                                 </strong>
                               {% endif %}
-                            </a>
+                              </a>
+                            </div>
+                            <div class="mt-auto">
+                              <a target="_blank" href="{{ hat.url }}">
+                                  <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}"/>
+                              </a>
+                            </div>
                           </div>
                         </div>
                       {%- endfor -%}
