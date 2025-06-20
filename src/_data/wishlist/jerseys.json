@@ -21,6 +21,11 @@
         "name": "Garciaparra",
         "number": 5,
         "priority": true
+      },
+      {
+        "name": "Anthony",
+        "number": 29,
+        "priority": true
       }
     ],
     "colors": [
@@ -376,12 +381,6 @@
   {
     "name": "San Diego Padres",
     "players": [
-      {
-        "name": "Tatis Jr. (City Connect)",
-        "number": 23,
-        "priority": true,
-        "url": "https://www.mlbshop.com/san-diego-padres/mens-san-diego-padres-fernando-tatis-jr-nike-white-city-connect-replica-player-jersey/t-25343382+p-2647109027278+z-9-3905074987"
-      },
       {
         "name": "Gwynn",
         "number": 19
