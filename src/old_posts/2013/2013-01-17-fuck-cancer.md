@@ -1,6 +1,6 @@
 ---
 title: "Fuck Cancer (or Life Is Precious)"
-permalink: /fuck-cancer/index.html
+permalink: /old-fuck-cancer/index.html
 date: 2013-01-17T17:00:00Z
 tags: 
   - Personal

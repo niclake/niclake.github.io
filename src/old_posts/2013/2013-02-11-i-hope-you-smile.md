@@ -1,6 +1,6 @@
 ---
 title: "I Hope You Smile"
-permalink: /i-hope-you-smile/index.html
+permalink: /old-i-hope-you-smile/index.html
 date: 2013-02-11T17:00:00Z
 tags: 
   - Personal
