@@ -1,20 +1,7 @@
 :root,
-[data-bs-theme=light] {
+[data-bs-theme=dark] {
+  color-scheme: dark;
   // Colors
-  // --black: #282a36; // 40, 42, 54
-  // --pure-black: #000000; // 0, 0, 0
-  // --grey: #44475a; // 68, 71, 90
-  // --light-grey: #6272a4; // 98, 114, 164
-  // --white: #d0d0d0; // 208, 208, 208
-  // --pure-white: #ffffff; // 255, 255, 255
-  // --red: #ff5555; // 255, 85, 85
-  // --orange: #ffb86c; // 255, 184, 108
-  // --yellow: #f1fa8c; // 241, 250, 140
-  // --green: #50fa7b; // 80, 250, 123
-  // --cyan: #8be9fd; // 139, 233, 253
-  // --purple: #bd93f9; // 189, 147, 249
-  // --pink: #ff79c6; // 255, 121, 198
-
   --background: #282a36; // 40, 42, 54
   --background-alt: #44475a; // 68, 71, 90
   --text: #d0d0d0; // 208, 208, 208
@@ -46,26 +33,21 @@
   --bs-font-sans-serif: var(--sans-serif);
 }
 
-[data-bs-theme=dark] {
-  --background: #282a36; // 40, 42, 54
-  --background-alt: #44475a; // 68, 71, 90
-  --text: #d0d0d0; // 208, 208, 208
-  --text-sub: #6272a4; // 98, 114, 164
+[data-bs-theme=light] {
+  // Colors for Light Mode (Alucard)
+  --background: #FFFBEB; // 255, 251, 235
+  --background-alt: #CFCFDE; // 207, 207, 222
+  --text: #2F2F2F; // 47, 47, 47
+  --text-sub: #6C664B; // 108, 102, 75
   --pure-black: #000000; // 0, 0, 0
   --pure-white: #ffffff; // 255, 255, 255
-  --red: #ff5555; // 255, 85, 85
-  --orange: #ffb86c; // 255, 184, 108
-  --yellow: #f1fa8c; // 241, 250, 140
-  --green: #50fa7b; // 80, 250, 123
-  --cyan: #8be9fd; // 139, 233, 253
-  --purple: #bd93f9; // 189, 147, 249
-  --pink: #ff79c6; // 255, 121, 198
-
-  // Fonts
-  --serif: Georgia, serif;
-  --sans-serif: -apple-system, system-ui, sans-serif;
-  --headers: 'Orbitron', sans-serif;
-  --code: 'Hack','Courier', monospace;
+  --red: #CB3A2A; // 203, 58, 42
+  --orange: #A34D14; // 163, 77, 20
+  --yellow: #846E15; // 132, 110, 21
+  --green: #14710A; // 20, 113, 10
+  --cyan: #036A96; // 3, 106, 150
+  --purple: #644AC9; // 100, 74, 201
+  --pink: #A3144D; // 163, 20, 77
 
   // Bootstrap Specific
   --bs-primary-rgb: var(--text-sub);
@@ -75,5 +57,4 @@
   --bs-link-hover-color-rgb: var(--green);
   --bs-body-color: var(--text);
   --bs-code-color: var(--cyan);
-  --bs-font-sans-serif: var(--sans-serif);
 }
