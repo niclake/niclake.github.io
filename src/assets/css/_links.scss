@@ -19,7 +19,7 @@
     }
 
     .post-date {
-      color: var(--light-grey) !important;
+      color: var(--text-sub) !important;
     }
 
     .photo-link {
@@ -43,7 +43,7 @@
 
 .btn-nl-primary {
   display: inline-flex;
-  background-color: var(--grey);
+  background-color: var(--background-alt);
   color: var(--pure-white);
   border-radius: 10px;
   border: 3px solid linear-gradient(to right, var(--pink) 0%, var(--purple) 75%);

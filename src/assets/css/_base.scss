@@ -4,11 +4,11 @@ html {
 }
 
 body {
-  background: var(--black);
+  background: var(--background);
   font-family: var(--sans-serif);
   line-height: 1.5;
   font-weight: 300;
-  color: var(--white);
+  color: var(--text);
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -155,7 +155,7 @@ hr {
 
 pre {
   padding: 1rem;
-  background-color: var(--grey);
+  background-color: var(--background-alt);
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -166,7 +166,7 @@ code {
   border-radius: 0.25rem;
   font-family:'Hack','Courier', monospace;
   color: var(--cyan);
-  background-color: var(--grey);
+  background-color: var(--background-alt);
   word-wrap: break-word;
 }
 
@@ -232,7 +232,7 @@ figure {
     display: table-caption;
     caption-side: bottom;
     font-size: 0.8rem;
-    color: var(--light-grey);
+    color: var(--text-sub);
     margin-top: .5rem;
   }
 }

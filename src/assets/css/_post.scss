@@ -40,7 +40,7 @@
   }
 
   .notice {
-    background-color: var(--grey);
+    background-color: var(--background-alt);
     border-radius: 1rem;
     padding: 1rem;
     box-shadow: 4px 4px darken(#282a36, 5%);
@@ -55,22 +55,22 @@
 
   table {
     margin: 0 auto 1rem;
-    border: 5px solid var(--light-grey);
+    border: 5px solid var(--text-sub);
 
     th {
-      background-color: var(--grey);
+      background-color: var(--background-alt);
     }
 
     th, td {
       padding: 10px;
-      border: 1px solid var(--light-grey);
+      border: 1px solid var(--text-sub);
     }
   }
 }
 
 .date,
 .post-date {
-  color: var(--light-grey);
+  color: var(--text-sub);
   font-size: 0.9rem;
   font-family: var(--sans-serif);
   font-weight: 400;

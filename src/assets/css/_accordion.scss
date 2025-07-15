@@ -21,7 +21,7 @@
         }
 
         &:not(.collapsed) {
-          background-color: var(--grey);
+          background-color: var(--background-alt);
           color: var(--cyan);
           box-shadow: none;
         }
@@ -30,7 +30,7 @@
 
     .accordion-body {
       padding: 1rem 0 0;
-      color: var(--white);
+      color: var(--text);
       p {
         margin-bottom: 0;
       }

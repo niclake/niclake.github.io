@@ -1,9 +1,9 @@
 .card {
-  color: var(--white);
-  background-color: var(--black);
+  color: var(--text);
+  background-color: var(--background);
   border-radius: 15px;
   border-width: 3px;
-  border-color: var(--grey);
+  border-color: var(--background-alt);
   padding: 1rem;
   margin-bottom: 1rem;
   box-shadow: 4px 4px darken(#282a36, 5%);
@@ -64,7 +64,7 @@
     }
   
     span {
-      color: var(--light-grey);
+      color: var(--text-sub);
       font-size: 0.9rem;
       text-align: center;
       text-decoration: none !important;
@@ -82,7 +82,7 @@
   &.color-box {
     text-align: center;
     width: 100%;
-    color: var(--white);
+    color: var(--text);
   
     .the-color {
       border: 3px solid var(--pure-white);
