@@ -57,17 +57,15 @@
     "text": "<i class=\"fa-brands fa-bluesky\"></i>",
     "rel": "me",
     "url": "https://bsky.app/profile/niclake.me",
-    "explore": false
-  },
-  {
-    "text": "<i class=\"fa-brands fa-mastodon\"></i>",
-    "rel": "me",
-    "url": "https://mastodon.social/@niclake",
-    "explore": false
+    "explore": false,
+    "title": "niclake.me on Bluesky",
+    "target": "_blank"
   },
   {
     "text": "<i class=\"fa-solid fa-rss\"></i>",
     "url": "/feed.xml",
-    "explore": false
+    "explore": false,
+    "title": "RSS for niclake.me",
+    "target": "_blank"
   }
 ]

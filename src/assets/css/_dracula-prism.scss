@@ -22,48 +22,48 @@ http://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascr
 
 :root
 {
-  --background: #44475A;
-  --comment:    #282a36;
+  // --background: #44475A;
+  // --comment:    #282a36;
   --foreground: #d0d0d0;
   --selection:  #6272a4;
 
-  --cyan:       #8BE9FD;
-  --green:      #50FA7B;
-  --orange:     #FFB86C;
-  --pink:       #FF79C6;
-  --purple:     #BD93F9;
-  --red:        #FF5555;
-  --yellow:     #F1FA8C;
+  // --cyan:       #8BE9FD;
+  // --green:      #50FA7B;
+  // --orange:     #FFB86C;
+  // --pink:       #FF79C6;
+  // --purple:     #BD93F9;
+  // --red:        #FF5555;
+  // --yellow:     #F1FA8C;
 
   /* Transparency */
 
   /** 30% of transparency **/
-  --background-30: #282A3633;
-  --comment-30:    #6272A433;
-  --foreground-30: #F8F8F233;
-  --selection-30:  #44475A33;
+  // --background-30: #282A3633;
+  // --comment-30:    #6272A433;
+  // --foreground-30: #F8F8F233;
+  // --selection-30:  #44475A33;
 
-  --cyan-30:       #8BE9FD33;
-  --green-30:      #50FA7B33;
-  --orange-30:     #FFB86C33;
-  --pink-30:       #FF79C633;
-  --purple-30:     #BD93F933;
-  --red-30:        #FF555533;
-  --yellow-30:     #F1FA8C33;
+  // --cyan-30:       #8BE9FD33;
+  // --green-30:      #50FA7B33;
+  // --orange-30:     #FFB86C33;
+  // --pink-30:       #FF79C633;
+  // --purple-30:     #BD93F933;
+  // --red-30:        #FF555533;
+  // --yellow-30:     #F1FA8C33;
 
-  /** 40% of transparency **/
-  --background-40: #282A3666;
-  --comment-40:    #6272A466;
-  --foreground-40: #F8F8F266;
-  --selection-40:  #44475A66;
+  // /** 40% of transparency **/
+  // --background-40: #282A3666;
+  // --comment-40:    #6272A466;
+  // --foreground-40: #F8F8F266;
+  // --selection-40:  #44475A66;
 
-  --cyan-40:       #8BE9FD66;
-  --green-40:      #50FA7B66;
-  --orange-40:     #FFB86C66;
-  --pink-40:       #FF79C666;
-  --purple-40:     #BD93F966;
-  --red-40:        #FF555566;
-  --yellow-40:     #F1FA8C66;
+  // --cyan-40:       #8BE9FD66;
+  // --green-40:      #50FA7B66;
+  // --orange-40:     #FFB86C66;
+  // --pink-40:       #FF79C666;
+  // --purple-40:     #BD93F966;
+  // --red-40:        #FF555566;
+  // --yellow-40:     #F1FA8C66;
 }
 
 pre::-webkit-scrollbar 
@@ -234,8 +234,8 @@ div.code-toolbar > .toolbar span:focus
 code[class*="language-"],
 pre[class*="language-"] 
 {
-  color: var(--foreground);
-  background: var(--background);
+  color: var(--text);
+  background: var(--grey);
   text-shadow: none;
   font-family: 'Hack','Courier', monospace;
   white-space: pre-wrap;
@@ -259,7 +259,7 @@ pre[class*="language-"]
 
 pre[class*="language-"] 
 {
-  background: var(--background);
+  background: var(--grey);
   border-radius: 0.5em;
   padding: 1rem;
   margin: 0.5em 0;
@@ -270,7 +270,7 @@ pre[class*="language-"]
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] 
 {
-  background: var(--background);
+  background: var(--grey);
 }
 
 /* Inline code */
@@ -506,22 +506,22 @@ pre[class*="language-"]
 
 .token.number 
 {
-  color: rgba(189, 147, 249, 1);
+  color: var(--purple);
 }
 
 .token.operator 
 {
-  color: rgba(139, 233, 253, 1);
+  color: var(--cyan);
 }
 
 .token.char 
 {
-  color: rgba(255, 135, 157, 1);
+  color: var(--pink);
 }
 
 .token.symbol 
 {
-  color: rgba(255, 184, 108, 1);
+  color: var(--orange);
 }
 
 .token.deleted 

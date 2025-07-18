@@ -1,12 +1,14 @@
-<nav class="navbar navbar-expand-xxl navbar-dark bg-primary">
+<nav class="navbar navbar-expand-xl bg-primary">
   <div class="container">
     <a class="navbar-brand" href="/">
       {% svg "images/site/monogram" %}
       nic lake<span class="me">(me)</span>
     </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <div>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+    </div>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         {%- for nav in navigation -%}
@@ -19,10 +21,46 @@
               {% set classes = "nav-item" %}
             {% endif %}
             <li class="{{ classes }}">
-              <a {% if nav.rel %}rel="me"{% endif %} class="nav-link" href="{{ nav.url }}">{{ nav.text | safe }}</a>
+              <a {% if nav.rel %}rel="me"{% endif %} class="nav-link" href="{{ nav.url }}" {% if nav.title %}title="{{ nav.title }}"{% endif %} {% if nav.target %}target="{{ nav.target }}"{% endif %}>
+                {{ nav.text | safe }}
+              </a>
             </li>
           {% endif %}
         {%- endfor -%}
+        <li class="nav-item dropdown">
+          <button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (dark)">
+            <svg class="bi my-1 theme-icon-active" aria-hidden="true">
+              <use href="/assets/images/site/moon-stars-fill.svg#moon-stars-fill"></use>
+            </svg>
+            <span class="d-none ms-2" id="bd-theme-text">Toggle theme</span>
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text">
+            <li>
+              <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="dark" aria-pressed="true">
+                <svg class="bi me-2 opacity-50" aria-hidden="true">
+                  <use href="/assets/images/site/moon-stars-fill.svg#moon-stars-fill"></use>
+                </svg>
+                Dark
+              </button>
+            </li>
+            <li>
+              <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                <svg class="bi me-2 opacity-50" aria-hidden="true">
+                  <use href="/assets/images/site/sun-fill.svg#sun-fill"></use>
+                </svg>
+                Light
+              </button>
+            </li>
+            <li>
+              <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="false">
+                <svg class="bi me-2 opacity-50" aria-hidden="true">
+                  <use href="/assets/images/site/circle-half.svg#circle-half"></use>
+                </svg>
+                Auto
+              </button>
+            </li>
+          </ul>
+        </li>
       </ul>
     </div>
   </div>
