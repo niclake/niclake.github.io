@@ -1,93 +1,106 @@
 [
   {
-    "colorName": "Black",
-    "colorVariable": "black",
-    "colorHex": "#282a36",
-    "colorRGB": "40, 42, 54",
+    "colorName": "Background",
+    "darkHex": "#282a36",
+    "darkRGB": "40, 42, 54",
+    "lightHex": "#FFFBEB",
+    "lightRGB": "255, 251, 235",
     "colorUsage": "Site background"
   },
   {
-    "colorName": "White",
-    "colorVariable": "white",
-    "colorHex": "#f8f8f2",
-    "colorRGB": "248, 248, 242",
+    "colorName": "Text",
+    "darkHex": "#f8f8f2",
+    "darkRGB": "248, 248, 242",
+    "lightHex": "#2F2F2F",
+    "lightRGB": "47, 47, 47",
     "colorUsage": "Base text color"
   },
   {
-    "colorName": "Grey",
-    "colorVariable": "grey",
-    "colorHex": "#44475a",
-    "colorRGB": "68, 71, 90",
-    "colorUsage": "Code block backgrounds"
-  },
-  {
-    "colorName": "Light Grey",
-    "colorVariable": "light-grey",
-    "colorHex": "#6272a4",
-    "colorRGB": "98, 114, 164",
+    "colorName": "Sub Text",
+    "darkHex": "#6272a4",
+    "darkRGB": "98, 114, 164",
+    "lightHex": "#6C664B",
+    "lightRGB": "108, 102, 75",
     "colorUsage": "Nav links, post dates, & image captions"
   },
   {
+    "colorName": "Grey",
+    "darkHex": "#44475a",
+    "darkRGB": "68, 71, 90",
+    "lightHex": "#BBB8A5",
+    "lightRGB": "68, 71, 90",
+    "colorUsage": "Code block backgrounds"
+  },
+  {
     "colorName": "Red",
-    "colorVariable": "red",
-    "colorHex": "#ff5555",
-    "colorRGB": "255, 85, 85",
+    "darkHex": "#ff5555",
+    "darkRGB": "255, 85, 85",
+    "lightHex": "#CB3A2A",
+    "lightRGB": "203, 58, 42",
     "colorUsage": "Footnote link hover"
   },
   {
     "colorName": "Orange",
-    "colorVariable": "orange",
-    "colorHex": "#ffb86c",
-    "colorRGB": "255, 184, 108",
+    "darkHex": "#ffb86c",
+    "darkRGB": "255, 184, 108",
+    "lightHex": "#A34D14",
+    "lightRGB": "163, 77, 20",
     "colorUsage": "H4s & link underlines"
   },
   {
     "colorName": "Yellow",
-    "colorVariable": "yellow",
-    "colorHex": "#f1fa8c",
-    "colorRGB": "241, 250, 140",
+    "darkHex": "#f1fa8c",
+    "darkRGB": "241, 250, 140",
+    "lightHex": "#846E15",
+    "lightRGB": "132, 110, 21",
     "colorUsage": "H3s"
   },
   {
     "colorName": "Green",
-    "colorVariable": "green",
-    "colorHex": "#50fa7b",
-    "colorRGB": "80, 250, 123",
+    "darkHex": "#50fa7b",
+    "darkRGB": "80, 250, 123",
+    "lightHex": "#14710A",
+    "lightRGB": "20, 113, 10",
     "colorUsage": "H2s, nav page active, indented list markers, & hovered links"
   },
   {
     "colorName": "Cyan",
-    "colorVariable": "cyan",
-    "colorHex": "#8be9fd",
-    "colorRGB": "139, 233, 253",
+    "darkHex": "#8be9fd",
+    "darkRGB": "139, 233, 253",
+    "lightHex": "#036A96",
+    "lightRGB": "3, 106, 150",
     "colorUsage": "Masthead accents, nav page hover, & inline code"
   },
   {
     "colorName": "Purple",
-    "colorVariable": "purple",
-    "colorHex": "#bd93f9",
-    "colorRGB": "189, 147, 249",
+    "darkHex": "#bd93f9",
+    "darkRGB": "189, 147, 249",
+    "lightHex": "#644AC9",
+    "lightRGB": "100, 74, 201",
     "colorUsage": "Footnote links, link hover gradients, blockquote border gradient, & divider gradients"
   },
   {
     "colorName": "Pink",
-    "colorVariable": "pink",
-    "colorHex": "#ff79c6",
-    "colorRGB": "255, 121, 198",
+    "darkHex": "#ff79c6",
+    "darkRGB": "255, 121, 198",
+    "lightHex": "#A3144D",
+    "lightRGB": "163, 20, 77",
     "colorUsage": "Masthead accents, H1s, link hover gradients, list markers, blockquote border gradient, & divider gradients"
   },
   {
-    "colorName": "Pure Black",
-    "colorVariable": "pure-black",
-    "colorHex": "#000000",
-    "colorRGB": "0, 0, 0",
+    "colorName": "Emphasis",
+    "darkHex": "#000000",
+    "darkRGB": "0, 0, 0",
+    "lightHex": "#FFFFFF",
+    "lightRGB": "255, 255, 255",
     "colorUsage": "Text color when selected"
   },
   {
-    "colorName": "Pure White",
-    "colorVariable": "pure-white",
-    "colorHex": "#ffffff",
-    "colorRGB": "255, 255, 255",
+    "colorName": "Reverse Emphasis",
+    "darkHex": "#ffffff",
+    "darkRGB": "255, 255, 255",
+    "lightHex": "#000000",
+    "lightRGB": "0, 0, 0",
     "colorUsage": "Default link color, masthead /index hover, `strong` and `em` text color"
   }
 ]

@@ -5,7 +5,17 @@ permalink: /styleguide/index.html
 
 This is a style guide for [NicLake.me](/).
 
+<hr />
+
+<p>This site's theme is build around the <a href="https://draculatheme.com">Dracula</a> color scheme, along with their Alucard light scheme as a new option as of July 2025.</p>
+
+<p>The following are the colors used within the themes, and their usage on the site:</p>
+
 {% include 'color-blocks.njk' %}
+
+<hr />
+
+Everything below will be rendered based on the current color scheme you have selected. You can swap between light & dark mode to see the differences.
 
 # This is an example of a H1 header
 
@@ -53,9 +63,9 @@ Below is a horizontal rule:
 
 ---
 
-Here is [an example inline link](google.com), and here is [an example link w/ organized URLs][orglink].
+Here is [an example inline link](https://google.com), and here is [an example link w/ organized URLs][orglink].
 
-[orglink]: yahoo.com
+[orglink]: https://yahoo.com
 
 If you want to have some inline code, wrap in single backticks, like this: `google.com`.
 

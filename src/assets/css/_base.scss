@@ -4,11 +4,11 @@ html {
 }
 
 body {
-  background: var(--black);
+  background: var(--background);
   font-family: var(--sans-serif);
   line-height: 1.5;
   font-weight: 300;
-  color: var(--white);
+  color: var(--text);
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -82,7 +82,7 @@ em,
 strong,
 b,
 th {
-  color: var(--pure-white);
+  color: var(--emphasis);
 }
 
 em {
@@ -232,7 +232,7 @@ figure {
     display: table-caption;
     caption-side: bottom;
     font-size: 0.8rem;
-    color: var(--light-grey);
+    color: var(--text-sub);
     margin-top: .5rem;
   }
 }

@@ -1,11 +1,37 @@
 :root {
-  // Colors
-  --black: #282a36; // 40, 42, 54
+  // Pure colors
   --pure-black: #000000; // 0, 0, 0
-  --grey: #44475a; // 68, 71, 90
-  --light-grey: #6272a4; // 98, 114, 164
-  --white: #d0d0d0; // 208, 208, 208
   --pure-white: #ffffff; // 255, 255, 255
+
+  // Fonts
+  --serif: Georgia, serif;
+  --sans-serif: -apple-system, system-ui, sans-serif;
+  --headers: 'Orbitron', sans-serif;
+  --code: 'Hack','Courier', monospace;
+
+  // Bootstrap
+  --bs-font-sans-serif: var(--sans-serif);
+  --bs-font-monospace: var(--code);
+  --bs-link-color: var(--orange);
+  --bs-link-hover-color: var(--green);
+  --bs-body-color: var(--text);
+  --bs-code-color: var(--cyan);
+  --bs-emphasis-color: var(--emphasis);
+  --bs-body-color: var(--text-sub);
+  --bs-body-bg: var(--background);
+  --bs-dropdown-link-active-color: var(--text);
+  --bs-dropdown-link-active-bg: var(--text-sub);
+  --bs-dropdown-link-hover-color: var(--emphasis);
+  --bs-dropdown-link-hover-bg: var(--grey);
+}
+
+[data-bs-theme=dark] {
+  color-scheme: dark;
+  // Colors
+  --background: #282a36; // 40, 42, 54
+  --text: #d0d0d0; // 208, 208, 208
+  --text-sub: #6272a4; // 98, 114, 164
+  --grey: #44475a; // 68, 71, 90
   --red: #ff5555; // 255, 85, 85
   --orange: #ffb86c; // 255, 184, 108
   --yellow: #f1fa8c; // 241, 250, 140
@@ -14,19 +40,35 @@
   --purple: #bd93f9; // 189, 147, 249
   --pink: #ff79c6; // 255, 121, 198
 
-  // Fonts
-  --serif: Georgia, serif;
-  --sans-serif: -apple-system, system-ui, sans-serif;
-  --headers: 'Orbitron', sans-serif;
-  --code: 'Hack','Courier', monospace;
+  // Sub-variables
+  --emphasis: var(--pure-white);
+  --reverse-emphasis: var(--pure-black);
+  --comment: var(--background);
 
   // Bootstrap Specific
-  --bs-primary-rgb: var(--light-grey);
-  --bs-link-color: var(--orange);
-  --bs-link-color-rgb: var(--orange);
-  --bs-link-hover-color: var(--green);
-  --bs-link-hover-color-rgb: var(--green);
-  --bs-body-color: var(--white);
-  --bs-code-color: var(--cyan);
-  --bs-font-sans-serif: var(--sans-serif);
+  --bs-emphasis-color-rgb: 255, 255, 255;
+}
+
+[data-bs-theme=light] {
+  color-scheme: light;
+  // Colors for Light Mode (Alucard)
+  --background: #FFFBEB; // 255, 251, 235
+  --text: #2F2F2F; // 47, 47, 47
+  --text-sub: #6C664B; // 108, 102, 75
+  --grey: #BBB8A5; // 68, 71, 90
+  --red: #CB3A2A; // 203, 58, 42
+  --orange: #A34D14; // 163, 77, 20
+  --yellow: #846E15; // 132, 110, 21
+  --green: #14710A; // 20, 113, 10
+  --cyan: #036A96; // 3, 106, 150
+  --purple: #644AC9; // 100, 74, 201
+  --pink: #A3144D; // 163, 20, 77
+
+  // Sub-variables
+  --emphasis: var(--pure-black);
+  --reverse-emphasis: var(--pure-white);
+  --comment: var(--background);
+
+  // Bootstrap Specific
+  --bs-emphasis-color-rgb: 0, 0, 0;
 }

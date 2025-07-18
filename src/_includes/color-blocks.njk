@@ -1,20 +1,29 @@
-<p>This site's theme is build around the <a href="">Dracula</a> color scheme, with the following variables and usage:</p>
-
 <div class="container card-container">
   <div class="row">
     {%- for color in colors -%}
       <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
         <div class="card color-box">
-          <div class="the-color" style="background-color: {{color.colorHex}};">&nbsp;</div>
+          <div class="the-color" style="background-color: {{color.darkHex}};">&nbsp;</div>
+          <div class="the-color" style="background-color: {{color.lightHex}};">&nbsp;</div>
           <div class="mt-2 mb-auto">
             <div>
-              <strong>{{color.colorName}} ({{color.colorVariable}})</strong>
+              <h5>{{color.colorName}}</h5>
             </div>
-            <div>{{color.colorHex}}</div>
+            <div class="color-stats">
+              <div class="stat">
+                <strong>Dark Mode</strong><br/>
+                {{color.darkHex}}<br/>
+                {{color.darkRGB}}
+              </div>
+              <div class="stat">
+                <strong>Light Mode</strong><br/>
+                {{color.lightHex}}<br/>
+                {{color.lightRGB}}
+              </div>
+            </div>
             <div>
-              <strong>RGB</strong>: {{color.colorRGB}}</div>
-            <div>
-              <strong>Usage</strong>: {{color.colorUsage}}</div>
+              <br/><strong>Usage</strong><br/>{{color.colorUsage}}
+            </div>
           </div>
         </div>
       </div>

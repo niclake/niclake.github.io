@@ -7,7 +7,7 @@
     background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 75%);
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: var(--pure-white);
+    -webkit-text-fill-color: var(--emphasis);
     text-decoration: underline;
     text-decoration-color: var(--orange);
     text-decoration-thickness: 2px;
@@ -19,7 +19,7 @@
     }
 
     .post-date {
-      color: var(--light-grey) !important;
+      color: var(--text-sub) !important;
     }
 
     .photo-link {
@@ -44,7 +44,7 @@
 .btn-nl-primary {
   display: inline-flex;
   background-color: var(--grey);
-  color: var(--pure-white);
+  color: var(--emphasis);
   border-radius: 10px;
   border: 3px solid linear-gradient(to right, var(--pink) 0%, var(--purple) 75%);
   font-weight: 500;
@@ -57,6 +57,6 @@
   }
 
   &:hover {
-    background-color: var(--pure-black);
+    background-color: var(--reverse-emphasis);
   }
 }

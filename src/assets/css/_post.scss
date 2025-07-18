@@ -55,7 +55,7 @@
 
   table {
     margin: 0 auto 1rem;
-    border: 5px solid var(--light-grey);
+    border: 5px solid var(--text-sub);
 
     th {
       background-color: var(--grey);
@@ -63,14 +63,14 @@
 
     th, td {
       padding: 10px;
-      border: 1px solid var(--light-grey);
+      border: 1px solid var(--text-sub);
     }
   }
 }
 
 .date,
 .post-date {
-  color: var(--light-grey);
+  color: var(--text-sub);
   font-size: 0.9rem;
   font-family: var(--sans-serif);
   font-weight: 400;
@@ -81,10 +81,25 @@
 }
 
 .blog {
-  .epg__year {
-    font-size: 2.5rem;
-    color: var(--green);
-    font-family: var(--headers);
+  // Eleventy Post Graph styling
+  .epg {
+    .epg__year {
+      font-size: 2.5rem;
+      color: var(--green);
+      font-family: var(--headers);
+    }
+
+    .epg__box {
+      background-color: var(--grey);
+      
+      &.epg__box--empty {
+        background-color: transparent;
+      }
+      
+      &.epg__hasPost {
+        background-color: var(--green);
+      }
+    }
   }
 
   .blog-post {

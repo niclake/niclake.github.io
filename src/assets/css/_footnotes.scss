@@ -2,7 +2,7 @@
   --button-background-color: var(--purple);
   --button-text-color: var(--pure-white);
   --button-active-background-color: var(--red);
-  --button-active-text-color: var(--black);
+  --button-active-text-color: var(--background);
   --button-border-radius: 8px;
   --button-border-radius: 0.5rem;
   --button-height: 16px;
@@ -12,8 +12,8 @@
   --button-padding: 0 9.6px;
   --button-padding: 0 0.6rem;
   --button-transition: background-color 0.25s ease, color 0.25s ease;
-  --popover-background-color: var(--black);
-  --popover-text-color: var(--white);
+  --popover-background-color: var(--background);
+  --popover-text-color: var(--text);
   --popover-border: 2px solid var(--pink);
   --popover-border-radius: 8px;
   --popover-border-radius: 0.5rem;
