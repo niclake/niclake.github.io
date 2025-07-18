@@ -15,31 +15,15 @@
       height: 4rem;
 
       .monogram-left {
-        -webkit-transition: fill 0.3s ease;
-        -moz-transition: fill 0.3s ease;
-        -o-transition: fill 0.3s ease;
-        transition: fill 0.3s ease;
         fill: var(--pink);
       }
       .monogram-right {
-        -webkit-transition: fill 0.3s ease;
-        -moz-transition: fill 0.3s ease;
-        -o-transition: fill 0.3s ease;
-        transition: fill 0.3s ease;
         fill: var(--cyan);
       }
     }
 
     &:hover {
       color: var(--emphasis) !important;
-      #monogram .monogram-left,
-      #monogram .monogram-right {
-        -webkit-transition: fill 0.3s ease;
-        -moz-transition: fill 0.3s ease;
-        -o-transition: fill 0.3s ease;
-        transition: fill 0.3s ease;
-        fill: var(--emphasis);
-      }
     }
 
     span {
@@ -87,30 +71,29 @@
     }
 
     .dropdown-menu {
-      max-width: 10rem;
       padding: .5rem;
       text-align: left;
 
       li {
         margin-bottom: 0;
-      }
 
-      .dropdown-item {
-        font-weight: 700;
-        border-radius: 5px;
-        margin: 0;
-        padding: .5rem;
+        .dropdown-item {
+          font-weight: 700;
+          border-radius: 5px;
+          margin: 0;
+          padding: .5rem;
 
-        svg {
-          fill: var(--text-sub);
-          height: 1.5rem;
-          width: 1.5rem;
-          margin-right: .25rem;
-        }
-
-        &.active {
           svg {
-            fill: var(--emphasis);
+            fill: var(--text-sub);
+            height: 1.5rem;
+            width: 1.5rem;
+            margin-right: .25rem;
+          }
+
+          &.active {
+            svg {
+              fill: var(--emphasis);
+            }
           }
         }
       }
