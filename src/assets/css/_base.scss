@@ -18,12 +18,12 @@ body {
 
 ::-moz-selection {
   /* Code for Firefox */
-  color: var(--pure-black);
+  color: var(--reverse-emphasis);
   background: var(--orange);
 }
 
 ::selection {
-  color: var(--pure-black);
+  color: var(--reverse-emphasis);
   background: var(--orange);
 }
 
