@@ -9,9 +9,20 @@
   --headers: 'Orbitron', sans-serif;
   --code: 'Hack','Courier', monospace;
 
-  // Bootstrap Font Overrides
+  // Bootstrap
   --bs-font-sans-serif: var(--sans-serif);
   --bs-font-monospace: var(--code);
+  --bs-link-color: var(--orange);
+  --bs-link-hover-color: var(--green);
+  --bs-body-color: var(--text);
+  --bs-code-color: var(--cyan);
+  --bs-emphasis-color: var(--emphasis);
+  --bs-body-color: var(--text-sub);
+  --bs-body-bg: var(--background);
+  --bs-dropdown-link-active-color: var(--text);
+  --bs-dropdown-link-active-bg: var(--text-sub);
+  --bs-dropdown-link-hover-color: var(--emphasis);
+  --bs-dropdown-link-hover-bg: var(--grey);
 }
 
 [data-bs-theme=dark] {
@@ -35,18 +46,7 @@
   --comment: var(--background);
 
   // Bootstrap Specific
-  --bs-link-color: var(--orange);
-  --bs-link-hover-color: var(--green);
-  --bs-body-color: var(--text);
-  --bs-code-color: var(--cyan);
-  --bs-emphasis-color: var(--emphasis);
   --bs-emphasis-color-rgb: 255, 255, 255;
-  --bs-body-color: var(--text-sub);
-  --bs-body-bg: var(--background);
-  --bs-dropdown-link-active-color: var(--text);
-  --bs-dropdown-link-active-bg: var(--text-sub);
-  --bs-dropdown-link-hover-color: var(--emphasis);
-  --bs-dropdown-link-hover-bg: var(--grey);
 }
 
 [data-bs-theme=light] {
@@ -70,16 +70,5 @@
   --comment: var(--background);
 
   // Bootstrap Specific
-  --bs-link-color: var(--orange);
-  --bs-link-hover-color: var(--green);
-  --bs-body-color: var(--text);
-  --bs-code-color: var(--cyan);
-  --bs-emphasis-color: var(--emphasis);
   --bs-emphasis-color-rgb: 0, 0, 0;
-  --bs-body-color: var(--text-sub);
-  --bs-body-bg: var(--background);
-  --bs-dropdown-link-active-color: var(--text);
-  --bs-dropdown-link-active-bg: var(--text-sub);
-  --bs-dropdown-link-hover-color: var(--emphasis);
-  --bs-dropdown-link-hover-bg: var(--grey);
 }

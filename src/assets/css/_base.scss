@@ -155,7 +155,7 @@ hr {
 
 pre {
   padding: 1rem;
-  background-color: var(--background-alt);
+  background-color: var(--grey);
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -166,7 +166,7 @@ code {
   border-radius: 0.25rem;
   font-family:'Hack','Courier', monospace;
   color: var(--cyan);
-  background-color: var(--background-alt);
+  background-color: var(--grey);
   word-wrap: break-word;
 }
 
