@@ -13,8 +13,6 @@ I'm Nic Lake. My pronouns are he/him.
 
 ### Professional
 
-I am a lead software engineer at [Stitch Fix](https://stitchfix.com), an online personal styling service based in San Francisco, CA.
-
 I've spent over a dozen years writing code for a wide variety of industries with a wide variety of tech stacks, as well as a detour as a business analyst. I currently work mostly with Ruby on Rails, React, and GraphQL.
 
 I graduated from the [University of Northern Iowa](https://uni.edu) with a degree in Management Information Systems. This was not my first choice (school OR major), but I'm thankful every day for the path that led me there.

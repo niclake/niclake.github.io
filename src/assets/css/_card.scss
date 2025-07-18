@@ -82,14 +82,25 @@
     text-align: center;
     width: 100%;
     color: var(--text);
+    display: inline;
   
     .the-color {
-      border: 3px solid var(--pure-white);
+      border: 3px solid var(--emphasis);
       border-radius: 10px;
-      display: block;
-      width: 100%;
+      display: inline-flex;
+      width: 45%;
       height: 100px;
       margin-bottom: 10px;
+    }
+
+    .color-stats {
+      width: 100%;
+      display: inline;
+
+      .stat {
+        width: 45%;
+        display: inline-block;
+      }
     }
   }
 
