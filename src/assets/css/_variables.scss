@@ -14,7 +14,6 @@
   --bs-font-monospace: var(--code);
   --bs-link-color: var(--orange);
   --bs-link-hover-color: var(--green);
-  --bs-body-color: var(--text);
   --bs-code-color: var(--cyan);
   --bs-emphasis-color: var(--emphasis);
   --bs-body-color: var(--text-sub);
@@ -23,6 +22,7 @@
   --bs-dropdown-link-active-bg: var(--text-sub);
   --bs-dropdown-link-hover-color: var(--emphasis);
   --bs-dropdown-link-hover-bg: var(--grey);
+  --comment: var(--background);
 }
 
 [data-bs-theme=dark] {
@@ -42,11 +42,8 @@
 
   // Sub-variables
   --emphasis: var(--pure-white);
-  --reverse-emphasis: var(--pure-black);
-  --comment: var(--background);
-
-  // Bootstrap Specific
   --bs-emphasis-color-rgb: 255, 255, 255;
+  --reverse-emphasis: var(--pure-black);
 }
 
 [data-bs-theme=light] {
@@ -66,9 +63,6 @@
 
   // Sub-variables
   --emphasis: var(--pure-black);
-  --reverse-emphasis: var(--pure-white);
-  --comment: var(--background);
-
-  // Bootstrap Specific
   --bs-emphasis-color-rgb: 0, 0, 0;
+  --reverse-emphasis: var(--pure-white);
 }
