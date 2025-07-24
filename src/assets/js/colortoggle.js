@@ -1,3 +1,5 @@
+import { colorpick } from './colorpick.js';
+
 /*!
  * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
  * Copyright 2011-2025 The Bootstrap Authors
@@ -25,6 +27,7 @@
     } else {
       document.documentElement.setAttribute('data-bs-theme', theme)
     }
+    colorpick();
   }
 
   setTheme(getPreferredTheme())

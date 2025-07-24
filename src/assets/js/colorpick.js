@@ -1,4 +1,4 @@
-(() => {
+export function colorpick(){
   const colors = [
     window.getComputedStyle(document.documentElement).getPropertyValue('--red'),
     window.getComputedStyle(document.documentElement).getPropertyValue('--orange'),
@@ -36,4 +36,6 @@
     home.getElementsByClassName('monogram-left')[0].style.fill = sig1;
     home.getElementsByClassName('monogram-right')[0].style.fill = sig2;
   }
-})()
+};
+
+colorpick();

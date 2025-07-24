@@ -13,17 +13,30 @@
 
     #monogram {
       height: 4rem;
+      transition: all ease 0.3s;
 
       .monogram-left {
-        fill: var(--pink);
+        fill: var(--emphasis);
+      transition: all ease 0.3s;
       }
       .monogram-right {
-        fill: var(--cyan);
+        fill: var(--emphasis);
+        transition: all ease 0.3s;
       }
     }
 
     &:hover {
       color: var(--emphasis) !important;
+
+      #monogram {
+        .monogram-left {
+          fill: var(--pink) !important;
+        }
+
+        .monogram-right {
+          fill: var(--cyan) !important;
+        }
+      }
     }
 
     span {
@@ -44,6 +57,7 @@
     .nav-link {
       font-size: 1rem;
       color: var(--text-sub);
+      transition: all ease 0.3s;
 
       i {
         font-size: 1.5rem;
@@ -58,14 +72,24 @@
   .dropdown {
     .dropdown-toggle {
       padding: .25rem;
+      transition: all ease 0.3s;
 
       .theme-icon-active {
         fill: var(--text-sub);
         width: 1.5rem;
         height: 1.5rem;
+        transition: all ease 0.3s;
 
-        &.hover {
-          color: var(--text-sub) !important;
+        use {
+          transition: all ease 0.3s;
+        }
+      }
+
+      &:hover {
+        color: var(--cyan) !important;
+
+        use {
+          fill: var(--cyan) !important;
         }
       }
     }
