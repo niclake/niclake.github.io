@@ -1,18 +1,24 @@
-module.exports = [
+import navigation from '@11ty/eleventy-navigation'
+import rss from '@11ty/eleventy-plugin-rss'
+import syntaxhighlight from '@11ty/eleventy-plugin-syntaxhighlight'
+import lightningcss from '@11tyrocks/eleventy-plugin-sass-lightningcss'
+import postgraph from '@rknightuk/eleventy-plugin-post-graph'
+
+export default [
   {
-    name: '@11ty/eleventy-navigation',
+    name: navigation
   },
   {
-    name: '@11ty/eleventy-plugin-rss'
+    name: rss
   },
   {
-    name: '@11ty/eleventy-plugin-syntaxhighlight'
+    name: syntaxhighlight
   },
   {
-    name: '@11tyrocks/eleventy-plugin-sass-lightningcss'
+    name: lightningcss
   },
   {
-    name: '@rknightuk/eleventy-plugin-post-graph',
+    name: postgraph,
     options: {
       dayBoxTitle: true,
       dayBoxTitleFormat: 'MMMM D'

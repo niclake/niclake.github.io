@@ -1,6 +1,6 @@
-const theBooks = require('./books.json')
+import theBooks from'./books.json' with { 'type': 'json' }
 
-module.exports = async function() {
+export default async function () {
 	const currentBook = theBooks.filter(book => book.status === 'In Progress')
 	const datedBooks = theBooks
 		.filter(

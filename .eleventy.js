@@ -1,23 +1,21 @@
-const collections = require('./config/collections')
-const plugins = require('./config/plugins')
-const shortcodes = require('./config/shortcodes.js')
-const dateFilters = require('./config/filters/date.js')
-const postFilters = require('./config/filters/posts.js')
-const fs = require('fs')
-const moment = require("moment")
-// const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
-
+import collections from './config/collections.js'
+import plugins from './config/plugins.js'
+import shortcodes from './config/shortcodes.js'
+import dateFilters from './config/filters/date.js'
+import postFilters from './config/filters/posts.js'
+import fs from 'fs'
+import moment from "moment"
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import markdownIt from "markdown-it"
+import markdownItFootnote from "markdown-it-footnote"
+import markdownItAttrs from "markdown-it-attrs"
+import markdownItAnchor from 'markdown-it-anchor'
   
-module.exports = function (eleventyConfig) {
-  const markdownIt = require("markdown-it")
-  const markdownItFootnote = require("markdown-it-footnote")
-  const markdownItAttrs = require("markdown-it-attrs")
-  const markdownItAnchor = require('markdown-it-anchor')
-
+export default function (eleventyConfig) {
   const options = {
-    html: true,
-    breaks: true,
-    linkify: true
+    html: true, // HTML tags in source
+    breaks: true, // Convert '\n' in paragraphs to <br>
+    linkify: true // Auto-convert URL text to links
   }
 
   let markdownLib = markdownIt(options)
@@ -37,33 +35,41 @@ module.exports = function (eleventyConfig) {
 
   // Passthroughs
   ['src/assets', '{ "node_modules/littlefoot/dist/littlefoot.js": "assets/js/littlefoot.js" }'].forEach(path => {
-    eleventyConfig.addPassthroughCopy(path, {
-      filter: path => !path.endsWith('.scss') && !path.startsWith('_')
-    })
+    eleventyConfig.addPassthroughCopy(path,
+      {
+        filter: path => !path.endsWith('.scss') && !path.startsWith('_')
+      }
+    )
   })
 
   // Plugins
   plugins.forEach(plugin => {
-    eleventyConfig.addPlugin(require(plugin.name), { ...plugin.options })
+    eleventyConfig.addPlugin(plugin.name, { ...plugin.options })
   })
+
   // eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-	// 	extensions: "html",
-	// 	outputDir: "/assets/images/",
+	// 	extensions: "njk",
+	// 	// formats: ["avif", "webp", "jpeg"],
+	// 	// outputDir: "./assets/images/",
+  //   // urlPath: '/assets/images/',
 	// 	cacheOptions: {
 	// 		duration: "*",
 	// 		directory: ".cache",
 	// 		removeUrlQueryParams: false,
 	// 	},
-	// 	formats: ["webp", "jpeg"],
 	// 	widths: [300, 600, 900, 1200],
-	// 	defaultAttributes: {
-	// 		loading: "lazy",
-	// 		sizes: "100vw",
-	// 		decoding: "async",
-	// 	},
+	// 	// widths: ['auto'],
+  //   htmlOptions: {
+  //     imgAttributes: {
+  //       loading: "lazy",
+  //       // sizes: "100vw",
+  //       decoding: "async",
+  //     },
+  //     pictureAttributes: {}
+  //   },
 	// })
 
-  // collections
+  // Collections
   Object.keys(collections).forEach(collectionName => {
     eleventyConfig.addCollection(collectionName, collections[collectionName])
   })
@@ -72,6 +78,7 @@ module.exports = function (eleventyConfig) {
   Object.keys(shortcodes).forEach(shortcodeName => {
     eleventyConfig.addShortcode(shortcodeName, shortcodes[shortcodeName])
   })
+
   // SVG
   let getSvgContent = function (file) {
     let relativeFilePath = `./src/assets/${file}.svg`;
@@ -116,6 +123,7 @@ module.exports = function (eleventyConfig) {
       return moment(p.date).isAfter(moment("2018-08-01"));
     });
   });
+
   // Object.keys(postFilters).forEach(filterName => {
   //   eleventyConfig.addFilter(filterName, dateFilters[filterName])
   // })

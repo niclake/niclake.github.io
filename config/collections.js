@@ -1,11 +1,11 @@
-const moment = require("moment");
+import moment from 'moment'
 
 // const makePath = (type) => {
 //   const year = new Date().getFullYear();
 //   return `src/posts/${year}/**/*.md`;
 // };
 
-module.exports = {
+export default {
   postsForFeed: (collectionApi) => {
     const year = new Date().getFullYear();
     return collectionApi

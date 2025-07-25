@@ -1,5 +1,5 @@
-const { DateTime } = require('luxon')
-const moment = require('moment')
+import { DateTime } from 'luxon'
+import moment from 'moment'
 
 const nth = (d) => {
     if (d > 3 && d < 21) return 'th';
@@ -11,7 +11,7 @@ const nth = (d) => {
     }
 }
 
-module.exports = {
+export default {
     dateForFeed: (date) => {
         return date.toISOString()
     },
