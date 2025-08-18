@@ -1,5 +1,5 @@
 <figure class="{{ position }}">
-  <a href="{% if url %}{{ url }}{% elsif srcabs %}{{ srcabs }}{{ else }}/assets/images/{{ src }}{% endif %}">
+  <a href="{% if url %}{{ url }}{% elsif srcabs %}{{ srcabs }}{% else %}/assets/images/{{ src }}{% endif %}">
     <img src="{% if srcabs %}{{srcabs}}{% else %}/assets/images/{{src}}{% endif %}" alt="{{ alt }}">
   </a>
   {% if caption %}
