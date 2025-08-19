@@ -34,3 +34,8 @@ I do have a couple of new additions as well:
 - Allow any Setting to be mapped to a Control Center widget. Let me drill down and choose it, then either make it a button, a slider, or something that invokes a menu. Easy. (Some prime options: ringer volume or silence unknown callers)
 
 What's on your wishlist?
+
+***8/19 UPDATE***: I thought of two more.
+
+- You should be able to change what folder an app lives in within the App Library. Some of that sorting makes no sense. 
+- Photos desperately needs a better "clean up" option. Duplicates, similar photos from when you take 7 hoping for one good one... I bet half of my library could be cleaned up.
