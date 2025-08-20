@@ -30,6 +30,7 @@
   },
   "scripts": {
     "fresh": "rm -rf _site && ./node_modules/.bin/eleventy --serve --quiet",
+    "make": "rm -rf _site && ./node_modules/.bin/eleventy",
     "start": "./node_modules/.bin/eleventy --serve --quiet",
     "build": "./node_modules/.bin/eleventy",
     "clear": "rm -rf _site"

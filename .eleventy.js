@@ -1,6 +1,7 @@
 import collections from './config/collections.js'
 import plugins from './config/plugins.js'
 import shortcodes from './config/shortcodes.js'
+import drafts from './config/drafts.js'
 import dateFilters from './config/filters/date.js'
 import postFilters from './config/filters/posts.js'
 import fs from 'fs'
@@ -33,10 +34,25 @@ export default function (eleventyConfig) {
     extname: ".html"
   });
 
-  // Handle drafts
-  eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-    if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-      return false;
+  // Handle drafts and scheduled posts
+  eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
+    return (data) => {
+      return drafts.shouldBuild(data) ? data.permalink : false;
+    };
+  });
+
+  eleventyConfig.addGlobalData(
+    "eleventyComputed.eleventyExcludeFromCollections",
+    function () {
+      return (data) => {
+        return drafts.shouldBuild(data) ? data.eleventyExcludeFromCollections : true;
+      };
+    }
+  );
+
+  eleventyConfig.on("eleventy.before", ({ runMode }) => {
+    if (runMode === "serve" || runMode === "watch") {
+      process.env.BUILD_DRAFTS = true;
     }
   });
 
