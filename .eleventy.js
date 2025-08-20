@@ -33,6 +33,13 @@ export default function (eleventyConfig) {
     extname: ".html"
   });
 
+  // Handle drafts
+  eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
+    if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+      return false;
+    }
+  });
+
   // Passthroughs
   ['src/assets', '{ "node_modules/littlefoot/dist/littlefoot.js": "assets/js/littlefoot.js" }'].forEach(path => {
     eleventyConfig.addPassthroughCopy(path,

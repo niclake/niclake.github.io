@@ -1,6 +1,8 @@
 <div class="blog-post mb-3">
   <h5 class="post-title">
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <a href="{{ post.url }}">
+      {% if post.data.draft %}***[DRAFT] {% endif %}{{ post.data.title }}
+    </a>
   </h5>
   {% if post.data.description %}
     <span class="post-excerpt">{{ post.data.description }}</span>
