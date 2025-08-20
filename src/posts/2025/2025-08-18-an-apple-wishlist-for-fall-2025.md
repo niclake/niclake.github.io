@@ -2,12 +2,9 @@
 title: "An Apple Wishlist for Fall 2025"
 permalink: /an-apple-wishlist-for-fall-2025/index.html
 date: 2025-08-18T20:53:36Z
-description: BLURB
-image: url.here
-projectInfo: "BLURB"
-projectLink: url.here
+description: Maybe, if I ask enough times, Apple will actually listen to me.
 tags:
-  - Personal
+  - Apple
 ---
 
 Back in the summer of 2024, [I wrote out a little Apple wishlist](/an-apple-wish-list/) of some things I really would've liked to see. With new iPhones & other devices coming out, I thought I'd revisit those, see if we got anything, and add new things.
