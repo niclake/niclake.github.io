@@ -6,8 +6,6 @@ tags:
   - Personal
 ---
 
-![alt text][gameImg]
-
 13 years ago today, I got news that completely changed the course of my life.
 
 <!-- more -->
@@ -32,5 +30,4 @@ My life now looks nothing like what I thought my life would be when I was about 
 
 [^1]: Honestly, I don't think those bands actually did anything for me. They itched because of the velcro, they looked stupid because of the little inflated pillow thing, and it honestly just sat there on my arm like a wart. I NEVER felt any relief from wearing that thing.
 
-[gameImg]: https://visitgraceway.org/wp-content/uploads/2018/04/rerouting-HD-title.png "Rerouting"
 [chimesImg]: https://s3.amazonaws.com/images.static.steveweissmusic.com/products/images/uploads/1138846_43213_popup.jpg

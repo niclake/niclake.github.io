@@ -34,7 +34,7 @@
             <a href="{{ project.url }}">{{project.data.title}}</a>
           </h6>
           {% if project.data.image %}
-            <img src="assets/images/{{ project.data.image }}" alt="{{ project.data.projectInfo }}"/>
+            <img src="/assets/images/{{ project.data.image }}" alt="{{ project.data.projectInfo }}"/>
           {% elif project.data.imageabs %}
             <img src="{{ project.data.imageabs }}" alt="{{ project.data.projectInfo }}"/>
           {% endif %}

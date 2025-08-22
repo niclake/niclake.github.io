@@ -26,7 +26,7 @@ I was really only able to do this for a few reasons... one of which being I FINA
 
 Please meet Beau.
 
-![altText][beau]
+*pretend that there's an image of a cool cat here*
 
 R & I picked up Beau at the beginning of May, and he's been a joy. Beau & Pixel are fast friends. Bearcat is still a bit apprehensive, but they're bonding more and more every day.
 
@@ -63,6 +63,5 @@ So yeah. 2020's been real weird. I'm ready for some sort of "normal" to come bac
 *How are all of your 2020 goals & resolutions going? Are any of you doing smaller goals like I am? Have you had great success or serious setbacks? [Hit me up on Twitter][twitter] and let me know!*
 
 [2020goals]: https://niclake.me/2020-goals
-[beau]: https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101984648_10103590467601323_2968561939069796352_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=6iWeR1vOVqkAX9fAX2B&_nc_ht=scontent-ort2-2.xx&oh=fa73ba7670ae02ff9de882181910db16&oe=5F1ACCD7
 [colemak]: https://niclake.me/colemak
 [twitter]: http://twitter.com/niclake

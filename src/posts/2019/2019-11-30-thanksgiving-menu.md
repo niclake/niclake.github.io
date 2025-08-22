@@ -6,8 +6,6 @@ tags:
   - Food
 ---
 
-![alt text][headerImg]
-
 Every year around mid-November, I find myself pouring over blogs, articles, and all of my saved recipes in order to find the perfect dishes for Thanksgiving. I'm telling you that so that you understand what the **true** purpose of this post is: not a put-down of your beloved recipes, but a storehouse for mine[^1].
 
 *Note: My Thanksgiving dinner is no more perfect than yours; I'm just super happy about how everything turned out this year, and wanted to share the recipes with all of you.*
@@ -73,5 +71,4 @@ And that's it! That's the Lake Family Thanksgiving, leaving us with full stomach
 [^2]: Always rest your meats after you cook them. Always. Steaks? Rest 'em. Chicken on the grill? Cover them with foil. Pork chops? Wait, you fool!
 [^3]: In the video on their post, the guy uses a potato ricer that only has holes in the bottom. Mine has holes along the side as well, for some reason, and lemme tell you, molten hot riced potato is not something you want to get on your hands. I'm either replacing this or removing the skins before ricing next year.
 
-[headerImg]: https://i.imgur.com/A2PLZrs.jpg "Thanksgiving Dinner"
 [twitter]: http://twitter.com/niclake
