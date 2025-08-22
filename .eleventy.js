@@ -6,7 +6,6 @@ import dateFilters from './config/filters/date.js'
 import postFilters from './config/filters/posts.js'
 import fs from 'fs'
 import moment from "moment"
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import markdownIt from "markdown-it"
 import markdownItFootnote from "markdown-it-footnote"
 import markdownItAttrs from "markdown-it-attrs"
@@ -69,29 +68,6 @@ export default function (eleventyConfig) {
   plugins.forEach(plugin => {
     eleventyConfig.addPlugin(plugin.name, { ...plugin.options })
   })
-
-  // Image Transform Plugin
-  // eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-  //   formats: ["auto"],
-	// 	extensions: "html,njk",
-	// 	outputDir: "./assets/images/",
-  //   urlPath: '/assets/images/',
-	// 	cacheOptions: {
-	// 		duration: "*",
-	// 		directory: ".cache",
-	// 		removeUrlQueryParams: false,
-	// 	},
-	// 	widths: [200, 400, 600, 'auto'],
-  //   htmlOptions: {
-  //     imgAttributes: {
-  //       alt: "",
-  //       loading: "lazy",
-  //       decoding: "async",
-  //     },
-  //     pictureAttributes: {},
-  //     fallback: "largest"
-  //   },
-	// })
 
   // Collections
   Object.keys(collections).forEach(collectionName => {

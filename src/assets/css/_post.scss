@@ -3,6 +3,20 @@
 .post {
   padding-bottom: 3rem;
 
+  .entry {
+    line-height: 1.6;
+  }
+
+  hr {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    &.footnotes-sep {
+      display: none;
+    }
+  }
+
   h1 {
     font-size: 1.8rem;
     margin-bottom: 0;

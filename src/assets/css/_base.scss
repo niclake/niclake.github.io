@@ -110,8 +110,7 @@ ul {
   }
 
   li {
-    margin-bottom: 0.4rem;
-    line-height: 1.4rem;
+    margin-bottom: 0.5rem;
 
     &::marker {
       color: var(--pink);
@@ -130,7 +129,7 @@ ul {
 li > dl,
 li > ol,
 li > ul {
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
 }
 
 ul,
