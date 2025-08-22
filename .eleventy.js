@@ -70,27 +70,28 @@ export default function (eleventyConfig) {
     eleventyConfig.addPlugin(plugin.name, { ...plugin.options })
   })
 
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-    formats: ["auto"],
-		extensions: "html,njk",
-		outputDir: "./assets/images/",
-    urlPath: '/assets/images/',
-		cacheOptions: {
-			duration: "*",
-			directory: ".cache",
-			removeUrlQueryParams: false,
-		},
-		widths: [200, 400, 600, 'auto'],
-    htmlOptions: {
-      imgAttributes: {
-        alt: "",
-        loading: "lazy",
-        decoding: "async",
-      },
-      pictureAttributes: {},
-      fallback: "largest"
-    },
-	})
+  // Image Transform Plugin
+  // eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+  //   formats: ["auto"],
+	// 	extensions: "html,njk",
+	// 	outputDir: "./assets/images/",
+  //   urlPath: '/assets/images/',
+	// 	cacheOptions: {
+	// 		duration: "*",
+	// 		directory: ".cache",
+	// 		removeUrlQueryParams: false,
+	// 	},
+	// 	widths: [200, 400, 600, 'auto'],
+  //   htmlOptions: {
+  //     imgAttributes: {
+  //       alt: "",
+  //       loading: "lazy",
+  //       decoding: "async",
+  //     },
+  //     pictureAttributes: {},
+  //     fallback: "largest"
+  //   },
+	// })
 
   // Collections
   Object.keys(collections).forEach(collectionName => {
