@@ -62,6 +62,14 @@
     "target": "_blank"
   },
   {
+    "text": "<i class=\"fa-brands fa-mastodon\"></i>",
+    "rel": "me",
+    "url": "https://mastodon.social/@niclake",
+    "explore": false,
+    "title": "@niclake@mastodon.social on Mastodon",
+    "target": "_blank"
+  },
+  {
     "text": "<i class=\"fa-solid fa-rss\"></i>",
     "url": "/feed.xml",
     "explore": false,
