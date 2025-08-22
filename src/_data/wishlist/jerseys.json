@@ -405,11 +405,6 @@
     "name": "San Francisco Giants",
     "players": [
       {
-        "name": "Mays",
-        "number": 24,
-        "priority": true
-      },
-      {
         "name": "Posey",
         "number": 28,
         "priority": true
@@ -419,10 +414,6 @@
       {
         "name": "Black",
         "url": "https://www.mlbshop.com/san-francisco-giants/mens-san-francisco-giants-nike-black-alternate-limited-custom-jersey/t-36128883+p-802211501155870+z-9-3363949841"
-      },
-      {
-        "name": "Cream",
-        "url": "https://www.mlbshop.com/san-francisco-giants/mens-san-francisco-giants-nike-cream-home-replica-custom-jersey/t-25451116+p-1486450194739+z-9-3162600207"
       },
       {
         "name": "City Connect 2025"
@@ -435,7 +426,8 @@
       {
         "name": "Ichiro",
         "number": 51,
-        "priority": true
+        "priority": true,
+        "url": "https://www.mlbshop.com/seattle-mariners/mens-seattle-mariners-ichiro-suzuki-nike-white-2025-national-baseball-hall-of-fame-nike-home-limited-player-jersey/t-14124451+p-798879915760303+z-9-1532216082?_ref=p-SRP:m-GRID:i-r0c0:po-0"
       },
       {
         "name": "Griffey",

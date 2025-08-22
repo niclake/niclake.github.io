@@ -87,33 +87,6 @@ permalink: /wishlist/index.html
   </div>
   <div class="accordion-item">
     <h3 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        T-Shirts from Cotton Bureau
-      </button>
-    </h3>
-    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#wishlistAccordion">
-      <div class="accordion-body">
-        <h6>All sized large, please.</h6>
-        <div class="container">
-          <div class="row justify-content-center">
-            {%- for shirt in wishlist.shirts -%}
-              <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
-                <div class="card wishlist">
-                  <a target="_blank" href="{{ shirt.url }}">
-                    <h6>{{ shirt.name }}</h6>
-                    <img src="{{ shirt.img }}" alt="{{ shirt.name }}"/>
-                  </a>
-                  <span>{{ shirt.color }}</span>
-                </div>
-              </div>
-            {%- endfor -%}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h3 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Hats
       </button>
