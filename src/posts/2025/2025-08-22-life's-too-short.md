@@ -17,6 +17,8 @@ Don't hold on to that one random item because "well what if I might need it???" 
 
 Call that person you care about.
 
+Stop giving a shit about people doing things that just don't matter. They want to skateboard down that hill without a helmet? Godspeed, you reckless buffoon!
+
 Put things on your blog, even if you think "but that's not what I'm trying to write about!!!"
 
 Stop deleting things out of your rough drafts. It's a rough draft. That's the point.
@@ -24,3 +26,11 @@ Stop deleting things out of your rough drafts. It's a rough draft. That's the po
 Use the damn notebooks, even if there's something on the first 3 pages.
 
 Let your daughters put makeup and nail polish on you. Who cares?!? (She does, and that's the point.)
+
+Admit when you're wrong. Apologize.
+
+Eat that cookie.
+
+Buy that thing.
+
+Love yourself. Your whole self. Not just the parts that are already how you like them. Not the "future you" you're aiming to be. Love yourself for who you are today.
