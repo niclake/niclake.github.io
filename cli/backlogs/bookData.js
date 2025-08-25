@@ -26,8 +26,11 @@ var manualIsbnCount = 0;
 
 for (var i = 0; i < allBooks.length; i++) {
   if (count >= 30) { console.log("Pausing..."); await setTimeout(30000); count = 0; }
+  const status = allBooks[i].get("Status");
+  const isRead = allBooks[i].get("Read?");
   const currPages = allBooks[i].get("Pages");
-  const currIsbn = allBooks[i].get("ISBN");
+  // const currIsbn = allBooks[i].get("ISBN");
+  const currCover = allBooks[i].get("Cover");
   const title = allBooks[i].get("Title");
   const authorFirst = allBooks[i].get("Author First");
   const authorLast = allBooks[i].get("Author Last");
@@ -35,15 +38,22 @@ for (var i = 0; i < allBooks.length; i++) {
 
   log(`Processing ${title}...`);
 
-  // Stop if we already have a page count and ISBN
-  if (!Number.isNaN(currPages) && !isNaN(parseFloat(currPages)) && currIsbn.length > 0) { continue; }
+  // Skip if we already have a page count and cover
+  if (!Number.isNaN(currPages) && !isNaN(parseFloat(currPages)) && currCover.length > 0) { continue; }
+  // Skip if we've abandoned the book
+  if (status == "7 Abandoned") { continue; }
   // Skip if both are manual
-  if (currPages == "Manual" && currIsbn == "Manual") { continue; }
+  // if (currPages == "Manual" && currCover == "Manual") { continue; }
+
+  // Skip unless book has been read
+  // if (isRead != "X") { continue; }
+  // Skip unless book is priority/ready
+  if (status.length == 0) { continue; }
 
   const bookInfo = await getBookInfo(title, authorFirst, authorLast, series);
 
   var saveMessage = `Saved ${title}`;
-
+  
   if (Number.isNaN(currPages) || isNaN(parseFloat(currPages))) {
     var newPages = '';
     if (bookInfo && bookInfo["number_of_pages_median"] && bookInfo["number_of_pages_median"] > 1) {
@@ -57,17 +67,30 @@ for (var i = 0; i < allBooks.length; i++) {
     allBooks[i].set("Pages",newPages);
   }
   
-  if (!currIsbn.length > 0 || currIsbn == "Manual") {
-    var newIsbn = '';
-    if (bookInfo && bookInfo["isbn"]) {
-      newIsbn = bookInfo["isbn"][0];
-      saveMessage += `, ISBN: ${newIsbn}`;
+  // if (currIsbn && (currIsbn.length == 0 || currIsbn == "Manual")) {
+  //   var newIsbn = '';
+  //   if (bookInfo && bookInfo["isbn"]) {
+  //     newIsbn = bookInfo["isbn"][0];
+  //     saveMessage += `, ISBN: ${newIsbn}`;
+  //   } else {
+  //     manualIsbnCount++;
+  //     newIsbn = "Manual";
+  //     saveMessage += `, ISBN needs manual entry.`;
+  //   }
+  //   allBooks[i].set("ISBN",newIsbn);
+  // }
+
+  if (currCover.length == 0 || !currCover == "Manual") {
+    var newCover = '';
+    if (bookInfo && bookInfo["cover_i"]) {
+      newCover = bookInfo["cover_i"];
+      saveMessage += `, added cover.`;
     } else {
-      manualIsbnCount++;
-      newIsbn = "Manual";
-      saveMessage += `, ISBN needs manual entry.`;
+      manualCount++;
+      newCover = "Manual";
+      saveMessage += `, Cover needs manual entry.`;
     }
-    allBooks[i].set("ISBN",newIsbn);
+    allBooks[i].set("Cover",newCover);
   }
 
   await allBooks[i].save().then(() => console.log(`${saveMessage}`)).catch((err) => console.log(err));

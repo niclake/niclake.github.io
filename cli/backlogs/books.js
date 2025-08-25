@@ -37,7 +37,7 @@ for (var i = 0; i < allBooks.length; i++) {
       rating: getStars(allBooks[i].get("Rating")),
       status: trimStatus(allBooks[i].get("Status")),
       pages: allBooks[i].get("Pages"),
-      isbn: allBooks[i].get("ISBN"),
+      cover: allBooks[i].get("Cover"),
     })
   }
 }

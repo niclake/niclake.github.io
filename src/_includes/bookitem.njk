@@ -3,10 +3,12 @@
     <div>
       {% set bookshop_base = "https://bookshop.org/a/109783/" %}
       <a href="{{ bookshop_base }}{{ book.isbn }}">
-      {% if book.localCover %}
-        <img src="/assets/images/catalog/books/{{ book.title | slugify }}.jpg" alt="{{ book.title | safe }}">
+      {% if book.cover == "Manual" %}
+        <img src="/assets/images/bookcover.png" alt="{{ book.title | safe }}">
+      {% elif book.cover %}
+        <img src="https://covers.openlibrary.org/b/id/{{ book.cover }}-M.jpg" alt="{{ book.title | safe }}">
       {% else %}
-        <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg" alt="{{ book.title | safe }}">
+        <img src="/assets/images/bookcover.png" alt="{{ book.title | safe }}">
       {% endif %}
       </a>
     </div>
