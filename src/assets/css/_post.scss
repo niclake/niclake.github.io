@@ -55,14 +55,6 @@
     margin-bottom: 1rem;
   }
 
-  .notice {
-    background-color: var(--grey);
-    border-radius: 1rem;
-    padding: 1rem;
-    box-shadow: 4px 4px color.adjust(#282a36, $lightness: -5%);
-    font-size: .8rem;
-  }
-
   &.single-post {
     .date {
       margin-bottom: 1rem;
