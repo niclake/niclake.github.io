@@ -246,8 +246,12 @@ figure {
   background-color: var(--grey);
   border-radius: 1rem;
   padding: 1rem;
-  box-shadow: 2px 2px var(--emphasis);
+  box-shadow: 4px 4px var(--card-shadow);
   font-size: .8rem;
+
+  &.st-jude {
+    font-size: 1rem;
+  }
 
   .sj-container {
     font-size: 1rem;
