@@ -15,6 +15,6 @@ footer {
     left: 0;
     right: 0;
     background-color: var(--cyan);
-    background-image: linear-gradient(to right, var(--pink), var(--purple));
+    background-image: linear-gradient(in oklch to right, var(--pink), var(--purple));
   }
 }

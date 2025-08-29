@@ -22,7 +22,7 @@
     margin-bottom: 0;
   
     a {
-      background-image: linear-gradient(to right, var(--pink), var(--purple));
+      background-image: linear-gradient(in oklch to right, var(--pink), var(--purple));
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: var(--pink);
@@ -30,7 +30,7 @@
       
       &:hover {
         -webkit-text-fill-color: transparent;
-        background-image: linear-gradient(to right, var(--pink), var(--purple));
+        background-image: linear-gradient(in oklch in oklch to right, var(--pink), var(--purple));
         -webkit-background-clip: text;
         background-clip: text;
       }
@@ -44,7 +44,7 @@
     display: block;
     height: 3rem;
     border-bottom: 5px solid transparent;
-    border-image: linear-gradient(to right, var(--pink), var(--purple));
+    border-image: linear-gradient(in oklch to right, var(--pink), var(--purple));
     border-image-slice: 1;
     width: 120%;
     max-width: 100vw;
@@ -115,7 +115,7 @@
       margin-bottom: 0;
 
       a {
-        background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 75%, var(--purple) 100%);
+        background-image: linear-gradient(in oklch to right, var(--pink) 0%, var(--purple) 75%, var(--purple) 100%);
         -webkit-background-clip: text;
         background-clip: text;
         -webkit-text-fill-color: var(--pink);
@@ -124,7 +124,7 @@
         
         &:hover {
           -webkit-text-fill-color: transparent;
-          background-image: linear-gradient(to right, var(--pink) 0%, var(--purple) 75%, var(--purple) 100%);
+          background-image: linear-gradient(in oklch to right, var(--pink) 0%, var(--purple) 75%, var(--purple) 100%);
           -webkit-background-clip: text;
           background-clip: text;
         }
