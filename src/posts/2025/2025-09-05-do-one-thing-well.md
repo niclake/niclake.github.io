@@ -29,19 +29,21 @@ I use Firefox to watch YouTube, because ad blockers still consistently work ther
 [^2]: I'm still missing those hours of sleep. If found, please return.
 
 The problem:
+
 - Any time I click on a URL, it goes to Safari. This is good, except...
 - If I click on a link in Slack, I always want it to be in Chrome, and...
 - If I open a YouTube link, I want it to be in Firefox.
 
 The "solution", up until this week, has been:
+
 - Right-click > Copy links in Slack, move to Chrome, paste, go
 - If a YouTube link ever opens, copy it, go to Firefox, paste, go
 
 Functional? Yes. Annoying? Also yes.
 
-I happened to gripe about this on the [Relay member's Discord](), hoping someone would have a solution for me.
+I happened to gripe about this on the [Relay member's Discord](https://www.relay.fm/membership), hoping someone would have a solution for me.
 
-Enter: [Choosy](http://choosy.app). (Thank you, [Ben](), for pointing this out to me.)
+Enter: [Choosy](http://choosy.app). (Thank you, [Ben](https://bencardy.co.uk), for pointing this out to me.)
 
 Choosy is the *perfect* app for me, for this particular use case. Set up your browsers, set up the roles, and off you go. My rules are simple:
 
