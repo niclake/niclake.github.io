@@ -5,20 +5,19 @@ permalink: /uses/index.html
 
 All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults/).
 
-*Last updated 1 Jan 2025*
+*Last updated 7 Sept 2025*
 
 ### Computer
 
 #### Hardware
 
-- 16" M1 Max MacBook Pro
+- M4 Mac Mini (personal)
+- 16" M1 Max MacBook Pro (work)
 - [Dell S3422DWG 32" ultrawide monitor](https://amzn.to/3V1NOk2) & [Dell S2721DGF 27" 144hz 1440p monitor](https://amzn.to/3WPsFfn)
 - [VIVO Dual Vertically Stacked Monitor Arm](https://amzn.to/3QVxeAM)
 - Magic Trackpad
 - [A variety of mechanical keyboards](/clack-clack-clack/)
-- [TOTU USB-C Docking Station](https://amzn.to/4bSRgEn) (don't buy this, get a [CalDigit TS-4](https://amzn.to/3wYtzvg))
 - [Mackie CR5-X monitor speakers](https://amzn.to/3RltPMb)
-- [TwelveSouth BookArc stand](https://www.twelvesouth.com/products/bookarc-for-macbook)
 
 #### Software
 
@@ -27,6 +26,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Fantastical](https://flexibits.com/fantastical) for my calendar & reminders
 - [Bartender](https://www.macbartender.com) for wrangling my menu bar
 - [BetterTouchTool](https://folivora.ai)
+- [Choosy](https://choosy.app) for routing URLs to the proper browsers
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [iTerm2](https://iterm2.com) with [Oh My Zsh](https://ohmyz.sh)
 - [Ivory for Mastodon](https://tapbots.com/ivory/)
@@ -58,7 +58,8 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 #### Hardware
 
 - iPhone 15 Pro Max
-- iPad Air (5th gen, M1)
+- iPad Pro (7th gen, 13", M4)
+- iPad Mini (7th gen, A17)
 - AirPods Pro 2
 - Amazon Kindle Paperwhite
 - Apple Watch Series 9, aluminum, 41mm
@@ -73,13 +74,19 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Overcast](https://apps.apple.com/us/app/overcast/id888422857) for podcasts
 - [Widgetsmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) for viewing a photo library
 - [Waterllama](https://apps.apple.com/us/app/water-tracker-waterllama/id1454778585) for water consumption tracking
-- [Duolingo](https://www.duolingo.com) for learning Spanish and Japanese
+- [Foodnoms](https://apps.apple.com/us/app/nutrition-tracker-foodnoms/id1479461686) for food consumption tracking
 - [Picsew](https://apps.apple.com/us/app/picsew-screenshot-stitching/id1208145167) for large images & styling
 - [Actions](https://apps.apple.com/us/app/actions/id1586435171) to extend Shortcuts
 - [Storygraph](https://apps.apple.com/us/app/storygraph-reading-tracker/id1570489264) to track my reading
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) for tracking packages
 - [Up Ahead](https://apps.apple.com/us/app/up-ahead-countdown-widgets/id1583147528) for tracking how long I've been sober
 - Fantastical, Ivory, OmniFocus, and Reeder (same as Mac)
+
+### Analog
+
+- [Scribbles That Matter (STM) Dotted Journal Pro](https://scribblesthatmatter.com/products/dotted-journal-pro?variant=42136311333040) notebook
+- [LIHIT LAB Compact Pen Case](https://www.eng.lihit-lab.com/a-7687-compact-pen-case/)
+- Assorted pens, including [Sharpie Gel Pens](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-fine-point-0.5mm/SAP_2116199.html)
 
 ### Gaming
 
@@ -98,32 +105,9 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - [Hacked](https://3ds.hacks.guide) Nintendo 3DS
 - GameBoy Color (Atomic Purple)
 
-### Music
-
-#### Hardware
-
-- Fender American Stratocaster w/ 7 way toggle (blue)
-- Fender Stratocaster w/ Texas Special pickups (white/cream)
-- 1976 Fender Telecaster w/ 4 way switch
-- Musicman Stingray 5 bass
-- Fender American P-Bass
-- Alvarez AJ-60SC acoustic guitar
-- 1905 Mason & Hamlin A grand piano
-
-#### Software
-
-- Logic Pro
-- Neural DSP amp plugins
-  - Archetype: Nolly
-  - Parallax
-- Kontakt + GetGood Drums (PV Matt Halpern)
-- Valhalla DSP delays and reverbs
-- Spitfire Audio LABS
-- Spectrasonics Omnisphere
-
 ### Other Things
 
 - [The Dracula color scheme](https://draculatheme.com)
 - [Tramontina pots & pans](https://www.walmart.com/ip/Tramontina-Gourmet-Stainless-Steel-Tri-Ply-Base-Cookware-Set-12-Piece/23080037?from=/search) (affordable and incredible)
-- [Hydro Flask water bottles](https://www.hydroflask.com/shop/bottles-drinkware/bottles)
+- [Owola FreeSip water bottles](https://owalalife.com/products/freesip?Color=Sugar+High&Material=Stainless+Steel&Size=24oz&selectionType=local)
 - [EGO lawn care tools](https://egopowerplus.com)
