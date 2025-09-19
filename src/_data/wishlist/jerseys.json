@@ -452,18 +452,11 @@
     "players": [
       {
         "name": "Pujols",
-        "number": 5,
-        "priority": true
-      },
-      {
-        "name": "Molina",
-        "number": 4,
-        "priority": true
+        "number": 5
       },
       {
         "name": "Smith",
         "number": 1,
-        "priority": true,
         "url": "https://www.mlbshop.com/st-louis-cardinals/mens-st-louis-cardinals-ozzie-smith-nike-white-home-cooperstown-collection-player-jersey/t-25124443+p-81272143695+z-7-1788422047"
       },
       {
@@ -472,10 +465,6 @@
       }
     ],
     "colors": [
-      {
-        "name": "Light Blue",
-        "url": "https://www.mlbshop.com/st-louis-cardinals/mens-st-louis-cardinals-nike-light-blue-alternate-limited-custom-jersey/t-25784454+p-572266163377738+z-9-3787735301"
-      },
       {
         "name": "White",
         "url": "https://www.mlbshop.com/st-louis-cardinals/mens-st-louis-cardinals-nike-white-home-replica-custom-jersey/t-47010054+p-7019902395009+z-9-1560312133"
