@@ -263,19 +263,25 @@ My newest board, and a budding favorite. I had another cheap board that I'd been
 
 Do I need "Rotational" and "Core"? Probably not. But these boards make their way onto my desk more often than the previous grouping, so here we are.
 
+{% include 'image.njk',
+  src: "/keyboards/sixtyfive.jpg",
+  position: "right",
+  alt: "A photo of my SixtyFive keyboard"
+%}
+
 #### Mode SixtyFive
 
 - Layout: 65%
 - Switches: Mode Tomorrow Tactiles
 - Keycaps: GMK WoB
 
+My first "luxury" purchase. There certainly are more keyboards out there that are more expensive... hell, even the SixtyFive had options that were vastly more expensive than my version (which was literally the cheapest you could get at the time). But being able to pick out all the components, having the little walnut strip to match my desk... this was a treat for myself, and I'm glad I went with what I did.
+
 {% include 'image.njk',
   src: "/keyboards/candybar.jpg",
   position: "right",
   alt: "A photo of my Candybar keyboard"
 %}
-
-My first "luxury" purchase. There certainly are more keyboards out there that are more expensive... hell, even the SixtyFive had options that were vastly more expensive than my version (which was literally the cheapest you could get at the time). But being able to pick out all the components, having the little walnut strip to match my desk... this was a treat for myself, and I'm glad I went with what I did.
 
 #### Candybar Lefty
 
