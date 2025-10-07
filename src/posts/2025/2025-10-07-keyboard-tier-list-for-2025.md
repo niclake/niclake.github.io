@@ -3,7 +3,6 @@ title: "Keyboard Tier List for 2025"
 permalink: /keyboard-tier-list-2025/index.html
 date: 2025-10-07T20:00:00Z
 description: It's for the kids, he sobs, as he is forced to pick his least favorite keyboards.
-draft: true
 tags: 
   - Personal
   - Keyboards
