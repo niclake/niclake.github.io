@@ -11,7 +11,7 @@ tags:
 Each September, [the Relay podcast network](https://www.relay.fm) rallies support for the life-saving mission of [St. Jude Children's Research Hospital®](https://www.stjude.org) during Childhood Cancer Awareness Month. One of the ways that they make it fun & engaging is by encouraging their listeners to run their own fundraisers, complete with their own sets of giveaways and milestones.
 
 {% include 'image.njk',
-  src: "/keyboards/keyboards-10-25.jpg",
+  src: "keyboards/keyboards-10-25.jpg",
   position: "banner",
   alt: "A photo of my keyboard wall",
   caption: "The wall of keyboards as of October 2025. I'm gonna need more room soon."
@@ -24,7 +24,7 @@ One of the early milestones this year was "everyone make your own keyboard tier 
 ### The Unbuilt Boards
 
 {% include 'image.njk',
-  src: "/keyboards/alpha28.jpg",
+  src: "keyboards/alpha28.jpg",
   position: "right",
   alt: "A photo of my Alpha28 keyboard"
 %}
@@ -38,7 +38,7 @@ One of the early milestones this year was "everyone make your own keyboard tier 
 This one used to work just fine, but the case on it was just a bunch of acrylic pieces stacked together. I used my 3D printer to make a new case for it, thinking that moving from A to B would be a quick thing. Alas, I must desolder every switch, so I can remove it from the plate, so I can put it in the new plate for the new case. Not difficult, just time consuming. I'll get around to it eventually
 
 {% include 'image.njk',
-  src: "/keyboards/masonry.jpg",
+  src: "keyboards/masonry.jpg",
   position: "right",
   alt: "A photo of a mockup of the Masonry keyboard"
 %}
@@ -54,7 +54,7 @@ This definitely falls into the "weird keyboard" category. It's like a run of the
 Problem is, this is a true kid, requiring me to solder diodes in place for every switch. And that terrifies me. Probably super easy, just time consuming, but it's new and uncharted territory I have yet to discover.
 
 {% include 'image.njk',
-  src: "/keyboards/reviung41.jpg",
+  src: "keyboards/reviung41.jpg",
   position: "right",
   alt: "A photo of an example of the Reviung41 keyboard"
 %}
@@ -78,7 +78,7 @@ At a certain point, I convinced my wife to try out one of my keyboards "just to 
 I'm doing something right.
 
 {% include 'image.njk',
-  src: "/keyboards/tab.jpg",
+  src: "keyboards/tab.jpg",
   position: "right",
   alt: "A photo of my wife's Tab 90M keyboard"
 %}
@@ -92,7 +92,7 @@ I'm doing something right.
 This was the second keyboard I ever purchased, used for gaming / home office. The 1800 layout is probably my favorite of the "big" layouts; if it's gonna have all the keys, I'd much prefer they're all compacted down on one another. My wife saw the Astrolokeys set and went "oooo pretty", so I gave her this board to put it on.
 
 {% include 'image.njk',
-  src: "/keyboards/dr70.jpg",
+  src: "keyboards/dr70.jpg",
   position: "right",
   alt: "A photo of my wife's DR-70 keyboard"
 %}
@@ -106,7 +106,7 @@ This was the second keyboard I ever purchased, used for gaming / home office. Th
 I showed this one to my wife, and she thought it was interesting from a "oh so it doesn't have a numpad on it?" sense. She also loved the orange color, as it was perfect for fall. I went all in with the switches and keycaps, turning this into her "Pumpkin Spice Latte / Pumpkin Beer" keyboard.
 
 {% include 'image.njk',
-  src: "/keyboards/qk100.jpg",
+  src: "keyboards/qk100.jpg",
   position: "right",
   alt: "A photo of my wife's QK100 keyboard"
 %}
@@ -126,7 +126,7 @@ My wife currently has this on her desk, because surprise, it's almost Halloween.
 The boards that have layouts I don't like as much anymore, have keycaps or switches I'm ambivalent about, or have been supplanted by something newer. For whatever reason, taking these off the shelf isn't a big priority.
 
 {% include 'image.njk',
-  src: "/keyboards/ctrl.jpg",
+  src: "keyboards/ctrl.jpg",
   position: "right",
   alt: "A photo of my Drop CTRL keyboard"
 %}
@@ -140,7 +140,7 @@ The boards that have layouts I don't like as much anymore, have keycaps or switc
 A gift from a friend. I'm a "layout collector", so having a real TKL in my collection was something I jumped at. It's *much* larger than the boards I typically use, but with a little TLC, I could definitely find a good use for this one.
 
 {% include 'image.njk',
-  src: "/keyboards/boardwalk.jpg",
+  src: "keyboards/boardwalk.jpg",
   position: "right",
   alt: "A photo of my Boardwalk keyboard"
 %}
@@ -154,7 +154,7 @@ A gift from a friend. I'm a "layout collector", so having a real TKL in my colle
 My first build - every other board I'd purchased up to this point was a prebuilt. I remember the abject terror I felt when trying to pick out the exact right parts I would need, making uninformed decisions on switches or a switch plate, and just hoping for the best. Turned out great, though, and was my main keyboard for over 3 years (until I REALLY got the hobby itch).
 
 {% include 'image.njk',
-  src: "/keyboards/dz60.jpg",
+  src: "keyboards/dz60.jpg",
   position: "right",
   alt: "A photo of my DZ60 keyboard"
 %}
@@ -168,7 +168,7 @@ My first build - every other board I'd purchased up to this point was a prebuilt
 My second build, and the one that replaced my first prebuilt board (a Vortex Pok3r). As my collection grew, it sat a bit unused and collecting dust, but I just switched out the keycaps & lubricated the stabilizers last month, and that's made a *huge* difference. I'm already looking forward to the next time this board makes its way onto my desk.
 
 {% include 'image.njk',
-  src: "/keyboards/elora.jpg",
+  src: "keyboards/elora.jpg",
   position: "right",
   alt: "A photo of my Elora keyboard"
 %}
@@ -182,7 +182,7 @@ My second build, and the one that replaced my first prebuilt board (a Vortex Pok
 I desperately want to love this board. I pre-loved this board so much that I made custom walnut cases/bases for the halves. I just... don't know if I like true split keyboards. Ergo is one thing, but a split, I get in my head about positioning, angles, and whatever else, without actually enjoying the typing experience. This one also has a LOT of keys, and had a pre-defined layout I tried to adapt and didn't really enjoy. I need to wipe the whole layout and start fresh, and see if maybe that helps my enjoyment factor any.
 
 {% include 'image.njk',
-  src: "/keyboards/foldkb.jpg",
+  src: "keyboards/foldkb.jpg",
   position: "right",
   alt: "A photo of my  keyboard"
 %}
@@ -196,7 +196,7 @@ I desperately want to love this board. I pre-loved this board so much that I mad
 I won this board at my first ever keyboard meetup - everyone got drawn for a door prize, and when it was my turn, I thought "ooo a new keyboard"! Took me quite a while to actually go through the process to set it up (I'm sensing a theme). I simply need to spend more time with this board. Love the switches, love the look, but again, it's another true split board, and I've yet to vibe with it as much as I hoped.
 
 {% include 'image.njk',
-  src: "/keyboards/cerberus.jpg",
+  src: "keyboards/cerberus.jpg",
   position: "right",
   alt: "A photo of my Cerberus keyboard"
 %}
@@ -216,7 +216,7 @@ I met Jack (Pikatea) at the Iowa Keyboard Meetups. Really nice guy, making some 
 Every Monday, I have a little reminder pop up telling me to switch out my keyboards for something new. The remaining boards on this list are the ones I tend to gravitate towards, for one reason or another.
 
 {% include 'image.njk',
-  src: "/keyboards/bully.jpg",
+  src: "keyboards/bully.jpg",
   position: "right",
   alt: "A photo of my Bully keyboard"
 %}
@@ -230,7 +230,7 @@ Every Monday, I have a little reminder pop up telling me to switch out my keyboa
 My first actually built/used "smol boy" on the rankings. The Bully is nice, because it was designed to use keycaps from a full size kit, while still retaining the basic layout of a 40% keyboard (i.e. no numrow). While it's my lowest ranked small board, it's certainly still a board I enjoy using regularly.
 
 {% include 'image.njk',
-  src: "/keyboards/prom.jpg",
+  src: "keyboards/prom.jpg",
   position: "right",
   alt: "A photo of my Promenade keyboard"
 %}
@@ -244,7 +244,7 @@ My first actually built/used "smol boy" on the rankings. The Bully is nice, beca
 The board that replaced the Boardwalk. The Promenade was a re-release of that general layout, after the company behind the Boardwalk went belly-up. I always thought having just 4 buttons in the middle vs. 6 would be plenty, so this was a great opportunity to give that a shot (and I was right). Also, the Gateron Raws feel/sound amazing on this board.
 
 {% include 'image.njk',
-  src: "/keyboards/prime-e.jpg",
+  src: "keyboards/prime-e.jpg",
   position: "right",
   alt: "A photo of my Prime_E keyboard"
 %}
@@ -264,7 +264,7 @@ My newest board, and a budding favorite. I had another cheap board that I'd been
 Do I need "Rotational" and "Core"? Probably not. But these boards make their way onto my desk more often than the previous grouping, so here we are.
 
 {% include 'image.njk',
-  src: "/keyboards/sixtyfive.jpg",
+  src: "keyboards/sixtyfive.jpg",
   position: "right",
   alt: "A photo of my SixtyFive keyboard"
 %}
@@ -278,7 +278,7 @@ Do I need "Rotational" and "Core"? Probably not. But these boards make their way
 My first "luxury" purchase. There certainly are more keyboards out there that are more expensive... hell, even the SixtyFive had options that were vastly more expensive than my version (which was literally the cheapest you could get at the time). But being able to pick out all the components, having the little walnut strip to match my desk... this was a treat for myself, and I'm glad I went with what I did.
 
 {% include 'image.njk',
-  src: "/keyboards/candybar.jpg",
+  src: "keyboards/candybar.jpg",
   position: "right",
   alt: "A photo of my Candybar keyboard"
 %}
@@ -292,7 +292,7 @@ My first "luxury" purchase. There certainly are more keyboards out there that ar
 This is the board that's currently on my desk as I type this post. A 40% with a numpad - how novel! This board is a chonky boy, one of the heavier ones I own, and I love the color scheme. I really need to replace these switches, because as much as I enjoy using this board, I don't care for these switches as all. They're quite spongy/squishy feeling.
 
 {% include 'image.njk',
-  src: "/keyboards/libramini.jpg",
+  src: "keyboards/libramini.jpg",
   position: "right",
   alt: "A photo of my Libra Mini keyboard"
 %}
@@ -306,7 +306,7 @@ This is the board that's currently on my desk as I type this post. A 40% with a 
 A bit more of an opinionated ergonomic layout, the Libra Mini also has a bit of slope to each half of the board. It's not much, but it's definitely noticable. The joystick is a small novelty that I have yet to fully implement; I need to re-flash the firmware on the board to unlock it. Once I do, I'm going to have that be a mouse, and if it works as I hope it will, this will probably be my main travel board (not that I travel much).
 
 {% include 'image.njk',
-  src: "/keyboards/nk65superuser.jpg",
+  src: "keyboards/nk65superuser.jpg",
   position: "right",
   alt: "A photo of my NK65 Superuser keyboard"
 %}
@@ -326,7 +326,7 @@ Was originally up in my "Rotational Boards" section, but this is truly a core bo
 Here we are, the top of my list. If someone forced me to get rid of the vast majority of my boards, these are the ones that I wouldn't even consider parting with.
 
 {% include 'image.njk',
-  src: "/keyboards/planck.jpg",
+  src: "keyboards/planck.jpg",
   position: "right",
   alt: "A photo of my Planck keyboard"
 %}
@@ -347,7 +347,7 @@ This is the board that took the keyboard hobby from "well I have a couple" to "o
 %}
 
 {% include 'image.njk',
-  src: "/keyboards/j42kbm.jpg",
+  src: "keyboards/j42kbm.jpg",
   position: "right",
   alt: "A photo of my J42Kbm keyboard"
 %}
@@ -361,7 +361,7 @@ This is the board that took the keyboard hobby from "well I have a couple" to "o
 A newer entry to the collection, and the first of mine that features a [Happy Hacking Keyboard, or HHKB, layout](https://hhkb.io/layout/). It's also a chonky board, and the purple is just divine looking; photos do NOT do it justice.
 
 {% include 'image.njk',
-  src: "/keyboards/sonnet.jpg",
+  src: "keyboards/sonnet.jpg",
   position: "right",
   alt: "A photo of my Sonnet keyboard"
 %}
@@ -408,7 +408,7 @@ Anyway, I love this board, I love these caps, and the story surrounding this boa
 ---
 
 {% include 'image.njk',
-  src: "/keyboards/qull.jpg",
+  src: "keyboards/qull.jpg",
   position: "right",
   alt: "A photo of my Qull keyboard"
 %}
