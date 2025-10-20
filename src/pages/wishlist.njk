@@ -111,26 +111,24 @@ permalink: /wishlist/index.html
                       {%- for hat in team.hats -%}
                         <div class="col-lg-3 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                           <div class="card wishlist">
-                            <div>
-                              <a target="_blank" href="{{ hat.url }}">
+                            <a target="_blank" href="{{ hat.url }}">
+                              <div class="card-title">
                                 {% if hat.priority %}
                                 <strong>
                                   <em>
                                   {% endif %}
-                                  <h6>
+                                  <span>
                                     {% if hat.priority %}*&nbsp;{% endif %}{{ hat.name }}{% if hat.priority %}&nbsp;*{% endif %}
-                                  </h6>
+                                  </span>
                                   {% if hat.priority %}
                                   </em>
                                 </strong>
-                              {% endif %}
-                              </a>
-                            </div>
-                            <div class="mt-auto">
-                              <a target="_blank" href="{{ hat.url }}">
-                                  <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}"/>
-                              </a>
-                            </div>
+                                {% endif %}
+                              </div>
+                              <div class="mt-auto">
+                                <img src="{{ hat.img }}" alt="{{ team.name }} - {{ hat.name }}"/>
+                              </div>
+                            </a>
                           </div>
                         </div>
                       {%- endfor -%}
@@ -210,7 +208,7 @@ permalink: /wishlist/index.html
             {%- for artist in wishlist.vinyl -%}
               <div class="col-lg-4 col-md-4 col-sm-6 col-6 d-flex align-items-stretch">
                 <div class="card wishlist">
-                  <h6>{{ artist.name }}</h6>
+                  <h5>{{ artist.name }}</h5>
                   {% if artist.info %}
                     <span>{{ artist.info }}</span>
                   {% endif %}
