@@ -288,10 +288,6 @@
         "number": 12
       },
       {
-        "name": "Alonso",
-        "number": 20
-      },
-      {
         "name": "Soto",
         "number": 22
       }
@@ -362,7 +358,6 @@
       {
         "name": "McCutchen",
         "number": 22,
-        "priority": true,
         "url": "https://www.mlbshop.com/pittsburgh-pirates/mens-pittsburgh-pirates-andrew-mccutchen-nike-white-replica-player-jersey/t-25900024+p-355500690825769+z-9-1499253225"
       },
       {
@@ -496,13 +491,6 @@
   },
   {
     "name": "Washington Nationals",
-    "players": [
-      {
-        "name": "Strasburg",
-        "number": 37,
-        "priority": true,
-        "url": "https://www.mlbshop.com/washington-nationals/mens-washington-nationals-stephen-strasburg-nike-charcoal-city-connect-limited-player-jersey/t-14565636+p-027711805111738+z-9-1011849349?_ref=p-DLP:m-GRID:i-r0c0:po-0&sku=200908995"
-      }
-    ]
+    "players": []
   }
 ]

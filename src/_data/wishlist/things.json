@@ -9,50 +9,9 @@
     "url": "https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066"
   },
   {
-    "name": "Geometrical Wallet-Sized iPhone Tripod (any color)",
-    "url": "https://amzn.to/3yCFobh"
-  },
-  {
     "name": "Any book off of my wish list",
     "notes": "Physical Books I Want tab",
     "url": "https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?gid=37847728#gid=37847728&range=A1"
-  },
-  {
-    "name": "3D printer filament",
-    "options": [
-      {
-        "name": "I can ALWAYS use more black and/or white PLA filament (regular or matte)."
-      },
-      {
-        "name": "Polymaker PolyLite PLA",
-        "url": "https://www.amazon.com/dp/B099KTY4HY/",
-        "notes": "Favs are Purple, Lemon Yellow, Lime Green, Magenta, Green, & Orange"
-      },
-      {
-        "name": "Polymaker Matte PLA",
-        "url": "https://www.amazon.com/dp/B0CFQXCHDW/",
-        "notes": "Marble Sandstone, or any other colors you like"
-      },
-      {
-        "name": "Polymaker Matte Multicolor PLA",
-        "url": "https://www.amazon.com/dp/B0CBMN9F91/",
-        "notes": "Favs are Fall, Pastel Rainbow, Winter, Foggy Purple, Glacier Blue, Sunrise, Shadow Black, & Shadow Red"
-      },
-      {
-        "name": "Bambu PLA Basic",
-        "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament"
-      },
-      {
-        "name": "FLASHFORGE PLA",
-        "url": "https://www.amazon.com/dp/B08ZNBGQ2S/",
-        "notes": "Favs are Rainbow, Burnt Titanium, Obsidian, and Nebula Purple"
-      },
-      {
-        "name": "COOKIECAD PLA",
-        "url": "https://www.amazon.com/dp/B09LYFS64P/",
-        "notes": "Mint Chip, plus any of the others"
-      }
-    ]
   },
   {
     "name": "Shirts",
@@ -81,6 +40,38 @@
         "name": "Konami Code",
         "url": "https://cottonbureau.com/p/YF5STN/shirt/konami-code#/20151409/tee-men-standard-tee-vintage-navy-tri-blend-l",
         "notes": "Vintage Navy Tri-Blend"
+      }
+    ]
+  },
+  {
+    "name": "Specific Jerseys",
+    "notes": "Highlighted jerseys w/ links from the jersey wish list (all size Large)",
+    "options": [
+      {
+        "name": "Red Sox - Roman Anthony",
+        "number": 29,
+        "url": "https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-roman-anthony-nike-red-alternate-limited-player-jersey/t-36994186+p-132225027750518+z-9-3514864030?_ref=p-ALP:m-GRID:i-r0c0:po-0&sku=210504660"
+      },
+
+      {
+        "name": "Red Sox - Tim Wakefield",
+        "number": 49,
+        "url": "https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-tim-wakefield-nike-white-home-limited-player-jersey/t-36666397+p-911180189407784+z-9-3326745847?_ref=p-SRP:m-GRID:i-r0c0:po-0&sku=209210659"
+      },
+      {
+        "name": "Dodgers - Shohei Ohtani",
+        "number": 17,
+        "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-shohei-ohtani-nike-white-home-replica-player-jersey/t-36002177+p-804411265930737+z-9-989368427?sku=201401426"
+      },
+      {
+        "name": "Athletics - Dallas Braden",
+        "number": 51,
+        "url": "https://www.fanatics.com/mlb/athletics/athletics-nike-home-limited-pick-a-player-retired-roster-jersey-white/o-3476+t-69453377+p-7999682035432+z-9-1480036266?_ref=p-DLP:m-GRID:i-r4c1:po-13&aid=10226589&sku=209350540"
+      },
+      {
+        "name": "Mariners - Ichiro Suzuki",
+        "number": 51,
+        "url": "https://www.mlbshop.com/seattle-mariners/mens-seattle-mariners-ichiro-suzuki-nike-white-2025-baseball-hall-of-fame-name-and-number-retired-replica-jersey/t-36564439+p-246614686250659+z-9-3198983614?_ref=p-DLP:m-GRID:i-r0c1:po-1&sku=210594236"
       }
     ]
   }
