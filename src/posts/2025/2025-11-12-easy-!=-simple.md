@@ -2,12 +2,8 @@
 title: "Easy != Simple"
 permalink: /easy-simple/index.html
 date: 2025-11-12T22:10:00Z
-description: BLURB
-draft: true
-image: url.here
-projectInfo: "BLURB"
-projectLink: url.here
-tags: 
+description: When the Ah-ha! moment sounds like a gong going off in your head, you should listen to it.
+tags:
   - Personal
   - Therapy
 ---
