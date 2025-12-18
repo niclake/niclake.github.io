@@ -28,6 +28,7 @@
   {
     "text": "Bookshelf",
     "url": "/bookshelf/",
+    "masthead": false,
     "blurb": "A catalog of books I've read and am currently reading."
   },
   {

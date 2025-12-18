@@ -2,11 +2,7 @@
   <div class="w-100 catalog book">
     <div>
       <a href="{{ book.url }}" target="_blank" rel="noopener noreferrer">
-        {% if book.imageUrl %}
-          <img loading="lazy" src="{{ book.imageUrl }}" alt="{{ book.title | safe }}">
-        {% else %}
-          {# <img src="/images/no-cover.png" alt="No cover available"> #}
-        {% endif %}
+        <img loading="lazy" src="{{ book.imageUrl }}" alt="{{ book.title }}">
       </a>
     </div>
     {% if book.rating != null or book.rating != null %}
