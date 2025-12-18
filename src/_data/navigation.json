@@ -26,6 +26,11 @@
     "blurb": "Interested in what I've been up to lately?"
   },
   {
+    "text": "Bookshelf",
+    "url": "/bookshelf/",
+    "blurb": "A catalog of books I've read and am currently reading."
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."

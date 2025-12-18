@@ -1,22 +1,19 @@
-<div class="col-lg-3 col-md-4 col-sm-6 d-flex align-items-stretch">
+<div class="col-lg-2 col-md-3 col-sm-4 d-flex align-items-stretch">
   <div class="w-100 catalog book">
     <div>
-      {% set bookshop_base = "https://bookshop.org/a/109783/" %}
-      <a href="{{ bookshop_base }}{{ book.isbn }}">
-      {% if book.localCover %}
-        <img src="/assets/images/catalog/books/{{ book.title | slugify }}.jpg" alt="{{ book.title | safe }}">
-      {% else %}
-        <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg" alt="{{ book.title | safe }}">
-      {% endif %}
+      <a href="{{ book.url }}" target="_blank" rel="noopener noreferrer">
+        {% if book.imageUrl %}
+          <img loading="lazy" src="{{ book.imageUrl }}" alt="{{ book.title | safe }}">
+        {% else %}
+          {# <img src="/images/no-cover.png" alt="No cover available"> #}
+        {% endif %}
       </a>
     </div>
-    <div class="mt-auto">
-      <h6><a href="{{ bookshop_base }}{{ book.isbn }}">{{ book.title | safe }}</a></h6>
-      <p>by {{ book.authorFirst }} {{ book.authorLast }}
-      {% if book.rating != "" %}<br/>{{ book.rating }}{% endif %}
-      <br/>
-      {{ book.compDate }}
-      </p>
-    </div>
+    {% if book.rating != null or book.rating != null %}
+      <div class="mt-auto">
+        {{ book.lastRead }}<br />
+        {% if book.rating != "" %}{{ book.rating }}{% else %}&nbsp;{% endif %}
+      </div>
+    {% endif %}
   </div>
 </div>
