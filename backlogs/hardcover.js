@@ -92,7 +92,7 @@ async function getFavoriteBooks() {
   }`;
 
   let response = await queryHardcoverAPI(query);
-  let data = processBookData(response.data.me[0].lists[0].list_books, false);
+  let data = processBookData(response.data.me[0].lists[0].list_books,);
   saveFile('favoriteBooks.json', data);
 }
 
@@ -139,12 +139,12 @@ async function getAllReadBooks() {
 }
 
 async function queryHardcoverAPI(query) {
-  let results = await fetch('https://api.hardcover.app/v1/graphql', {
+  const hardcoverEndpoint = 'https://api.hardcover.app/v1/graphql';
+  let results = await fetch(hardcoverEndpoint, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `${process.env.HARDCOVER_API_KEY}`
-      // 'Authorization': `Bearer ${process.env.HARDCOVER_API_KEY}`
     },
     body: JSON.stringify({ query } ),
   })
@@ -182,10 +182,11 @@ function processBookData(books, convert = false) {
   //   ]
   // }
   const processedBooks = books.map((entry) => {
+    const hardcoverURLbase = 'https://hardcover.app/books/';
     return {
       title: entry.book.title,
       authors: entry.book.contributions.map(a => a.author.name).join(', '),
-      url: `https://hardcover.app/books/${entry.book.slug}`,
+      url: `${hardcoverURLbase}${entry.book.slug}`,
       imageUrl: entry.book.image?.url || null,
       readCount: entry.user_book_reads_aggregate?.aggregate.count || 0,
       lastRead: entry.user_book_reads_aggregate?.aggregate.max.finished_at || null,
@@ -197,19 +198,16 @@ function processBookData(books, convert = false) {
 }
 
 function convertRatingToStars(rating) {
-  var stars = ''
   if (rating === null || rating === undefined) {
-    return stars
+    return '';
   }
+  
   const fullStar = "★";
   const halfStar = "½";
-  for (var i = 1; i <= rating; i++) {
-    stars += fullStar
-  }
-  if (rating % 1 !== 0) {
-    stars += halfStar
-  }
-  return stars
+  const fullStars = Math.floor(rating);
+  const hasHalfStar = rating % 1 !== 0;
+  
+  return fullStar.repeat(fullStars) + (hasHalfStar ? halfStar : '');
 }
 
 run();
