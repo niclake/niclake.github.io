@@ -29,10 +29,11 @@
     "npm-run-all": "^4.1.5"
   },
   "scripts": {
-    "fresh": "rm -rf _site && ./node_modules/.bin/eleventy --serve --quiet",
-    "make": "rm -rf _site && ./node_modules/.bin/eleventy",
-    "start": "./node_modules/.bin/eleventy --serve --quiet",
-    "build": "./node_modules/.bin/eleventy",
+    "catalog": "node backlogs/hardcover.js",
+    "fresh": "rm -rf _site && npm run catalog && ./node_modules/.bin/eleventy --serve --quiet",
+    "make": "rm -rf _site && npm run catalog && ./node_modules/.bin/eleventy",
+    "start": "npm run catalog && ./node_modules/.bin/eleventy --serve --quiet",
+    "build": "npm run catalog && ./node_modules/.bin/eleventy",
     "clear": "rm -rf _site"
   }
 }
