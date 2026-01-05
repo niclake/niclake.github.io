@@ -37,6 +37,7 @@ async function getGoals() {
     };
   });
   saveFile('readingGoals.json', goals);
+  console.log("Reading goals saved");
 }
 
 async function getCurrentlyReading() {
@@ -65,6 +66,7 @@ async function getCurrentlyReading() {
   let response = await queryHardcoverAPI(query);
   let data = processBookData(response.data.me[0].user_books);
   saveFile('currentlyReading.json', data);
+  console.log("Currently reading saved");
 }
 
 async function getFavoriteBooks() {
@@ -94,6 +96,7 @@ async function getFavoriteBooks() {
   let response = await queryHardcoverAPI(query);
   let data = processBookData(response.data.me[0].lists[0].list_books,);
   saveFile('favoriteBooks.json', data);
+  console.log("Favorite books saved");
 }
 
 async function getAllReadBooks() {
@@ -136,6 +139,7 @@ async function getAllReadBooks() {
   let response = await queryHardcoverAPI(query);
   let data = processBookData(response.data.me[0].user_books, true);
   saveFile('allReadBooks.json', data);
+  console.log("All read books saved");
 }
 
 async function queryHardcoverAPI(query) {
