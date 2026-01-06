@@ -82,6 +82,6 @@ Year of the Reaper is all about becoming unburdened. That burden can be things y
 
 ---
 
-I have nothing pithy with which to end this post. I am ok with moving on.
+I have nothing pithy with which to end this post. I am ok with moving on. Hopefully, it's for the best.
 
 See you soon.
