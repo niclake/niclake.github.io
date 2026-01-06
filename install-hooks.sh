@@ -25,4 +25,8 @@ for hook in "$HOOKS_DIR"/*; do
     fi
 done
 
+# Configure git to use local hooks directory (overrides global hooksPath if set)
+REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"
+git -C "$REPO_ROOT" config core.hooksPath .git/hooks
+
 echo "Git hooks installed successfully!"
