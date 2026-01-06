@@ -1,7 +1,7 @@
 ---
 title: "Year of the Reaper"
 permalink: /year-of-the-reaper/index.html
-date: THEDATETTHETIMEZ
+date: 2026-01-06T02:32:28Z
 description: Even the good things must sometimes come to an end. But the bad things definitely should.
 image: reaper.jpg
 tags: 
