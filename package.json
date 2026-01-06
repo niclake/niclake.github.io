@@ -34,6 +34,8 @@
     "make": "rm -rf _site && npm run catalog && ./node_modules/.bin/eleventy",
     "start": "npm run catalog && ./node_modules/.bin/eleventy --serve --quiet",
     "build": "npm run catalog && ./node_modules/.bin/eleventy",
-    "clear": "rm -rf _site"
+    "clear": "rm -rf _site",
+    "new-post": "./new-post.sh",
+    "postinstall": "./install-hooks.sh"
   }
 }
