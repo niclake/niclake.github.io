@@ -16,6 +16,10 @@ if [ -z "$STAGED_FILES" ]; then
 fi
 
 # Process each file
+# Use a temporary file to avoid subshell issues
+TMPFILE=$(mktemp)
+git diff --cached --name-only --diff-filter=ACM | grep "^src/posts/" | grep -v "_PostTemplate.md" > "$TMPFILE"
+
 while IFS= read -r file; do
     if [ -n "$file" ] && [ -f "$file" ]; then
         # Check if file contains the placeholder
@@ -27,6 +31,8 @@ while IFS= read -r file; do
             echo "Updated date/time in $file"
         fi
     fi
-done <<< "$STAGED_FILES"
+done < "$TMPFILE"
+
+rm -f "$TMPFILE"
 
 exit 0
