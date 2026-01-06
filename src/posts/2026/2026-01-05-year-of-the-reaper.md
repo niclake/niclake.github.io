@@ -34,7 +34,7 @@ My whole life, I've been all about completing things. Making cool stuff, beating
 
 ## Deliberations
 
-In late September, I was playing through **Nine Sols**, an excellent & difficult video game (Metroid-style exploration with Sekiro-like parry-based combat). I loved it. I was enamored. I did everything I needed to do to get the good ending, which made the final boss just a bit harder.
+A quick (but relevant) aside - in late September, I was playing through **Nine Sols**, an excellent & difficult video game (Metroid-style exploration with Sekiro-like parry-based combat). I loved it. I was enamored. I did everything I needed to do to get the good ending, which made the final boss just a bit harder.
 
 And then I spent a week trying to beat her.
 

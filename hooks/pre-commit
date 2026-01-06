@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Get the current UTC date and time
+DATE=$(date -u +"%Y-%m-%d")
+TIME=$(date -u +"%H:%M:%S")
+REPLACEMENT="${DATE}T${TIME}Z"
+
+# Get list of staged files in src/posts/ excluding _PostTemplate.md
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep "^src/posts/" | grep -v "_PostTemplate.md")
+
+if [ -z "$STAGED_FILES" ]; then
+    exit 0
+fi
+
+# Process each file
+for file in $STAGED_FILES; do
+    if [ -f "$file" ]; then
+        # Check if file contains the placeholder
+        if grep -q "THEDATETTHETIMEZ" "$file"; then
+            # Replace the placeholder with current UTC date/time
+            sed -i '' "s/THEDATETTHETIMEZ/$REPLACEMENT/g" "$file"
+            # Stage the modified file
+            git add "$file"
+            echo "Updated date/time in $file"
+        fi
+    fi
+done
+
+exit 0
