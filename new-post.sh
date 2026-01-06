@@ -10,6 +10,4 @@ time=$(date -u -v+30M +%H:%M:%S)
 cp $posts/_PostTemplate.md $posts/$year/$date-$title.md
 sed -i '' -e "s/TITLE/$rawTitle/g" $posts/$year/$date-$title.md
 sed -i '' -e "s/PERMALINK/$title/g" $posts/$year/$date-$title.md
-sed -i '' -e "s/THEDATE/$date/g" $posts/$year/$date-$title.md
-sed -i '' -e "s/THETIME/$time/g" $posts/$year/$date-$title.md
 code $posts/$year/$date-$title.md
