@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Change to the repository root directory
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
 # Get the current UTC date and time
 DATE=$(date -u +"%Y-%m-%d")
 TIME=$(date -u +"%H:%M:%S")
@@ -13,8 +16,8 @@ if [ -z "$STAGED_FILES" ]; then
 fi
 
 # Process each file
-for file in $STAGED_FILES; do
-    if [ -f "$file" ]; then
+while IFS= read -r file; do
+    if [ -n "$file" ] && [ -f "$file" ]; then
         # Check if file contains the placeholder
         if grep -q "THEDATETTHETIMEZ" "$file"; then
             # Replace the placeholder with current UTC date/time
@@ -24,6 +27,6 @@ for file in $STAGED_FILES; do
             echo "Updated date/time in $file"
         fi
     fi
-done
+done <<< "$STAGED_FILES"
 
 exit 0
