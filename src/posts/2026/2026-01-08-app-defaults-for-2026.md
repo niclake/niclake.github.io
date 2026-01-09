@@ -1,11 +1,13 @@
 ---
-title: App Defaults
-permalink: /app-defaults/index.html
+title: "App Defaults for 2026"
+permalink: /app-defaults-2026/index.html
+date: 2026-01-09T00:50:26Z
+description: A list of all the applications I'm currently using.
+tags: 
+  - Personal
 ---
 
-_(Last updated 8 Jan 2026)_
-
-Browsing blogs, I've seen a bunch of people that have been inspired by [Hemispheric Views episode 97: Duel of the Defaults](https://listen.hemisphericviews.com/097) and [Robb Knight](https://defaults.rknight.me/) to share their app defaults. It's a great way of learning more about a person & discovering new apps, so I figured why not.
+I last updated my [App Defaults](/app-defaults/) at the start of last year, so I figured I'd look it all over and give it an update.
 
 - 📨 Email: [Mimestream](http://mimestream.com) (Mac + iOS Testflight) and Gmail (iOS) - I'm gonna need to figure something out now that I have an iCloud account with a custom domain
 - 📝 Notes: [Drafts](https://getdrafts.com) (personal), Notes.app (shared with family)
