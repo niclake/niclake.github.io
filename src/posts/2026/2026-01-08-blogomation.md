@@ -1,7 +1,7 @@
 ---
 title: "Blogomation"
 permalink: /blogomation/index.html
-date: 2026-01-09T013:52:16Z
+date: 2026-01-09T13:52:16Z
 description: This is a VERY nerdy post about some automation I've recently added to my blog. Read at your own risk.
 tags: 
   - Personal
