@@ -67,7 +67,7 @@ Previously, this date would be auto-generated right when I created the file, dat
 
 Static site problems, amirite?
 
-To fix this, I added a git `pre-commit` hook that will get the current date & time, find the placeholder text in my front matter, and replace it automatically. I usually don't commit my posts until I'm ready to publish, so now my only edge case is if I'm writing a draft or something I intentionally want to have post later. (You can see my pre-commit hook [here](https://github.com/niclake/niclake.github.io/blob/984ba4240b2b45b775c735d7a4862cf524eef91e/hooks/pre-commit#L1))
+To fix this, I added a git `pre-commit` hook that will get the current date & time, find the placeholder text in my front matter, and replace it automatically. I usually don't commit my posts until I'm ready to publish, so now my only edge case is if I'm writing a draft or something I intentionally want to have post later. ([You can see my pre-commit hook here](https://github.com/niclake/niclake.github.io/blob/984ba4240b2b45b775c735d7a4862cf524eef91e/hooks/pre-commit#L1))
 
 Also, because git hooks are set up on a per-machine basis, I also:
 
