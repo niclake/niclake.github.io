@@ -1,7 +1,7 @@
 ---
 title: "App Defaults for 2026"
 permalink: /app-defaults-2026/index.html
-date: 2026-01-09T00:50:26Z
+date: 2026-01-08T23:50:26Z
 description: A list of all the applications I'm currently using.
 tags: 
   - Personal
