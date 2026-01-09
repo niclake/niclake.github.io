@@ -52,7 +52,7 @@ on:
 
 The `schedule` section is the only new bit, and a quick jaunt over to [crontab.guru](https://crontab.guru) helped me figure out how to get my site to build 4x/day. This will force my bookshelf to get updated on a regular cadence, but it _also_ enables me to have scheduled posts dated in the future that will (somewhat) auto-post. Terrific!
 
-(I think I'd eventually like to turn my Currently Reading section into a little JS script that will dynamically pull the content in real time, but for now, this will do.)
+I think I'd eventually like to turn my Currently Reading section into a little JS script that will dynamically pull the content in real time, but for now, this will do. I'd also love to find a similar service with an API for video games, but I think I might be out of luck in that department unless I hack something together with TheGamesDB.
 
 ### Updating Post Datetimes with Git Pre-Commit Hooks
 
