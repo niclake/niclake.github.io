@@ -34,19 +34,14 @@
         "img": "https://seadogs.milbstore.com/cdn/shop/products/AltCap3SideView_1000x.jpg"
       },
       {
-        "name": "Greenville Navy Batting Practice",
-        "url": "https://drive.milbstore.com/collections/all-caps/products/copy-of-greenville-drive-new-era-navy-59fifty-lp-diamond-era-on-field-road-hat?variant=40546385100855",
-        "img": "https://drive.milbstore.com/cdn/shop/files/60237518_59FIFTY_MILB20BP5950_GREDRI_OTC_3QL_3750x.jpg"
-      },
-      {
         "name": "Greenville Sunday Green",
         "url": "https://drive.milbstore.com/collections/all-caps/products/greenville-drive-new-era-59fifty-lp-sunday-on-field-hat?variant=40546387787831",
         "img": "https://drive.milbstore.com/cdn/shop/files/60235501_59FIFTY_MINORAC_GREDRI_AL1_3QL_3750x.jpg"
       },
       {
-        "name": "Salem Diamond Era Navy/Red",
-        "url": "https://salemsox.milbstore.com/collections/all-caps/products/new-era-59fifty-alternate-cap?variant=30871409721380",
-        "img": "https://salemsox.milbstore.com/cdn/shop/products/Cap_Alt_500_8c98cf2b-e9f9-4616-a411-cce5dde89583_500x.jpg"
+        "name": "Salem RidgeYaks Navy",
+        "url": "hhttps://ridgeyaks.milbstore.com/collections/hats/products/salem-ridge-yaks-ac-5950-fitted-hat?variant=52533804106091",
+        "img": "https://ridgeyaks.milbstore.com/cdn/shop/files/60865870_59FIFTY_MiLB26AC59FIFTY_SALYAKHM_OTC_3QR_720x.jpg"
       }
     ]
   },
@@ -66,18 +61,6 @@
         "priority": true
       },
       {
-        "name": "Baltimore Orioles Chrome",
-        "url": "https://www.neweracap.com/products/baltimore-orioles-chrome-59fifty-fitted?variant=44615651066083",
-        "img": "https://www.neweracap.com/cdn/shop/files/60439177_59FIFTY_5950EGCHWOTCOTC_BALORI_CHW_3QL.jpg",
-        "priority": true
-      },
-      {
-        "name": "Chicago Cubs City Connect",
-        "url": "https://www.neweracap.com/products/chicago-cubs-city-connect-59fifty-fitted?variant=42651022262499",
-        "img": "https://www.neweracap.com/cdn/shop/products/unnamed_6bcdd8fc-2784-4374-8b87-5043c586b9a8.jpg",
-        "priority": true
-      },
-      {
         "name": "Los Angeles Dodgers Blue",
         "url": "https://www.neweracap.com/products/los-angeles-dodgers-authentic-collection-59fifty-fitted?variant=42646633840867",
         "img": "https://www.neweracap.com/cdn/shop/products/9107566624798.jpg",
@@ -90,44 +73,9 @@
         "priority": true
       },
       {
-        "name": "Atlanta Braves City Connect",
-        "url": "https://www.neweracap.com/products/atlanta-braves-city-connect-59fifty-fitted?variant=43782945997027",
-        "img": "https://www.neweracap.com/cdn/shop/products/60354483_60354475_59FIFTY_CITYCONNECTATLBRA_ATLBRA_OTC_3QL.png"
-      },
-      {
-        "name": "Colorado Rockies 2025 Batting Practice",
-        "url": "https://www.neweracap.com/products/colorado-rockies-2025-batting-practice-59fifty-fitted?variant=44405585608931",
-        "img": "https://www.neweracap.com/cdn/shop/files/60436705_59FIFTY_MLB24BP5950_COLROC_OTC_3QL.jpg"
-      },
-      {
-        "name": "Miami Marlins Black",
-        "url": "https://www.neweracap.com/products/miami-marlins-authentic-collection-59fifty-fitted?variant=42671613444323",
-        "img": "https://www.neweracap.com/cdn/shop/products/9544457486366.jpg"
-      },
-      {
-        "name": "Milwaukee Brewers Alt",
-        "url": "https://www.neweracap.com/products/milwaukee-brewers-authentic-collection-alt-59fifty-fitted?variant=42646313369827",
-        "img": "https://www.neweracap.com/cdn/shop/files/70538706_70538714_59FIFTY_ACPERFMILBREALT2020_MILBRE_OTC_3QL.jpg"
-      },
-      {
-        "name": "Minnesota Twins Road",
-        "url": "https://www.neweracap.com/products/minnesota-twins-authentic-collection-road-59fifty-fitted?variant=43544239800547",
-        "img": "https://www.neweracap.com/cdn/shop/products/70701500_59FIFTY_ACPERFRD23_MINTWI_NVY_3QL.png"
-      },
-      {
         "name": "Oakland Athletics 2025 Batting Practice",
         "url": "https://www.neweracap.com/products/athletics-2025-batting-practice-59fifty-fitted?variant=44405590098147",
         "img": "https://www.neweracap.com/cdn/shop/files/60436693_59FIFTY_MLB24BP5950_OAKATH_OTC_3QL.jpg"
-      },
-      {
-        "name": "Pittsburgh Pirates City Connect",
-        "url": "https://www.neweracap.com/products/pittsburgh-pirates-city-connect-59fifty-fitted?variant=43883253006563",
-        "img": "https://www.neweracap.com/cdn/shop/products/60354484_60354478_59FIFTY_CITYCONNECTPITPIR_PITPIR_OTC_3QL.png"
-      },
-      {
-        "name": "Seattle Mariners City Connect",
-        "url": "https://www.neweracap.com/products/seattle-mariners-city-connect-59fifty-fitted?variant=43809514389731",
-        "img": "https://www.neweracap.com/cdn/shop/products/60354481_60354479_59FIFTY_CITYCONNECTSEAMAR_SEAMAR_OTC_3QL.png?v=1681742520&width=493"
       }
     ]
   }

@@ -14,17 +14,25 @@
     "url": "https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?gid=37847728#gid=37847728&range=A1"
   },
   {
+    "name": "New Gaming PC",
+    "options": [
+      {
+        "name": "iBuyPower Y40 Pro, Ryzen 9 7900X, RTX 5080 (Best Buy)",
+        "url": "https://www.bestbuy.com/product/ibuypower-y40-pro-gaming-desktop-pc-amd-ryzen-9-7900x-nvidia-geforce-rtx-5080-16gb-32gb-ddr5-rgb2tb-nvme-ssd-black/J3R75JYYRS"
+      },
+      {
+        "name": "MSI Aegis Gaming Desktop, Ryzen 9 9900X, RTX 5080 (Costco)",
+        "url": "https://www.costco.com/p/-/msi-aegis-gaming-desktop-amd-ryzen-9-9900x-geforce-rtx-5080-windows-11-home-32gb-ram-2tb-ssd/4000355760?langId=-1"
+      }
+    ]
+  },
+  {
     "name": "Shirts",
     "options": [
       {
         "name": "Dark Roast of the Brew",
         "url": "https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew/14999374/tee-men-standard-tee-vintage-black-tri-blend-l",
         "notes": "Vintage Black Tri-Blend"
-      },
-      {
-        "name": "Hawkins High",
-        "url": "https://cottonbureau.com/products/hawkins-high#/1856676/tee-men-standard-tee-premium-heather-tri-blend-l",
-        "notes": "Premium Heather Tri-Blend"
       },
       {
         "name": "Basic Apple Tee: Pocket",
@@ -67,11 +75,6 @@
         "name": "Athletics - Dallas Braden",
         "number": 51,
         "url": "https://www.fanatics.com/mlb/athletics/athletics-nike-home-limited-pick-a-player-retired-roster-jersey-white/o-3476+t-69453377+p-7999682035432+z-9-1480036266?_ref=p-DLP:m-GRID:i-r4c1:po-13&aid=10226589&sku=209350540"
-      },
-      {
-        "name": "Mariners - Ichiro Suzuki",
-        "number": 51,
-        "url": "https://www.mlbshop.com/seattle-mariners/mens-seattle-mariners-ichiro-suzuki-nike-white-2025-baseball-hall-of-fame-name-and-number-retired-replica-jersey/t-36564439+p-246614686250659+z-9-3198983614?_ref=p-DLP:m-GRID:i-r0c1:po-1&sku=210594236"
       }
     ]
   }
