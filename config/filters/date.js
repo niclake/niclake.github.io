@@ -48,13 +48,21 @@ export default {
         return [year, month, day].join('-');
     },
     postDate: (date) => {
-        const d = new Date(date)
-        const month = d.toLocaleString('default', { month: 'long' })
-        const day = d.getDate()
-        const nominal = nth(d.getDate())
-        const year = d.getFullYear()
+        // const d = DateTime.fromISO(date.toISOString())
+        // return DateTime.fromISO(date.toISOString())
+        //     .setZone('America/Chicago')
+        //     .toFormat('d MMMM yyyy')
 
-        return `${day} ${month} ${year}`
+        const d = DateTime.fromISO(date.toISOString())
+            .setZone('America/Chicago')
+
+        return `${d.toFormat(`d MMMM yyyy`)}`
+        // const month = d.toLocaleString('default', { month: 'long' })
+        // const day = d.getDate()
+        // const nominal = nth(d.getDate())
+        // const year = d.getFullYear()
+
+        // return `${day} ${month} ${year}`
     },
     postTime: (date) => {
         return DateTime.fromISO(date.toISOString())
