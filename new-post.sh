@@ -45,11 +45,11 @@ fi
 
 echo "Created new post: $newPost"
 
-# Try to open in editor (Cursor first, then VS Code, then system default)
-if command -v cursor &> /dev/null; then
-    cursor "$newPost"
-elif command -v code &> /dev/null; then
+# Try to open in editor (VS Code first, then Cursor, then system default)
+if command -v code &> /dev/null; then
     code "$newPost"
+elif command -v cursor &> /dev/null; then
+    cursor "$newPost"
 elif command -v open &> /dev/null; then
     open "$newPost"
 elif command -v xdg-open &> /dev/null; then
