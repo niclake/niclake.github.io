@@ -165,6 +165,11 @@ async function getAllReadBooks() {
         user_book_reads {
           user_book {
             rating
+            edition {
+              reading_format {
+                format
+              }
+            }
           }
         }
       }
@@ -261,7 +266,14 @@ function processBookData(books, convert = false) {
   //   (FOR READ BOOKS ONLY)
   //   "user_book_reads": [
   //     {
-  //       "user_book": { "rating": 4.5 }
+  //       "user_book": { 
+  //          "rating": 4.5
+  //          edition {
+  //            reading_format {
+  //              format: "ebook" // or "Listened"
+  //            }
+  //          }
+  //       }
   //     }
   //   ]
   // }
@@ -279,6 +291,9 @@ function processBookData(books, convert = false) {
         ? convertRatingToStars(
             entry.user_book_reads[0]?.user_book.rating || null
           )
+        : null,
+      format: convert
+        ? entry.user_book_reads[0]?.user_book.edition.reading_format.format || null
         : null,
     };
   });

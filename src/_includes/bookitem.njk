@@ -1,9 +1,12 @@
 <div class="col-lg-2 col-md-3 col-sm-4 col-4 d-flex align-items-stretch">
   <div class="w-100 catalog book">
-    <div>
+    <div class="book-image {{book.format}}">
       <a href="{{ book.url }}" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="{{ book.imageUrl }}" alt="{{ book.title }}">
+        <img loading="lazy" src="{{ book.imageUrl }}" alt="{{ book.title }}" class="audio-format">
       </a>
+      {% if book.format == "Listened" %}
+        <div class="audio-indicator"></div>
+      {% endif %}
     </div>
     {% if book.rating != null or book.rating != null %}
       <div class="mt-auto">

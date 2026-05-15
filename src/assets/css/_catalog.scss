@@ -4,6 +4,31 @@
   flex-direction: column;
   display: flex;
 
+  .book-image {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .audio-indicator {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 45px;
+    height: 45px;
+    background-color: var(--emphasis);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:after {
+      font: var(--fa-font-solid);
+      content: '\f025';
+      color: var(--reverse-emphasis);
+      font-size: 20px;
+    }
+  }
+
   img {
     border-radius: 0;
     margin-bottom: 0.5rem;
@@ -14,6 +39,7 @@
     -moz-transition: all ease 0.3s;
     -o-transition: all ease 0.3s;
     transition: all ease 0.3s;
+    position: relative;
 
     &:hover {
       transform: scale(1.1);
