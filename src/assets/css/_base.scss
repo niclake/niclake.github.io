@@ -45,7 +45,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+details summary {
   font-weight: bold;
   font-family: var(--headers);
 }
@@ -256,5 +257,26 @@ figure {
   .sj-container {
     font-size: 1rem;
     -webkit-text-fill-color: unset !important;
+  }
+}
+
+details {
+  position: relative;
+
+  &[open] {
+    summary {
+      color: var(--cyan);
+    }
+  }
+
+  summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    margin-bottom: 1rem;
+
+    &:hover {
+      color: var(--green);
+    }
   }
 }

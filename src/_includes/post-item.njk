@@ -8,9 +8,10 @@
     <span class="post-excerpt">{{ post.data.description }}</span>
   {% endif %}
   <div class="date">
-    {{ post.date | postDateNoYear }} •
-    {% for tag in post.data.tags | filterTagList %}
+    {{ post.date | postDateNoYear }} 
+    {# • #}
+    {# {% for tag in post.data.tags | filterTagList %}
     <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
-    {% endfor %}
+    {% endfor %} #}
   </div>
 </div>

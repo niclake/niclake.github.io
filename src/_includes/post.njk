@@ -8,7 +8,8 @@ is_post: true
     <h1 class="postTitle">{{ title }}</h1>
 
     <div class="date">
-      {{ page.date | postDate }} • 
+      {{ page.date | postDate }} 
+      {# •  #}
       {% set isADHD = "false" %}
       {% set isTherapy = "false" %}
       {% for tag in tags | filterTagList %}
@@ -18,7 +19,7 @@ is_post: true
         {% if tag == "Therapy" %}
           {% set isTherapy = "true" %}
         {% endif %}
-        <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+        {# <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp; #}
       {% endfor %}
     </div>
   </div>

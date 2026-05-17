@@ -1,0 +1,17 @@
+---
+title: The "Then" Page
+permalink: /then/index.html
+---
+
+<p>This page serves as a log of all the changes made to <a href="/now/index.html">the Now page</a>.</p>
+
+<hr />
+
+{% set latest_nows = collections.Now | reverse %}
+{% set thenPosts = latest_nows.slice(1) %}
+{% for post in thenPosts %}
+  <details>
+    <summary>{{ post.date | postDate }}</summary>
+    {{ post.content | safe }}
+  </details>
+{% endfor %}

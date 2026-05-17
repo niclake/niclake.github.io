@@ -15,7 +15,7 @@
     right: 5px;
     width: 45px;
     height: 45px;
-    background-color: var(--emphasis);
+    background-color: var(--grey);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -24,7 +24,7 @@
     &:after {
       font: var(--fa-font-solid);
       content: '\f025';
-      color: var(--reverse-emphasis);
+      color: var(--emphasis);
       font-size: 20px;
     }
   }
