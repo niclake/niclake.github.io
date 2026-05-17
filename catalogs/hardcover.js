@@ -6,7 +6,7 @@ import fs from "fs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const __siteroot = __dirname.replace("/backlogs", "");
+const __siteroot = __dirname.replace("/catalogs", "");
 const __target = "/src/_data/catalog/";
 
 async function run() {

@@ -65,13 +65,19 @@ jobs:
             ${{ runner.os }}-eleventy-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} install
-      - name: Install backlog dependencies
-        run: cd backlogs && ${{ steps.detect-package-manager.outputs.manager }} install
+      - name: Install catalog dependencies
+        run: cd catalogs && ${{ steps.detect-package-manager.outputs.manager }} install
       - name: Generate catalog data from Hardcover
         env:
           HARDCOVER_API_KEY: ${{ secrets.HARDCOVER_API_KEY }}
           HARDCOVER_USER_ID: ${{ secrets.HARDCOVER_USER_ID }}
-        run: node backlogs/hardcover.js
+        run: node catalogs/hardcover.js
+      - name: Generate catalog data for Keyboards
+        env:
+          GOOGLE_PRIVETE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          KEEBS_SHEET_ID: ${{ secrets.KEEBS_SHEET_ID }}
+        run: node catalogs/keyboards.js
       - name: run eleventy
         run: npx @11ty/eleventy
       - name: upload static site content

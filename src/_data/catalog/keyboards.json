@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Vortex Tab 90M",
+    "status": "Received",
+    "layout": "Full Size",
+    "switches": "Cherry MX Black",
+    "keycaps": "DSA Astrolokeys",
+    "picture": ""
+  },
+  {
+    "name": "Boardwalk + KBDfans 5° case",
+    "status": "Received",
+    "layout": "60% ortholinear",
+    "switches": "Zaku II",
+    "keycaps": "KAT Cyberspace",
+    "picture": ""
+  },
+  {
+    "name": "DZ60 + Tofu60 Acrylic case",
+    "status": "Received",
+    "layout": "60%",
+    "switches": "Zaku",
+    "keycaps": "GMK CYL Oblivion",
+    "picture": ""
+  },
+  {
+    "name": "Drop Planck",
+    "status": "Received",
+    "layout": "40% ortholinear",
+    "switches": "BSUN Pine",
+    "keycaps": "KAT Explosion",
+    "picture": ""
+  },
+  {
+    "name": "NovelKeys NK65 Superuser",
+    "status": "Received",
+    "layout": "65%",
+    "switches": "NovelKeys Emerald Silk",
+    "keycaps": "KAM Superuser",
+    "picture": ""
+  },
+  {
+    "name": "CBKBD Bully",
+    "status": "Received",
+    "layout": "40%",
+    "switches": "Gateron Oil King",
+    "keycaps": "SA Mizu",
+    "picture": ""
+  },
+  {
+    "name": "SplitKB Elora",
+    "status": "Received",
+    "layout": "60% split",
+    "switches": "Kailh Box Heavy Yellow",
+    "keycaps": "GMK Dots 2",
+    "picture": ""
+  },
+  {
+    "name": "Krado Industries Promenade + Tofu Redux case",
+    "status": "Received",
+    "layout": "60% ortholinear",
+    "switches": "Gateron Raw",
+    "keycaps": "KAM Command",
+    "picture": ""
+  },
+  {
+    "name": "Mode Sonnet",
+    "status": "Received",
+    "layout": "75%",
+    "switches": "BSUN Strawberry Wine",
+    "keycaps": "KAT Space Dust",
+    "picture": ""
+  },
+  {
+    "name": "PyrooL Alpha28",
+    "status": "Not Built",
+    "layout": "30% or less",
+    "switches": "Cherry MX Speed Silver",
+    "keycaps": "OEM WoB",
+    "picture": ""
+  },
+  {
+    "name": "KeebIO FoldKB",
+    "status": "Received",
+    "layout": "60% split",
+    "switches": "Gateron Yellow Pro",
+    "keycaps": "DSA \"UnAlice\"",
+    "picture": ""
+  },
+  {
+    "name": "Pikatea Cerberus",
+    "status": "Received",
+    "layout": "65%",
+    "switches": "Kailh Choc Jade",
+    "keycaps": "Chocfox CFX White Blanks",
+    "picture": ""
+  },
+  {
+    "name": "Mode SixtyFive",
+    "status": "Received",
+    "layout": "65%",
+    "switches": "Mode Tomorrow Tactile",
+    "keycaps": "GMK WoB",
+    "picture": ""
+  },
+  {
+    "name": "DR-70F",
+    "status": "Received",
+    "layout": "70%",
+    "switches": "Gateron Beer",
+    "keycaps": "Drop DCX Latte",
+    "picture": ""
+  },
+  {
+    "name": "Candybar Lefty R3",
+    "status": "Received",
+    "layout": "50%",
+    "switches": "Kailh Pro Purple",
+    "keycaps": "GMK Sumi",
+    "picture": ""
+  },
+  {
+    "name": "QK100",
+    "status": "Received",
+    "layout": "Full Size",
+    "switches": "C³ x TKC Tangerine",
+    "keycaps": "XDA Halloween",
+    "picture": ""
+  },
+  {
+    "name": "Qull",
+    "status": "Received",
+    "layout": "35%",
+    "switches": "Gateron Smoothie",
+    "keycaps": "GMK Nautilus",
+    "picture": ""
+  },
+  {
+    "name": "Libra Mini",
+    "status": "Received",
+    "layout": "40% ergo",
+    "switches": "Neo White",
+    "keycaps": "Drop + Matt3o MT3 3277",
+    "picture": ""
+  },
+  {
+    "name": "Masonry",
+    "status": "Received",
+    "layout": "40%",
+    "switches": "Rollers",
+    "keycaps": "PBS Blanks",
+    "picture": ""
+  },
+  {
+    "name": "Reviung41",
+    "status": "Not Built",
+    "layout": "40% ergo",
+    "switches": "JWICK Taro",
+    "keycaps": "Artifact Shield Purple-on-Black",
+    "picture": ""
+  },
+  {
+    "name": "Drop CTRL",
+    "status": "Received",
+    "layout": "TKL (80%)",
+    "switches": "Cherry Clears",
+    "keycaps": "Domikey Dolsh Green",
+    "picture": ""
+  },
+  {
+    "name": "J42Kbm",
+    "status": "Received",
+    "layout": "40% ortholinear",
+    "switches": "Gateron Green Apple",
+    "keycaps": "DSA Hana",
+    "picture": ""
+  },
+  {
+    "name": "Prime_E",
+    "status": "Received",
+    "layout": "40% ergo",
+    "switches": "Jwick Stem + Cherry Housing",
+    "keycaps": "KAT Iron",
+    "picture": ""
+  },
+  {
+    "name": "Zoom65",
+    "status": "Not Built",
+    "layout": "65%",
+    "switches": "KTT Rose",
+    "keycaps": "DSA Berry Yogurt",
+    "picture": ""
+  },
+  {
+    "name": "ScottoFrog",
+    "status": "Ordered",
+    "layout": "30% or less",
+    "switches": "",
+    "keycaps": "ScottoFrog Keycaps",
+    "picture": ""
+  }
+]

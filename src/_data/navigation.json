@@ -32,6 +32,12 @@
     "blurb": "A catalog of books I've read and am currently reading."
   },
   {
+    "text": "Keyboards",
+    "url": "/keyboards/",
+    "masthead": false,
+    "blurb": "A catalog of keyboards I've built and am interested in building."
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."

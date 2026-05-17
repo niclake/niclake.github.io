@@ -1,0 +1,21 @@
+<div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch">
+  <div class="card w-100">
+    <div>
+      <h3>{{ keyboard.name }}</h3>
+      {% if keyboard.picture %}
+        <img loading="lazy" src="{{ keyboard.picture }}" alt="{{ keyboard.name }}">
+      {% endif %}
+      <ul>
+        <li><strong>Layout:</strong> {{ keyboard.layout }}</li>
+        
+        {% if keyboard.switches %}
+          <li><strong>Switches:</strong> {{ keyboard.switches }}</li>
+        {% endif %}
+        
+        {% if keyboard.keycaps %}
+          <li><strong>Keycaps:</strong> {{ keyboard.keycaps }}</li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>
