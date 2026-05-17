@@ -74,7 +74,7 @@ jobs:
         run: node catalogs/hardcover.js
       - name: Generate catalog data for Keyboards
         env:
-          GOOGLE_PRIVETE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           KEEBS_SHEET_ID: ${{ secrets.KEEBS_SHEET_ID }}
         run: node catalogs/keyboards.js
