@@ -14,19 +14,6 @@
     "url": "https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?gid=37847728#gid=37847728&range=A1"
   },
   {
-    "name": "New Gaming PC",
-    "options": [
-      {
-        "name": "iBuyPower Y40 Pro, Ryzen 9 7900X, RTX 5080 (Best Buy)",
-        "url": "https://www.bestbuy.com/product/ibuypower-y40-pro-gaming-desktop-pc-amd-ryzen-9-7900x-nvidia-geforce-rtx-5080-16gb-32gb-ddr5-rgb2tb-nvme-ssd-black/J3R75JYYRS"
-      },
-      {
-        "name": "MSI Aegis Gaming Desktop, Ryzen 9 9900X, RTX 5080 (Costco)",
-        "url": "https://www.costco.com/p/-/msi-aegis-gaming-desktop-amd-ryzen-9-9900x-geforce-rtx-5080-windows-11-home-32gb-ram-2tb-ssd/4000355760?langId=-1"
-      }
-    ]
-  },
-  {
     "name": "Shirts",
     "options": [
       {
@@ -55,12 +42,6 @@
     "name": "Specific Jerseys",
     "notes": "Highlighted jerseys w/ links from the jersey wish list (all size Large)",
     "options": [
-      {
-        "name": "Red Sox - Roman Anthony",
-        "number": 29,
-        "url": "https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-roman-anthony-nike-red-alternate-limited-player-jersey/t-36994186+p-132225027750518+z-9-3514864030?_ref=p-ALP:m-GRID:i-r0c0:po-0&sku=210504660"
-      },
-
       {
         "name": "Red Sox - Tim Wakefield",
         "number": 49,

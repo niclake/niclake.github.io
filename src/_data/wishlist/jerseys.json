@@ -21,11 +21,6 @@
         "name": "Garciaparra",
         "number": 5,
         "priority": true
-      },
-      {
-        "name": "Anthony",
-        "number": 29,
-        "priority": true
       }
     ],
     "colors": [
@@ -40,16 +35,6 @@
       {
         "name": "Grey",
         "url": "https://www.mlbshop.com/boston-red-sox/mens-boston-red-sox-nike-gray-away-limited-custom-jersey/t-36223086+p-688844381144847+z-9-1821477672?_ref=p-DLP:m-GRID:i-r8c2:po-26"
-      }
-    ]
-  },
-  {
-    "name": "Arizona Diamondbacks",
-    "players": [
-      {
-        "name": "Johnson",
-        "number": 51,
-        "url": "https://www.mlbshop.com/arizona-diamondbacks/mens-arizona-diamondbacks-randy-johnson-nike-cream-throwback-cooperstown-collection-limited-jersey/t-70114104+p-91993357384250+z-8-1358258683"
       }
     ]
   },
@@ -105,12 +90,6 @@
         "name": "Sosa",
         "number": 21
       }
-    ],
-    "colors": [
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/chicago-cubs/mens-chicago-cubs-nike-white-home-replica-custom-jersey/t-14889733+p-4775349016175+z-9-2599315140"
-      }
     ]
   },
   {
@@ -119,15 +98,6 @@
       {
         "name": "Thomas",
         "number": 35
-      }
-    ],
-    "colors": [
-      {
-        "name": "Black",
-        "url": "https://www.mlbshop.com/chicago-white-sox/mens-chicago-white-sox-nike-black-alternate-limited-custom-jersey/t-92223145+p-46449994889770+z-8-3938712839"
-      },
-      {
-        "name": "City Connect 2025"
       }
     ]
   },
@@ -142,21 +112,6 @@
     ]
   },
   {
-    "name": "Cleveland Guardians",
-    "players": [
-    ]
-  },
-  {
-    "name": "Colorado Rockies",
-    "players": [
-      {
-        "name": "Story",
-        "number": 27,
-        "url": "https://www.mlbshop.com/colorado-rockies/mens-colorado-rockies-nike-purple-alternate-limited-custom-jersey/t-92994215+p-80449949449489+z-8-538769558"
-      }
-    ]
-  },
-  {
     "name": "Detroit Tigers",
     "players": [
       {
@@ -165,10 +120,6 @@
         "url": "https://www.mlbshop.com/detroit-tigers/mens-detroit-tigers-miguel-cabrera-nike-gray-road-limited-player-jersey/t-25338650+p-803377579590304+z-9-305953815"
       }
     ]
-  },
-  {
-    "name": "Houston Astros",
-    "players": []
   },
   {
     "name": "Kansas City Royals",
@@ -246,10 +197,6 @@
     ]
   },
   {
-    "name": "Milwaukee Brewers",
-    "players": []
-  },
-  {
     "name": "Minnesota Twins",
     "players": [
       {
@@ -261,12 +208,6 @@
         "name": "Puckett",
         "number": 34,
         "priority": true
-      }
-    ],
-    "colors": [
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/minnesota-twins/mens-minnesota-twins-nike-white-home-replica-custom-jersey/t-25330917+p-913399225099021+z-9-812665894"
       }
     ]
   },
@@ -281,47 +222,6 @@
     ]
   },
   {
-    "name": "New York Mets",
-    "players": [
-      {
-        "name": "Lindor",
-        "number": 12
-      },
-      {
-        "name": "Soto",
-        "number": 22
-      }
-    ],
-    "colors": [
-      {
-        "name": "Black",
-        "url": "https://www.mlbshop.com/new-york-mets/mens-new-york-mets-nike-black-alternate-limited-custom-jersey/t-25666597+p-804455382255713+z-9-3292670780"
-      },
-      {
-        "name": "Blue",
-        "url": "https://www.mlbshop.com/new-york-mets/mens-new-york-mets-nike-royal-alternate-replica-custom-jersey/t-36330975+p-472034457212+z-8-1788028490"
-      },
-      {
-        "name": "Grey",
-        "url": "https://www.mlbshop.com/new-york-mets/mens-new-york-mets-nike-gray-away-limited-custom-jersey/t-36448731+p-919922617755879+z-9-3975263780"
-      },
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/new-york-mets/mens-new-york-mets-nike-white-home-replica-custom-jersey/t-25994397+p-4753459061872+z-9-829527748"
-      }
-    ]
-  },
-  {
-    "name": "New York Yankees",
-    "players": [
-      {
-        "name": "Absolutely not",
-        "number": "lol"
-      }
-    ],
-    "colors": []
-  },
-  {
     "name": "Oakland Athletics",
     "players": [
       {
@@ -333,22 +233,6 @@
       {
         "name": "Henderson",
         "number": 35
-      }
-    ],
-    "colors": [
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/oakland-athletics/mens-oakland-athletics-nike-white-home-replica-custom-jersey/t-36124411+p-1431893450848+z-9-1294199072"
-      }
-    ]
-  },
-  {
-    "name": "Philadelphia Phillies",
-    "players": [
-      {
-        "name": "Harper",
-        "number": 3,
-        "url": "https://www.fanatics.com/mlb/philadelphia-phillies/bryce-harper-philadelphia-phillies-nike-alternate-limited-player-jersey-light-blue/o-4521+t-36129956+p-57776905469+z-7-2564057324?_ref=p-DLP:m-GRID:i-r1c0:po-3"
       }
     ]
   },
@@ -458,26 +342,6 @@
         "name": "McGwire",
         "number": 25
       }
-    ],
-    "colors": [
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/st-louis-cardinals/mens-st-louis-cardinals-nike-white-home-replica-custom-jersey/t-47010054+p-7019902395009+z-9-1560312133"
-      }
-    ]
-  },
-  {
-    "name": "Tampa Bay Rays",
-    "players": []
-  },
-  {
-    "name": "Texas Rangers",
-    "players": [
-      {
-        "name": "Ryan",
-        "number": 34,
-        "priority": true
-      }
     ]
   },
   {
@@ -488,9 +352,5 @@
         "number": 32
       }
     ]
-  },
-  {
-    "name": "Washington Nationals",
-    "players": []
   }
 ]
