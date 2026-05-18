@@ -19,6 +19,9 @@ is_post: true
         {% if tag == "Therapy" %}
           {% set isTherapy = "true" %}
         {% endif %}
+        {% if tag == "Now" %}
+          • <a href="/then/">View the changelog</a>.
+        {% endif %}
         {# <a class="post-tag" href="/blog/tags#{{ tag | slugify }}">#{{ tag }}</a>&nbsp; #}
       {% endfor %}
     </div>
