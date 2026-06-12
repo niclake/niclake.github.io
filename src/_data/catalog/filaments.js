@@ -10,7 +10,9 @@ export default async function () {
     if (!url && filament.identifier && /bambu/i.test(filament.brand || "")) {
       url = BAMBU_SEARCH + encodeURIComponent(filament.identifier);
     }
-    return { ...filament, url: url || "" };
+    // Active spool is 0-1000g; express as a 0-100 percent for the fill bar.
+    const spoolPct = Math.max(0, Math.min(100, Math.round((Number(filament.activeSpool) || 0) / 10)));
+    return { ...filament, url: url || "", spoolPct: spoolPct };
   });
 
   // Unique filament types (PLA Basic, PLA Matte, TPU, ...), sorted alphabetically

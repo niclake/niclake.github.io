@@ -1,26 +1,36 @@
 <div class="col-6 col-lg-3 d-flex align-items-stretch">
   <div class="card catalog-card w-100">
     <div>
+      <h3>{{ filament.color }}</h3>
       {% if filament.picture %}
-        <img class="img-fluid" loading="lazy" src="/assets/images/filament/{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
+        <div class="position-relative">
+          <img class="img-fluid" loading="lazy" src="/assets/images/filament/{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
+          {% if filament.spareSpools and filament.spareSpools != "0" %}
+            <span class="badge rounded-pill position-absolute top-0 end-0 m-2 text-white" style="background: rgba(0, 0, 0, 0.55);">+{{ filament.spareSpools }} spare</span>
+          {% endif %}
+        </div>
       {% endif %}
-      <h3>
-        {{ filament.color }}
-        {% if filament.spareSpools and filament.spareSpools != "0" %}
-          <span class="text-muted">+{{ filament.spareSpools }} spare</span>
-        {% endif %}
-      </h3>
       <p>
         {{ filament.brand }} &middot; {{ filament.filament }}<br/>
         {% if filament.baseColor %}{{ filament.baseColor }}<br/>{% endif %}
-        {% if filament.identifier %}<span class="text-muted">{{ filament.identifier }}</span><br/>{% endif %}
-        {% if filament.activeSpool %}Active spool {{ filament.activeSpool }}g{% endif %}
+        {% if filament.identifier %}<span class="text-muted">{{ filament.identifier }}</span>{% endif %}
       </p>
     </div>
-    {% if filament.url %}
-      <div class="mt-auto text-end">
-        <a href="{{ filament.url }}" target="_blank" rel="noopener">Buy more &nearr;</a>
-      </div>
-    {% endif %}
+    <div class="mt-auto">
+      {% if filament.activeSpool %}
+        <div class="d-flex justify-content-between">
+          <span class="text-muted">Active spool</span>
+          <span>{{ filament.activeSpool }}g</span>
+        </div>
+        <div class="progress" style="height: 4px;" role="progressbar" aria-label="Active spool remaining" aria-valuenow="{{ filament.spoolPct }}" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-success" style="width: {{ filament.spoolPct }}%;"></div>
+        </div>
+      {% endif %}
+      {% if filament.url %}
+        <div class="text-end">
+          <a href="{{ filament.url }}" target="_blank" rel="noopener">Buy more &nearr;</a>
+        </div>
+      {% endif %}
+    </div>
   </div>
 </div>
