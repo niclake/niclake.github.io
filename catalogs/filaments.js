@@ -36,11 +36,13 @@ async function run() {
     const filaments = new GoogleSpreadsheet(process.env.FILAMENTS_SHEET_ID, serviceAccountAuth)
 
     await filaments.loadInfo() // loads document properties and worksheets
-    const filamentsSheet = filaments.sheetsByTitle['Filaments'] // or use `doc.sheetsById[id]` or `doc.sheetsByTitle[title]`
+    const filamentsSheet = filaments.sheetsByIndex[0] // first worksheet (the sheet has a single, default-named tab)
     const allFilaments = await filamentsSheet.getRows()
     const jsonArr = []
 
     for (var i = 0; i < allFilaments.length; i++) {
+      // skip blank trailing rows in the sheet's used range
+      if (!allFilaments[i].get("Filament")) continue;
       jsonArr.push({
         filament: allFilaments[i].get("Filament"),
         baseColor: allFilaments[i].get("Base Color"),
