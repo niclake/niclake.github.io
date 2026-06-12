@@ -2,7 +2,7 @@
   <div class="card catalog-card w-100">
     {% if filament.picture %}
       <div class="position-relative text-center">
-        <img class="w-100 object-fit-contain" loading="lazy" style="height: 160px;" src="/assets/images/filament/{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
+        {{ filament.imageHtml | safe }}
         {% if filament.spareSpools and filament.spareSpools != "0" %}
           <span class="badge rounded-pill position-absolute top-0 end-0 m-2 text-white" style="background: rgba(0, 0, 0, 0.55);">+{{ filament.spareSpools }} spare</span>
         {% endif %}
@@ -21,7 +21,7 @@
           <span>{{ filament.activeSpool }}g</span>
         </div>
         <div class="progress" style="height: 4px;" role="progressbar" aria-label="Active spool remaining" aria-valuenow="{{ filament.spoolPct }}" aria-valuemin="0" aria-valuemax="100">
-          <div class="progress-bar bg-success" style="width: {{ filament.spoolPct }}%;"></div>
+          <div class="progress-bar" style="width: {{ filament.spoolPct }}%; background: {{ filament.barColor }};"></div>
         </div>
       {% endif %}
       {% if filament.url %}

@@ -6,6 +6,15 @@ permalink: /filaments/index.html
 <p>A running catalog of the 3D printing filaments I keep on hand, grouped by type. Spool weights are the amount left on the active spool; spares are sealed rolls in the closet.</p>
 
 <div class="container card-container">
+  {%- if catalog.filaments.lowStock.length > 0 %}
+    <div class="center-heading"><h2>Low Stock</h2></div>
+    <div class="row">
+      {%- for filament in catalog.filaments.lowStock %}
+        {% include "filamentitem.njk" %}
+      {%- endfor %}
+    </div>
+    <hr/>
+  {%- endif %}
   {%- for group in catalog.filaments.byMaterial %}
     <div class="center-heading"><h2>{{ group.material }}</h2></div>
     <div class="row">

@@ -25,6 +25,10 @@ export default [
       dayBoxTitleFormat: 'MMMM D'
     }
   },
+  // NOTE: the global eleventyImageTransformPlugin is intentionally left off —
+  // it tries to fetch every <img>, including remote images in old posts that
+  // now 403, which fails the build. Filament images are optimized instead via
+  // the scoped `filamentImage` shortcode in .eleventy.js.
   // {
   //   name: eleventyImageTransformPlugin,
   //   options: {
