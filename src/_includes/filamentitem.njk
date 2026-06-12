@@ -1,0 +1,26 @@
+<div class="col-6 col-lg-3 d-flex align-items-stretch">
+  <div class="card catalog-card w-100">
+    <div>
+      {% if filament.picture %}
+        <img class="img-fluid" loading="lazy" src="{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
+      {% endif %}
+      <h3>
+        {{ filament.color }}
+        {% if filament.spareSpools and filament.spareSpools != "0" %}
+          <span class="text-muted">+{{ filament.spareSpools }} spare</span>
+        {% endif %}
+      </h3>
+      <p>
+        {{ filament.brand }} &middot; {{ filament.filament }}<br/>
+        {% if filament.baseColor %}{{ filament.baseColor }}<br/>{% endif %}
+        {% if filament.identifier %}<span class="text-muted">{{ filament.identifier }}</span><br/>{% endif %}
+        {% if filament.activeSpool %}Active spool {{ filament.activeSpool }}g{% endif %}
+      </p>
+    </div>
+    {% if filament.url %}
+      <div class="mt-auto text-end">
+        <a href="{{ filament.url }}" target="_blank" rel="noopener">Buy more &nearr;</a>
+      </div>
+    {% endif %}
+  </div>
+</div>
