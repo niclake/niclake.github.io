@@ -78,6 +78,19 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           KEEBS_SHEET_ID: ${{ secrets.KEEBS_SHEET_ID }}
         run: node catalogs/keyboards.js
+      - name: Restore game covers cache
+        uses: actions/cache@v3
+        with:
+          path: src/assets/images/games
+          # Restore the most recent cover cache, then save an updated one each run
+          # so we only download box art for newly-added games.
+          key: game-covers-${{ github.run_id }}
+          restore-keys: |
+            game-covers-
+      - name: Generate catalog data for Games
+        # Scrapes HowLongToBeat via the preinstalled Google Chrome on the runner.
+        # No secrets required.
+        run: node catalogs/games.js
       - name: run eleventy
         run: npx @11ty/eleventy
       - name: upload static site content

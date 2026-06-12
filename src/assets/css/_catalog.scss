@@ -59,6 +59,31 @@
   }
 }
 
+.game {
+  .game-image {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .game-no-cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5rem;
+    min-height: 150px;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+    background-color: var(--grey);
+    font-family: var(--sans-serif);
+  }
+
+  .game-rating {
+    font-weight: bold;
+    color: var(--green, var(--cyan));
+  }
+}
+
 .catalog-years {
   // display: flex;
   // flex-wrap: wrap;

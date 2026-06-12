@@ -38,6 +38,12 @@
     "blurb": "A catalog of keyboards I've built and am interested in building."
   },
   {
+    "text": "Games",
+    "url": "/games/",
+    "masthead": false,
+    "blurb": "A catalog of games I'm playing, mean to play, and have finished."
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."
