@@ -1,24 +1,22 @@
 <div class="col-6 col-lg-3 d-flex align-items-stretch">
   <div class="card catalog-card w-100">
-    <div>
-      <h3>{{ filament.color }}</h3>
-      {% if filament.picture %}
-        <div class="position-relative">
-          <img class="img-fluid" loading="lazy" src="/assets/images/filament/{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
-          {% if filament.spareSpools and filament.spareSpools != "0" %}
-            <span class="badge rounded-pill position-absolute top-0 end-0 m-2 text-white" style="background: rgba(0, 0, 0, 0.55);">+{{ filament.spareSpools }} spare</span>
-          {% endif %}
-        </div>
-      {% endif %}
-      <p>
-        {{ filament.brand }} &middot; {{ filament.filament }}<br/>
-        {% if filament.baseColor %}{{ filament.baseColor }}<br/>{% endif %}
-        {% if filament.identifier %}<span class="text-muted">{{ filament.identifier }}</span>{% endif %}
-      </p>
-    </div>
-    <div class="mt-auto">
+    {% if filament.picture %}
+      <div class="position-relative text-center">
+        <img class="w-100 object-fit-contain" loading="lazy" style="height: 160px;" src="/assets/images/filament/{{ filament.picture }}" alt="{{ filament.brand }} {{ filament.color }}">
+        {% if filament.spareSpools and filament.spareSpools != "0" %}
+          <span class="badge rounded-pill position-absolute top-0 end-0 m-2 text-white" style="background: rgba(0, 0, 0, 0.55);">+{{ filament.spareSpools }} spare</span>
+        {% endif %}
+      </div>
+    {% endif %}
+    <div class="px-2">
+      <div>
+        {{ filament.color }}<br/>
+        <span class="text-muted">
+          {%- if filament.isBambu %}{{ filament.identifier }}{% else %}{{ filament.brand }}{% if filament.identifier %} {{ filament.identifier }}{% endif %}{% endif -%}
+        </span>
+      </div>
       {% if filament.activeSpool %}
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between mt-2">
           <span class="text-muted">Active spool</span>
           <span>{{ filament.activeSpool }}g</span>
         </div>
@@ -27,7 +25,7 @@
         </div>
       {% endif %}
       {% if filament.url %}
-        <div class="text-end">
+        <div class="text-end pt-1">
           <a href="{{ filament.url }}" target="_blank" rel="noopener">Buy more &nearr;</a>
         </div>
       {% endif %}

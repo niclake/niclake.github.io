@@ -6,13 +6,14 @@ export default async function () {
   // Resolve a product link for each filament: use the sheet's Link if present,
   // otherwise auto-fill Bambu's store search from the Identifier.
   const allFilaments = filaments.map((filament) => {
+    const isBambu = /bambu/i.test(filament.brand || "");
     let url = filament.link;
-    if (!url && filament.identifier && /bambu/i.test(filament.brand || "")) {
+    if (!url && filament.identifier && isBambu) {
       url = BAMBU_SEARCH + encodeURIComponent(filament.identifier);
     }
     // Active spool is 0-1000g; express as a 0-100 percent for the fill bar.
     const spoolPct = Math.max(0, Math.min(100, Math.round((Number(filament.activeSpool) || 0) / 10)));
-    return { ...filament, url: url || "", spoolPct: spoolPct };
+    return { ...filament, url: url || "", spoolPct: spoolPct, isBambu: isBambu };
   });
 
   // Unique filament types (PLA Basic, PLA Matte, TPU, ...), sorted alphabetically
