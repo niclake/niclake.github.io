@@ -10,7 +10,7 @@
     {% endif %}
     <div class="px-2">
       <div>
-        {{ filament.color }}<br/>
+        <h6>{{ filament.color }}</h6>
         <span class="text-muted">
           {%- if filament.isBambu %}{{ filament.identifier }}{% else %}{{ filament.brand }}{% if filament.identifier %} {{ filament.identifier }}{% endif %}{% endif -%}
         </span>
