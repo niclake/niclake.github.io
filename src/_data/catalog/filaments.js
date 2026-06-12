@@ -6,7 +6,7 @@ const BAMBU_SEARCH = "https://us.store.bambulab.com/search?q=";
 // Build an optimized <picture> (WebP + fallback, responsive widths) for a
 // filament image. Done here rather than via a shortcode because async
 // shortcodes don't render reliably inside a Nunjucks {% include %} loop.
-async function filamentImageHtml(filename, alt) {
+async function filamentImageHtml(filename, alt, isBambu) {
   const metadata = await eleventyImage(`./src/assets/images/filament/${filename}`, {
     widths: [200, 400, "auto"],
     formats: ["webp", "auto"],
@@ -14,11 +14,14 @@ async function filamentImageHtml(filename, alt) {
     urlPath: "/assets/images/filament/",
     cacheOptions: { duration: "*" },
   });
+  // Bambu product renders fill the full card width (cover); other brands'
+  // spool photos vary in shape, so fit them within the max height (contain).
+  const fit = isBambu ? "object-fit-cover" : "object-fit-contain";
   return generateHTML(metadata, {
     alt: alt || "",
     loading: "lazy",
     decoding: "async",
-    class: "w-100 object-fit-contain",
+    class: `w-100 ${fit}`,
     style: "height: 160px;",
     sizes: "(min-width: 992px) 25vw, 50vw",
   });
@@ -62,7 +65,7 @@ export default async function () {
       || (isBWStaple && (grams + spares * 1000) < 1000);
 
     const imageHtml = filament.picture
-      ? await filamentImageHtml(filament.picture, `${filament.brand} ${filament.color}`)
+      ? await filamentImageHtml(filament.picture, `${filament.brand} ${filament.color}`, isBambu)
       : "";
 
     return { ...filament, url: url || "", spoolPct: spoolPct, barColor: barColor, isBambu: isBambu, lowStock: lowStock, imageHtml: imageHtml };
