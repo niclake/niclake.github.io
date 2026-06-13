@@ -78,6 +78,12 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           KEEBS_SHEET_ID: ${{ secrets.KEEBS_SHEET_ID }}
         run: node catalogs/keyboards.js
+      - name: Generate catalog data for Filaments
+        env:
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          FILAMENTS_SHEET_ID: ${{ secrets.FILAMENTS_SHEET_ID }}
+        run: node catalogs/filaments.js
       - name: Restore game covers cache
         uses: actions/cache@v3
         with:
