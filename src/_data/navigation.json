@@ -38,6 +38,12 @@
     "blurb": "A catalog of keyboards I've built and am interested in building."
   },
   {
+    "text": "Filaments",
+    "url": "/filaments/",
+    "masthead": false,
+    "blurb": "A catalog of 3D printer filaments I have on hand."
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."
