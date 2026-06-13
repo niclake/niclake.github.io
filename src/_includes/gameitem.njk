@@ -1,0 +1,23 @@
+<div class="col-lg-2 col-md-3 col-sm-4 col-4 d-flex align-items-stretch">
+  <div class="w-100 catalog game">
+    <div class="game-image">
+      {% if game.hltbUrl %}
+        <a href="{{ game.hltbUrl }}" target="_blank" rel="noopener noreferrer">
+      {% endif %}
+        {% if game.coverPath %}
+          <img loading="lazy" src="{{ game.coverPath }}" alt="{{ game.title }}">
+        {% else %}
+          <div class="game-no-cover">{{ game.title }}</div>
+        {% endif %}
+      {% if game.hltbUrl %}
+        </a>
+      {% endif %}
+    </div>
+    {% if not hideMeta and (game.dateFinished or game.rating) %}
+      <div class="mt-auto game-meta">
+        {% if game.dateFinished %}{{ game.dateFinished }}{% endif %}
+        {% if game.rating %}<br /><span class="game-rating">{{ game.rating }} / 10</span>{% endif %}
+      </div>
+    {% endif %}
+  </div>
+</div>

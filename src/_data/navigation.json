@@ -44,6 +44,12 @@
     "blurb": "A catalog of 3D printer filaments I have on hand."
   },
   {
+    "text": "Games",
+    "url": "/games/",
+    "masthead": false,
+    "blurb": "A catalog of games I'm playing, mean to play, and have finished."
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."
