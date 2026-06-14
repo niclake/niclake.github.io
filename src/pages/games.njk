@@ -1,6 +1,6 @@
 ---
 title: Games
-permalink: /games/index.html
+permalink: /catalog/games/index.html
 ---
 
 <p>A catalog of games I'm playing, my favorites, and ones I've completed. This page is powered by data from my <a href="https://howlongtobeat.com/user/niclake/games">HowLongToBeat</a> profile (my preferred game tracking app).</p>
@@ -18,17 +18,24 @@ permalink: /games/index.html
     <hr/>
   {%- endif %}
 
-  {%- if catalog.games.favorites.length > 0 %}
+  {%- if catalog.games.favoriteGroups.length > 0 %}
     <div class="center-heading">
       <h2>Favorite Games</h2>
     </div>
-    {% set hideMeta = true %}
-    <div class="row">
-      {%- for game in catalog.games.favorites %}
-        {% include "gameitem.njk" %}
-      {%- endfor %}
-    </div>
-    {% set hideMeta = false %}
+    {%- for group in catalog.games.favoriteGroups %}
+      <div class="row">
+        <div class="col-lg-2 col-md-3 col-sm-4 col-4 d-flex align-items-stretch">
+          <div class="w-100 catalog game game-rating-divider">
+            <div class="game-rating-label">{{ group.pct }}%</div>
+          </div>
+        </div>
+        {% set hideMeta = true %}
+        {%- for game in group.games %}
+          {% include "gameitem.njk" %}
+        {%- endfor %}
+        {% set hideMeta = false %}
+      </div>
+    {%- endfor %}
     <hr/>
   {%- endif %}
 

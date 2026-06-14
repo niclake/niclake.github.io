@@ -7,10 +7,21 @@ export default async function () {
 
   const finished = allGames.filter((game) => game.status === "Finished")
 
-  // Favorites: every game rated 90%+ (rating is out of 10), alphabetized by title.
+  // Favorites: every game rated 90%+ (rating is out of 10), sorted by rating desc then title asc.
   const favorites = allGames
     .filter((game) => game.rating != null && game.rating >= 9)
-    .sort((a, b) => a.title.localeCompare(b.title))
+    .sort((a, b) => b.rating - a.rating || a.title.localeCompare(b.title))
+
+  // Favorites grouped by rating percentage for section dividers.
+  const favoritesMap = {}
+  for (const game of favorites) {
+    const pct = Math.round(game.rating * 10)
+    if (!favoritesMap[pct]) favoritesMap[pct] = []
+    favoritesMap[pct].push(game)
+  }
+  const favoriteGroups = Object.entries(favoritesMap)
+    .sort(([a], [b]) => b - a)
+    .map(([pct, games]) => ({ pct: parseInt(pct), games }))
 
   // Finished games with a completion date, newest first.
   const datedFinished = finished
@@ -36,6 +47,7 @@ export default async function () {
     allGames: allGames,
     playing: playing,
     favorites: favorites,
+    favoriteGroups: favoriteGroups,
     datedFinished: datedFinished,
     undatedFinished: undatedFinished,
     years: years,

@@ -12,6 +12,9 @@
       {% if game.hltbUrl %}
         </a>
       {% endif %}
+      {% if game.platform %}
+        <div class="game-platform-corner platform-{{ game.platform | lower | replace(' ', '-') }}"></div>
+      {% endif %}
     </div>
     {% if not hideMeta and (game.dateFinished or game.rating) %}
       <div class="mt-auto game-meta">
