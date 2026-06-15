@@ -13,14 +13,16 @@
         </a>
       {% endif %}
       {% if game.platform %}
-        <div class="game-platform-corner platform-{{ game.platform | lower | replace(' ', '-') }}"></div>
+        <div class="game-platform-corner platform-{{ game.platform | downcase | replace: ' ', '-' }}"></div>
       {% endif %}
     </div>
-    {% if not hideMeta and (game.dateFinished or game.rating) %}
-      <div class="mt-auto game-meta">
-        {% if game.dateFinished %}{{ game.dateFinished }}{% endif %}
-        {% if game.rating %}<br /><span class="game-rating">{{ game.rating }} / 10</span>{% endif %}
-      </div>
-    {% endif %}
+    {% unless hideMeta %}
+      {% if game.dateFinished or game.rating %}
+        <div class="mt-auto game-meta">
+          {% if game.dateFinished %}{{ game.dateFinished }}{% endif %}
+          {% if game.rating %}<br /><span class="game-rating">{{ game.rating }} / 10</span>{% endif %}
+        </div>
+      {% endif %}
+    {% endunless %}
   </div>
 </div>
