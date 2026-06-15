@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Personal website and blog for Nic Lake, served at https://niclake.me. It's an [Eleventy (11ty) v3](https://www.11ty.dev/) static site (ESM, `"type": "module"`) deployed to GitHub Pages. The `master` branch auto-builds and deploys via `.github/workflows/build.yml` on push, on manual dispatch, and every 6 hours (the scheduled rebuild refreshes external catalog data).
 
+## Pre-Push / Pre-PR Requirement
+
+**Always run `./node_modules/.bin/eleventy` (or `npm run build` if catalog data needs refreshing) and confirm a clean build before creating a PR or pushing to `master`.** A broken build breaks the live site immediately on push. The catalog scripts take time; if catalog data is already fresh, running just `eleventy` is sufficient to verify templates compile correctly.
+
 ## Commands
 
 - `npm run fresh` — full local dev: clears `_site`, regenerates catalog data, then serves with live reload. **This requires `.env` secrets** (see below) since it runs the catalog scripts.
