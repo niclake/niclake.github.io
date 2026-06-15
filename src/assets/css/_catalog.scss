@@ -82,6 +82,51 @@
     font-weight: bold;
     color: var(--green, var(--cyan));
   }
+
+  .game-platform-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 32px 32px 0;
+    border-color: transparent var(--grey) transparent transparent;
+
+    &.platform-pc,
+    &.platform-emulated {
+      border-color: transparent var(--yellow) transparent transparent;
+    }
+
+    &[class*="platform-nintendo"],
+    &.platform-game-boy {
+      border-color: transparent var(--red) transparent transparent;
+    }
+
+    &[class*="platform-playstation"] {
+      border-color: transparent var(--cyan) transparent transparent;
+    }
+
+    &[class*="platform-xbox"] {
+      border-color: transparent var(--green) transparent transparent;
+    }
+  }
+
+  &.game-rating-divider {
+    align-items: center;
+    justify-content: center;
+    background-color: var(--grey);
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+
+    .game-rating-label {
+      font-family: var(--headers);
+      color: var(--yellow);
+      font-size: 2rem;
+      text-align: center;
+      padding: 0.5rem;
+    }
+  }
 }
 
 .catalog-years {

@@ -27,32 +27,42 @@
   },
   {
     "text": "Bookshelf",
-    "url": "/bookshelf/",
+    "url": "/catalog/bookshelf/",
     "masthead": false,
+    "explore": false,
     "blurb": "A catalog of books I've read and am currently reading."
   },
   {
     "text": "Keyboards",
-    "url": "/keyboards/",
+    "url": "/catalog/keyboards/",
     "masthead": false,
+    "explore": false,
     "blurb": "A catalog of keyboards I've built and am interested in building."
   },
   {
     "text": "Filaments",
-    "url": "/filaments/",
+    "url": "/catalog/filaments/",
     "masthead": false,
+    "explore": false,
     "blurb": "A catalog of 3D printer filaments I have on hand."
   },
   {
     "text": "Games",
-    "url": "/games/",
+    "url": "/catalog/games/",
     "masthead": false,
+    "explore": false,
     "blurb": "A catalog of games I'm playing, mean to play, and have finished."
   },
   {
     "text": "Projects",
     "url": "/projects/",
     "blurb": "Here's a small list of things I've done that I am proud of."
+  },
+  {
+    "text": "Catalog",
+    "url": "/catalog/",
+    "explore": false,
+    "blurb": "A central hub for all my hobby catalogs — books, games, keyboards, and filaments."
   },
   {
     "text": "Uses",
