@@ -15,7 +15,7 @@ Enter [Hardcover](https://hardcover.app), yet another book tracking app. BUT, th
 
 If it's working as it should, you should see what I'm currently reading here:
 
-{% include 'current-book.njk' %}
+{% include 'current.njk' %}
 
 I also have a brand new [Bookshelf page](/bookshelf/) that has what I'm currently reading, my favorite books, and all of the books that I've tracked dating back to 2016, along with my reading goals for each year.
 
