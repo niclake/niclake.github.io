@@ -1,7 +1,10 @@
 import games from './games.json' with { 'type': 'json' }
 
 export default async function () {
-  const allGames = games
+  const allGames = games.map((g) => ({
+    ...g,
+    platformSlug: g.platform ? g.platform.toLowerCase().replace(/ /g, '-') : null,
+  }))
 
   const playing = allGames.filter((game) => game.status === "Playing")
 

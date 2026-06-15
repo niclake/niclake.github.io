@@ -12,17 +12,17 @@
       {% if game.hltbUrl %}
         </a>
       {% endif %}
-      {% if game.platform %}
-        <div class="game-platform-corner platform-{{ game.platform | downcase | replace: ' ', '-' }}"></div>
+      {% if game.platformSlug %}
+        <div class="game-platform-corner platform-{{ game.platformSlug }}"></div>
       {% endif %}
     </div>
-    {% unless hideMeta %}
+    {% if not hideMeta %}
       {% if game.dateFinished or game.rating %}
         <div class="mt-auto game-meta">
           {% if game.dateFinished %}{{ game.dateFinished }}{% endif %}
           {% if game.rating %}<br /><span class="game-rating">{{ game.rating }} / 10</span>{% endif %}
         </div>
       {% endif %}
-    {% endunless %}
+    {% endif %}
   </div>
 </div>
