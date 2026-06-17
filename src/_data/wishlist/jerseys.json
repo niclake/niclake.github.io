@@ -93,15 +93,6 @@
     ]
   },
   {
-    "name": "Chicago White Sox",
-    "players": [
-      {
-        "name": "Thomas",
-        "number": 35
-      }
-    ]
-  },
-  {
     "name": "Cincinnati Reds",
     "players": [
       {
@@ -118,26 +109,6 @@
         "name": "Cabrera",
         "number": 24,
         "url": "https://www.mlbshop.com/detroit-tigers/mens-detroit-tigers-miguel-cabrera-nike-gray-road-limited-player-jersey/t-25338650+p-803377579590304+z-9-305953815"
-      }
-    ]
-  },
-  {
-    "name": "Kansas City Royals",
-    "players": [
-      {
-        "name": "Witt Jr.",
-        "number": 7,
-        "url": "https://www.mlbshop.com/kansas-city-royals/mens-kansas-city-royals-bobby-witt-jr-nike-navy-city-connect-replica-player-jersey/t-14114210+p-6069094583064+z-9-1335133874"
-      }
-    ],
-    "colors": [
-      {
-        "name": "Light Blue",
-        "url": "https://www.mlbshop.com/kansas-city-royals/mens-kansas-city-royals-nike-light-blue-alternate-limited-custom-jersey/t-36330887+p-570022503311881+z-9-973595225"
-      },
-      {
-        "name": "White",
-        "url": "https://www.mlbshop.com/kansas-city-royals/mens-kansas-city-royals-nike-white-replica-custom-jersey/t-14339776+p-0418742895325+z-9-3649482599"
       }
     ]
   },
@@ -239,11 +210,6 @@
   {
     "name": "Pittsburgh Pirates",
     "players": [
-      {
-        "name": "McCutchen",
-        "number": 22,
-        "url": "https://www.mlbshop.com/pittsburgh-pirates/mens-pittsburgh-pirates-andrew-mccutchen-nike-white-replica-player-jersey/t-25900024+p-355500690825769+z-9-1499253225"
-      },
       {
         "name": "Skenes",
         "number": 30,

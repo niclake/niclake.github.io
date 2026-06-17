@@ -1,7 +1,7 @@
 [
   {
-    "name": "Raspberry Pi Kit",
-    "url": "https://vilros.com/products/vilros-raspberry-pi-5-complete-starter-kit?variant=40332876447838"
+    "name": "Any book off of my wish list",
+    "url": "https://hardcover.app/@cinekal/lists/wishlist"
   },
   {
     "name": "Thursday boots President",
@@ -9,9 +9,66 @@
     "url": "https://thursdayboots.com/products/mens-president-lace-up-boot-black-coffee?variant=39293246079066"
   },
   {
-    "name": "Any book off of my wish list",
-    "notes": "Physical Books I Want tab",
-    "url": "https://docs.google.com/spreadsheets/d/1-1PcHF6xzFKTaTvxnfjm6bVgo4pd5yIr3nbxsbckoFo/edit?gid=37847728#gid=37847728&range=A1"
+    "name": "LAMY AL-Star Fountain Pens (fine nib)",
+    "options": [
+      {
+        "name": "Black",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Black-Fine/pd/10839"
+      },
+      {
+        "name": "Ocean Blue",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Ocean-Blue-Fine/pd/6826"
+      },
+      {
+        "name": "Denim",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Denim-Fine-Special-Edition/pd/46641"
+      },
+      {
+        "name": "Mint",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Mint-Fine-Special-Edition/pd/48673"
+      },
+      {
+        "name": "Turmaline",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Turmaline-Fine/pd/28840"
+      },
+      {
+        "name": "Purple",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Purple-Fine/pd/6829"
+      },
+      {
+        "name": "Disco",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Disco-Fine-Special-Edition/pd/52945"
+      },
+      {
+        "name": "Rollerskate",
+        "url": "https://www.jetpens.com/LAMY-AL-star-Fountain-Pen-Rollerskate-Fine-Special-Edition/pd/52951"
+      }
+    ]
+  },
+  {
+    "name": "Soolla Studio Pouch - Aquamarine",
+    "url": "https://www.jetpens.com/Soolla-Studio-Pouch-Aquamarine/pd/50782"
+  },
+  {
+    "name": "Pilot Iroshizuku inks (15 or 50ml bottles)",
+    "options": [
+      {
+        "name": "Tsuki-yo (Moonlit Night)",
+        "url": "https://www.jetpens.com/Pilot-Iroshizuku-Tsuki-yo-Ink-Moonlit-Night-50-ml-Bottle/pd/3515"
+      },
+      {
+        "name": "Sui-gyoku (Emerald Green)",
+        "url": "https://www.jetpens.com/Pilot-Iroshizuku-Sui-gyoku-Emerald-Green-50-ml-Bottle/pd/33944"
+      },
+      {
+        "name": "Yama-budo Ink (Wild Grapes)",
+        "url": "https://www.jetpens.com/Pilot-Iroshizuku-Yama-budo-Ink-Wild-Grapes-50-ml-Bottle/pd/3596"
+      },
+      {
+        "name": "Hana-ikada Ink (Cherry Blossom Petal)",
+        "url": "https://www.jetpens.com/Pilot-Iroshizuku-Hana-ikada-Ink-Cherry-Blossom-Petal-50-ml-Bottle/pd/33942"
+      }
+    ]
   },
   {
     "name": "Shirts",
