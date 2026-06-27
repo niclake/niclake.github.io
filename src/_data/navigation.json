@@ -92,6 +92,7 @@
     "rel": "me",
     "url": "https://bsky.app/profile/niclake.me",
     "explore": false,
+    "icon": true,
     "title": "niclake.me on Bluesky",
     "target": "_blank"
   },
@@ -100,6 +101,7 @@
     "rel": "me",
     "url": "https://mastodon.social/@niclake",
     "explore": false,
+    "icon": true,
     "title": "@niclake@mastodon.social on Mastodon",
     "target": "_blank"
   },
@@ -107,6 +109,7 @@
     "text": "<i class=\"fa-solid fa-rss\"></i>",
     "url": "/feed.xml",
     "explore": false,
+    "icon": true,
     "title": "RSS for niclake.me",
     "target": "_blank"
   }
