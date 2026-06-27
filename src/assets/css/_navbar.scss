@@ -186,7 +186,9 @@
     }
 
     .btn-close {
-      filter: invert(1);
+      [data-bs-theme=dark] & {
+        filter: invert(1);
+      }
     }
   }
 
@@ -220,11 +222,16 @@
 
       .nav-icons {
         display: flex;
+        flex-direction: row;
         justify-content: flex-end;
         gap: 0.75rem;
         margin-top: 0.5rem;
+        padding-right: 0.5rem;
 
         .nav-link {
+          display: inline-flex;
+          align-items: center;
+          width: auto;
           padding-top: 0;
           padding-bottom: 0;
 
