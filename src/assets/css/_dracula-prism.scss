@@ -237,7 +237,7 @@ pre[class*="language-"]
   color: var(--text);
   background: var(--grey);
   text-shadow: none;
-  font-family: 'Hack','Courier', monospace;
+  font-family: var(--code);
   white-space: pre-wrap;
   word-break: break-word;
   text-align: left;
@@ -288,7 +288,7 @@ pre[class*="language-"]
   height: 300px !important;
 }
 
-.limit-300
+.limit-400
 {
   height: 400px !important;
 }
