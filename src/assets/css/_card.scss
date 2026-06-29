@@ -31,10 +31,7 @@
     &:hover {
       &::after {
         color: var(--purple);
-        -webkit-transition: all ease 0.3s;
-        -moz-transition: all ease 0.3s;
-        -o-transition: all ease 0.3s;
-        transition: all ease 0.3s;
+        transition: var(--transition-smooth);
       }
     }
   }
