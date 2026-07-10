@@ -29,10 +29,7 @@ body {
 
 a {
   text-decoration: none;
-  -webkit-transition: all ease 0.3s;
-  -moz-transition: all ease 0.3s;
-  -o-transition: all ease 0.3s;
-  transition: all ease 0.3s;
+  transition: var(--transition-smooth);
 
   &:hover,
   &:active {
@@ -164,7 +161,7 @@ pre {
 code {
   padding: 2px 4px;
   border-radius: 0.25rem;
-  font-family:'Hack','Courier', monospace;
+  font-family: var(--code);
   color: var(--cyan);
   background-color: var(--grey);
   word-wrap: break-word;
