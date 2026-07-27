@@ -25,7 +25,7 @@ In a previous life, I was an accomplished musician. I started playing piano at a
 
 You can check out what I've been up to lately over on [my Now page](/now).
 
-My partner (R), our daughter (V), and our cats (Bearcat and Beau) reside in eastern Iowa, USA.
+My partner (R), our daughter (V), and our cats (Bearcat, Beau, and Pickles) reside in eastern Iowa, USA.
 
 ### Contact
 
@@ -33,7 +33,7 @@ I would love to hear from you. You can find the best ways to get in touch with m
 
 ### Colophon
 
-This website was created using [Eleventy](http://11ty.dev/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] for code editors and your favorite apps; curious eyes can check out [my style guide](/styleguide/). The header font is [Orbitron](https://fonts.google.com/specimen/Orbitron), the code block font (and my default for my IDEs) is [Hack](https://sourcefoundry.org/hack/), and the base site font is controlled by your device. You can subscribe to [the RSS feed here](/feed.xml).
+This website was created using [Eleventy](http://11ty.dev/), and is hosting on [GitHub Pages](https://pages.github.com/). The theme is based on the [Dracula theme][drac] & its Alucard light-mode for code editors and your favorite apps; curious eyes can check out [my style guide](/styleguide/). The header font is [Orbitron](https://fonts.google.com/specimen/Orbitron), the code block font (and my default for my IDEs) is [Hack](https://sourcefoundry.org/hack/), and the base site font is controlled by your device. You can subscribe to [the RSS feed here](/feed.xml).
 
 You can see a full list of important hardware and software I use on my [Uses page](/uses/), and also view [my app defaults](/app-defaults/).
 
