@@ -1,0 +1,12 @@
+---
+title: "TITLE"
+permalink: /SLUG/index.html
+date: THEDATETIME
+projectInfo: "GENERIC_INFO"
+projectLink: PROJECT_URL
+blogPost: /blog_post_slug/
+image: any_image_jpg
+tags:
+  - App
+---
+

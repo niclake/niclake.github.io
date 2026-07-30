@@ -1,0 +1,43 @@
+---
+permalink: /apps-projects/index.html
+title: Apps & Projects
+---
+
+<p>Below is a list of the various apps and projects that I have worked on and released over the years. These include music, various code projects, writings, and more.</p>
+
+<p>If you enjoy any of these, and would like to support my work, you can <a href="https://ko-fi.com/niclake">buy me a coffee</a>. If you'd like to hire me, <a href="/hello">please reach out</a>.</p>
+
+<hr />
+
+<div class="center-heading">
+<h2>Apps</h2>
+</div>
+
+<div class="container card-container">
+  <div class="row">
+    {% set cardWidth = "col-lg-6" %}
+    {% set latest_apps = collections.App | reverse %}
+    {% if latest_apps | length > 0 %}
+    {% for item in latest_apps %}
+      {% include "card-item.njk" %}
+    {% endfor %}
+    {% else %}
+      <p class="text-center">Coming soon...</p>
+    {% endif %}
+  </div>
+</div>
+
+<hr />
+
+<div class="center-heading">
+<h2>Projects</h2>
+</div>
+
+<div class="container card-container">
+  <div class="row">
+    {% set cardWidth = "col-lg-4" %}
+    {% for item in collections.Project | reverse %}
+      {% include "card-item.njk" %}
+    {% endfor %}
+  </div>
+</div>
