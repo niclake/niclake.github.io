@@ -3,11 +3,11 @@ title: App Defaults
 permalink: /app-defaults/index.html
 ---
 
-_(Last updated 8 Jan 2026)_
+_(Last updated 27 July 2026)_
 
 Browsing blogs, I've seen a bunch of people that have been inspired by [Hemispheric Views episode 97: Duel of the Defaults](https://listen.hemisphericviews.com/097) and [Robb Knight](https://defaults.rknight.me/) to share their app defaults. It's a great way of learning more about a person & discovering new apps, so I figured why not.
 
-- 📨 Email: [Mimestream](http://mimestream.com) (Mac + iOS Testflight) and Gmail (iOS) - I'm gonna need to figure something out now that I have an iCloud account with a custom domain
+- 📨 Email: [Mimestream](http://mimestream.com) (Mac + iOS Testflight) and Gmail (iOS)
 - 📝 Notes: [Drafts](https://getdrafts.com) (personal), Notes.app (shared with family)
 - ✅ To-Do: A notebook + pen
 - 📷 iPhone Photo Shooting: iOS Camera
@@ -33,4 +33,5 @@ Other apps:
 - Code editor: [VS Code](https://code.visualstudio.com)
 - Launcher: [Alfred](http://alfred.app)
 - Package tracking: [Parcel](https://parcelapp.net)
-- Social media: [Bluesky](https://bsky.app), [Ivory](https://tapbots.com/ivory/) for Mastodon
+- Social media: [Indigo](https://anilineapps.com/indigo.html) for Bluesky & Mastodon
+- 
