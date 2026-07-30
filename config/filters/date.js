@@ -1,5 +1,7 @@
 import { DateTime } from 'luxon'
-import moment from 'moment'
+
+const TIMEZONE = 'America/Chicago'
+const toLocalTime = (date) => DateTime.fromISO(date.toISOString()).setZone(TIMEZONE)
 
 const nth = (d) => {
     if (d > 3 && d < 21) return 'th';
@@ -16,15 +18,11 @@ export default {
         return date.toISOString()
     },
     isOldPost: (date) => {
-        const d = DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-
+        const d = toLocalTime(date)
         return DateTime.now().diff(d, 'years').years > 4
     },
     diffInYears: (date) => {
-        const d = DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-
+        const d = toLocalTime(date)
         return Math.floor(DateTime.now().diff(d, 'years').years)
     },
     toDateTime: (date) => {
@@ -48,36 +46,15 @@ export default {
         return [year, month, day].join('-');
     },
     postDate: (date) => {
-        // const d = DateTime.fromISO(date.toISOString())
-        // return DateTime.fromISO(date.toISOString())
-        //     .setZone('America/Chicago')
-        //     .toFormat('d MMMM yyyy')
-
-        const d = DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-
-        return `${d.toFormat(`d MMMM yyyy`)}`
-        // const month = d.toLocaleString('default', { month: 'long' })
-        // const day = d.getDate()
-        // const nominal = nth(d.getDate())
-        // const year = d.getFullYear()
-
-        // return `${day} ${month} ${year}`
+        return toLocalTime(date).toFormat('d MMMM yyyy')
     },
     postTime: (date) => {
-        return DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-            .toFormat('HH:mm')
+        return toLocalTime(date).toFormat('HH:mm')
     },
     postDateNoYear: (date) => {
-        const d = DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-
-        return `${d.toFormat(`d MMMM`)}`
+        return toLocalTime(date).toFormat('d MMMM')
     },
     toDateTimeForHCard: (date) => {
-        return DateTime.fromISO(date.toISOString())
-            .setZone('America/Chicago')
-            .toFormat('yyyy-MM-dd HH:mm:ss')
+        return toLocalTime(date).toFormat('yyyy-MM-dd HH:mm:ss')
     },
 }

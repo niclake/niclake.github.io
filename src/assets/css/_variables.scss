@@ -9,6 +9,9 @@
   --headers: 'Orbitron', sans-serif;
   --code: 'Hack','Courier', monospace;
 
+  // Shared values
+  --transition-smooth: all ease 0.3s;
+
   // Bootstrap
   --bs-font-sans-serif: var(--sans-serif);
   --bs-font-monospace: var(--code);

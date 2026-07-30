@@ -140,29 +140,6 @@ export default function (eleventyConfig) {
     });
   });
 
-  // Object.keys(postFilters).forEach(filterName => {
-  //   eleventyConfig.addFilter(filterName, dateFilters[filterName])
-  // })
-  
-  // eleventyConfig.addPlugin(feedPlugin, {
-	// 	type: "atom", // or "rss", "json"
-	// 	outputPath: "/feed.xml",
-	// 	collection: {
-	// 		name: "post", // iterate over `collections.posts`
-	// 		limit: 10,     // 0 means no limit
-	// 	},
-	// 	metadata: {
-	// 		language: "en",
-	// 		title: "Nic Lake",
-	// 		subtitle: "Life, technology, family, and more.",
-	// 		base: "https://niclake.me",
-	// 		author: {
-	// 			name: "Nic Lake",
-	// 			email: "niclake13@gmail.com", // Optional
-	// 		}
-	// 	}
-	// });
-
   return {
     dir: {
       input: "src",
