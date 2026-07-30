@@ -7,11 +7,36 @@
   padding: 1rem;
   margin-bottom: 1rem;
   box-shadow: 4px 4px var(--card-shadow);
+  // Cards inside .entry (page.njk/post.njk content wrappers) are matched by
+  // _links.scss's `.entry a` rule, which outranks a plain .card selector and
+  // would otherwise force its own gradient/underline/fill-color onto the
+  // whole card. !important opts the card link out of that ambient style.
+  text-decoration: none !important;
+  background-image: none !important;
+  -webkit-text-fill-color: var(--text) !important;
+  color: var(--text) !important;
+
+  &:hover {
+    text-decoration: none !important;
+    -webkit-text-fill-color: var(--text) !important;
+    color: var(--text) !important;
+  }
 
   h3 {
     padding: 0 0 .5rem 0;
     margin-bottom: 1rem;
     font-size: 1.1rem;
+    font-family: var(--sans-serif);
+    color: var(--yellow);
+    background-image: linear-gradient(in oklch to right, var(--pink) 0%, var(--purple) 75%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: var(--yellow);
+    transition: all ease 0.3s;
+  }
+
+  &:hover h3 {
+    -webkit-text-fill-color: transparent;
   }
 
   h4.rss {

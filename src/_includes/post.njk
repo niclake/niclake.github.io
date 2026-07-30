@@ -27,6 +27,14 @@ is_post: true
     </div>
   </div>
 
+  {% if projectLink or blogPost %}
+    <div class="center-heading post-links">
+      {% if projectLink %}<a href="{{ projectLink }}">Project Link</a>{% endif %}
+      {% if projectLink and blogPost %} | {% endif %}
+      {% if blogPost %}<a href="{{ blogPost }}">Blog Post</a>{% endif %}
+    </div>
+  {% endif %}
+
   <div class="entry">
     {# {% include 'st-jude.njk' %} #}
     {% if isADHD == "true" %}

@@ -1,0 +1,13 @@
+<div class="{{ cardWidth | default('col-lg-4') }} col-md-6 col-sm-12 d-flex align-items-stretch">
+  <a class="card w-100" href="{{ item.url }}">
+    <div>
+      <h3>{% if item.data.projectName %}{{ item.data.projectName }}{% else %}{{ item.data.title }}{% endif %}</h3>
+      {% if item.data.image %}
+        <img src="/assets/images/{{ item.data.image }}" alt="{{ item.data.projectInfo }}"/>
+      {% elif item.data.imageabs %}
+        <img src="{{ item.data.imageabs }}" alt="{{ item.data.projectInfo }}"/>
+      {% endif %}
+      <p>{{ item.data.projectInfo }}</p>
+    </div>
+  </a>
+</div>
