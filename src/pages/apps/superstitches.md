@@ -64,4 +64,4 @@ I wish I had a great answer for this. Realistically, the full App Store launch w
 
 ### The TestFlight says it's full.
 
-[Email me](mailto:colemakdaddy@gmail.com), or [reach out to me on social media](/hello/), and I'll see what I can do.
+[Email me](mailto:hello@niclake.me), or [reach out to me on social media](/hello/), and I'll see what I can do.
