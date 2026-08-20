@@ -5,7 +5,7 @@ permalink: /uses/index.html
 
 All of the things that I use every day. (Also listed on [uses.tech](https://uses.tech).) [Click here for my full list of app defaults](/app-defaults/).
 
-*Last updated 27 July 2026*
+*Last updated 20 August 2026*
 
 ### Computer
 
@@ -14,7 +14,7 @@ All of the things that I use every day. (Also listed on [uses.tech](https://uses
 - M4 Mac Mini (personal)
 - 16" M5 Pro MacBook Pro (work)
 - [Dell S3422DWG 32" ultrawide monitor](https://amzn.to/3V1NOk2) & [Dell S2721DGF 27" 144hz 1440p monitor](https://amzn.to/3WPsFfn)
-- [VIVO Dual Vertically Stacked Monitor Arm](https://amzn.to/3QVxeAM)
+- [ARES WING stacked monitor arm](https://a.co/d/061WalnX)
 - Magic Trackpad
 - [A variety of mechanical keyboards](/catalog/keyboards/)
 - [Mackie CR5-X monitor speakers](https://amzn.to/3RltPMb)
@@ -57,7 +57,7 @@ You can find full info on my build [on the blog](/desk/)
 - iPad Mini (7th gen, A17)
   - Both iPads used 99.9% of the time for watching kids shows/movies, or a 2nd sporting event
 - AirPods Pro 2
-- Amazon Kindle Paperwhite
+- Kobo Clara Colour
 - Apple Watch Series 9, aluminum, 41mm
   - [Pride Edition Sport Band](https://www.apple.com/shop/product/MUQ13AM/A/41mm-pride-edition-sport-band-s-m?fnode=dcc277ca81f4f6c49e534f606661d16069860b9d5f5ec9a512d8a8847df789689ec227194e3ad99aac53c3d0eecd20fed6cd79f1421de44d8a7dbf0d20b7d00ef71c08bc2cf574d464733598a88d628f)
 
@@ -105,6 +105,11 @@ You can find full info on my build [on the blog](/desk/)
 - [EGO lawn care tools](https://egopowerplus.com)
 
 ## Changelog
+
+### 20 August 2026
+
+- Switched from the VIVO monitor stand to the ARES WING
+- Swapped out the Kindle with the Kobo Clara Colour
 
 ### 27 July 2026
 
