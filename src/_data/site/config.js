@@ -2,7 +2,7 @@ export default  {
   baseurl: 'https://niclake.me',
   author: 'Nic Lake',
   description: 'Life, technology, family, and more.',
-  email: 'niclake13@gmail.com',
+  email: 'hello@niclake.me',
   mastodon: '@niclake@mastodon.social',
   bluesky: '@niclake.me',
 }

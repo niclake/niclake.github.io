@@ -29,6 +29,6 @@ I've always babied my hands, mostly because of my musical talents. Mom always ha
 
 I'm passionate, I'm artistic, and I'm antsy. Don't get me wrong, sleeping in and vegging out watching some TV is always nice. But as I get older, I realize how much I long to create something. Perhaps that's why this blog has never died. I've thought about killing it off, but something inside makes me keep it around. Probably for moments just like these.
 
-I'll make you a deal. Yes, you. Think of something you really want to do. Something attainable that just hasn't been completed, for whatever reason. Got it? Good. <a href="mailto:niclake@gmail.com" target="_blank">Email it to me</a>. Then go do it. I'll check back with you in a week to see if you've got it done, and bust your balls/ovaries if it isn't.
+I'll make you a deal. Yes, you. Think of something you really want to do. Something attainable that just hasn't been completed, for whatever reason. Got it? Good. <a href="mailto:hello@niclake.me" target="_blank">Email it to me</a>. Then go do it. I'll check back with you in a week to see if you've got it done, and bust your balls/ovaries if it isn't.
 
 Your end of the bargain? You come back here next week and listen to a song that I promise to have completed and uploaded for you to enjoy. It probably won't be much, but it'll be something. Something tangible, that you can notice with your senses.
