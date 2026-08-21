@@ -1,7 +1,11 @@
 <figure class="{{ position }}">
-  <a href="{% if url %}{{ url }}{% elsif srcabs %}{{ srcabs }}{% else %}/assets/images/{{ src }}{% endif %}">
+  {% if url %}
+  <a href="{{ url }}">
     <img src="{% if srcabs %}{{srcabs}}{% else %}/assets/images/{{src}}{% endif %}" alt="{{ alt }}">
   </a>
+  {% else %}
+  <img src="{% if srcabs %}{{srcabs}}{% else %}/assets/images/{{src}}{% endif %}" alt="{{ alt }}" class="img-zoom" data-bs-toggle="modal" data-bs-target="#image-zoom-modal">
+  {% endif %}
   {% if caption %}
   <figcaption>{{ caption }}</figcaption>
   {% endif %}

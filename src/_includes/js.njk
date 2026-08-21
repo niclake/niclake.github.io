@@ -14,3 +14,11 @@
   })
 </script>
 <script type="module" src="/assets/js/colorpick.js"></script>
+<script type="application/javascript">
+  document.getElementById('image-zoom-modal').addEventListener('show.bs.modal', (event) => {
+    const img = event.relatedTarget;
+    const modalImg = document.getElementById('image-zoom-modal-img');
+    modalImg.src = img.src;
+    modalImg.alt = img.alt;
+  });
+</script>

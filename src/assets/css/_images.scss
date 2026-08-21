@@ -3,6 +3,29 @@ svg {
   vertical-align: middle;
 }
 
+img.img-zoom {
+  cursor: pointer;
+}
+
+#image-zoom-modal {
+  .modal-content {
+    background-color: var(--background);
+    border: none;
+  }
+
+  .btn-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 15px;
+  }
+}
+
 .entry #monogram,
 .home #monogram {
   display: block;

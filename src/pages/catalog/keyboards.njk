@@ -34,21 +34,3 @@ permalink: /catalog/keyboards/index.html
     {%- endfor %}
   </div>
 </div>
-
-<div class="modal fade" id="catalog-image-modal" tabindex="-1" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-lg">
-    <div class="modal-content">
-      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      <img src="" alt="" id="catalog-image-modal-img">
-    </div>
-  </div>
-</div>
-
-<script>
-  document.getElementById('catalog-image-modal').addEventListener('show.bs.modal', (event) => {
-    const img = event.relatedTarget;
-    const modalImg = document.getElementById('catalog-image-modal-img');
-    modalImg.src = img.src;
-    modalImg.alt = img.alt;
-  });
-</script>

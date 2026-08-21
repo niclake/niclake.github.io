@@ -3,7 +3,7 @@
     <div>
       <h3>{{ deskmat.name }}</h3>
       {% if deskmat.picture %}
-        <img loading="lazy" src="/assets/images/deskmats/catalog/{{ deskmat.picture }}" alt="{{ deskmat.name }}" class="catalog-expand" data-bs-toggle="modal" data-bs-target="#catalog-image-modal">
+        <img loading="lazy" src="/assets/images/deskmats/catalog/{{ deskmat.picture }}" alt="{{ deskmat.name }}" class="img-zoom" data-bs-toggle="modal" data-bs-target="#image-zoom-modal">
       {% endif %}
       {% if deskmat.status == "Wishlist" %}
         <ul>
