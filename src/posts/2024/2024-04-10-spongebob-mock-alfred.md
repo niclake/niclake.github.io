@@ -12,7 +12,6 @@ tags:
 
 {% include 'image.njk',
   srcabs: "https://github.com/niclake/alfred-spongebob-mocking-text/raw/main/preview.png",
-  url: "https://github.com/niclake/alfred-spongebob-mocking-text",
   position: "banner",
   alt: "An Alfred workflow to help you generate SpONgEbOb MocKing TeXt for use wherever you feel like.",
   caption: "An Alfred workflow to help you generate SpONgEbOb MocKing TeXt for use wherever you feel like."

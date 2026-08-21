@@ -12,7 +12,6 @@ tags:
 
 {% include 'image.njk',
   src: "alfred-3dp.png",
-  url: "https://github.com/niclake/alfred-3dp-stl-search",
   position: "banner",
   alt: "An Alfred workflow to look up STL files for 3D printing on MakerWorld, Printables, and STLFinder.",
   caption: "An Alfred workflow to look up STL files for 3D printing on MakerWorld, Printables, and STLFinder."

@@ -14,7 +14,6 @@ tags:
 
 {% include 'image.njk',
   src: "mlb-example.jpg",
-  url: "https://github.com/niclake/daily-sports-email",
   position: "banner",
   alt: "A GitHub Action written in NodeJS that pulls in schedules & standings, and sends you an email on a schedule.",
   caption: "A GitHub Action written in NodeJS that pulls in schedules & standings, and sends you an email on a schedule."
