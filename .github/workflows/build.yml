@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Detect package manager
         id: detect-package-manager
         run: |
@@ -47,14 +47,14 @@ jobs:
             exit 1
           fi
       - name: Use Node.js >= 24.x
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: "24"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
       - name: Setup Pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v6
       - name: Restore cache
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: |
             .eleventy/cache
@@ -85,7 +85,7 @@ jobs:
           FILAMENTS_SHEET_ID: ${{ secrets.FILAMENTS_SHEET_ID }}
         run: node catalogs/filaments.js
       - name: Restore game covers cache
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: src/assets/images/games
           # Restore the most recent cover cache, then save an updated one each run
@@ -100,7 +100,7 @@ jobs:
       - name: run eleventy
         run: npx @11ty/eleventy
       - name: upload static site content
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./_site
 
@@ -114,4 +114,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
