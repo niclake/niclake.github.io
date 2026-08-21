@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "images",
+      "path": "src/assets/images"
+    },
+    {
+      "name": "root",
+      "path": "."
+    }
+  ],
+  "settings": {}
+}

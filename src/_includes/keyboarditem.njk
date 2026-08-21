@@ -3,7 +3,7 @@
     <div>
       <h3>{{ keyboard.name }}</h3>
       {% if keyboard.picture %}
-        <img loading="lazy" src="/assets/images/keyboards/catalog/{{ keyboard.picture }}" alt="{{ keyboard.name }}">
+        <img loading="lazy" src="/assets/images/keyboards/catalog/{{ keyboard.picture }}" alt="{{ keyboard.name }}" class="catalog-expand" data-bs-toggle="modal" data-bs-target="#catalog-image-modal">
       {% endif %}
       <ul>
         <li><strong>Layout:</strong> {{ keyboard.layout }}</li>
