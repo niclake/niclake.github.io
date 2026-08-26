@@ -3,7 +3,7 @@ title: "SuperStitches - an iOS app for tracking tracking your jersey and hat W/L
 permalink: /superstitches-post/index.html
 date: 2026-08-09
 description: First came the spreadsheet, then came learning SwiftUI...
-image: /superstitches/superstitches.jpeg
+image: /apps/superstitches/superstitches.jpeg
 tags: 
   - Personal
   - Development
@@ -20,7 +20,7 @@ My superstitious tic is that I will wear a hat or a jersey until there are no mo
 ---
 
 {% include 'image.njk',
-  src: "superstitches/spreadsheet.png",
+  src: "apps/superstitches/spreadsheet.png",
   position: "banner",
   alt: "My spreadsheet that I used to track all of the records"
   caption: "I spent far too long making this look pretty."
@@ -39,7 +39,7 @@ I remember thinking one day, "this would be so much nicer if it was just on my p
 ---
 
 {% include 'image.njk',
-  src: "superstitches/superstitches.jpeg",
+  src: "apps/superstitches/superstitches.jpeg",
   position: "banner",
   alt: "A screenshot of the SuperStitches standings view"
 %}
