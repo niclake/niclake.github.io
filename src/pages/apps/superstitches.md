@@ -13,7 +13,7 @@ tags:
   src="/assets/images/apps/app-store.svg"
   style="min-width:200px"
   alt="Get SuperStitches on the App Store"
-  url="https://apps.apple.com/us/app/superstitches/id6793955522"
+  href="https://apps.apple.com/us/app/superstitches/id6793955522"
 />
 
 As a baseball fan, I am extremely superstitious about the hats and jerseys I wear on game day. Team's on a hot streak? Keep running it back. Just dropped 3 in a row? That hat's going to the back of the drawer.
