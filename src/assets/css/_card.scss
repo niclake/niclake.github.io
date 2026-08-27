@@ -22,10 +22,18 @@
     color: var(--text) !important;
   }
 
+  h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
   h3 {
+    font-size: 1.1rem;
+  }
+
+  h2, h3 {
     padding: 0 0 .5rem 0;
     margin-bottom: 1rem;
-    font-size: 1.1rem;
     font-family: var(--sans-serif);
     color: var(--yellow);
     background-image: linear-gradient(in oklch to right, var(--pink) 0%, var(--purple) 75%);
@@ -35,6 +43,7 @@
     transition: all ease 0.3s;
   }
 
+  &:hover h2,
   &:hover h3 {
     -webkit-text-fill-color: transparent;
   }

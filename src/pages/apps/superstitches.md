@@ -3,19 +3,15 @@ title: "SuperStitches"
 permalink: /superstitches/index.html
 date: 2026-08-09
 projectInfo: "An iOS app for superstitious baseball fans to track your jersey and hat W/L records."
+projectImage: "superstitches/icon.png"
+projectImageWidth: 300px
+iosAppLink: https://apps.apple.com/us/app/superstitches/id6793955522
 blogPost: /superstitches-post/
 image: /apps/superstitches/superstitches.jpeg
 tags:
   - App
 ---
 
-<a href="https://apps.apple.com/us/app/superstitches/id6793955522">
-  <img
-    src="/assets/images/apps/app-store.svg"
-    style="min-width:150px"
-    alt="Get SuperStitches on the App Store"
-  />
-</a>
 
 As a baseball fan, I am extremely superstitious about the hats and jerseys I wear on game day. Team's on a hot streak? Keep running it back. Just dropped 3 in a row? That hat's going to the back of the drawer.
 

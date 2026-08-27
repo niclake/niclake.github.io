@@ -1,0 +1,53 @@
+---
+layout: default
+is_post: true
+---
+
+<article class="post single-post">
+  {% if projectImage %}
+    <figure class="banner" style="margin-top: 2rem;">
+      <img 
+        src="/assets/images/apps/{{ projectImage }}" 
+        class="img-zoom" 
+        data-bs-toggle="modal" 
+        data-bs-target="#image-zoom-modal" 
+        style="{% if projectImageWidth %}max-width: {{ projectImageWidth }};{% endif %}" />
+    </figure>
+  {% endif %}
+  <div class="center-heading">
+    <h1 style="font-size: 2.5rem;">{{ title }}</h1>
+      <p style="width: 50%; margin: 20px auto;">
+        <strong>{{ projectInfo }}</strong>
+      </p>
+    {% if iosAppLink %}
+      <a href="{{ iosAppLink }}">
+        <img
+          src="/assets/images/apps/app-store.svg"
+          style="min-width:150px"
+          alt="Download on the App Store"
+        />
+      </a>
+    {% endif %}
+    <hr />
+  </div>
+
+  <div class="entry">
+    {# {% include 'st-jude.njk' %} #}
+    {% if isADHD == "true" %}
+      {% include 'adhd.njk' %}
+    {% endif %}
+    {% if isTherapy == "true" %}
+      {% include 'therapy.njk' %}
+    {% endif %}
+    {{ content | safe }}
+    {% if projectLink or blogPost %}
+      <hr />
+      <div class="center-heading post-links">
+        {% if projectLink %}<a href="{{ projectLink }}">Project Link</a>{% endif %}
+        {% if projectLink and blogPost %} | {% endif %}
+        {% if blogPost %}<a href="{{ blogPost }}">Blog Post</a>{% endif %}
+      </div>
+    {% endif %}
+    {% svg "images/site/monogram" %}
+  </div>
+</article>

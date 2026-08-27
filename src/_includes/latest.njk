@@ -29,13 +29,14 @@
   <div class="row">
     {% set appList = latest_apps.slice(0, 3) %}
     {% set cardWidth = "col-lg-6" %}
+    {% set cardFor = "app" %}
     {% for item in appList %}
       {% include "card-item.njk" %}
     {% endfor %}
   </div>
   <div class="w-100 mt-1 mb-3">
     <p class="text-center">
-      <a href="apps-projects">View all apps →</a>
+      <a href="apps-projects#apps">View all apps →</a>
     </p>
   </div>
 </div>
@@ -52,13 +53,14 @@
     {% set latest_projects = collections.Project | reverse %}
     {% set projectList = latest_projects.slice(0, 3) %}
     {% set cardWidth = "col-lg-4" %}
+    {% set cardFor = "project" %}
     {% for item in projectList %}
       {% include "card-item.njk" %}
     {% endfor %}
   </div>
   <div class="w-100 mt-1 mb-3">
     <p class="text-center">
-      <a href="apps-projects">View all projects →</a>
+      <a href="apps-projects#projects">View all projects →</a>
     </p>
   </div>
 </div>
