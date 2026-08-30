@@ -8,6 +8,17 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      catalog:
+        description: Catalog data to refresh
+        type: choice
+        default: all
+        options:
+          - all
+          - hardcover
+          - keyboards
+          - filaments
+          - games
 
   # Schedule builds every 6 hours
   schedule:
@@ -18,6 +29,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  issues: write
 
 # Allow only one concurrent deployment.
 concurrency:
@@ -68,17 +80,26 @@ jobs:
       - name: Install catalog dependencies
         run: cd catalogs && ${{ steps.detect-package-manager.outputs.manager }} install
       - name: Generate catalog data from Hardcover
+        id: catalog-hardcover
+        continue-on-error: true
+        if: github.event_name != 'workflow_dispatch' || contains(fromJSON('["all", "hardcover"]'), github.event.inputs.catalog)
         env:
           HARDCOVER_API_KEY: ${{ secrets.HARDCOVER_API_KEY }}
           HARDCOVER_USER_ID: ${{ secrets.HARDCOVER_USER_ID }}
         run: node catalogs/hardcover.js
       - name: Generate catalog data for Keyboards
+        id: catalog-keyboards
+        continue-on-error: true
+        if: github.event_name != 'workflow_dispatch' || contains(fromJSON('["all", "keyboards"]'), github.event.inputs.catalog)
         env:
           GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           KEEBS_SHEET_ID: ${{ secrets.KEEBS_SHEET_ID }}
         run: node catalogs/keyboards.js
       - name: Generate catalog data for Filaments
+        id: catalog-filaments
+        continue-on-error: true
+        if: github.event_name != 'workflow_dispatch' || contains(fromJSON('["all", "filaments"]'), github.event.inputs.catalog)
         env:
           GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
@@ -94,9 +115,59 @@ jobs:
           restore-keys: |
             game-covers-
       - name: Generate catalog data for Games
+        id: catalog-games
+        continue-on-error: true
+        if: github.event_name != 'workflow_dispatch' || contains(fromJSON('["all", "games"]'), github.event.inputs.catalog)
         # Scrapes HowLongToBeat via the preinstalled Google Chrome on the runner.
         # No secrets required.
         run: node catalogs/games.js
+      - name: Report catalog failures
+        if: always()
+        uses: actions/github-script@v8
+        env:
+          HARDCOVER_OUTCOME: ${{ steps.catalog-hardcover.outcome }}
+          KEYBOARDS_OUTCOME: ${{ steps.catalog-keyboards.outcome }}
+          FILAMENTS_OUTCOME: ${{ steps.catalog-filaments.outcome }}
+          GAMES_OUTCOME: ${{ steps.catalog-games.outcome }}
+        with:
+          script: |
+            const outcomes = {
+              Hardcover: process.env.HARDCOVER_OUTCOME,
+              Keyboards: process.env.KEYBOARDS_OUTCOME,
+              Filaments: process.env.FILAMENTS_OUTCOME,
+              Games: process.env.GAMES_OUTCOME,
+            };
+            const failed = Object.entries(outcomes).filter(([, outcome]) => outcome === "failure");
+            if (failed.length === 0) return;
+
+            const title = "Catalog data generation failed";
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const body = `The following catalog sources failed to generate during the [latest build](${runUrl}) and the site was built with stale/existing data for them:\n\n${failed.map(([name]) => `- ${name}`).join("\n")}`;
+
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: "catalog-failure",
+            });
+            const open = existing.find((issue) => issue.title === title);
+            if (open) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: open.number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ["catalog-failure"],
+                assignees: [context.repo.owner],
+              });
+            }
       - name: run eleventy
         run: npx @11ty/eleventy
       - name: upload static site content
