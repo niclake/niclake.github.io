@@ -1,16 +1,5 @@
 [
   {
-    "name": "Boston Celtics",
-    "hats": [
-      {
-        "name": "2Tone Black",
-        "url": "https://www.neweracap.com/products/boston-celtics-2tone-black-59fifty-fitted?variant=42645860712675",
-        "img": "https://www.neweracap.com/cdn/shop/products/8916463321118.jpg",
-        "priority": true
-      }
-    ]
-  },
-  {
     "name": "Boston Red Sox",
     "hats": [
       {
@@ -25,18 +14,18 @@
     "hats": [
       {
         "name": "Portland State of Maine Navy/Red",
-        "url": "https://seadogs.milbstore.com/collections/all-caps/products/59fifty-alternative-state-of-maine-players-cap?variant=32210316853326",
-        "img": "https://seadogs.milbstore.com/cdn/shop/products/AltCap3SideView_1000x.jpg"
+        "url": "https://milbshop.com/products/59fifty-alternative-state-of-maine-players-cap?variant=40890938523777",
+        "img": "https://milbshop.com/cdn/shop/files/bg-removed_5e241d9d-f45f-49a5-981f-3bd907da170d.webp"
       },
       {
         "name": "Greenville Sunday Green",
-        "url": "https://drive.milbstore.com/collections/all-caps/products/greenville-drive-new-era-59fifty-lp-sunday-on-field-hat?variant=40546387787831",
-        "img": "https://drive.milbstore.com/cdn/shop/files/60235501_59FIFTY_MINORAC_GREDRI_AL1_3QL_3750x.jpg"
+        "url": "https://milbshop.com/products/greenville-drive-new-era-59fifty-lp-sunday-on-field-hat?variant=40887966597249",
+        "img": "https://milbshop.com/cdn/shop/files/bg-removed_97fcad90-5896-4869-95c5-9f8c1c831582.webp"
       },
       {
         "name": "Salem RidgeYaks Navy",
-        "url": "https://ridgeyaks.milbstore.com/collections/hats/products/salem-ridge-yaks-ac-5950-fitted-hat?variant=52533804106091",
-        "img": "https://ridgeyaks.milbstore.com/cdn/shop/files/60865870_59FIFTY_MiLB26AC59FIFTY_SALYAKHM_OTC_3QR_720x.jpg"
+        "url": "https://milbshop.com/products/salem-ridge-yaks-ac-5950-fitted-hat?variant=40891559280769",
+        "img": "https://milbshop.com/cdn/shop/files/bg-removed_cebc2654-520e-46e6-8dda-83cfa805827c.webp"
       }
     ]
   },
@@ -50,12 +39,6 @@
         "priority": true
       },
       {
-        "name": "Atlanta Braves Home",
-        "url": "https://www.neweracap.com/products/atlanta-braves-authentic-collection-home-59fifty-fitted-1?variant=42671574483171",
-        "img": "https://www.neweracap.com/cdn/shop/products/unnamed_99c3c3d8-d486-466f-9ce1-ae7a034c0e1f.jpg",
-        "priority": true
-      },
-      {
         "name": "Los Angeles Dodgers Blue",
         "url": "https://www.neweracap.com/products/los-angeles-dodgers-authentic-collection-59fifty-fitted?variant=42646633840867",
         "img": "https://www.neweracap.com/cdn/shop/products/9107566624798.jpg",
@@ -66,11 +49,6 @@
         "url": "https://www.neweracap.com/products/seattle-mariners-authentic-collection-alt-59fifty-fitted?variant=42646890447075",
         "img": "https://www.neweracap.com/cdn/shop/products/8916231225374.jpg",
         "priority": true
-      },
-      {
-        "name": "Oakland Athletics 2025 Batting Practice",
-        "url": "https://www.neweracap.com/products/athletics-2025-batting-practice-59fifty-fitted?variant=44405590098147",
-        "img": "https://www.neweracap.com/cdn/shop/files/60436693_59FIFTY_MLB24BP5950_OAKATH_OTC_3QL.jpg"
       }
     ]
   }

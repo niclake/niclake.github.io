@@ -93,16 +93,6 @@
     ]
   },
   {
-    "name": "Cincinnati Reds",
-    "players": [
-      {
-        "name": "De La Cruz",
-        "number": 44,
-        "url": "https://www.mlbshop.com/cincinnati-reds/mens-cincinnati-reds-elly-de-la-cruz-nike-white-home-replica-jersey/t-36004291+p-242277919786635+z-9-3373413933"
-      }
-    ]
-  },
-  {
     "name": "Detroit Tigers",
     "players": [
       {
@@ -131,18 +121,6 @@
         "number": 17,
         "priority": true,
         "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-shohei-ohtani-nike-white-home-replica-player-jersey/t-36002177+p-804411265930737+z-9-989368427"
-      },
-      {
-        "name": "Betts",
-        "number": 50,
-        "priority": true,
-        "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-mookie-betts-nike-royal-alternate-limited-player-jersey/t-69009822+p-68993368517212+z-8-1360067038?_ref=p-DLP:m-GRID:i-r3c2:po-11&sku=200911216"
-      },
-      {
-        "name": "Freeman",
-        "number": 5,
-        "priority": true,
-        "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-freddie-freeman-nike-cream-2024-city-connect-limited-player-jersey/t-14229866+p-137799023922647+z-9-2609493733?_ref=p-DLP:m-GRID:i-r5c0:po-15&sku=200907924"
       },
       {
         "name": "Robinson",
@@ -195,12 +173,6 @@
   {
     "name": "Oakland Athletics",
     "players": [
-      {
-        "name": "Braden",
-        "number": 51,
-        "priority": true,
-        "url": "https://www.fanatics.com/mlb/athletics/athletics-nike-home-limited-pick-a-player-retired-roster-jersey-white/o-3476+t-69453377+p-7999682035432+z-9-1480036266?_ref=p-DLP:m-GRID:i-r4c1:po-13"
-      },
       {
         "name": "Henderson",
         "number": 35

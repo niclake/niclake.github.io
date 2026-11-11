@@ -76,22 +76,8 @@
     "url": "https://www.ayntec.com/products/ayn-thor?variant=46692546609344"
   },
   {
-    "name": "Kobo Clara Color",
-    "url": "https://us.kobobooks.com/products/kobo-clara-colour?variant=43784716714054"
-  },
-  {
     "name": "Shirts",
     "options": [
-      {
-        "name": "Dark Roast of the Brew",
-        "url": "https://cottonbureau.com/p/7956KM/shirt/dark-roast-of-the-brew/14999374/tee-men-standard-tee-vintage-black-tri-blend-l",
-        "notes": "Vintage Black Tri-Blend"
-      },
-      {
-        "name": "Basic Apple Tee: Pocket",
-        "url": "https://cottonbureau.com/products/basic-apple-tee-pocket#/8520701/tee-men-standard-tee-vintage-navy-tri-blend-l",
-        "notes": "Vintage Navy Tri-Blend"
-      },
       {
         "name": "Less Algorithm More Humanity",
         "url": "https://cottonbureau.com/p/EGRXUS/shirt/less-algorithm-more-humanity#/20324481/tee-men-standard-tee-vintage-black-tri-blend-l",
@@ -117,11 +103,6 @@
         "name": "Dodgers - Shohei Ohtani",
         "number": 17,
         "url": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-shohei-ohtani-nike-white-home-replica-player-jersey/t-36002177+p-804411265930737+z-9-989368427?sku=201401426"
-      },
-      {
-        "name": "Athletics - Dallas Braden",
-        "number": 51,
-        "url": "https://www.fanatics.com/mlb/athletics/athletics-nike-home-limited-pick-a-player-retired-roster-jersey-white/o-3476+t-69453377+p-7999682035432+z-9-1480036266?_ref=p-DLP:m-GRID:i-r4c1:po-13&aid=10226589&sku=209350540"
       }
     ]
   }
